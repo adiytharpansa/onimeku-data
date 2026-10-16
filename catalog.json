@@ -1,0 +1,58 @@
+{
+ "generatedAt": "2026-10-16T09:27:40.008121+00:00",
+ "count": 3,
+ "data": [
+  {
+   "id": "a-silent-voice",
+   "title": "A Silent Voice",
+   "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg",
+   "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20954-f30bHMXa5Qoe.jpg",
+   "score": 8.8,
+   "year": 2016,
+   "season": "SUMMER",
+   "status": "FINISHED",
+   "type": "MOVIE",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Slice of Life"
+   ],
+   "episodeCount": 1,
+   "totalEpisodes": 1
+  },
+  {
+   "id": "a-wild-last-boss-appeared",
+   "title": "A Wild Last Boss Appeared!",
+   "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180523-FjvW1XByUNMK.jpg",
+   "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180523-ddHpvzlj9RlP.jpg",
+   "score": 7.4,
+   "year": 2025,
+   "season": "FALL",
+   "status": "FINISHED",
+   "type": "ONA",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "episodeCount": 2,
+   "totalEpisodes": 12
+  },
+  {
+   "id": "ace-of-diamond-act-ii-season-2",
+   "title": "Ace of the Diamond act II -Second Season-",
+   "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177634-jYdKdbPOwWhR.png",
+   "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177634-bU4CFWC8Q4dt.jpg",
+   "score": 7.9,
+   "year": 2026,
+   "season": "SPRING",
+   "status": "FINISHED",
+   "type": "TV",
+   "genres": [
+    "Sports"
+   ],
+   "episodeCount": 1,
+   "totalEpisodes": 13
+  }
+ ]
+}
