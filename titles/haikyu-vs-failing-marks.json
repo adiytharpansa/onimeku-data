@@ -1,0 +1,49 @@
+{
+ "id": "haikyu-vs-failing-marks",
+ "title": "HAIKYU!!: VS Failing Marks",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21348-VIKyHcNUWIlb.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21348-Baut72cxKVUq.jpg",
+ "synopsis": "In this episode, which takes place after the first season, Hinata and Kageyama fail a test and find that the make-up exam conflicts with their training camp.\n\n\n\nNote: The OVA was screened at Jump Festa 2015 on November 3, 2015. It was later bundled with the 21st volume of the manga.\n\n\n\n(Source: Hummingbird)",
+ "genres": [
+  "Comedy",
+  "Drama",
+  "Sports"
+ ],
+ "score": 7.7,
+ "year": 2015,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-16T08:06:21.060Z",
+ "type": "SPECIAL",
+ "season": "FALL",
+ "anilistId": 21348,
+ "rawTitle": "haikyu vs failing marks",
+ "altTitles": [
+  "Haikyuu!!: VS Akaten",
+  "ハイキュー!! VS赤点"
+ ],
+ "studio": "Production I.G",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/fejobuss24/irx3s66rux/8rw8nj9snxksa5/master.m3u8",
+   "downloadUrl": "/download/mal/35806/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/11374/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/35806/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/fejobuss24/irx3s66rux/8rw8nj9snxksa5/subs/7pwqsxyjonkrdbz9.vtt"
+    }
+   ],
+   "addedAt": "2026-10-16T08:06:21.060Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "394c581418f373a4"
+}
