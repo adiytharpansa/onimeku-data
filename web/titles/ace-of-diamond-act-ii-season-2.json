@@ -11,11 +11,14 @@
  "year": 2026,
  "status": "FINISHED",
  "totalEpisodes": 13,
- "latestEpisode": 1,
+ "latestEpisode": 11,
  "episodeNumbers": [
-  1
+  1,
+  3,
+  10,
+  11
  ],
- "updatedAt": "2026-10-15T23:50:08.685Z",
+ "updatedAt": "2026-10-16T22:11:02.370Z",
  "type": "TV",
  "season": "SPRING",
  "anilistId": 177634,
@@ -36,7 +39,37 @@
    "subtitles": [],
    "addedAt": "2026-10-15T23:50:08.685Z",
    "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/c4c0466a651f3c8b6911a1ac164f1879/b59d5dc2537776a4966e9db109d49886/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/ace-of-diamond-act-ii-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/170413/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:51.331Z",
+   "customSubs": []
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/c4c0466a651f3c8b6911a1ac164f1879/83af7337be0ce97a02f634016883b132/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/ace-of-diamond-act-ii-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/58877/10/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:11:01.128Z",
+   "customSubs": []
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/c4c0466a651f3c8b6911a1ac164f1879/acbd6354df5d2d3295696dc094482b1e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/ace-of-diamond-act-ii-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/58877/11/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:11:02.370Z",
+   "customSubs": []
   }
  ],
- "_syncHash": "50d5463370fed203"
+ "_syncHash": "5924f598b6ceb554"
 }

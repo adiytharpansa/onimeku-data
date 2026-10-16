@@ -9,11 +9,14 @@
  "year": 2024,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 1,
+ "latestEpisode": 12,
  "episodeNumbers": [
-  1
+  1,
+  4,
+  6,
+  12
  ],
- "updatedAt": "2026-10-15T20:31:40.222Z",
+ "updatedAt": "2026-10-16T22:11:03.051Z",
  "type": "TV",
  "season": "SUMMER",
  "anilistId": null,
@@ -34,7 +37,37 @@
    "subtitles": [],
    "addedAt": "2026-10-15T20:31:40.222Z",
    "customSubs": []
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/44e88d3cdaf008900484f92ba4c6c51b/c6d3b96b46513a49d873f7e5fe46cce8/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-journey-through-another-world-raising-kids-while-adventuring-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/126524/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:52.138Z",
+   "customSubs": []
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/44e88d3cdaf008900484f92ba4c6c51b/840dbb05fcc397034897b68420b99c70/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-journey-through-another-world-raising-kids-while-adventuring-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/126980/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:54.706Z",
+   "customSubs": []
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/44e88d3cdaf008900484f92ba4c6c51b/a03a5d0893254df61294dc7f3c685661/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-journey-through-another-world-raising-kids-while-adventuring-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/128136/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:11:03.051Z",
+   "customSubs": []
   }
  ],
- "_syncHash": "23d0ddce074d1b42"
+ "_syncHash": "d48b1228ed047bcc"
 }

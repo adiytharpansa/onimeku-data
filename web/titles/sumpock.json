@@ -1,6 +1,6 @@
 {
  "id": "sumpock",
- "title": "sumpock",
+ "title": "Sumpock",
  "poster": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758641234-7604-1744048111-5844-148602.jpg",
  "banner": "",
  "synopsis": "",
@@ -13,9 +13,10 @@
  "episodeNumbers": [
   1,
   3,
+  4,
   7
  ],
- "updatedAt": "2026-10-15T22:31:09.991Z",
+ "updatedAt": "2026-10-16T22:11:04.563Z",
  "type": null,
  "season": null,
  "anilistId": null,
@@ -45,6 +46,16 @@
    "customSubs": []
   },
   {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ea453a688414b3324691055fc4ad8767/781fecb65b396d7ac83ea3e2694a2f2f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758641234-7604-1744048111-5844-148602.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136798/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:11:04.563Z",
+   "customSubs": []
+  },
+  {
    "number": 7,
    "streamUrl": "https://fetch.nexabloom.top/anime/ea453a688414b3324691055fc4ad8767/1440495d086dcd4c1ce945c40ddb438b/master.m3u8",
    "downloadUrl": null,
@@ -55,5 +66,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "ee285365a1eb9141"
+ "_syncHash": "45698877d4e85b07"
 }

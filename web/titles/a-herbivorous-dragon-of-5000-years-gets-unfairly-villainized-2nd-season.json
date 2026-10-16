@@ -9,11 +9,13 @@
  "year": 2024,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 1,
+ "latestEpisode": 12,
  "episodeNumbers": [
-  1
+  1,
+  10,
+  12
  ],
- "updatedAt": "2026-10-14T14:16:24.389Z",
+ "updatedAt": "2026-10-16T22:10:54.267Z",
  "type": "ONA",
  "season": "FALL",
  "anilistId": null,
@@ -31,7 +33,27 @@
    "subtitles": [],
    "addedAt": "2026-10-14T14:16:24.389Z",
    "customSubs": []
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/beb3eda36d64806731fdaa64351fa7a0/7560fd28e750782bda54f50a50c73d7a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-herbivorous-dragon-of-5000-years-gets-unfairly-villainized-2nd-season-japanese-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/129228/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:51.120Z",
+   "customSubs": []
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/beb3eda36d64806731fdaa64351fa7a0/f2c9b79fb2ae6b483c75b056412b981a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-herbivorous-dragon-of-5000-years-gets-unfairly-villainized-2nd-season-japanese-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/129865/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:54.267Z",
+   "customSubs": []
   }
  ],
- "_syncHash": "e055c1f90ad79b46"
+ "_syncHash": "c16dd70fcc8a2492"
 }

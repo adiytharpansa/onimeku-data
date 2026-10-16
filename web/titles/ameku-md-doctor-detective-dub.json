@@ -12,12 +12,13 @@
  "year": 2025,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 2,
+ "latestEpisode": 3,
  "episodeNumbers": [
   1,
-  2
+  2,
+  3
  ],
- "updatedAt": "2026-10-15T15:40:34.727Z",
+ "updatedAt": "2026-10-16T22:10:57.718Z",
  "type": null,
  "season": "WINTER",
  "anilistId": 176642,
@@ -48,7 +49,17 @@
    "subtitles": [],
    "addedAt": "2026-10-13T20:06:39.305Z",
    "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/0c57998b6a8290670e111c41ae60df33/1b99e947d32b6fdd6dca5cfa455448c0/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/ameku-md-doctor-detective-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/131339/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:57.718Z",
+   "customSubs": []
   }
  ],
- "_syncHash": "b049d3fa1e3e54b7"
+ "_syncHash": "fef594f78ea9bc18"
 }

@@ -13,11 +13,12 @@
  "year": null,
  "status": "FINISHED",
  "totalEpisodes": 7,
- "latestEpisode": 1,
+ "latestEpisode": 2,
  "episodeNumbers": [
-  1
+  1,
+  2
  ],
- "updatedAt": "2026-10-16T15:36:18.888Z",
+ "updatedAt": "2026-10-16T22:10:49.748Z",
  "type": "ONA",
  "season": null,
  "anilistId": 156104,
@@ -37,7 +38,17 @@
    "subtitles": [],
    "addedAt": "2026-10-16T15:36:18.888Z",
    "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/80cb49db30e21273c9acaf03212060f8/4e2e59fb1dce42837fca23f6b0a61fdc/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alien-collections.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141762/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:49.748Z",
+   "customSubs": []
   }
  ],
- "_syncHash": "ac1db1711a166c95"
+ "_syncHash": "fb1a1cef5c95c8b0"
 }

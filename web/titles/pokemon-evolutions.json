@@ -16,7 +16,7 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:54:05.650Z",
+ "updatedAt": "2026-10-16T22:10:46.081Z",
  "type": "ONA",
  "season": "FALL",
  "anilistId": 138699,
@@ -30,7 +30,7 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/et5v6tsl2b/pyqxouagf0/tndiiut7uubrd0/master.m3u8",
-   "downloadUrl": "/download/mal/49730/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/49730/1/sub",
    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138699-V0PBmiG6hnuf.jpg",
    "referer": "https://zokoanime.video/stream/mal/49730/1/sub",
    "subtitles": [
@@ -40,9 +40,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/et5v6tsl2b/pyqxouagf0/tndiiut7uubrd0/subs/09gassv37ohhik8x.vtt"
     }
    ],
-   "addedAt": "2026-10-14T11:46:19.564Z",
+   "addedAt": "2026-10-16T22:10:46.081Z",
    "customSubs": []
   }
  ],
- "_syncHash": "302e968fa0a61ab6"
+ "_syncHash": "4acf3ddd8072c362"
 }

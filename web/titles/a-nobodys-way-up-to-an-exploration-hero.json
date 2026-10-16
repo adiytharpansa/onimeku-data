@@ -13,9 +13,10 @@
  "episodeNumbers": [
   1,
   2,
+  4,
   11
  ],
- "updatedAt": "2026-10-15T22:31:09.939Z",
+ "updatedAt": "2026-10-16T22:11:06.808Z",
  "type": "TV",
  "season": "SUMMER",
  "anilistId": null,
@@ -48,6 +49,16 @@
    "customSubs": []
   },
   {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/5c3b44401b674811b5e8088e1a24e7a5/fcc6e9b402122e1dcb5f473c0e005c84/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-nobodys-way-up-to-an-exploration-hero.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/126484/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:11:06.808Z",
+   "customSubs": []
+  },
+  {
    "number": 11,
    "streamUrl": "https://fetch.nexabloom.top/anime/5c3b44401b674811b5e8088e1a24e7a5/0de87d0556f9a056b6b74123ce3a40c5/master.m3u8",
    "downloadUrl": null,
@@ -58,5 +69,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "6b01053e01fb79e0"
+ "_syncHash": "2bc83a107dfa0ae1"
 }

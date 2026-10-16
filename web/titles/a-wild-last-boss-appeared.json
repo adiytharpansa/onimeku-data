@@ -13,12 +13,13 @@
  "year": 2025,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 2,
+ "latestEpisode": 3,
  "episodeNumbers": [
   1,
-  2
+  2,
+  3
  ],
- "updatedAt": "2026-10-16T08:31:26.559Z",
+ "updatedAt": "2026-10-16T22:11:02.510Z",
  "type": "ONA",
  "season": "FALL",
  "anilistId": 180523,
@@ -49,7 +50,17 @@
    "subtitles": [],
    "addedAt": "2026-10-16T08:31:26.559Z",
    "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ff8d98d68afd8c8ce87d338b8b44c84c/58e8a0f17cba3e4ccf124cd8f43bdc12/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759229806-5108-1758817021-4261-A-Wild-Last-Boss-Appeared.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/145845/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:11:02.510Z",
+   "customSubs": []
   }
  ],
- "_syncHash": "ef24f5340244c1f8"
+ "_syncHash": "8d4316231a922400"
 }

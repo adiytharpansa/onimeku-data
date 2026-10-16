@@ -13,11 +13,16 @@
  "year": null,
  "status": "FINISHED",
  "totalEpisodes": 14,
- "latestEpisode": 1,
+ "latestEpisode": 9,
  "episodeNumbers": [
-  1
+  1,
+  2,
+  3,
+  6,
+  7,
+  9
  ],
- "updatedAt": "2026-10-15T22:39:38.599Z",
+ "updatedAt": "2026-10-16T22:11:02.584Z",
  "type": "ONA",
  "season": null,
  "anilistId": 199418,
@@ -38,7 +43,57 @@
    "subtitles": [],
    "addedAt": "2026-10-15T22:39:38.599Z",
    "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/156444ebc2d8ac646a1d887b0d2a7f31/e9bda85b62c3076d973083115399ab27/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/06/above-myriads.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/61642/2/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:49.755Z",
+   "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/156444ebc2d8ac646a1d887b0d2a7f31/3dbe54570de17abf09d6a63118570f63/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/06/above-myriads.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/61642/3/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:51.072Z",
+   "customSubs": []
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/156444ebc2d8ac646a1d887b0d2a7f31/5405ea1df1fe529cfa5befa69985ee7f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/06/above-myriads.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/867060/hsub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:58.776Z",
+   "customSubs": []
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/156444ebc2d8ac646a1d887b0d2a7f31/09a2c28b4bba65962da4eaddf69b7158/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/06/above-myriads.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/61642/7/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:11:00.007Z",
+   "customSubs": []
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/156444ebc2d8ac646a1d887b0d2a7f31/30ca9c1c056bfef4d93ccc25915d9996/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/06/above-myriads.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/61642/9/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:11:02.584Z",
+   "customSubs": []
   }
  ],
- "_syncHash": "4702e84ea880710f"
+ "_syncHash": "279d157aa31195d9"
 }

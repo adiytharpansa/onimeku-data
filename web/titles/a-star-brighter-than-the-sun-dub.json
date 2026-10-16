@@ -9,11 +9,14 @@
  "year": 2025,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 1,
+ "latestEpisode": 10,
  "episodeNumbers": [
-  1
+  1,
+  2,
+  3,
+  10
  ],
- "updatedAt": "2026-10-15T15:41:11.578Z",
+ "updatedAt": "2026-10-16T22:11:03.166Z",
  "type": "TV",
  "season": "FALL",
  "anilistId": null,
@@ -34,7 +37,37 @@
    "subtitles": [],
    "addedAt": "2026-10-14T23:46:17.310Z",
    "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/200b82cedecce3347016d71ecc2bb2b6/4c1b3cb74cf13c9791f76d4cf238e27f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759489152-8302-1759336836-7292-A-Star-Brighter-Than-the-Sun.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/145763/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:51.765Z",
+   "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/200b82cedecce3347016d71ecc2bb2b6/da34ee7db65b6e618d4fe1f4827e69e9/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759489152-8302-1759336836-7292-A-Star-Brighter-Than-the-Sun.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/146059/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:52.976Z",
+   "customSubs": []
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/200b82cedecce3347016d71ecc2bb2b6/b10080d7fe57d2199d98ae1619892770/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759489152-8302-1759336836-7292-A-Star-Brighter-Than-the-Sun.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/158601/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:11:03.166Z",
+   "customSubs": []
   }
  ],
- "_syncHash": "5a378624cc03b591"
+ "_syncHash": "6bd10392048b7afa"
 }

@@ -17,11 +17,13 @@
  "year": 1999,
  "status": "RELEASING",
  "totalEpisodes": null,
- "latestEpisode": 1,
+ "latestEpisode": 5,
  "episodeNumbers": [
-  1
+  1,
+  2,
+  5
  ],
- "updatedAt": "2026-10-15T15:43:36.034Z",
+ "updatedAt": "2026-10-16T22:10:56.382Z",
  "type": null,
  "season": "FALL",
  "anilistId": null,
@@ -41,7 +43,27 @@
    "subtitles": [],
    "addedAt": "2026-10-14T02:55:56.699Z",
    "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/f899139df5e1059396431415e770c6dd/459b7371b71ec854f0acd5b4f78d5481/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/11/1764355347-4152-1725358359-8610-one-piece-dub.png",
+   "referer": "https://megaplay.buzz/stream/s-2/2143/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:51.608Z",
+   "customSubs": []
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/f899139df5e1059396431415e770c6dd/1ad56df4590ff2274c0ff3c9b95056a9/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/11/1764355347-4152-1725358359-8610-one-piece-dub.png",
+   "referer": "https://megaplay.buzz/stream/s-2/2146/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:56.382Z",
+   "customSubs": []
   }
  ],
- "_syncHash": "706cb2e09fe565ec"
+ "_syncHash": "3169245f153e5a0a"
 }

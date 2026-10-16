@@ -12,11 +12,12 @@
  "year": 2026,
  "status": "RELEASING",
  "totalEpisodes": null,
- "latestEpisode": 1,
+ "latestEpisode": 2,
  "episodeNumbers": [
-  1
+  1,
+  2
  ],
- "updatedAt": "2026-10-14T10:44:35.678Z",
+ "updatedAt": "2026-10-16T22:10:49.051Z",
  "type": "TV",
  "season": "FALL",
  "anilistId": 186742,
@@ -37,7 +38,17 @@
    "subtitles": [],
    "addedAt": "2026-10-14T10:44:35.678Z",
    "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/71163fc9dd94177cfe28ed434e69c0d2/15afbe3382795c661a23e68fa2e90785/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/10/a-certain-dark-item.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/61014/2/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:49.051Z",
+   "customSubs": []
   }
  ],
- "_syncHash": "c4b3e227d8d5dd5e"
+ "_syncHash": "231296302ddfccae"
 }

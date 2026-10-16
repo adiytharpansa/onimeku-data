@@ -11,11 +11,13 @@
  "year": 2026,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 2,
+ "latestEpisode": 10,
  "episodeNumbers": [
-  2
+  1,
+  2,
+  10
  ],
- "updatedAt": "2026-10-16T14:45:48.837Z",
+ "updatedAt": "2026-10-16T22:10:59.406Z",
  "type": "TV",
  "season": "SPRING",
  "anilistId": 196935,
@@ -27,6 +29,16 @@
  "studio": "ZEXCS",
  "episodes": [
   {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a4ddab7e3c43d76cfff0dc4189a5df2a/ef88b89b3f5da559c0999482b78104fa/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/akane-banashi.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/169747/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:46.875Z",
+   "customSubs": []
+  },
+  {
    "number": 2,
    "streamUrl": "https://fetch.nexabloom.top/anime/a4ddab7e3c43d76cfff0dc4189a5df2a/1b68bfca6025d1030175feaa9a5f13f2/master.m3u8",
    "downloadUrl": null,
@@ -35,7 +47,17 @@
    "subtitles": [],
    "addedAt": "2026-10-16T14:45:48.837Z",
    "customSubs": []
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a4ddab7e3c43d76cfff0dc4189a5df2a/87514b5c3da7eb4c8c72da467111daac/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/akane-banashi.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/62164/10/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:59.406Z",
+   "customSubs": []
   }
  ],
- "_syncHash": "a79c3e9246b2b80b"
+ "_syncHash": "1deccbc0819dc12f"
 }

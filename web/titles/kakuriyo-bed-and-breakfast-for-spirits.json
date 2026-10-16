@@ -17,7 +17,7 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-16T08:31:12.943Z",
+ "updatedAt": "2026-10-16T22:10:44.706Z",
  "type": "TV",
  "season": "SPRING",
  "anilistId": 100500,
@@ -36,9 +36,9 @@
    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100500-D1InEy2GriJV.jpg",
    "referer": "https://zokoanime.video/stream/mal/36754/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-16T08:31:12.943Z",
+   "addedAt": "2026-10-16T22:10:44.706Z",
    "customSubs": []
   }
  ],
- "_syncHash": "fb24a6bc17954412"
+ "_syncHash": "ee4deb3fd8223aed"
 }

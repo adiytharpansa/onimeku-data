@@ -9,11 +9,12 @@
  "year": 2024,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 1,
+ "latestEpisode": 7,
  "episodeNumbers": [
-  1
+  1,
+  7
  ],
- "updatedAt": "2026-10-15T15:40:35.160Z",
+ "updatedAt": "2026-10-16T22:11:07.404Z",
  "type": null,
  "season": "SPRING",
  "anilistId": null,
@@ -34,7 +35,17 @@
    "subtitles": [],
    "addedAt": "2026-10-14T03:49:11.828Z",
    "customSubs": []
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/b37d4650ab6bcd16657b72b343cb9595/5ac0f4a6935b3875768d214477b1c3e8/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/whisper-me-a-love-song.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/124550/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:11:07.404Z",
+   "customSubs": []
   }
  ],
- "_syncHash": "c14571dc32af25a3"
+ "_syncHash": "e7da4008a072f96b"
 }

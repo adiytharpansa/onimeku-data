@@ -9,11 +9,12 @@
  "year": 2026,
  "status": "FINISHED",
  "totalEpisodes": 20,
- "latestEpisode": 1,
+ "latestEpisode": 10,
  "episodeNumbers": [
-  1
+  1,
+  10
  ],
- "updatedAt": "2026-10-15T15:41:19.832Z",
+ "updatedAt": "2026-10-16T22:11:07.848Z",
  "type": null,
  "season": "WINTER",
  "anilistId": null,
@@ -34,7 +35,17 @@
    "subtitles": [],
    "addedAt": "2026-10-14T02:52:09.133Z",
    "customSubs": []
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/bd1de862c509c34de95c9a2655e48586/6e22988611af7fc33b7d223d59583c39/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1768471108-9244-1768470124-6882-153881.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/163381/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:11:07.848Z",
+   "customSubs": []
   }
  ],
- "_syncHash": "7a06d9311900ef77"
+ "_syncHash": "0a575c86299a2390"
 }

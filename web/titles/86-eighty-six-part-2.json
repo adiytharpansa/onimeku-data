@@ -14,11 +14,14 @@
  "year": 2021,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 2,
+ "latestEpisode": 12,
  "episodeNumbers": [
-  2
+  2,
+  6,
+  10,
+  12
  ],
- "updatedAt": "2026-10-16T09:47:09.593Z",
+ "updatedAt": "2026-10-16T21:47:46.818Z",
  "type": "TV",
  "season": "FALL",
  "anilistId": 131586,
@@ -39,7 +42,37 @@
    "subtitles": [],
    "addedAt": "2026-10-16T09:47:09.593Z",
    "customSubs": []
+  },
+  {
+   "number": 6,
+   "streamUrl": "anv://131586/6",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131586-JhC0wcBi09EZ.jpg",
+   "referer": "https://anv.to/",
+   "subtitles": [],
+   "addedAt": "2026-10-16T21:47:42.981Z",
+   "customSubs": []
+  },
+  {
+   "number": 10,
+   "streamUrl": "anv://131586/10",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131586-JhC0wcBi09EZ.jpg",
+   "referer": "https://anv.to/",
+   "subtitles": [],
+   "addedAt": "2026-10-16T21:47:45.098Z",
+   "customSubs": []
+  },
+  {
+   "number": 12,
+   "streamUrl": "anv://131586/12",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131586-JhC0wcBi09EZ.jpg",
+   "referer": "https://anv.to/",
+   "subtitles": [],
+   "addedAt": "2026-10-16T21:47:46.818Z",
+   "customSubs": []
   }
  ],
- "_syncHash": "5ee2b74c75db6355"
+ "_syncHash": "617dd5c7dcd4e478"
 }

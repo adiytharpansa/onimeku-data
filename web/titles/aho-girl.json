@@ -3,7 +3,7 @@
  "title": "Aho Girl",
  "poster": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
  "banner": "",
- "synopsis": "",
+ "synopsis": "She loves bananas! The aho-girl, Hanabatake Yoshiko, who doesn’t care if she can’t do her studies at all, starts yet another day at school. Her carefree actions of idiocy seems to not only cause trouble for her childhood friend, A-kun, but her classmate, Sumino Sayaka, as well.",
  "genres": [
   "Manga",
   "Shounen",
@@ -12,20 +12,26 @@
   "Half-length Episodes"
  ],
  "score": null,
- "year": null,
+ "year": 2017,
  "status": "FINISHED",
- "totalEpisodes": 12,
- "latestEpisode": 11,
+ "totalEpisodes": 1,
+ "latestEpisode": 12,
  "episodeNumbers": [
   1,
+  2,
   3,
+  4,
   5,
+  6,
   7,
+  8,
   9,
-  11
+  10,
+  11,
+  12
  ],
- "updatedAt": "2026-10-16T21:25:19.614Z",
- "type": null,
+ "updatedAt": "2026-10-16T21:32:30.563Z",
+ "type": "TV",
  "season": null,
  "anilistId": null,
  "country": null,
@@ -40,7 +46,17 @@
    "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
    "referer": "https://anizone.to/anime/pxse3tn7/1",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:24:37.312Z",
+   "addedAt": "2026-10-16T21:32:30.563Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://seiryuu.vid-cdn.xyz/c3b336fc-c3bb-4c05-8beb-9956ca0414b5/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
+   "referer": "https://anizone.to/anime/pxse3tn7/2",
+   "subtitles": [],
+   "addedAt": "2026-10-16T21:26:58.682Z",
    "customSubs": []
   },
   {
@@ -54,6 +70,16 @@
    "customSubs": []
   },
   {
+   "number": 4,
+   "streamUrl": "https://seiryuu.vid-cdn.xyz/dca74a00-d3d8-4c8f-a279-0e78d55f504f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
+   "referer": "https://anizone.to/anime/pxse3tn7/4",
+   "subtitles": [],
+   "addedAt": "2026-10-16T21:27:57.730Z",
+   "customSubs": []
+  },
+  {
    "number": 5,
    "streamUrl": "https://seiryuu.vid-cdn.xyz/bfedc23f-22df-416f-8c16-5d2db1836da0/master.m3u8",
    "downloadUrl": null,
@@ -61,6 +87,16 @@
    "referer": "https://anizone.to/anime/pxse3tn7/5",
    "subtitles": [],
    "addedAt": "2026-10-16T21:24:42.246Z",
+   "customSubs": []
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://seiryuu.vid-cdn.xyz/2aae969f-f34a-47da-9602-989067975719/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
+   "referer": "https://anizone.to/anime/pxse3tn7/6",
+   "subtitles": [],
+   "addedAt": "2026-10-16T21:27:01.368Z",
    "customSubs": []
   },
   {
@@ -74,6 +110,16 @@
    "customSubs": []
   },
   {
+   "number": 8,
+   "streamUrl": "https://seiryuu.vid-cdn.xyz/2e816815-02ab-4c85-b492-f4b7f0a80cca/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
+   "referer": "https://anizone.to/anime/pxse3tn7/8",
+   "subtitles": [],
+   "addedAt": "2026-10-16T21:28:52.614Z",
+   "customSubs": []
+  },
+  {
    "number": 9,
    "streamUrl": "https://seiryuu.vid-cdn.xyz/d4cc080d-722f-4b5a-9994-54a5cfe426f9/master.m3u8",
    "downloadUrl": null,
@@ -81,6 +127,16 @@
    "referer": "https://anizone.to/anime/pxse3tn7/9",
    "subtitles": [],
    "addedAt": "2026-10-16T21:24:45.254Z",
+   "customSubs": []
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://seiryuu.vid-cdn.xyz/c9ab12aa-51d0-470e-85de-96d01605c1ee/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
+   "referer": "https://anizone.to/anime/pxse3tn7/10",
+   "subtitles": [],
+   "addedAt": "2026-10-16T21:27:02.813Z",
    "customSubs": []
   },
   {
@@ -92,7 +148,17 @@
    "subtitles": [],
    "addedAt": "2026-10-16T21:25:19.614Z",
    "customSubs": []
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://seiryuu.vid-cdn.xyz/cfbc05c6-7c3a-4b28-b6b6-3e264eb69bcf/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
+   "referer": "https://anizone.to/anime/pxse3tn7/12",
+   "subtitles": [],
+   "addedAt": "2026-10-16T21:28:00.538Z",
+   "customSubs": []
   }
  ],
- "_syncHash": "6abdd976d886222a"
+ "_syncHash": "63079165caf6d85c"
 }

@@ -9,11 +9,14 @@
  "year": 2025,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 1,
+ "latestEpisode": 9,
  "episodeNumbers": [
-  1
+  1,
+  2,
+  4,
+  9
  ],
- "updatedAt": "2026-10-16T09:58:05.820Z",
+ "updatedAt": "2026-10-16T22:10:58.138Z",
  "type": "TV",
  "season": "SPRING",
  "anilistId": null,
@@ -34,7 +37,37 @@
    "subtitles": [],
    "addedAt": "2026-10-16T09:58:05.820Z",
    "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/73b31da2c3e19a4920865d0e8ae1c82a/6349cb99f74b47704ab5349c34c0f82f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/aharen-san-wa-hakarenai-season-2-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136275/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:50.701Z",
+   "customSubs": []
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/73b31da2c3e19a4920865d0e8ae1c82a/2f47317c9a89ad5517a2bd2f155b508e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/aharen-san-wa-hakarenai-season-2-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136609/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:53.461Z",
+   "customSubs": []
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/73b31da2c3e19a4920865d0e8ae1c82a/c78b8fff38a31e215aeb2f3b0d20385e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/aharen-san-wa-hakarenai-season-2-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/138291/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:10:58.138Z",
+   "customSubs": []
   }
  ],
- "_syncHash": "88aad01cf09fbe55"
+ "_syncHash": "5ad0262dac7e9567"
 }

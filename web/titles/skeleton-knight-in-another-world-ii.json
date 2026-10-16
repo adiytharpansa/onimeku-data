@@ -13,9 +13,11 @@
  "episodeNumbers": [
   1,
   3,
+  4,
+  5,
   8
  ],
- "updatedAt": "2026-10-15T22:31:13.997Z",
+ "updatedAt": "2026-10-16T22:11:03.275Z",
  "type": null,
  "season": "SPRING",
  "anilistId": null,
@@ -48,6 +50,26 @@
    "customSubs": []
   },
   {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/6c5d124eddd0219b81c8ac758464e25b/4f0d6126fea123e22bf479ae0f6ce75e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/07/skeleton-knight-in-another-world-ii.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/60522/4/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:11:02.081Z",
+   "customSubs": []
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/6c5d124eddd0219b81c8ac758464e25b/2dc8b2eaca54f91c4b0118ab619d6195/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/07/skeleton-knight-in-another-world-ii.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/60522/5/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T22:11:03.275Z",
+   "customSubs": []
+  },
+  {
    "number": 8,
    "streamUrl": "https://fetch.nexabloom.top/anime/6c5d124eddd0219b81c8ac758464e25b/40bd1f3959125d2214c565c1e9df6d41/master.m3u8",
    "downloadUrl": null,
@@ -58,5 +80,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "3cab4a7ad12697df"
+ "_syncHash": "c73532ee5f70534b"
 }
