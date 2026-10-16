@@ -1,0 +1,42 @@
+{
+ "id": "walking-the-way-all-alone",
+ "title": "Walking the Way All Alone",
+ "poster": "https://media.kitsu.app/anime/50678/poster_image/large-c83caf0546cc0e9aa7cfe141acdeb48d.jpeg",
+ "banner": "",
+ "synopsis": "Luo Li has been trapped in the soulless Yinzhou Continent since he was a child and became the number one killer of Tianjue Killing Hall. His father, Master Ciyun, sacrificed himself to buy Luo Li a chance to escape from Yinzhou and go to Zhongtian Main World to find the true way to cultivate immortality.\n\n(Source: Bilibili, translated)",
+ "genres": [],
+ "score": null,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 16,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:44:35.757Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "walking the way all alone",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/qvbbg67lam/wddra47ksr/3p4f7skfjmmhtj/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://media.kitsu.app/anime/50678/poster_image/large-c83caf0546cc0e9aa7cfe141acdeb48d.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/60592/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/qvbbg67lam/wddra47ksr/3p4f7skfjmmhtj/subs/vg2tqv3jgbpb419c.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:38:46.330Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "57a0636bd5e71f73"
+}
