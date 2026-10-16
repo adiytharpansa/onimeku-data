@@ -1,0 +1,51 @@
+{
+ "id": "sengoku-basara-samurai-kings-the-movie",
+ "title": "Sengoku Basara - Samurai Kings: The Movie",
+ "poster": "https://media.kitsu.app/anime/poster_images/5847/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/5847/large.jpg",
+ "synopsis": "The story of the film is set after the conflict instigated by Toyotomi Hideyoshi ended, but not before the Battle of Sekigahara determines who shall be the Shogun of Japan.\n(Source: ANN)",
+ "genres": [
+  "Action",
+  "Martial Arts",
+  "Super Power",
+  "Historical",
+  "Samurai"
+ ],
+ "score": 7.5,
+ "year": 2011,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:46.009Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "sengoku basara samurai kings the movie",
+ "altTitles": [
+  "Sengoku Basara Movie: The Last Party",
+  "劇場版 戦国BASARA -The Last Party-"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/n2wh0qn9xe/dtu6e1u5qi/wylaeetk487wij/master.m3u8",
+   "downloadUrl": "/download/mal/9745/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/5847/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/9745/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/n2wh0qn9xe/dtu6e1u5qi/wylaeetk487wij/subs/zombvvrdn3niilok.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:14:19.733Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "1cd6414eb3ddbfb3"
+}
