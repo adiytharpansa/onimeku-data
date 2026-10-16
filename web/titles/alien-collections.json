@@ -1,0 +1,42 @@
+{
+ "id": "alien-collections",
+ "title": "Xin Yichang Shengwu Jianwen Lu: Xu",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx156104-9VvBcc1JTieA.png",
+ "banner": "",
+ "synopsis": "Hao Ren was a typical young man from a small city who was barely making ends meet while living in an old house. However, via a strange turn of events, he becomes a \"universe police officer.\" A problem is developing in his domain, the Dream Plane Universe, as he struggles to oversee a home inhabited by strange, non-human residents that his enigmatic superiors have assigned him.\n\nAs he investigates further, Hao Ren discovers a link between the remnants of a vanished civilization in the Dream Plane and the strange species on Earth. Hao Ren quickly learns that slacking off is no longer an option when long-buried horrors, fallen deities, and ancient cataclysms reappear.",
+ "genres": [
+  "Adventure",
+  "Fantasy",
+  "Sci-Fi"
+ ],
+ "score": null,
+ "year": null,
+ "status": "FINISHED",
+ "totalEpisodes": 7,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-16T15:36:18.888Z",
+ "type": "ONA",
+ "season": null,
+ "anilistId": 156104,
+ "rawTitle": "alien collections",
+ "altTitles": [
+  "新·异常生物见闻录：序"
+ ],
+ "studio": "Studio LAN",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/80cb49db30e21273c9acaf03212060f8/9c11ea765d8843b34e81853065607ad7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alien-collections.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141756/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T15:36:18.888Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "478abe5e6478f510"
+}

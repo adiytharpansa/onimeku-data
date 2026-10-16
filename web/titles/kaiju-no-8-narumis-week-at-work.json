@@ -1,6 +1,6 @@
 {
  "id": "kaiju-no-8-narumis-week-at-work",
- "title": "kaiju no 8 narumis week at work",
+ "title": "Kaiju no 8 Narumis Week At Work",
  "poster": "https://shikimori.one/system/animes/original/52588.jpg?1717955244",
  "banner": "https://shikimori.one/system/animes/original/52588.jpg?1717955244",
  "synopsis": "",
@@ -13,7 +13,7 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:39:36.594Z",
+ "updatedAt": "2026-10-16T16:42:27.506Z",
  "type": null,
  "season": null,
  "anilistId": null,
@@ -25,7 +25,7 @@
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/wlq55ui6nr/bys64j9xmv/95ybnl6012izts/master.m3u8",
    "downloadUrl": null,
-   "thumbnail": "",
+   "thumbnail": "https://shikimori.one/system/animes/original/52588.jpg?1717955244",
    "referer": "https://zokoanime.video/stream/mal/63138/1/sub",
    "subtitles": [
     {
@@ -109,9 +109,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/wlq55ui6nr/bys64j9xmv/95ybnl6012izts/subs/nin7rtr4sw9qjg94.vtt"
     }
    ],
-   "addedAt": "2026-10-14T02:15:39.496Z",
+   "addedAt": "2026-10-16T16:42:27.506Z",
    "customSubs": []
   }
  ],
- "_syncHash": "95f7eb48c0417d75"
+ "_syncHash": "02567c90b104bc91"
 }
