@@ -1,0 +1,107 @@
+{
+ "id": "lets-go-kaikigumi",
+ "title": "lets go kaikigumi",
+ "poster": "https://lain.bgm.tv/pic/cover/l/61/8d/595106_ll6Jj.jpg",
+ "banner": "https://lain.bgm.tv/pic/cover/l/61/8d/595106_ll6Jj.jpg",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": null,
+ "status": "",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:15.786Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "rawTitle": "lets go kaikigumi",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/6g7ii5hhif/r1cb3jws8f/81bu1g0wtk11ba/master.m3u8",
+   "downloadUrl": "/download/mal/62683/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/62683/1/sub",
+   "subtitles": [
+    {
+     "label": "eng",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/6g7ii5hhif/r1cb3jws8f/81bu1g0wtk11ba/subs/j2291v57nl3efe30.vtt"
+    },
+    {
+     "label": "ger",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/6g7ii5hhif/r1cb3jws8f/81bu1g0wtk11ba/subs/xgkpzs4dsgnrug65.vtt"
+    },
+    {
+     "label": "Latin American spa",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/6g7ii5hhif/r1cb3jws8f/81bu1g0wtk11ba/subs/pzg3qgycx66qx4xq.vtt"
+    },
+    {
+     "label": "European spa",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/6g7ii5hhif/r1cb3jws8f/81bu1g0wtk11ba/subs/2robod7yal2esyp4.vtt"
+    },
+    {
+     "label": "European fre",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/6g7ii5hhif/r1cb3jws8f/81bu1g0wtk11ba/subs/wwqcxjua08nrv1jc.vtt"
+    },
+    {
+     "label": "ind",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/6g7ii5hhif/r1cb3jws8f/81bu1g0wtk11ba/subs/pd7rtlyv1n8g3roo.vtt"
+    },
+    {
+     "label": "ita",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/6g7ii5hhif/r1cb3jws8f/81bu1g0wtk11ba/subs/sx08r1bktvecvs31.vtt"
+    },
+    {
+     "label": "may",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/6g7ii5hhif/r1cb3jws8f/81bu1g0wtk11ba/subs/17xytl6jg5sth4lg.vtt"
+    },
+    {
+     "label": "Brazilian por",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/6g7ii5hhif/r1cb3jws8f/81bu1g0wtk11ba/subs/ilp9afkpuwz5mryd.vtt"
+    },
+    {
+     "label": "rus",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/6g7ii5hhif/r1cb3jws8f/81bu1g0wtk11ba/subs/tmegf66sbtnhyf3j.vtt"
+    },
+    {
+     "label": "tha",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/6g7ii5hhif/r1cb3jws8f/81bu1g0wtk11ba/subs/7w15iop1pndw17m2.vtt"
+    },
+    {
+     "label": "vie",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/6g7ii5hhif/r1cb3jws8f/81bu1g0wtk11ba/subs/zhq5h1sydul0qfwt.vtt"
+    },
+    {
+     "label": "Simplified chi",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/6g7ii5hhif/r1cb3jws8f/81bu1g0wtk11ba/subs/tb51raen881dqpmh.vtt"
+    },
+    {
+     "label": "Traditional chi",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/6g7ii5hhif/r1cb3jws8f/81bu1g0wtk11ba/subs/ddxxg08o8gsiwakh.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:30:47.420Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "06e945f2bb6940e9"
+}
