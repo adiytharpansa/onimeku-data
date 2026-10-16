@@ -1,0 +1,42 @@
+{
+ "id": "my-next-life-as-a-villainess-all-routes-lead-to-doom-x",
+ "title": "my next life as a villainess all routes lead to doom x",
+ "poster": "https://shikimori.one/system/animes/original/42282.jpg?1711968121",
+ "banner": "https://shikimori.one/system/animes/original/42282.jpg?1711968121",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": null,
+ "status": "",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:39.017Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "rawTitle": "my next life as a villainess all routes lead to doom x",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/5c39zz0jez/1hmwvrc3sn/ewl5i2z8pokcm5/master.m3u8",
+   "downloadUrl": "/download/mal/42282/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/42282/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/5c39zz0jez/1hmwvrc3sn/ewl5i2z8pokcm5/subs/ulm0umjw5ub0jgsn.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:08:06.035Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "995ef83b439b2af1"
+}
