@@ -1,0 +1,50 @@
+{
+ "id": "anohana-the-flower-we-saw-that-day-the-movie",
+ "title": "anohana: The Flower We Saw That Day The Movie",
+ "poster": "https://media.kitsu.app/anime/poster_images/7200/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/7200/large.jpg",
+ "synopsis": "The TV series is retold through the different main characters' points of view with new additional material from their childhood, during the original series, and one year after the conclusion of the series.",
+ "genres": [
+  "Drama",
+  "Supernatural",
+  "Slice of Life",
+  "Friendship"
+ ],
+ "score": 8,
+ "year": 2013,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:07.621Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "anohana the flower we saw that day the movie",
+ "altTitles": [
+  "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie",
+  "劇場版 あの日見た花の名前を僕達はまだ知らない。"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/s6e6bllg5p/m0k2taic8b/pqut726t04y0yh/master.m3u8",
+   "downloadUrl": "/download/mal/15039/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/7200/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/15039/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/s6e6bllg5p/m0k2taic8b/pqut726t04y0yh/subs/scsm7xemg47hq114.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:16:05.317Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "6f5070168cf46046"
+}
