@@ -1,0 +1,42 @@
+{
+ "id": "aoashi",
+ "title": "aoashi",
+ "poster": "https://shikimori.one/system/animes/original/49052.jpg?1706500052",
+ "banner": "https://shikimori.one/system/animes/original/49052.jpg?1706500052",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": null,
+ "status": "",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:41:45.923Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "rawTitle": "aoashi",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/05wrjrqegx/hzdewuhnub/ue9b4m90y7fy66/master.m3u8",
+   "downloadUrl": "/download/mal/49052/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/49052/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/05wrjrqegx/hzdewuhnub/ue9b4m90y7fy66/subs/tu82lqurddrd28sn.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:19:59.305Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "89fdefe1d590a210"
+}
