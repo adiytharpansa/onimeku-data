@@ -1,0 +1,44 @@
+name: Klasifikasi Donghua
+
+# Membangun web/donghua.json: peta id katalog -> negara asal
+# AniList (countryOfOrigin). Situs web memakainya untuk
+# memisahkan donghua (CN) ke baris "Donghua" sendiri di
+# beranda. AniList hanya bisa dijangkau dari runner Actions
+# (IP VM/Worker diblokir), jadi klasifikasi tinggal di sini.
+# Jadwal harian 07:30 WIB (00:30 UTC) — setelah reset kuota
+# baca D1 pukul 07:00 WIB agar katalog yang terbaca lengkap.
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: klasifikasi-donghua
+  cancel-in-progress: false
+
+jobs:
+  classify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Jalankan klasifikasi
+        run: python3 tools/classify_donghua.py
+      - name: Commit donghua.json bila berubah
+        run: |
+          git config user.name "onimeku-sync"
+          git config user.email "sync@onimeku.local"
+          git add web/donghua.json
+          if git diff --cached --quiet; then
+            echo "Tidak ada perubahan klasifikasi."
+          else
+            git commit -m "Klasifikasi donghua $(date -u +%FT%TZ)"
+            git push
+          fi
