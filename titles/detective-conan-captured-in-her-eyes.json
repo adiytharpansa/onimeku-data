@@ -1,0 +1,49 @@
+{
+ "id": "detective-conan-captured-in-her-eyes",
+ "title": "Detective Conan: Captured in Her Eyes",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1363-KeaIofC3kYaZ.png",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1363-rP3Ks2HcfzEJ.jpg",
+ "synopsis": "A series of murders have occurred with police officers as victims. One of the officers is shot right in front of Ran's eyes, and the shock of the incident causes Ran to lose her memory of everyone and everything around her. Now Conan must help Ran regain her lost memories, while also protecting her from the murderer, who is targeting Ran for witnessing the crime.\n\n\n\n(Source: Anime News Network)",
+ "genres": [
+  "Adventure",
+  "Drama",
+  "Mystery"
+ ],
+ "score": 7.8,
+ "year": 2000,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T21:19:23.661Z",
+ "type": "MOVIE",
+ "season": "SPRING",
+ "anilistId": 1363,
+ "rawTitle": "detective conan captured in her eyes",
+ "altTitles": [
+  "Meitantei Conan: Hitomi no Naka no Ansatsusha",
+  "名探偵コナン　瞳の中の暗殺者"
+ ],
+ "studio": "Tokyo Movie Shinsha",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/27t1p8elv8/7zjx8seigo/55sniwe1mjk2lv/master.m3u8",
+   "downloadUrl": "/download/mal/1363/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1363-KeaIofC3kYaZ.png",
+   "referer": "https://zokoanime.video/stream/mal/1363/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/27t1p8elv8/7zjx8seigo/55sniwe1mjk2lv/subs/1rky3cv4g5ffow8m.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T21:19:23.661Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "d0e1a8ead511d6ae"
+}
