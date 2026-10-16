@@ -1,0 +1,42 @@
+{
+ "id": "the-exiled-heavy-knight-knows-how-to-game-the-system",
+ "title": "the exiled heavy knight knows how to game the system",
+ "poster": "https://lain.bgm.tv/pic/cover/l/03/45/383631_HHiIM.jpg",
+ "banner": "https://lain.bgm.tv/pic/cover/l/03/45/383631_HHiIM.jpg",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": null,
+ "status": "",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:09.240Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "rawTitle": "the exiled heavy knight knows how to game the system",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/5dzj8kor6m/pgdqcabd66/k2mvk040h15etm/master.m3u8",
+   "downloadUrl": "/download/mal/59741/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/59741/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/5dzj8kor6m/pgdqcabd66/k2mvk040h15etm/subs/21p2f3fsy3h7blvp.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:27:27.728Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "83d650837f896c12"
+}
