@@ -1,0 +1,42 @@
+{
+ "id": "code-geass-akito-the-exiled-memories-of-hatred",
+ "title": "code geass akito the exiled memories of hatred",
+ "poster": "https://shikimori.one/system/animes/original/15201.jpg?1711946648",
+ "banner": "https://shikimori.one/system/animes/original/15201.jpg?1711946648",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": null,
+ "status": "",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:43.189Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "rawTitle": "code geass akito the exiled memories of hatred",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/k7pzfelj3h/be66cdpx2f/c2ozig7jdy50nr/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/15201/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/k7pzfelj3h/be66cdpx2f/c2ozig7jdy50nr/subs/smgxg8q5jdhp7xm6.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:09:42.641Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "452dbcc25f779c63"
+}
