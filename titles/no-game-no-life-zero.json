@@ -1,0 +1,58 @@
+{
+ "id": "no-game-no-life-zero",
+ "title": "No Game No Life: Zero",
+ "poster": "https://media.kitsu.app/anime/poster_images/12325/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/12325/large.jpg",
+ "synopsis": "Six thousand years before Sora and Shiro were even a blink in the history of Disboard, war consumed the land, tearing apart the heavens, destroying stars, and even threatening to wipe out the human race. Amid the chaos and destruction, a young man named Riku leads humanity toward the tomorrow his heart believed in. One day, in the ruins of an Elf city, he meets Shuvi, a female exiled \"Ex-machina\" android who asks him to teach her what it means to have a human heart.\n\n(Source: Sentai Filmworks)",
+ "genres": [
+  "Adventure",
+  "Comedy",
+  "Drama",
+  "Supernatural",
+  "Fantasy",
+  "Romance",
+  "Ecchi",
+  "Game"
+ ],
+ "score": 8.2,
+ "year": 2017,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:39:22.189Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "no game no life zero",
+ "altTitles": [
+  "ノーゲーム・ノーライフ ゼロ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/8k84ylaood/y7h0bpxc41/c44dsizbrppfot/master.m3u8",
+   "downloadUrl": "/download/mal/33674/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/12325/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/33674/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/8k84ylaood/y7h0bpxc41/c44dsizbrppfot/subs/9vvg4378ukhnvvms.vtt"
+    },
+    {
+     "label": "Spanish",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/8k84ylaood/y7h0bpxc41/c44dsizbrppfot/subs/grxusf9t4ifmjvt6.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:07:20.323Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "77fdce82c9466c3b"
+}
