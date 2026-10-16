@@ -1,0 +1,51 @@
+{
+ "id": "pokemon-the-movie-2000",
+ "title": "Pokemon: The Movie 2000",
+ "poster": "https://media.kitsu.app/anime/poster_images/1001/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/1001/large.jpg",
+ "synopsis": "A greedy collector, Lawrence III, wants to capture the legendary Pokemon, Lugia. But in order to do so, he must capture the Titans of Fire, Ice, and Lightning. The titans are powerful bird-like Pokemon, and if they are disturbed they will wage a war against eachother which will ultimately result in earth's destruction. Ash, Misty, and Tracey get caught up in the situation when they end up being washed ashore onto Shamouti Island. Soon after, Ash meets a girl named Melody who sends him into a mission where he must collect the 3 Orbs which will quell the fighting, but first Ash must gain help from the Beast of the Sea, Lugia, if he's to suceed. \n(Source: ANN)",
+ "genres": [
+  "Adventure",
+  "Comedy",
+  "Drama",
+  "Fantasy",
+  "Kids"
+ ],
+ "score": 7.2,
+ "year": 1999,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:39:11.895Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "pokemon the movie 2000",
+ "altTitles": [
+  "Pokemon: Maboroshi no Pokemon Lugia Bakutan",
+  "ポケットモンスター 幻のポケモンルギア爆誕"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/nyprei3ktw/xf7er9s6yk/n4agxjcx8j8aq0/master.m3u8",
+   "downloadUrl": "/download/mal/1117/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/1001/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/1117/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/nyprei3ktw/xf7er9s6yk/n4agxjcx8j8aq0/subs/npnbzjizns6j4jul.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:24:04.824Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "95619880778e23e3"
+}
