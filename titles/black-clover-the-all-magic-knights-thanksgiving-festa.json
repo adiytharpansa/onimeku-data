@@ -1,0 +1,45 @@
+{
+ "id": "black-clover-the-all-magic-knights-thanksgiving-festa",
+ "title": "Black Clover: The All Magic Knights Thanksgiving Festa",
+ "poster": "https://media.kitsu.app/anime/poster_images/42035/large.jpg",
+ "banner": "",
+ "synopsis": "The special episode features the captains of the different squads plus Asta and Yuno participating in a quiz show.",
+ "genres": [],
+ "score": 6.3,
+ "year": 2018,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:03.007Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "black clover the all magic knights thanksgiving festa",
+ "altTitles": [
+  "Black Clover: Jump Festa 2018 Special",
+  "JSAF2018スペシャルアニメ「オール魔法騎士感謝祭」"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/qvu1grtrd6/tk2z8co446/m7gbmg4ebg0194/master.m3u8",
+   "downloadUrl": "/download/mal/38768/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/42035/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/38768/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/qvu1grtrd6/tk2z8co446/m7gbmg4ebg0194/subs/9er81k0zt7y53oe4.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:14:39.997Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "2ba254fcad088e88"
+}
