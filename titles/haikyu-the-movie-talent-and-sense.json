@@ -1,0 +1,47 @@
+{
+ "id": "haikyu-the-movie-talent-and-sense",
+ "title": "haikyu the movie talent and sense",
+ "poster": "https://shikimori.one/system/animes/original/35110.jpg?1711952279",
+ "banner": "https://shikimori.one/system/animes/original/35110.jpg?1711952279",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": null,
+ "status": "",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:33.287Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "rawTitle": "haikyu the movie talent and sense",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/t9v0gakucz/x2cctxlfl5/um8g4zet8759qo/master.m3u8",
+   "downloadUrl": "/download/mal/35110/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/35110/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/t9v0gakucz/x2cctxlfl5/um8g4zet8759qo/subs/7suwitubwd9gjj2w.vtt"
+    },
+    {
+     "label": "Spanish (- Espanol)",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/t9v0gakucz/x2cctxlfl5/um8g4zet8759qo/subs/67wekjkcxfi4p6a5.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:04:51.545Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "a36fd7dc1e693b99"
+}
