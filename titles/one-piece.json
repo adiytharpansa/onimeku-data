@@ -1,0 +1,79 @@
+{
+ "id": "one-piece",
+ "title": "One Piece",
+ "poster": "https://media.kitsu.app/anime/poster_images/12/large.jpg",
+ "banner": "https://media.kitsu.app/anime/12/cover_image/large-3e72f400a87b5241780c5082f0582611.jpeg",
+ "synopsis": "Gol D. Roger was known as the \"Pirate King,\" the strongest and most infamous being to have sailed the Grand Line. The capture and death of Roger by the World Government brought a change throughout the world. His last words before his death revealed the existence of the greatest treasure in the world, One Piece. It was this revelation that brought about the Grand Age of Pirates, men who dreamed of finding One Piece—which promises an unlimited amount of riches and fame—and quite possibly the pinnacle of glory and the title of the Pirate King.\nEnter Monkey D. Luffy, a 17-year-old boy who defies your standard definition of a pirate. Rather than the popular persona of a wicked, hardened, toothless pirate ransacking villages for fun, Luffy’s reason for being a pirate is one of pure wonder: the thought of an exciting adventure that leads him to intriguing people and ultimately, the promised treasure. Following in the footsteps of his childhood hero, Luffy and his crew travel across the Grand Line, experiencing crazy adventures, unveiling dark mysteries and battling strong enemies, all in order to reach the most coveted of all fortunes—One Piece.\n[Written by MAL Rewrite]",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Comedy",
+  "Drama",
+  "Fantasy",
+  "Super Power",
+  "Friendship"
+ ],
+ "score": 8.4,
+ "year": 1999,
+ "status": "RELEASING",
+ "totalEpisodes": null,
+ "latestEpisode": 4,
+ "episodeNumbers": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "updatedAt": "2026-10-15T15:42:18.891Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "one piece",
+ "altTitles": [
+  "ONE PIECE"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/f899139df5e1059396431415e770c6dd/61b87186ab260d05003427e16ccf5657/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759201832-4237-one-piece.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/2142/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-14T02:54:37.187Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/f899139df5e1059396431415e770c6dd/9d3cf7f3edbbb5bf5c296b023984c765/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759201832-4237-one-piece.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/2143/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-14T10:09:43.753Z",
+   "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/f899139df5e1059396431415e770c6dd/eeb6289ad9c527670cd9af02688c2042/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759201832-4237-one-piece.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/2144/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-14T15:31:27.941Z",
+   "customSubs": []
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/f899139df5e1059396431415e770c6dd/a3206bd0cbea4e77c49277edc6bdbb96/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759201832-4237-one-piece.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/2145/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-14T15:34:21.574Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "27a21aede00c1ed9"
+}
