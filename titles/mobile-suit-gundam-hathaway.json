@@ -1,0 +1,45 @@
+{
+ "id": "mobile-suit-gundam-hathaway",
+ "title": "Mobile Suit Gundam: Hathaway",
+ "poster": "https://media.kitsu.app/anime/poster_images/41224/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/41224/large.jpg",
+ "synopsis": "—Do you know the Nejen?\nIf you know it, then I'll take you there—\n\nThe year is U.C. 0105. Twelve years have passed since the end of the second Neo Zeon War (Char's Rebellion). Even after \"the Axis Shock,\" which seemed to indicate the future of humanity and the Universal Century, the world is still in a chaotic situation where intermittent military conflicts continue to break out. The Earth Federation government is more corrupt than ever, and its leadership has not only accelerated Earth's pollution but also implemented an inhuman \"Man Hunting\" policy in which civilians are forcibly exiled to outer space.\n\nThe anti-Federation government organization \"Mafty,\" led by someone called \"Mafty Navue Erin,\" has taken a stand against the corruption of the Earth Sphere. Mafty carries out fierce acts of terrorism, assassinating high officials of the Federation government one after another, but it gains a certain level of support from the populace who are growing more opposed to the Federation government.\n\nThe person who calls himself \"Mafty\" and leads this organization is Hathaway Noa, the son of Bright Noa, an officer of the Earth Federation Forces who once participated in the One Year War. Hathaway himself joined the forces trying to stop Char’s Rebellion. With firsthand knowledge of the ideals and ideologies of Amuro Ray and Char Aznable, he has become a warrior following in their footsteps and plans to clear a path forward through armed resistance. His destiny, however, is drastically altered as he encounters the Federation Forces officer Kenneth Sleg and a mysterious young beauty named Gigi Andalucia.\n\n(Source: Gundam.info)",
+ "genres": [],
+ "score": 8.2,
+ "year": 2021,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:39:39.218Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "mobile suit gundam hathaway",
+ "altTitles": [
+  "Kidou Senshi Gundam: Senkou no Hathaway",
+  "機動戦士ガンダム 閃光のハサウェイ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/js0ii5vby9/ac8kq7nb1k/1wbq1hlmdnrv75/master.m3u8",
+   "downloadUrl": "/download/mal/37765/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/41224/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/37765/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/js0ii5vby9/ac8kq7nb1k/1wbq1hlmdnrv75/subs/j5u1t22q2qq9kixy.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:10:43.150Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "e5a0828c728ecfe4"
+}
