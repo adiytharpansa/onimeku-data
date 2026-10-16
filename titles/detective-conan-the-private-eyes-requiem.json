@@ -1,0 +1,47 @@
+{
+ "id": "detective-conan-the-private-eyes-requiem",
+ "title": "Detective Conan: The Private Eyes' Requiem",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1506-EHhN6loLBaau.jpg",
+ "banner": "",
+ "synopsis": "After receiving a strange invitation, Kogorou Mouri pays a visit to the Miracle Land theme park along with his daughter Ran, Conan Edogawa, and the Detective Boys. Once there, Kogorou and Conan are tasked with finishing an unsolved case by a mysterious stranger. Realizing that the invitations were actually an elaborate trap, the two have just 12 hours to solve the case or face grave danger.\n\n\n\nWith the help of familiar faces like Heiji Hattori, Kaitou Kid, and even Saguru Hakuba, the group of detectives must unravel the web of clues surrounding the case in order to find the culprit and bring them to justice before it's too late.\n\n\n\n(Source: MAL Rewrite)",
+ "genres": [
+  "Mystery"
+ ],
+ "score": 7.8,
+ "year": 2006,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T21:13:54.659Z",
+ "type": "MOVIE",
+ "season": "SPRING",
+ "anilistId": 1506,
+ "rawTitle": "detective conan the private eyes requiem",
+ "altTitles": [
+  "Meitantei Conan: Tantei-tachi no Requiem",
+  "名探偵コナン　探偵たちの鎮魂歌[レクイエム]"
+ ],
+ "studio": "TMS Entertainment",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/wjgsavznm8/q9b0s6821x/qlwtz6l9ob956c/master.m3u8",
+   "downloadUrl": "/download/mal/1506/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b1506-EHhN6loLBaau.jpg",
+   "referer": "https://zokoanime.video/stream/mal/1506/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/wjgsavznm8/q9b0s6821x/qlwtz6l9ob956c/subs/9rsm3f96o7r5y4f4.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T21:13:54.659Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "a148dd35bac7d474"
+}
