@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "kingdom season 4",
  "altTitles": [
   "キングダム 4"
@@ -40,5 +41,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "265ce9bfeaddbcde"
+ "_syncHash": "3f754f16333c682e"
 }

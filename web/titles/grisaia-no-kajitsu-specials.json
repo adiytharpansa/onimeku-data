@@ -19,6 +19,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "grisaia no kajitsu specials",
  "altTitles": [
   "Grisaia no Kajitsu Specials",
@@ -37,5 +38,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "2a79d6c8e22a1df1"
+ "_syncHash": "7c5e5f9400d02003"
 }

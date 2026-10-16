@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "episode 2",
  "altTitles": [],
  "studio": null,
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "732d3b6cdbd3a927"
+ "_syncHash": "d0e08b710c36ef2c"
 }

@@ -25,6 +25,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "alya sometimes hides her feelings in russian",
  "altTitles": [
   "Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san",
@@ -123,5 +124,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "dddb85fe30371450"
+ "_syncHash": "11a80c1835e1f55b"
 }

@@ -17,6 +17,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "CN",
  "rawTitle": "the daily life of the immortal king",
  "altTitles": [],
  "studio": null,
@@ -118,5 +119,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "4829a59bb6923508"
+ "_syncHash": "5635308ea2edd316"
 }

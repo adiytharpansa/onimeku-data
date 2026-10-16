@@ -21,6 +21,7 @@
  "type": "TV",
  "season": "WINTER",
  "anilistId": 100876,
+ "country": "JP",
  "rawTitle": "kakegurui",
  "altTitles": [
   "Kakegurui ××",
@@ -180,5 +181,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "edb2346d60e2043e"
+ "_syncHash": "be5610774212cbf6"
 }

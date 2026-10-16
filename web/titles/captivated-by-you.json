@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "captivated by you",
  "altTitles": [
   "Muchuu sa, Kimi ni.",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f0771224aacbebb8"
+ "_syncHash": "b0507e21004d86b9"
 }

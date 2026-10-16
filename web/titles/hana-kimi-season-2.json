@@ -22,6 +22,7 @@
  "type": "ONA",
  "season": "SUMMER",
  "anilistId": 209669,
+ "country": "JP",
  "rawTitle": "hana kimi season 2",
  "altTitles": [
   "Hanazakari no Kimitachi e 2nd Season",
@@ -46,5 +47,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "5e234488b9c5f878"
+ "_syncHash": "e953af1722f53292"
 }

@@ -23,6 +23,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "sengoku basara samurai kings 2",
  "altTitles": [
   "Sengoku Basara Two",
@@ -52,5 +53,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "2026a62ca1eb5de7"
+ "_syncHash": "1d247b159b02ffe6"
 }

@@ -22,6 +22,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": 199794,
+ "country": "JP",
  "rawTitle": "anila to cocora",
  "altTitles": [
   "アニラとココラ"
@@ -77,5 +78,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "91f4be7bee31e12a"
+ "_syncHash": "a0794ecdf854e5cb"
 }

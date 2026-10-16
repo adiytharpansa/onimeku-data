@@ -17,6 +17,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "is the order a rabbit bloom",
  "altTitles": [
   "Gochuumon wa Usagi Desu ka? Bloom",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "102eeacbd333bf2b"
+ "_syncHash": "fa58e25c13ce88e0"
 }

@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "iron wok jan",
  "altTitles": [
   "Tetsunabe no Jan!",
@@ -111,5 +112,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "ff84347c5a3832df"
+ "_syncHash": "3528568094549ed4"
 }

@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "bang dream yumeinfinitymita",
  "altTitles": [],
  "studio": null,
@@ -32,5 +33,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "c95edcd4d41076ae"
+ "_syncHash": "55f98292d78ffa4c"
 }

@@ -49,6 +49,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "Angel Beats!",
  "altTitles": [],
  "studio": null,
@@ -114,5 +115,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "56c67d6760c2dbd2"
+ "_syncHash": "2bf78ae3390f5bd7"
 }

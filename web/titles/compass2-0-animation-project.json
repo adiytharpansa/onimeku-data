@@ -46,6 +46,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "#Compass2.0 Animation Project",
  "altTitles": [],
  "studio": null,
@@ -121,5 +122,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b5a5ae8c53b923f4"
+ "_syncHash": "891368929c2cb6e8"
 }

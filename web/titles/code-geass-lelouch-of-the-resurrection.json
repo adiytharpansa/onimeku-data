@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "code geass lelouch of the resurrection",
  "altTitles": [],
  "studio": null,
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "fbcb4f315ab3549a"
+ "_syncHash": "a611aee039b91d1b"
 }

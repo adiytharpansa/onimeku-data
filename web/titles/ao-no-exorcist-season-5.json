@@ -44,6 +44,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "Ao no Exorcist Season 5",
  "altTitles": [],
  "studio": null,
@@ -109,5 +110,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "6ed1a4bcecefde7f"
+ "_syncHash": "37565a81dc4abb5c"
 }

@@ -25,6 +25,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": null,
  "rawTitle": "tsubasa reservoir chronicle season two",
  "altTitles": [
   "Tsubasa Chronicle 2nd Season",
@@ -49,5 +50,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "c135ee64c8c2870c"
+ "_syncHash": "ecfbea773eb6ee4d"
 }

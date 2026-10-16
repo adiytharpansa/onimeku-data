@@ -17,6 +17,7 @@
  "type": "TV",
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "a journey through another world raising kids while adventuring dub",
  "altTitles": [
   "Isekai Yururi Kikou: Kosodate Shinagara Boukensha Shimasu",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b6aa1dc1a12d4a76"
+ "_syncHash": "23d0ddce074d1b42"
 }

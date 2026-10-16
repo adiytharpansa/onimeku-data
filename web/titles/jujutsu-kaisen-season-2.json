@@ -23,6 +23,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": 145064,
+ "country": "JP",
  "rawTitle": "Jujutsu Kaisen Season 2",
  "altTitles": [
   "Jujutsu Kaisen 2nd Season",
@@ -159,5 +160,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "d17f47799bed0f5d"
+ "_syncHash": "f7c90e504c589f9c"
 }

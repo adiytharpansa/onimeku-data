@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "ron kamonohashis forbidden deductions",
  "altTitles": [],
  "studio": null,
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "220f02e1e36cf8e4"
+ "_syncHash": "7541907771a3e556"
 }

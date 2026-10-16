@@ -23,6 +23,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "bleach the movie hell verse",
  "altTitles": [
   "Bleach Movie 4: Jigoku-hen",
@@ -47,5 +48,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "9f54d7478c7d0e82"
+ "_syncHash": "e4dcf64a218923ae"
 }

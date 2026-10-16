@@ -16,10 +16,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-16T16:55:51.109Z",
+ "updatedAt": "2026-10-16T18:45:46.921Z",
  "type": "TV",
  "season": "FALL",
  "anilistId": 159559,
+ "country": "JP",
  "rawTitle": "16bit sensation another layer",
  "altTitles": [
   "16bit Sensation: ANOTHER LAYER",
@@ -40,9 +41,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/33l4i611bw/cg11ds4okn/pklfjnl0ia5l8q/subs/7eynmiocgoh3btvp.vtt"
     }
    ],
-   "addedAt": "2026-10-16T16:55:51.109Z",
+   "addedAt": "2026-10-16T18:45:46.921Z",
    "customSubs": []
   }
  ],
- "_syncHash": "d20528002a6647f0"
+ "_syncHash": "5f9c2ce8551c5799"
 }

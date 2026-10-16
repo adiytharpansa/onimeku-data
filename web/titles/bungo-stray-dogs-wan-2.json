@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "bungo stray dogs wan 2",
  "altTitles": [
   "Bungou Stray Dogs Wan! 2",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "33518b4147cedb49"
+ "_syncHash": "7b91d175c7f78482"
 }

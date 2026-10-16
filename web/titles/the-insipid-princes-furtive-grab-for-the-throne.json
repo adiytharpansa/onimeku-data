@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "the insipid princes furtive grab for the throne",
  "altTitles": [
   "Saikyou Degarashi Ouji no Anyaku Teii Arasoi: Munou wo Enjiru SS Rank Ouji wa Koui Keishou-sen wo Kage kara Shihai suru",
@@ -96,5 +97,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "870b9e3b7ebce065"
+ "_syncHash": "369d2c6e046791f6"
 }

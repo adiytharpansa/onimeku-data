@@ -23,6 +23,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "little busters",
  "altTitles": [
   "リトルバスターズ!"
@@ -40,5 +41,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "0c97560842abe4ee"
+ "_syncHash": "da44b29aab349155"
 }

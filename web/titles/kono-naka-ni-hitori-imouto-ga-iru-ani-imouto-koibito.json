@@ -23,6 +23,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "kono naka ni hitori imouto ga iru ani imouto koibito",
  "altTitles": [
   "この中に1人、妹がいる！兄、妹、恋人"
@@ -46,5 +47,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "22d379a8464a9f0e"
+ "_syncHash": "bb6d64b063dfd30a"
 }

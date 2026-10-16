@@ -44,6 +44,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "Blue Lock Season 2",
  "altTitles": [],
  "studio": null,
@@ -119,5 +120,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f56713ff2820e583"
+ "_syncHash": "730e0f8fa6abe011"
 }

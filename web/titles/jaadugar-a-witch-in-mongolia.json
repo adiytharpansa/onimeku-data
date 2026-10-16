@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "jaadugar a witch in mongolia",
  "altTitles": [
   "Tenmaku no Jaadugar",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "5b9443e2756ca3ba"
+ "_syncHash": "1e1d58edaea2786c"
 }

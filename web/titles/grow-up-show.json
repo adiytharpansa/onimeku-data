@@ -21,6 +21,7 @@
  "type": "TV",
  "season": "SUMMER",
  "anilistId": 196017,
+ "country": "JP",
  "rawTitle": "grow up show",
  "altTitles": [
   "Grow Up Show: Himawari no Circus-dan",
@@ -39,5 +40,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "18b6c100c10f1f17"
+ "_syncHash": "f71aa4f6815d175b"
 }

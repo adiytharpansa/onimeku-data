@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "mushoku tensei jobless reincarnation season 3",
  "altTitles": [
   "Mushoku Tensei: Isekai Ittara Honki Dasu 3rd Season",
@@ -51,5 +52,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b365b54dc3d5876d"
+ "_syncHash": "e02d004198f4d0de"
 }

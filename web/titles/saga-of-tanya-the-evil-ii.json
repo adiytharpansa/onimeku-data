@@ -13,10 +13,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:44:31.880Z",
+ "updatedAt": "2026-10-16T20:53:31.090Z",
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "saga of tanya the evil ii",
  "altTitles": [
   "Youjo Senki II",
@@ -77,9 +78,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/1lxx6alxgz/gzacs4srfz/0rw4ws46yls59f/subs/bgcmwuiorbqq7qct.vtt"
     }
    ],
-   "addedAt": "2026-10-14T02:39:09.297Z",
+   "addedAt": "2026-10-16T20:53:31.090Z",
    "customSubs": []
   }
  ],
- "_syncHash": "97937f9109cda9ee"
+ "_syncHash": "f3120dd7f711dce8"
 }

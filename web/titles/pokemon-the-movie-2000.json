@@ -23,6 +23,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "pokemon the movie 2000",
  "altTitles": [
   "Pokemon: Maboroshi no Pokemon Lugia Bakutan",
@@ -47,5 +48,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "9544fabb05a1e671"
+ "_syncHash": "0a577b5b7034aa12"
 }

@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "magical girl lyrical nanoha exceeds gun blaze vengeance",
  "altTitles": [
   "魔法少女リリカルなのは EXCEEDS Gun Blaze Vengeance"
@@ -34,5 +35,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "7562c3837cb52d95"
+ "_syncHash": "0ad2cc38b1273d2c"
 }

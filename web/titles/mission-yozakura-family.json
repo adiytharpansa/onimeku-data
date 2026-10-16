@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "mission yozakura family",
  "altTitles": [
   "Yozakura-san Chi no Daisakusen",
@@ -51,5 +52,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "ee3e3451cd4b88d4"
+ "_syncHash": "6169eb330d32af78"
 }

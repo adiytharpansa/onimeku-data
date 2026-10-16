@@ -22,6 +22,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "teasing master takagi san",
  "altTitles": [
   "Karakai Jouzu no Takagi-san",
@@ -76,5 +77,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f03e004dfa9c2a7e"
+ "_syncHash": "282dcaa487c8d8e2"
 }

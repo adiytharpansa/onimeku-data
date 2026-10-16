@@ -28,6 +28,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "one piece",
  "altTitles": [
   "ONE PIECE"
@@ -75,5 +76,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "fe6652ea820f93e8"
+ "_syncHash": "026d7b9bea7cbfb5"
 }

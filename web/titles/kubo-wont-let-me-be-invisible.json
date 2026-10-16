@@ -17,6 +17,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "kubo wont let me be invisible",
  "altTitles": [
   "Kubo-san wa Mob wo Yurusanai",
@@ -41,5 +42,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b24509ca9af176ad"
+ "_syncHash": "80ca2865a76f1690"
 }

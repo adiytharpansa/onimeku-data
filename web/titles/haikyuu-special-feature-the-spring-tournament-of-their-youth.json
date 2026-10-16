@@ -20,6 +20,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "haikyuu special feature the spring tournament of their youth",
  "altTitles": [
   "Haikyuu!!: Tokushuu! Haru-kou Volley ni Kaketa Seishun",
@@ -44,5 +45,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "2381b5032ebe3ce9"
+ "_syncHash": "8afe3b5db6e9de5d"
 }

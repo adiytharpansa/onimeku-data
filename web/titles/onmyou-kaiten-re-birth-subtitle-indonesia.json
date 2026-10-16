@@ -26,6 +26,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "Onmyou Kaiten Re:Birth Subtitle Indonesia",
  "altTitles": [],
  "studio": null,
@@ -91,5 +92,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "18c672aca76ffce2"
+ "_syncHash": "84b51c6307feaa99"
 }

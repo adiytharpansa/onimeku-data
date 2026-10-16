@@ -19,6 +19,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "headhunted to another world from salaryman to big four dub",
  "altTitles": [
   "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
@@ -57,5 +58,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "6b9282db02490a5b"
+ "_syncHash": "6b831d23f4eb8873"
 }

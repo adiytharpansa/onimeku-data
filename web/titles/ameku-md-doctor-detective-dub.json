@@ -21,6 +21,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": 176642,
+ "country": "JP",
  "rawTitle": "ameku md doctor detective dub",
  "altTitles": [
   "Ameku Takao no Suiri Karte",
@@ -49,5 +50,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "faf26ebe344c7fcd"
+ "_syncHash": "b049d3fa1e3e54b7"
 }

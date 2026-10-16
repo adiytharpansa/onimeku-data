@@ -20,6 +20,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "wotakoi love is hard for otaku",
  "altTitles": [
   "Wotaku ni Koi wa Muzukashii",
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f971c3239484abdd"
+ "_syncHash": "993c6545aeea5e8d"
 }

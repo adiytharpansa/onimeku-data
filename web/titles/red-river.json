@@ -13,10 +13,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-16T16:07:27.719Z",
+ "updatedAt": "2026-10-16T20:56:20.569Z",
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "red river",
  "altTitles": [
   "Sora wa Akai Kawa no Hotori",
@@ -77,9 +78,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/2esz6647bq/nvqy5m7zu6/2dded277e2g0wg/subs/z03jvkrmcarty49t.vtt"
     }
    ],
-   "addedAt": "2026-10-16T16:07:27.719Z",
+   "addedAt": "2026-10-16T20:56:20.569Z",
    "customSubs": []
   }
  ],
- "_syncHash": "1bc7a34b88eeeee1"
+ "_syncHash": "b76cf31175e936ad"
 }

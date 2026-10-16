@@ -28,6 +28,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
  "altTitles": [],
  "studio": null,
@@ -103,5 +104,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "dd87a3f66c7c6921"
+ "_syncHash": "a2cbde6b994b5314"
 }

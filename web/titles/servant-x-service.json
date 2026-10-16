@@ -21,6 +21,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "servant x service",
  "altTitles": [
   "サーバント×サービス"
@@ -54,5 +55,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "168ec52dcc281606"
+ "_syncHash": "6eefa306d41b1c0e"
 }

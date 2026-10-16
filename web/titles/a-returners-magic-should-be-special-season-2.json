@@ -21,6 +21,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": 172192,
+ "country": "JP",
  "rawTitle": "a returners magic should be special season 2",
  "altTitles": [
   "Kikansha no Mahou wa Tokubetsu desu 2nd Season",
@@ -39,5 +40,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "605a97ee03eae3b4"
+ "_syncHash": "56da1dfd2328b6ad"
 }

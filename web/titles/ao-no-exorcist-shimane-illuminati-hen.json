@@ -46,6 +46,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "Ao no Exorcist: Shimane Illuminati-hen",
  "altTitles": [],
  "studio": null,
@@ -121,5 +122,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "92a0cde9d889c148"
+ "_syncHash": "e4d745140d4a08d7"
 }

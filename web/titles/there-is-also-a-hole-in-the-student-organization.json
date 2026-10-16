@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "there is also a hole in the student organization",
  "altTitles": [],
  "studio": null,
@@ -32,5 +33,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "31128f483326b956"
+ "_syncHash": "0f08dce029c0f225"
 }

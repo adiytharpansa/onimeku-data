@@ -34,6 +34,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "Enen no Shouboutai Season 2 Subtitle Indonesia",
  "altTitles": [],
  "studio": null,
@@ -159,5 +160,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "ae2a85177d445619"
+ "_syncHash": "0a55c915d1867f6f"
 }

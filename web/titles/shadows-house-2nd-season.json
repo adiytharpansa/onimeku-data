@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "shadows house 2nd season",
  "altTitles": [
   "シャドーハウス2"
@@ -40,5 +41,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "7da9f6e97eff2c15"
+ "_syncHash": "a73e5a277eae762d"
 }

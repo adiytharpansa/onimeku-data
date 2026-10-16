@@ -21,6 +21,7 @@
  "type": "TV",
  "season": "SPRING",
  "anilistId": 100500,
+ "country": "JP",
  "rawTitle": "kakuriyo bed and breakfast for spirits",
  "altTitles": [
   "Kakuriyo no Yadomeshi",
@@ -39,5 +40,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "6f1ffb5440c5a613"
+ "_syncHash": "fb24a6bc17954412"
 }

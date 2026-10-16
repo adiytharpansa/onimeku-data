@@ -22,6 +22,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": null,
  "rawTitle": "fatestay night unlimited blade works",
  "altTitles": [
   "Fate/stay night: Unlimited Blade Works"
@@ -45,5 +46,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "282383df785b81f0"
+ "_syncHash": "1ae2d2a39e90cffa"
 }

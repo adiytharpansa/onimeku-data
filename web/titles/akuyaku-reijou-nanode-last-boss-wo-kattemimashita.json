@@ -47,6 +47,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "Akuyaku Reijou nanode Last Boss wo Kattemimashita",
  "altTitles": [],
  "studio": null,
@@ -112,5 +113,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "4d86ef3860c62431"
+ "_syncHash": "27a6f75150f88784"
 }

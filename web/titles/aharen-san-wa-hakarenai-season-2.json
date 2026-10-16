@@ -47,6 +47,7 @@
  "type": "TV",
  "season": "SPRING",
  "anilistId": 179979,
+ "country": "JP",
  "rawTitle": "aharen san wa hakarenai season 2",
  "altTitles": [
   "阿波連さんははかれない season2"
@@ -124,5 +125,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "11d8cd98d4ba4754"
+ "_syncHash": "f9aef4b88c76a2e3"
 }

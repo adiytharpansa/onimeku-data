@@ -18,10 +18,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-16T15:37:09.610Z",
+ "updatedAt": "2026-10-16T20:28:14.989Z",
  "type": "ONA",
  "season": "SUMMER",
  "anilistId": 168872,
+ "country": "JP",
  "rawTitle": "kimi ni todoke from me to you season 3",
  "altTitles": [
   "Kimi ni Todoke 3RD SEASON",
@@ -42,9 +43,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/yk53xvp1v8/qvsc2kkoos/tn6lb9jg8u5tjt/subs/z44d4f7mxpdwn23a.vtt"
     }
    ],
-   "addedAt": "2026-10-16T15:37:09.610Z",
+   "addedAt": "2026-10-16T20:28:14.989Z",
    "customSubs": []
   }
  ],
- "_syncHash": "24349c79fc17ec5a"
+ "_syncHash": "a8c3e63b5e068de9"
 }

@@ -23,6 +23,7 @@
  "type": "TV",
  "season": "WINTER",
  "anilistId": 104051,
+ "country": "JP",
  "rawTitle": "magia record puella magi madoka magica side story",
  "altTitles": [
   "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden",
@@ -57,5 +58,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "7550484a0dabbefe"
+ "_syncHash": "b575e42bc94e0826"
 }

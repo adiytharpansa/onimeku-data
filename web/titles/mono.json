@@ -21,6 +21,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "mono",
  "altTitles": [
   "Hyouka: Motsubeki Mono wa",
@@ -39,5 +40,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f106b056228b272f"
+ "_syncHash": "0a4053e513b5068c"
 }

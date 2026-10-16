@@ -21,6 +21,7 @@
  "type": "MOVIE",
  "season": "SUMMER",
  "anilistId": 8888,
+ "country": "JP",
  "rawTitle": "code geass akito the exiled the wyvern arrives",
  "altTitles": [
   "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita",
@@ -45,5 +46,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "fddbd83c15309c36"
+ "_syncHash": "e98fd1951d98616d"
 }

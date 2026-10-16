@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "gridman universe",
  "altTitles": [
   "グリッドマン ユニバース"
@@ -40,5 +41,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "60ccc68ff765e225"
+ "_syncHash": "e987544e108b8af4"
 }

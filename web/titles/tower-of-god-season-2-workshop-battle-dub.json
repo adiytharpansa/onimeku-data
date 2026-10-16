@@ -17,6 +17,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": null,
  "rawTitle": "tower of god season 2 workshop battle dub",
  "altTitles": [
   "Kami no Tou: Koubou-sen",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "be5a2accf0043839"
+ "_syncHash": "d5e137aec2cbabc8"
 }

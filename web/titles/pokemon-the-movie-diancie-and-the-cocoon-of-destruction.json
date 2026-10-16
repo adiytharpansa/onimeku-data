@@ -21,6 +21,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "pokemon the movie diancie and the cocoon of destruction",
  "altTitles": [
   "Pokemon XY: Hakai no Mayu to Diancie",
@@ -60,5 +61,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f9a202707040c402"
+ "_syncHash": "6a5fce1f5ff7ed14"
 }

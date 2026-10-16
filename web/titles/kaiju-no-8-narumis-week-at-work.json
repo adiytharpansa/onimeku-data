@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "kaiju no 8 narumis week at work",
  "altTitles": [],
  "studio": null,
@@ -113,5 +114,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "02567c90b104bc91"
+ "_syncHash": "ec5bb3f3145e5a1a"
 }

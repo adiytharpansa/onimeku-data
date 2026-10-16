@@ -24,6 +24,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "date a live ii",
  "altTitles": [
   "デート・ア・ライブⅡ"
@@ -47,5 +48,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "53e573bc19b7d74e"
+ "_syncHash": "d71850b5f1692d83"
 }

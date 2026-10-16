@@ -24,6 +24,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "pokemon the first movie",
  "altTitles": [
   "Pokemon: Mewtwo no Gyakushuu",
@@ -53,5 +54,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "60bec52de137c72e"
+ "_syncHash": "a841136c1f4cd268"
 }

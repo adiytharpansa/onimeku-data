@@ -25,6 +25,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "one piece episode of nami tears of a navigator and the bonds of friends",
  "altTitles": [
   "One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna",
@@ -49,5 +50,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "44dbce4fca785e82"
+ "_syncHash": "5d0f4b3144d6e3f7"
 }

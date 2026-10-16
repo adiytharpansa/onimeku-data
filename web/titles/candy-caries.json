@@ -13,10 +13,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-16T09:49:09.864Z",
+ "updatedAt": "2026-10-16T19:40:16.695Z",
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "candy caries",
  "altTitles": [],
  "studio": null,
@@ -34,9 +35,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/i5zfmgmnuy/f5hwjlmzik/naofbjt2at4clr/subs/ktfshdaatcsupj0t.vtt"
     }
    ],
-   "addedAt": "2026-10-16T09:49:09.864Z",
+   "addedAt": "2026-10-16T19:40:16.695Z",
    "customSubs": []
   }
  ],
- "_syncHash": "701e059a6c406107"
+ "_syncHash": "0f41f48c6d8eca03"
 }

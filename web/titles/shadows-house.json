@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "shadows house",
  "altTitles": [
   "シャドーハウス"
@@ -40,5 +41,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f981474121139a31"
+ "_syncHash": "e8abd5aa31bdcdc8"
 }

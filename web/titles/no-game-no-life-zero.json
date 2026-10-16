@@ -26,6 +26,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "no game no life zero",
  "altTitles": [
   "ノーゲーム・ノーライフ ゼロ"
@@ -54,5 +55,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f396cc59a90f421a"
+ "_syncHash": "23b71c58c0d512bd"
 }

@@ -23,6 +23,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "sengoku basara samurai kings the movie",
  "altTitles": [
   "Sengoku Basara Movie: The Last Party",
@@ -47,5 +48,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f4a817a99ab057ca"
+ "_syncHash": "a812074b336a3a10"
 }

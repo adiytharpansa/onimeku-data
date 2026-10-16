@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "chainsmoker cat",
  "altTitles": [
   "Yani Neko",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "5eae2b88e2fcbe1a"
+ "_syncHash": "6130217bc30ceffb"
 }

@@ -25,6 +25,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": 20,
+ "country": "JP",
  "rawTitle": "Naruto",
  "altTitles": [
   "NARUTO",
@@ -65,5 +66,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "507d50db5ee25ab4"
+ "_syncHash": "82c2b6a3da1f41e3"
 }

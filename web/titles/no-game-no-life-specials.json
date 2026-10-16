@@ -26,6 +26,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "no game no life specials",
  "altTitles": [
   "ノーゲーム・ノーライフ ミニ"
@@ -129,5 +130,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b1c55520fdf98daf"
+ "_syncHash": "ccc7fca2f20199e0"
 }

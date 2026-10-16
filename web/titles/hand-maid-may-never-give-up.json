@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "hand maid may never give up",
  "altTitles": [],
  "studio": null,
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "d5bfd30832089c79"
+ "_syncHash": "68e0d899eef37f72"
 }

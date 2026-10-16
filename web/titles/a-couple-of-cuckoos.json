@@ -23,6 +23,7 @@
  "type": "TV",
  "season": "SPRING",
  "anilistId": 132052,
+ "country": "JP",
  "rawTitle": "a couple of cuckoos",
  "altTitles": [
   "Kakkou no Iinazuke",
@@ -71,5 +72,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "7280d7ed0c0e2fef"
+ "_syncHash": "bf45c0c3db6ef55a"
 }

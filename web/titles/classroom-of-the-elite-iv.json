@@ -20,6 +20,7 @@
  "type": "TV",
  "season": "SUMMER",
  "anilistId": 98659,
+ "country": "JP",
  "rawTitle": "classroom of the elite iv",
  "altTitles": [
   "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
@@ -84,5 +85,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "0b88779d73a79619"
+ "_syncHash": "b82288d13eb05312"
 }

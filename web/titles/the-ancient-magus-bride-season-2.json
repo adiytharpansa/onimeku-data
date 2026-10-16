@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "the ancient magus bride season 2",
  "altTitles": [
   "Mahoutsukai no Yome SEASON 2",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "1a1dd2e039ca2c95"
+ "_syncHash": "4cb63aaa342f2d69"
 }

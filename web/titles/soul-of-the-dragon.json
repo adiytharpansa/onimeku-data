@@ -17,6 +17,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "soul of the dragon",
  "altTitles": [],
  "studio": null,
@@ -32,5 +33,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "ee8a3ff791c07dfb"
+ "_syncHash": "f730d57acb9882b3"
 }

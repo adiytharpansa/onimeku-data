@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "go go vehicle zoo vehicle star hen",
  "altTitles": [
   "ゴー！ゴー！びーくるずー のりものスター編"
@@ -34,5 +35,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "109d8f280c2c1e32"
+ "_syncHash": "cedf42673fd173cd"
 }

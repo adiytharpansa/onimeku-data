@@ -25,6 +25,7 @@
  "type": "TV_SHORT",
  "season": "FALL",
  "anilistId": 199009,
+ "country": "JP",
  "rawTitle": "2200 nen neko no kuni nippon",
  "altTitles": [
   "2200年ねこの国ニッポン"
@@ -82,5 +83,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "2bd17390fe5db098"
+ "_syncHash": "09bf74e3526567b3"
 }

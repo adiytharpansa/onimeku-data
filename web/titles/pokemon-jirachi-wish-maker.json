@@ -23,6 +23,7 @@
  "type": "MOVIE",
  "season": "SUMMER",
  "anilistId": 1121,
+ "country": "JP",
  "rawTitle": "pokemon jirachi wish maker",
  "altTitles": [
   "Pocket Monsters Advanced Generation: Nanayo no Negaiboshi Jirachi",
@@ -47,5 +48,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b281543ede502d9b"
+ "_syncHash": "34f279f0132aac50"
 }

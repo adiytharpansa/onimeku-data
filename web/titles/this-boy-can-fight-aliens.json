@@ -23,6 +23,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "this boy can fight aliens",
  "altTitles": [
   "Kono Danshi, Uchuujin to Tatakaemasu.",
@@ -41,5 +42,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "04c494319faf40ce"
+ "_syncHash": "2eae24c277df8271"
 }

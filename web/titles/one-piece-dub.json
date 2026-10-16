@@ -25,6 +25,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "one piece dub",
  "altTitles": [
   "ONE PIECE"
@@ -42,5 +43,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "45f4b722d7beeba5"
+ "_syncHash": "706cb2e09fe565ec"
 }

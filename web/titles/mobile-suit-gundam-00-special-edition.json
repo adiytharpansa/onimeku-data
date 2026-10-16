@@ -23,6 +23,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "mobile suit gundam 00 special edition",
  "altTitles": [
   "Kidou Senshi Gundam 00 Special Edition",
@@ -47,5 +48,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "761eb0913d78abcd"
+ "_syncHash": "65950482cfbe97dc"
 }

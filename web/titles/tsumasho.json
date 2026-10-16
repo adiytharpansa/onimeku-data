@@ -17,6 +17,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "tsumasho",
  "altTitles": [
   "Tsuma, Shougakusei ni Naru.",
@@ -51,5 +52,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "7c709de40f860cb1"
+ "_syncHash": "deccc36ad62f67a4"
 }

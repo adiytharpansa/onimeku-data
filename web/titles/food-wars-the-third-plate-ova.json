@@ -19,6 +19,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": null,
  "rawTitle": "food wars the third plate ova",
  "altTitles": [
   "Shokugeki no Souma: San no Sara - Kyokuseiryou no Erina",
@@ -37,5 +38,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "8bc638d9d1da4ac5"
+ "_syncHash": "50d89cb05e4735da"
 }

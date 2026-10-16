@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "steinsgate open the missing link divide by zero",
  "altTitles": [],
  "studio": null,
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "d8583aebb8d2084b"
+ "_syncHash": "bc78910e79308e1c"
 }

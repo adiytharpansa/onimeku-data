@@ -21,6 +21,7 @@
  "type": "TV",
  "season": "SPRING",
  "anilistId": 190143,
+ "country": "JP",
  "rawTitle": "agents of the four seasons dance of spring",
  "altTitles": [
   "Shunkashuutou Daikousha: Haru no Mai",
@@ -39,5 +40,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "192ee255626bc0d5"
+ "_syncHash": "c3ae7e4a3f8557f2"
 }

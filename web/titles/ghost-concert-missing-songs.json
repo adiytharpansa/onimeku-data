@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "ghost concert missing songs",
  "altTitles": [
   "ゴーストコンサート: missing Songs"
@@ -40,5 +41,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "4e0788df4c4fe758"
+ "_syncHash": "50fd814247d50d84"
 }

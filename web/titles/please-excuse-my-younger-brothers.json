@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "please excuse my younger brothers",
  "altTitles": [
   "Uchi no Otouto-domo ga Sumimasen",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "4e11cb9c9d3b74e7"
+ "_syncHash": "7863466897e29180"
 }

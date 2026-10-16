@@ -20,6 +20,7 @@
  "type": "ONA",
  "season": "SPRING",
  "anilistId": 199029,
+ "country": "JP",
  "rawTitle": "rent a girlfriend season 5",
  "altTitles": [
   "Kanojo, Okarishimasu 5th Season",
@@ -44,5 +45,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "50502bf9ae3bc7cd"
+ "_syncHash": "93a8f053713ad4a7"
 }

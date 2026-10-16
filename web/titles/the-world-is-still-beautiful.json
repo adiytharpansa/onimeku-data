@@ -21,6 +21,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "the world is still beautiful",
  "altTitles": [
   "Soredemo Sekai wa Utsukushii",
@@ -55,5 +56,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "2c0737811dbc2287"
+ "_syncHash": "815ee93b1812aa1a"
 }

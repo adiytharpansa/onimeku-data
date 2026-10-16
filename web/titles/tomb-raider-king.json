@@ -1,6 +1,6 @@
 {
  "id": "tomb-raider-king",
- "title": "tomb raider king",
+ "title": "Tomb Raider King",
  "poster": "https://lain.bgm.tv/pic/cover/l/7a/d3/621835_IFhDH.jpg",
  "banner": "https://lain.bgm.tv/pic/cover/l/7a/d3/621835_IFhDH.jpg",
  "synopsis": "",
@@ -13,10 +13,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:38:18.294Z",
+ "updatedAt": "2026-10-16T19:41:05.064Z",
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "KR",
  "rawTitle": "tomb raider king",
  "altTitles": [],
  "studio": null,
@@ -25,7 +26,7 @@
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/u9ha06h7og/lx33gyebpy/a3hyng1xlsbigi/master.m3u8",
    "downloadUrl": "/download/mal/63316/1/sub",
-   "thumbnail": "",
+   "thumbnail": "https://lain.bgm.tv/pic/cover/l/7a/d3/621835_IFhDH.jpg",
    "referer": "https://zokoanime.video/stream/mal/63316/1/sub",
    "subtitles": [
     {
@@ -44,9 +45,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/u9ha06h7og/lx33gyebpy/a3hyng1xlsbigi/subs/fop61ej1fi7qrzk8.vtt"
     }
    ],
-   "addedAt": "2026-10-14T02:39:30.815Z",
+   "addedAt": "2026-10-16T19:41:05.064Z",
    "customSubs": []
   }
  ],
- "_syncHash": "fb93db52a66deb22"
+ "_syncHash": "e28bb9ecaf3c3f3b"
 }

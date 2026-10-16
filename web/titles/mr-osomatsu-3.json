@@ -21,6 +21,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "mr osomatsu 3",
  "altTitles": [
   "Osomatsu-san Special",
@@ -49,5 +50,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "6ef4566db413c1ef"
+ "_syncHash": "9ade759072948dd8"
 }

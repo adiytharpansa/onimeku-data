@@ -24,6 +24,7 @@
  "type": "TV",
  "season": "SUMMER",
  "anilistId": 169420,
+ "country": "JP",
  "rawTitle": "watari kuns is about to collapse",
  "altTitles": [
   "Watari-kun no ×× ga Houkai Sunzen",
@@ -120,5 +121,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "c08c1d714ec476da"
+ "_syncHash": "dec1253f1b70273f"
 }

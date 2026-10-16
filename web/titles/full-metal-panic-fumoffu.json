@@ -21,6 +21,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "full metal panic fumoffu",
  "altTitles": [
   "フルメタル・パニック? ふもっふ"
@@ -44,5 +45,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f484b4fea522e5c1"
+ "_syncHash": "a9eecd31da0c80db"
 }

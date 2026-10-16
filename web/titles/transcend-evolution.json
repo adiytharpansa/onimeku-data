@@ -21,6 +21,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "transcend evolution",
  "altTitles": [],
  "studio": null,
@@ -76,5 +77,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "7eacee6ad48e7e4a"
+ "_syncHash": "c2b47be9bcbcafdc"
 }

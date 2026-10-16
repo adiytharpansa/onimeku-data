@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "my next life as a villainess all routes lead to doom x",
  "altTitles": [],
  "studio": null,
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "10e5c38c0bc2dbba"
+ "_syncHash": "e2b74eb5667e1484"
 }

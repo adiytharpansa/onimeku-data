@@ -17,6 +17,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "demon slayer kimetsu no yaiba mugen train arc",
  "altTitles": [
   "Kimetsu no Yaiba: Mugen Ressha-hen",
@@ -56,5 +57,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "6028a42ce60cdbc1"
+ "_syncHash": "01c2dbcf41419057"
 }

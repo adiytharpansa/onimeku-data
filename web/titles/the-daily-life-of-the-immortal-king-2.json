@@ -21,6 +21,7 @@
  "type": "ONA",
  "season": "FALL",
  "anilistId": 126357,
+ "country": "CN",
  "rawTitle": "the daily life of the immortal king 2",
  "altTitles": [
   "Xian Wang De Richang Shenghuo 2",
@@ -45,5 +46,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "3b0de7207e3cb117"
+ "_syncHash": "d644f46f5860f030"
 }

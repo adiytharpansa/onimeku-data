@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "you and i are polar opposites season 2",
  "altTitles": [
   "Seihantai na Kimi to Boku 2nd Season",
@@ -51,5 +52,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "a2d789eaee840875"
+ "_syncHash": "862afe6125ca737c"
 }

@@ -21,6 +21,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "k return of kings",
  "altTitles": [
   "K RETURN OF KINGS"
@@ -44,5 +45,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "8c00b5d6b6a42e1a"
+ "_syncHash": "2f9bccdc22b8eef8"
 }

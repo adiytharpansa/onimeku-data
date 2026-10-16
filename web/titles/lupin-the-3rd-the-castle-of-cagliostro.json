@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "lupin the 3rd the castle of cagliostro",
  "altTitles": [],
  "studio": null,
@@ -143,5 +144,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "4360395b26c884ad"
+ "_syncHash": "70e3e4f03c044d09"
 }

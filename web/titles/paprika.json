@@ -21,10 +21,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-16T12:36:13.121Z",
+ "updatedAt": "2026-10-16T20:30:36.767Z",
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "paprika",
  "altTitles": [
   "パプリカ"
@@ -44,9 +45,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/gqfj94oz79/236m8pn55k/6fohsdf961sd13/subs/61okplbbspibsqiz.vtt"
     }
    ],
-   "addedAt": "2026-10-16T12:36:13.121Z",
+   "addedAt": "2026-10-16T20:30:36.767Z",
    "customSubs": []
   }
  ],
- "_syncHash": "1d8dc02a7e306bf0"
+ "_syncHash": "3ef825d30260f3ff"
 }

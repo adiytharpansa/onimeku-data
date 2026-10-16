@@ -35,6 +35,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "Kenja no Mago",
  "altTitles": [],
  "studio": null,
@@ -160,5 +161,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "d0030871a07a66d4"
+ "_syncHash": "5f8477e39e49bdf6"
 }

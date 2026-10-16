@@ -24,6 +24,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "cardcaptor sakura clear card",
  "altTitles": [
   "Cardcaptor Sakura: Clear Card-hen",
@@ -58,5 +59,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "a3dbf27f479d5eed"
+ "_syncHash": "0df5d32b69a6c3ac"
 }

@@ -24,6 +24,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "code geass lelouch of the rebellion i initiation",
  "altTitles": [
   "Code Geass: Hangyaku no Lelouch I - Koudou",
@@ -48,5 +49,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "38223c318eac3279"
+ "_syncHash": "5e83b20070ce28be"
 }

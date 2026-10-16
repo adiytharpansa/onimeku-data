@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "apocalypse bringer mynoghra",
  "altTitles": [
   "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "3374fc3bf0e8ea0e"
+ "_syncHash": "98b153f171803896"
 }

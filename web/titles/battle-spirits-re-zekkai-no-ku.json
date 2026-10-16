@@ -17,6 +17,7 @@
  "type": "TV",
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "Battle Spirits [Re] Zekkai No Ku",
  "altTitles": [
   "Battle Spirits [Re] 絶界の空"
@@ -34,5 +35,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "eba83dfbcf176c4b"
+ "_syncHash": "b4beffb0cb484745"
 }

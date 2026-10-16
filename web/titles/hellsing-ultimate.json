@@ -19,10 +19,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-16T15:32:22.470Z",
+ "updatedAt": "2026-10-16T19:12:55.487Z",
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "hellsing ultimate",
  "altTitles": [
   "HELLSING OVA"
@@ -102,9 +103,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/xboop8c0iz/foeqvywqpd/vdu3v7i6fksfrn/subs/01gr4z368z39o51d.vtt"
     }
    ],
-   "addedAt": "2026-10-16T15:32:22.470Z",
+   "addedAt": "2026-10-16T19:12:55.487Z",
    "customSubs": []
   }
  ],
- "_syncHash": "34bfdef2fca66737"
+ "_syncHash": "1439e3258f645335"
 }

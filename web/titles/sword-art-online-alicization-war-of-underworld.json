@@ -17,6 +17,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "sword art online alicization war of underworld",
  "altTitles": [
   "ソードアート・オンライン アリシゼーション War of Underworld"
@@ -50,5 +51,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b51217f935a65ac6"
+ "_syncHash": "7802de8f2280d273"
 }

@@ -20,6 +20,7 @@
  "type": "ONA",
  "season": "SUMMER",
  "anilistId": 168092,
+ "country": "JP",
  "rawTitle": "pokemon paldean winds",
  "altTitles": [
   "Houkago no Breath",
@@ -44,5 +45,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "ad2f805c8d63f898"
+ "_syncHash": "c3e25b1f196d5ebd"
 }

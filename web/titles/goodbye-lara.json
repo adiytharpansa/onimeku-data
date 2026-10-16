@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "goodbye lara",
  "altTitles": [
   "Sayonara Lara",
@@ -111,5 +112,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "2f81a7457d4712cd"
+ "_syncHash": "45e094ff40016ff0"
 }

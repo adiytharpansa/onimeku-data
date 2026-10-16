@@ -21,6 +21,7 @@
  "type": "TV",
  "season": "SUMMER",
  "anilistId": 198409,
+ "country": "JP",
  "rawTitle": "the worlds strongest rearguard",
  "altTitles": [
   "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
@@ -55,5 +56,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "c7ee24f99ddf9a59"
+ "_syncHash": "82906db6213e69a6"
 }

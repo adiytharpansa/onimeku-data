@@ -21,6 +21,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": 209463,
+ "country": "JP",
  "rawTitle": "From Far Away",
  "altTitles": [
   "Kanata Kara",
@@ -39,5 +40,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "874b1cb676d8e074"
+ "_syncHash": "1427267486ce9692"
 }

@@ -23,6 +23,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "slayers",
  "altTitles": [
   "スレイヤーズ"
@@ -40,5 +41,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "cdadb385641b1d67"
+ "_syncHash": "87dc07862459297d"
 }

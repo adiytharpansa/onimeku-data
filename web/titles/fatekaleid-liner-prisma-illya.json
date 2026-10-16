@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "fatekaleid liner prisma illya",
  "altTitles": [],
  "studio": null,
@@ -48,5 +49,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "346a0078d0084793"
+ "_syncHash": "66090f96ef41edc3"
 }

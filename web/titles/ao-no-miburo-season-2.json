@@ -48,6 +48,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "Ao no Miburo Season 2",
  "altTitles": [],
  "studio": null,
@@ -123,5 +124,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "45c2d434f08daa8b"
+ "_syncHash": "80d06464db6d9727"
 }

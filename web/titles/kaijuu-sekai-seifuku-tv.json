@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": null,
  "rawTitle": "kaijuu sekai seifuku tv",
  "altTitles": [
   "かいじゅうせかいせいふく"
@@ -34,5 +35,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "ce6cde0780a269a1"
+ "_syncHash": "a33729c74b6a2205"
 }

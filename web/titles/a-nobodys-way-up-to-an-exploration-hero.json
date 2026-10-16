@@ -19,6 +19,7 @@
  "type": "TV",
  "season": "SUMMER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "a nobodys way up to an exploration hero",
  "altTitles": [
   "Mob kara Hajimaru Tansaku Eiyuutan",
@@ -57,5 +58,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "8d2b5b77b384d801"
+ "_syncHash": "6b01053e01fb79e0"
 }

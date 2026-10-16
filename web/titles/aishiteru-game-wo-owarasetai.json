@@ -43,6 +43,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "Aishiteru Game wo Owarasetai",
  "altTitles": [],
  "studio": null,
@@ -108,5 +109,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "ec11de21c7523616"
+ "_syncHash": "abae4de2583e4edd"
 }

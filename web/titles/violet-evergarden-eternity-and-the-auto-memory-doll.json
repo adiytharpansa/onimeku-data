@@ -17,10 +17,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-16T16:57:32.875Z",
+ "updatedAt": "2026-10-16T18:47:17.157Z",
  "type": "MOVIE",
  "season": "SUMMER",
  "anilistId": 109190,
+ "country": "JP",
  "rawTitle": "violet evergarden eternity and the auto memory doll",
  "altTitles": [
   "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
@@ -46,9 +47,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/zcm4c6n4cy/jgfietpn6o/3yjemhg2s56idm/subs/9j57qwbqfc5szgte.vtt"
     }
    ],
-   "addedAt": "2026-10-16T16:57:32.875Z",
+   "addedAt": "2026-10-16T18:47:17.157Z",
    "customSubs": []
   }
  ],
- "_syncHash": "0d1314c6ca8534c7"
+ "_syncHash": "ad67d899d5d81fc4"
 }

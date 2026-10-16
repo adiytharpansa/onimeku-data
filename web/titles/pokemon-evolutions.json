@@ -20,6 +20,7 @@
  "type": "ONA",
  "season": "FALL",
  "anilistId": 138699,
+ "country": "JP",
  "rawTitle": "pokemon evolutions",
  "altTitles": [
   "ポケモン エボリューションズ"
@@ -43,5 +44,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "9347556c144e0d62"
+ "_syncHash": "302e968fa0a61ab6"
 }

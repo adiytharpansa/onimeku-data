@@ -23,6 +23,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "crest of the stars",
  "altTitles": [
   "Seikai no Monshou",
@@ -47,5 +48,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "0b43d7799ac8f74a"
+ "_syncHash": "38d1e2e762610794"
 }

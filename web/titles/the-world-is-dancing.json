@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "the world is dancing",
  "altTitles": [
   "World Is Dancing",
@@ -41,5 +42,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b9555341ea3f4e78"
+ "_syncHash": "b670810e094e2a49"
 }

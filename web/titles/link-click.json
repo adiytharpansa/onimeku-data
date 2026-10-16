@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "CN",
  "rawTitle": "link click",
  "altTitles": [],
  "studio": null,
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "7efc674cbd3d2ded"
+ "_syncHash": "ac2de4bf7caa0353"
 }

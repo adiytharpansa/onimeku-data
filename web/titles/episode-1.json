@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "episode 1",
  "altTitles": [],
  "studio": null,
@@ -32,5 +33,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "c2d472ff9fb2af86"
+ "_syncHash": "1f08b23aefb02075"
 }

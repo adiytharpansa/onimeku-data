@@ -19,6 +19,7 @@
  "type": "ONA",
  "season": "FALL",
  "anilistId": 188529,
+ "country": "JP",
  "rawTitle": "ugoku neko mukashibanashi",
  "altTitles": [
   "Ugoku! Neko Mukashi Banashi",
@@ -43,5 +44,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "eba54e2126752795"
+ "_syncHash": "3795290a946ee183"
 }

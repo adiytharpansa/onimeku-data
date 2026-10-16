@@ -23,6 +23,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "the familiar of zero f",
  "altTitles": [
   "Zero no Tsukaima F",
@@ -47,5 +48,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "283cb65e234e0887"
+ "_syncHash": "4582910822e0afed"
 }

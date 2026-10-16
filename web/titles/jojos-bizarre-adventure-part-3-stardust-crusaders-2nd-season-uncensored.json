@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "jojos bizarre adventure part 3 stardust crusaders 2nd season uncensored",
  "altTitles": [],
  "studio": null,
@@ -73,5 +74,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "10438c449b9d8a98"
+ "_syncHash": "7cdf53b4452f1b40"
 }

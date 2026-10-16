@@ -20,6 +20,7 @@
  "type": "ONA",
  "season": "FALL",
  "anilistId": 162147,
+ "country": "JP",
  "rawTitle": "pokemon concierge",
  "altTitles": [
   "ポケモンコンシェルジュ"
@@ -43,5 +44,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "3a1ea47e694d092b"
+ "_syncHash": "8028622bad7c0542"
 }

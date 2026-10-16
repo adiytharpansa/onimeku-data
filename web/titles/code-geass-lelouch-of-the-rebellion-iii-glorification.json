@@ -24,6 +24,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "code geass lelouch of the rebellion iii glorification",
  "altTitles": [
   "Code Geass: Hangyaku no Lelouch III - Oudou",
@@ -48,5 +49,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "fa14c17a28c80216"
+ "_syncHash": "7a9da867ddb5b19b"
 }

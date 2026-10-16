@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "kirio fanclub",
  "altTitles": [
   "霧尾ファンクラブ"
@@ -40,5 +41,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f06ba2bfdaec9dc8"
+ "_syncHash": "2100e79cfe44d869"
 }

@@ -19,6 +19,7 @@
  "type": "MOVIE",
  "season": "SPRING",
  "anilistId": 1506,
+ "country": "JP",
  "rawTitle": "detective conan the private eyes requiem",
  "altTitles": [
   "Meitantei Conan: Tantei-tachi no Requiem",
@@ -43,5 +44,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "c38013922d479878"
+ "_syncHash": "0b2ea1acee41427b"
 }

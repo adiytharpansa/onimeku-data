@@ -21,6 +21,7 @@
  "type": "MOVIE",
  "season": "SUMMER",
  "anilistId": 21244,
+ "country": "JP",
  "rawTitle": "haikyuu the movie the winner and the loser",
  "altTitles": [
   "Haikyuu!!: Shousha to Haisha",
@@ -45,5 +46,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "9307945410d232be"
+ "_syncHash": "d1ee9473b282534e"
 }

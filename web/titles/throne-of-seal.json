@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "CN",
  "rawTitle": "throne of seal",
  "altTitles": [],
  "studio": null,
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "6fca33e01b9c6d41"
+ "_syncHash": "e4bc2b642bb15611"
 }

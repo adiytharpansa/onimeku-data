@@ -24,6 +24,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "little busters refrain",
  "altTitles": [
   "Little Busters!: Refrain",
@@ -48,5 +49,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "7d0671b42bf0ce99"
+ "_syncHash": "5de6ac4fdf22096e"
 }

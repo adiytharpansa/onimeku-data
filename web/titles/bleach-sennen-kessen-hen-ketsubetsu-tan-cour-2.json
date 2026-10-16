@@ -48,6 +48,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "Bleach: Sennen Kessen-hen – Ketsubetsu-tan (Cour 2)",
  "altTitles": [],
  "studio": null,
@@ -133,5 +134,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "71225c93008d28ad"
+ "_syncHash": "2a7aac7d9b769d85"
 }

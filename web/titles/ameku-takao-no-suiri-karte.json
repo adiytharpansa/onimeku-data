@@ -42,6 +42,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "Ameku Takao no Suiri Karte",
  "altTitles": [],
  "studio": null,
@@ -107,5 +108,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "924290c5e1c5f111"
+ "_syncHash": "b5a3f6945f87e937"
 }

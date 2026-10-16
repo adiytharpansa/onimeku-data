@@ -21,6 +21,7 @@
  "type": "ONA",
  "season": null,
  "anilistId": 199418,
+ "country": "CN",
  "rawTitle": "above myriads",
  "altTitles": [
   "Wan Ren Zhi Shang",
@@ -39,5 +40,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f1faf955e39d66b4"
+ "_syncHash": "4702e84ea880710f"
 }

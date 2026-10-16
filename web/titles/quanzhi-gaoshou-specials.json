@@ -20,6 +20,7 @@
  "type": "ONA",
  "season": "SPRING",
  "anilistId": 101410,
+ "country": "CN",
  "rawTitle": "quanzhi gaoshou specials",
  "altTitles": [
   "全职高手 特别篇"
@@ -37,5 +38,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "6dd87c008517afb7"
+ "_syncHash": "e9291d7af65b6680"
 }

@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "lets go kaikigumi",
  "altTitles": [],
  "studio": null,
@@ -103,5 +104,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "ffe79758921da24c"
+ "_syncHash": "e210df9ef3b2f6a4"
 }

@@ -17,6 +17,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "jojos bizarre adventure stone ocean",
  "altTitles": [
   "JoJo no Kimyou na Bouken: Stone Ocean",
@@ -186,5 +187,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "295733dca2e22925"
+ "_syncHash": "b8ab000f9457552b"
 }

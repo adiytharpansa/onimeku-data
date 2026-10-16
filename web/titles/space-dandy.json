@@ -21,6 +21,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "space dandy",
  "altTitles": [
   "Space☆Dandy",
@@ -50,5 +51,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "725c0ec74c0db46b"
+ "_syncHash": "10ab5e80fce0dc63"
 }

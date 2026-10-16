@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "steinsgate the sagacious wisdom of cognitive computing",
  "altTitles": [],
  "studio": null,
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "19f29734148ee840"
+ "_syncHash": "af204d63e706bccf"
 }

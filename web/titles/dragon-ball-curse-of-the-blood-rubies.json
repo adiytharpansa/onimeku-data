@@ -21,6 +21,7 @@
  "type": "MOVIE",
  "season": "FALL",
  "anilistId": 502,
+ "country": "JP",
  "rawTitle": "dragon ball curse of the blood rubies",
  "altTitles": [
   "Dragon Ball: Shen Long no Densetsu",
@@ -45,5 +46,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b4b3ba5c74f1ddc1"
+ "_syncHash": "b90f69138bed4421"
 }

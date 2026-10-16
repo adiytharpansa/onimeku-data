@@ -29,6 +29,7 @@
  "type": "TV",
  "season": "SUMMER",
  "anilistId": 156395,
+ "country": "JP",
  "rawTitle": "a bouquet for an ugly girl",
  "altTitles": [
   "Busu ni Hanataba wo.",
@@ -137,5 +138,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b0276388055767c7"
+ "_syncHash": "ad0bba03282e4872"
 }

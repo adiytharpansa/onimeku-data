@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "steinsgate egoistic poriomania",
  "altTitles": [],
  "studio": null,
@@ -48,5 +49,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "9f4f57a0ece0afd0"
+ "_syncHash": "07437616803ec267"
 }

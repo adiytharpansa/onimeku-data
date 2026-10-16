@@ -24,6 +24,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "fairy tail series 2",
  "altTitles": [
   "Fairy Tail Series 2",
@@ -42,5 +43,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "23ff7270307d7ffc"
+ "_syncHash": "762813b9c78e3a1c"
 }

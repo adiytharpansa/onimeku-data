@@ -20,6 +20,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "sugar sugar rune",
  "altTitles": [
   "シュガシュガルーン"
@@ -43,5 +44,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "24a93dd091b09cb5"
+ "_syncHash": "079811753843c8c9"
 }

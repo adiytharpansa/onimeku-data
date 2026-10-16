@@ -59,6 +59,7 @@
  "type": "TV",
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "beyblade x",
  "altTitles": [
   "ベイブレードエックス"
@@ -496,5 +497,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "bbe9e100d92491ab"
+ "_syncHash": "8bbf7922ce084645"
 }

@@ -21,6 +21,7 @@
  "type": "MOVIE",
  "season": "SUMMER",
  "anilistId": 98298,
+ "country": "JP",
  "rawTitle": "pokemon the movie i choose you",
  "altTitles": [
   "Pocket Monsters: Kimi ni Kimeta!",
@@ -135,5 +136,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "a2bd7418a58f24f4"
+ "_syncHash": "6cd62ff887697606"
 }

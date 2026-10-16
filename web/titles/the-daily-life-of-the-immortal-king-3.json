@@ -13,10 +13,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:39:58.600Z",
+ "updatedAt": "2026-10-16T18:48:07.782Z",
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "CN",
  "rawTitle": "the daily life of the immortal king 3",
  "altTitles": [],
  "studio": null,
@@ -34,9 +35,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/fw860ayerb/ya5hgrerg7/4j14bvqk4rq80w/subs/7mfwadmm4nnc7lgs.vtt"
     }
    ],
-   "addedAt": "2026-10-14T02:13:22.247Z",
+   "addedAt": "2026-10-16T18:48:07.782Z",
    "customSubs": []
   }
  ],
- "_syncHash": "752e5d60454502bc"
+ "_syncHash": "66a784a6c05ccd2d"
 }

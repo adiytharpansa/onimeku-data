@@ -23,6 +23,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": 178025,
+ "country": "JP",
  "rawTitle": "gachiakuta",
  "altTitles": [
   "ガチアクタ"
@@ -108,5 +109,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "731143641ac592be"
+ "_syncHash": "710a1e047f81932c"
 }

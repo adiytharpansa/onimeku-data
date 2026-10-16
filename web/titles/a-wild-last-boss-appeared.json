@@ -22,6 +22,7 @@
  "type": "ONA",
  "season": "FALL",
  "anilistId": 180523,
+ "country": "JP",
  "rawTitle": "a wild last boss appeared",
  "altTitles": [
   "Yasei no Last Boss ga Arawareta!",
@@ -50,5 +51,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "13be049012f13c7a"
+ "_syncHash": "ef24f5340244c1f8"
 }

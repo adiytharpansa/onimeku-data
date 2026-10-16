@@ -23,6 +23,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "igano kabamaru",
  "altTitles": [
   "伊賀野カバ丸"
@@ -40,5 +41,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "bdbc4570664e6aa9"
+ "_syncHash": "4aee9b5555f2cc2a"
 }

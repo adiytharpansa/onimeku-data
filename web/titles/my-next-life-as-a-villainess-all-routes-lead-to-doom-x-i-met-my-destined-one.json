@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "my next life as a villainess all routes lead to doom x i met my destined one",
  "altTitles": [],
  "studio": null,
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "40bd13c3b49e5a0c"
+ "_syncHash": "dd7a278a72fd60ec"
 }

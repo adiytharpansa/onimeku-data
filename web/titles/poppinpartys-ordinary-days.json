@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "poppinpartys ordinary days",
  "altTitles": [],
  "studio": null,
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "6be5942fdc951cb0"
+ "_syncHash": "4efb80c2ebdbff1a"
 }

@@ -27,6 +27,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "the familiar of zero knight of the twin moons",
  "altTitles": [
   "Zero no Tsukaima: Futatsuki no Kishi",
@@ -51,5 +52,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "a5e3342805de8265"
+ "_syncHash": "63486b2da9b12786"
 }

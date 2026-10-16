@@ -21,6 +21,7 @@
  "type": "MOVIE",
  "season": "SPRING",
  "anilistId": 142219,
+ "country": "JP",
  "rawTitle": "detective conan the bride of halloween",
  "altTitles": [
   "Meitantei Conan: Halloween no Hanayome",
@@ -45,5 +46,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "a0aab2f331a582b4"
+ "_syncHash": "fdda4c40cc3edd5e"
 }

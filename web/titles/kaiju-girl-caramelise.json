@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "kaiju girl caramelise",
  "altTitles": [
   "Otome Kaiju Caramelise",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b2a04e362228075b"
+ "_syncHash": "75db3b61952886d5"
 }

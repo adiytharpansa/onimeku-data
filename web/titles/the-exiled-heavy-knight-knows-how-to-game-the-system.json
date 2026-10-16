@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "the exiled heavy knight knows how to game the system",
  "altTitles": [],
  "studio": null,
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "1f93ade275b962c6"
+ "_syncHash": "7765d5e25c0bc2e2"
 }

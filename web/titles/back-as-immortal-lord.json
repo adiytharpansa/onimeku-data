@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "back as immortal lord",
  "altTitles": [],
  "studio": null,
@@ -32,5 +33,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "ceaa09edaf8999ff"
+ "_syncHash": "84e205fa72537605"
 }

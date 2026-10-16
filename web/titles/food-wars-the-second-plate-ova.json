@@ -16,10 +16,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-16T15:38:10.082Z",
+ "updatedAt": "2026-10-16T20:29:05.579Z",
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "food wars the second plate ova",
  "altTitles": [
   "Shokugeki no Souma: Ni no Sara OVA",
@@ -40,9 +41,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/994ycpjk0y/79is0b8ips/hawc0n7zeb87ly/subs/9earskms3d29pu4n.vtt"
     }
    ],
-   "addedAt": "2026-10-16T15:38:10.082Z",
+   "addedAt": "2026-10-16T20:29:05.579Z",
    "customSubs": []
   }
  ],
- "_syncHash": "5f2dd550815d190b"
+ "_syncHash": "e75a44209614b34f"
 }

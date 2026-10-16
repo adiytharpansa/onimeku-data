@@ -17,6 +17,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "ishura",
  "altTitles": [
   "異修羅"
@@ -40,5 +41,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "74a8996f98cfecd9"
+ "_syncHash": "51fbb226050a2f98"
 }

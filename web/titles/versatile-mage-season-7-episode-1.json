@@ -16,10 +16,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-16T08:31:15.614Z",
+ "updatedAt": "2026-10-16T20:55:37.023Z",
  "type": "ONA",
  "season": "SPRING",
  "anilistId": 206354,
+ "country": "CN",
  "rawTitle": "versatile mage season 7 episode 1",
  "altTitles": [
   "Quanzhi Fashi 7",
@@ -40,9 +41,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/ronrsvwuqh/cklfk7h35m/pr7o045ux7t3ww/subs/f16pik1smzgk1yl0.vtt"
     }
    ],
-   "addedAt": "2026-10-16T08:31:15.614Z",
+   "addedAt": "2026-10-16T20:55:37.023Z",
    "customSubs": []
   }
  ],
- "_syncHash": "b2e569460d186b1e"
+ "_syncHash": "438126c6d5edcaf2"
 }

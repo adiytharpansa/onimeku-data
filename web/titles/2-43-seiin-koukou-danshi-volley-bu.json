@@ -47,6 +47,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "2.43: Seiin Koukou Danshi Volley-bu",
  "altTitles": [],
  "studio": null,
@@ -112,5 +113,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f9cae58f3ecf27df"
+ "_syncHash": "da5baf65f1ec52ef"
 }

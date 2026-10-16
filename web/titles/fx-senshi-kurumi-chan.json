@@ -43,6 +43,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "FX Senshi Kurumi-chan",
  "altTitles": [],
  "studio": null,
@@ -78,5 +79,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "a3caceb787f435f3"
+ "_syncHash": "d42c2f944e5a6466"
 }

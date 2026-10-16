@@ -49,6 +49,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "Akame ga Kill!",
  "altTitles": [],
  "studio": null,
@@ -174,5 +175,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "074bc7b17261b5bf"
+ "_syncHash": "176c74434d396ffc"
 }

@@ -23,6 +23,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "ghost in the shell stand alone complex solid state society",
  "altTitles": [
   "攻殻機動隊 STAND ALONE COMPLEX Solid State Society"
@@ -51,5 +52,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "2e2230141e6c5f81"
+ "_syncHash": "7163f7e5842f8ac3"
 }

@@ -21,6 +21,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "the ancient magus bride",
  "altTitles": [
   "Mahoutsukai no Yome",
@@ -39,5 +40,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "0b65dcb11204e102"
+ "_syncHash": "799a952f7e2d71ee"
 }

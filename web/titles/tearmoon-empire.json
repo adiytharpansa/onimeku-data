@@ -13,10 +13,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:44:48.365Z",
+ "updatedAt": "2026-10-16T18:34:06.380Z",
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "tearmoon empire",
  "altTitles": [
   "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
@@ -37,9 +38,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/wxn9v5wox2/6l01hpm4a4/qwvlznm7w5nidz/subs/z0yfuawp4jejeq9a.vtt"
     }
    ],
-   "addedAt": "2026-10-14T02:15:58.678Z",
+   "addedAt": "2026-10-16T18:34:06.380Z",
    "customSubs": []
   }
  ],
- "_syncHash": "88376280f716103e"
+ "_syncHash": "f921a3f25fea44d3"
 }

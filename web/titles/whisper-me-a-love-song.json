@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "whisper me a love song",
  "altTitles": [
   "Sasayaku You ni Koi wo Utau",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "d599f6d316ffb666"
+ "_syncHash": "c14571dc32af25a3"
 }

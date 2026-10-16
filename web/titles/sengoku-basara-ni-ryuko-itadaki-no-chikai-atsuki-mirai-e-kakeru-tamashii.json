@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "sengoku basara ni ryuko itadaki no chikai atsuki mirai e kakeru tamashii",
  "altTitles": [],
  "studio": null,
@@ -43,5 +44,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "24dc3f854e63d492"
+ "_syncHash": "50d34ee264c19c95"
 }

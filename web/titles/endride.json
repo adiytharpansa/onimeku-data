@@ -20,6 +20,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "endride",
  "altTitles": [
   "エンドライド"
@@ -37,5 +38,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "ed191a73ffc4894b"
+ "_syncHash": "fd7332222dc16265"
 }

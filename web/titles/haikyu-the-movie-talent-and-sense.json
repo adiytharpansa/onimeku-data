@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "haikyu the movie talent and sense",
  "altTitles": [],
  "studio": null,
@@ -43,5 +44,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "43492def300ca5bd"
+ "_syncHash": "3ecc0f5a56645e68"
 }

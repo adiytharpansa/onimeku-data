@@ -1,6 +1,6 @@
 {
  "id": "another-the-other",
- "title": "another the other",
+ "title": "Another the Other",
  "poster": "https://shikimori.one/system/animes/original/11701.jpg?1711941430",
  "banner": "https://shikimori.one/system/animes/original/11701.jpg?1711941430",
  "synopsis": "",
@@ -13,10 +13,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:41:39.517Z",
+ "updatedAt": "2026-10-16T18:44:52.562Z",
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "another the other",
  "altTitles": [],
  "studio": null,
@@ -25,7 +26,7 @@
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/s6sgfbtftl/7lgk6k5141/yjlp1wbowduyuw/master.m3u8",
    "downloadUrl": "/download/mal/11701/1/sub",
-   "thumbnail": "",
+   "thumbnail": "https://shikimori.one/system/animes/original/11701.jpg?1711941430",
    "referer": "https://zokoanime.video/stream/mal/11701/1/sub",
    "subtitles": [
     {
@@ -34,9 +35,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/s6sgfbtftl/7lgk6k5141/yjlp1wbowduyuw/subs/7a5ue4umkqaea1rh.vtt"
     }
    ],
-   "addedAt": "2026-10-14T02:14:09.471Z",
+   "addedAt": "2026-10-16T18:44:52.562Z",
    "customSubs": []
   }
  ],
- "_syncHash": "722736bad4e7138d"
+ "_syncHash": "558feefa7e657905"
 }

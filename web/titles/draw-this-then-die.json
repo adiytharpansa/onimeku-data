@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "draw this then die",
  "altTitles": [
   "Kore Kaite Shine",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "72eb0308ed54311b"
+ "_syncHash": "a8887899c5d34686"
 }

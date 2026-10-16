@@ -17,6 +17,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": null,
  "rawTitle": "the most notorious talker runs the worlds greatest clan",
  "altTitles": [
   "Saikyou no Shien-shoku [Wajutsushi] Dearu Ore wa Sekai Saikyou Clan wo Shitagaeru",
@@ -56,5 +57,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "c72a87cd56f61619"
+ "_syncHash": "b342f420240452cf"
 }

@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "teasing master takagi san 2",
  "altTitles": [
   "Karakai Jouzu no Takagi-san 2",
@@ -171,5 +172,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "3503c9b88d07dee7"
+ "_syncHash": "2010ac309f176474"
 }

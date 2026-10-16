@@ -19,6 +19,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "sumpock",
  "altTitles": [],
  "studio": null,
@@ -54,5 +55,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "fe2ea57ec9988b68"
+ "_syncHash": "ee285365a1eb9141"
 }

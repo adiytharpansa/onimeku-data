@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "binan koukou chikyuu bouei bu haikara",
  "altTitles": [
   "Binan Koukou Chikyuu Bouei-bu Haikara!",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "c56674102547baeb"
+ "_syncHash": "2d0da838e58f5934"
 }

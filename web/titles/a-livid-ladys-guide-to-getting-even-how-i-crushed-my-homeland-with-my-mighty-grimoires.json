@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "a livid ladys guide to getting even how i crushed my homeland with my mighty grimoires",
  "altTitles": [
   "Buchigire Reijou wa Houfuku wo Chikaimashita.: Madousho no Chikara de Sokoku wo Tataki Tsubushimasu",
@@ -111,5 +112,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "707317bea8996ce0"
+ "_syncHash": "d31ecceb564cad50"
 }

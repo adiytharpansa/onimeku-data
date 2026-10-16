@@ -17,6 +17,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "wandance dub",
  "altTitles": [
   "WanDance",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "98cb0316898e70f1"
+ "_syncHash": "3e4392ca2fb4496e"
 }

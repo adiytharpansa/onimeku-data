@@ -17,6 +17,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "pokemon twilight wings",
  "altTitles": [
   "Pokemon: Hakumei no Tsubasa",
@@ -41,5 +42,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "4d5022f23b35e77b"
+ "_syncHash": "02f6f01a26e7245a"
 }

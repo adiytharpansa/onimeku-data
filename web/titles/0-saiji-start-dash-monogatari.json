@@ -24,6 +24,7 @@
  "type": "TV_SHORT",
  "season": "SUMMER",
  "anilistId": 177879,
+ "country": "JP",
  "rawTitle": "0 saiji start dash monogatari",
  "altTitles": [
   "0-saiji Start Dash Monogatari",
@@ -92,5 +93,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "1df371b6608cb29f"
+ "_syncHash": "140f496079f66a3e"
 }

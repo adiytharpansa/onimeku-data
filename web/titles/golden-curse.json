@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "CN",
  "rawTitle": "golden curse",
  "altTitles": [],
  "studio": null,
@@ -98,5 +99,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "0e4903ccd244f7d6"
+ "_syncHash": "7560a5856291e200"
 }

@@ -20,6 +20,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": 191788,
+ "country": "JP",
  "rawTitle": "aoashi season 2",
  "altTitles": [
   "Aoashi 2nd Season",
@@ -48,5 +49,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "2d32ca466a7d6d1c"
+ "_syncHash": "f38ae8fd76fd4393"
 }

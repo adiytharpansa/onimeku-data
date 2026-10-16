@@ -21,6 +21,7 @@
  "type": "MOVIE",
  "season": "SPRING",
  "anilistId": 15199,
+ "country": "JP",
  "rawTitle": "code geass akito the exiled the brightness falls",
  "altTitles": [
   "Code Geass: Boukoku no Akito 3 - Kagayakumono Ten Yori Otsu",
@@ -45,5 +46,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "2edeeb0e03b1dc88"
+ "_syncHash": "8750f59a80c459f2"
 }

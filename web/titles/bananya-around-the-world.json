@@ -17,6 +17,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "bananya around the world",
  "altTitles": [
   "ばなにゃ あらうんど ざ わーるど"
@@ -40,5 +41,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "e4477bcf67fbfb40"
+ "_syncHash": "36c3b71e425bf9c3"
 }

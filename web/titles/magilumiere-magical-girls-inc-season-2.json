@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "magilumiere magical girls inc season 2",
  "altTitles": [
   "Kabushiki Gaisha Magi Lumiere 2nd Season",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "bfd403d142746c90"
+ "_syncHash": "c62ef23ffc0d6fd7"
 }

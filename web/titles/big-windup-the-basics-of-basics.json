@@ -20,6 +20,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "big windup the basics of basics",
  "altTitles": [
   "Ookiku Furikabutte Special",
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "e396b52dab47c064"
+ "_syncHash": "e88bb2bf2926cf06"
 }

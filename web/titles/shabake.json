@@ -22,6 +22,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": 184997,
+ "country": "JP",
  "rawTitle": "shabake",
  "altTitles": [
   "しゃばけ"
@@ -77,5 +78,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "fdeacd072b3b4e05"
+ "_syncHash": "c37141e3713479d2"
 }

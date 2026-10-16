@@ -19,6 +19,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "skeleton knight in another world ii",
  "altTitles": [
   "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
@@ -57,5 +58,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f2c5e4e9759b9d94"
+ "_syncHash": "3cab4a7ad12697df"
 }

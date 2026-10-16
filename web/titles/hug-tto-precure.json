@@ -21,6 +21,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "hug tto precure",
  "altTitles": [
   "HuGっと! プリキュア"
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "ac2c7d0c4bef6f8f"
+ "_syncHash": "83d1c58a5e0675ef"
 }

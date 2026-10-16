@@ -24,6 +24,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "date a live iii",
  "altTitles": [
   "デート・ア・ライブⅢ"
@@ -47,5 +48,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b32f3c6f46491ee0"
+ "_syncHash": "1a922c22af12a1b1"
 }

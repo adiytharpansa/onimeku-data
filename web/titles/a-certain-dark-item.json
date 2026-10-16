@@ -20,6 +20,7 @@
  "type": "TV",
  "season": "FALL",
  "anilistId": 186742,
+ "country": "JP",
  "rawTitle": "a certain dark item",
  "altTitles": [
   "Toaru Anbu no ITEM",
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "09a3e53b8111d943"
+ "_syncHash": "c4b3e227d8d5dd5e"
 }

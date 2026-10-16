@@ -21,6 +21,7 @@
  "type": "TV",
  "season": "FALL",
  "anilistId": 21287,
+ "country": "JP",
  "rawTitle": "soukyuu no fafner dead aggressor exodus part 2",
  "altTitles": [
   "Soukyuu no Fafner: EXODUS 2",
@@ -45,5 +46,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "4fd230b64d7a7fac"
+ "_syncHash": "6bb418359de0b7bf"
 }

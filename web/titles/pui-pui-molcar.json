@@ -17,6 +17,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "pui pui molcar",
  "altTitles": [
   "Pui Pui Molcar",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "c6c17e6fcdee0869"
+ "_syncHash": "c94966fdeb90e979"
 }

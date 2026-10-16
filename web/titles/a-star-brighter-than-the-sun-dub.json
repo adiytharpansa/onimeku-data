@@ -17,6 +17,7 @@
  "type": "TV",
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "a star brighter than the sun dub",
  "altTitles": [
   "Taiyou yori mo Mabushii Hoshi",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "20bce26bb33f40a8"
+ "_syncHash": "5a378624cc03b591"
 }

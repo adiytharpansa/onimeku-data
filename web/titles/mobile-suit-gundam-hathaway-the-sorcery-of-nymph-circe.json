@@ -17,6 +17,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "mobile suit gundam hathaway the sorcery of nymph circe",
  "altTitles": [
   "Kidou Senshi Gundam: Senkou no Hathaway - Circe no Majo",
@@ -146,5 +147,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "ce185d4b56e33fa2"
+ "_syncHash": "0818366fee399f3b"
 }

@@ -21,6 +21,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "this boy suffers from crystallization",
  "altTitles": [
   "Kono Danshi, Sekika ni Nayandemasu.",
@@ -45,5 +46,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "3208b7267f289678"
+ "_syncHash": "4657f63b7e1003f9"
 }

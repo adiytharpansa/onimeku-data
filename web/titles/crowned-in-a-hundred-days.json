@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "CN",
  "rawTitle": "crowned in a hundred days",
  "altTitles": [],
  "studio": null,
@@ -32,5 +33,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "d21e66306f8a0853"
+ "_syncHash": "30a567cae1249bc2"
 }

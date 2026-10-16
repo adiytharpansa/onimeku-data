@@ -21,6 +21,7 @@
  "type": "MOVIE",
  "season": "SUMMER",
  "anilistId": 100744,
+ "country": "JP",
  "rawTitle": "pokemon the movie the power of us",
  "altTitles": [
   "Pocket Monsters: Minna no Monogatari",
@@ -145,5 +146,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "c3d467646617b1d5"
+ "_syncHash": "9d81d457f35006cc"
 }

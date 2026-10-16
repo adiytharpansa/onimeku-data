@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "CN",
  "rawTitle": "perfect world",
  "altTitles": [],
  "studio": null,
@@ -32,5 +33,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "45cac8ce37d5142a"
+ "_syncHash": "da68cfc09802b106"
 }

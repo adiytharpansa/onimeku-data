@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "code geass akito the exiled memories of hatred",
  "altTitles": [],
  "studio": null,
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "14c9ff998c12c6a4"
+ "_syncHash": "d689d0a2ce5b7b9f"
 }

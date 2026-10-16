@@ -24,6 +24,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "himitsu no aipri 2nd season",
  "altTitles": [
   "ひみつのアイプリ リング編"
@@ -111,5 +112,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "ae37b6419c1c97cf"
+ "_syncHash": "6f064ace90316022"
 }

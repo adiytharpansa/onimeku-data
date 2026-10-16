@@ -51,6 +51,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "Aparida",
  "altTitles": [],
  "studio": null,
@@ -206,5 +207,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f6c85a83bad32b29"
+ "_syncHash": "c754686247ba90b8"
 }

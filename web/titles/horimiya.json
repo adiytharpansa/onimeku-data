@@ -17,6 +17,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "horimiya",
  "altTitles": [
   "ホリミヤ"
@@ -40,5 +41,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "dad3b62a0d31db25"
+ "_syncHash": "09433a9ee5817d9c"
 }

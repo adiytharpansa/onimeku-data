@@ -25,6 +25,7 @@
  "type": "TV",
  "season": "SPRING",
  "anilistId": 177501,
+ "country": "JP",
  "rawTitle": "a hundred scenes of awajima",
  "altTitles": [
   "Awajima Hyakkei",
@@ -83,5 +84,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "fa1ac322d426c8eb"
+ "_syncHash": "9cdd0b2679e0b640"
 }

@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": null,
  "rawTitle": "the super cube",
  "altTitles": [],
  "studio": null,
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "c5b4ad7c480ba3e4"
+ "_syncHash": "9fc74907f02f6d5c"
 }

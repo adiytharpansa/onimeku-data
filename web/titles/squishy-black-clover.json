@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "squishy black clover",
  "altTitles": [
   "Mugyutto! Black Clover",
@@ -76,5 +77,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "13ec85cc99d22755"
+ "_syncHash": "62d7ec08d5a737f5"
 }

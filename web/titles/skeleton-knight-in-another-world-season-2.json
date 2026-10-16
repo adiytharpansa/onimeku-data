@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "skeleton knight in another world season 2",
  "altTitles": [
   "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2nd Season",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "acb8ba65ce58616c"
+ "_syncHash": "168ff10acf7a5ddf"
 }

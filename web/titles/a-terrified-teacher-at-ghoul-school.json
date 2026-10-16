@@ -20,6 +20,7 @@
  "type": "TV",
  "season": "FALL",
  "anilistId": 171545,
+ "country": "JP",
  "rawTitle": "a terrified teacher at ghoul school",
  "altTitles": [
   "Youkai Gakkou no Sensei Hajimemashita!",
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "3256cf0886347342"
+ "_syncHash": "c193d9cd7d9ece8e"
 }

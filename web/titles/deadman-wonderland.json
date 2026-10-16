@@ -21,6 +21,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "deadman wonderland",
  "altTitles": [
   "デッドマン・ワンダーランド"
@@ -44,5 +45,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "c87d80c666d8622f"
+ "_syncHash": "38b1548f877a101c"
 }

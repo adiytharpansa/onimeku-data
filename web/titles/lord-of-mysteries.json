@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "CN",
  "rawTitle": "lord of mysteries",
  "altTitles": [],
  "studio": null,
@@ -32,5 +33,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "4c111f77643a409c"
+ "_syncHash": "9342c00359c35460"
 }

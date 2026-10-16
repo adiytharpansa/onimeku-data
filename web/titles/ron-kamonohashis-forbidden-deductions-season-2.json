@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "ron kamonohashis forbidden deductions season 2",
  "altTitles": [],
  "studio": null,
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b004eb26d2513034"
+ "_syncHash": "bc5e547be22411ea"
 }

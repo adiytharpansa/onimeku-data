@@ -17,6 +17,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "the disastrous life of saiki k final arc",
  "altTitles": [
   "Saiki Kusuo no Ψ-nan: Kanketsu-hen",
@@ -156,5 +157,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "4e59a396c16849f3"
+ "_syncHash": "65a1b16d046cdd0c"
 }

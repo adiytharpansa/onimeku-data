@@ -20,6 +20,7 @@
  "type": "TV",
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "a misanthrope teaches a class for demi humans dub",
  "altTitles": [
   "Jingai Kyoushitsu no Ningengirai Kyoushi",
@@ -68,5 +69,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "e5a3af8d9462d48c"
+ "_syncHash": "96a4a210b3324579"
 }

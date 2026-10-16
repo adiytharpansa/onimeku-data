@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "the dukes son claims he wont love me yet showers me with adoration",
  "altTitles": [],
  "studio": null,
@@ -32,5 +33,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "fa18d05b666a7958"
+ "_syncHash": "7477c7fcfa76da89"
 }

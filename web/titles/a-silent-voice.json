@@ -21,6 +21,7 @@
  "type": "MOVIE",
  "season": "SUMMER",
  "anilistId": 20954,
+ "country": "JP",
  "rawTitle": "a silent voice",
  "altTitles": [
   "Koe no Katachi",
@@ -39,5 +40,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "d2281d58413d0275"
+ "_syncHash": "4d8923d800d6b8be"
 }

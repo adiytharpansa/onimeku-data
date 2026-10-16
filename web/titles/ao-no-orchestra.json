@@ -54,6 +54,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "Ao no Orchestra",
  "altTitles": [],
  "studio": null,
@@ -189,5 +190,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "5dd77212ca6a8a5a"
+ "_syncHash": "7bc2d057077754c1"
 }

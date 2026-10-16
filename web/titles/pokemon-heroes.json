@@ -23,6 +23,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "pokemon heroes",
  "altTitles": [
   "Pokemon: Mizu no Miyako no Mamorigami Latias to Latios",
@@ -52,5 +53,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "3514ff5718582675"
+ "_syncHash": "87edb7d63caa19d2"
 }

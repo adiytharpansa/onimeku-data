@@ -25,6 +25,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": null,
  "rawTitle": "la corda doro primo passo",
  "altTitles": [
   "Kiniro no Corda: Primo Passo",
@@ -43,5 +44,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f7186a70e75eb05d"
+ "_syncHash": "a436e54306cb80df"
 }

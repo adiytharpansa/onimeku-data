@@ -46,6 +46,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "Ao no Orchestra Season 2",
  "altTitles": [],
  "studio": null,
@@ -151,5 +152,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b33a0b75bd50d671"
+ "_syncHash": "48104d938b4f656a"
 }

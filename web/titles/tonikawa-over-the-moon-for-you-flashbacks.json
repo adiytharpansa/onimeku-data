@@ -17,6 +17,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "tonikawa over the moon for you flashbacks",
  "altTitles": [
   "Tonikaku Kawaii: Kaisou",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "cbdb1c3b4583242b"
+ "_syncHash": "dfee5efa492627ad"
 }

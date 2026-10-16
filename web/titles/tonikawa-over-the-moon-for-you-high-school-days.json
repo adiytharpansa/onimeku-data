@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "tonikawa over the moon for you high school days",
  "altTitles": [
   "Tonikaku Kawaii: Joshikou-hen",
@@ -41,5 +42,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "49859e2ef27df11b"
+ "_syncHash": "bc8b52db37b59a3d"
 }

@@ -21,6 +21,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "durarara x2 ketsu",
  "altTitles": [
   "デュラララ!!×2 結"
@@ -139,5 +140,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "40da2aecd5d0dece"
+ "_syncHash": "037503c3524c35f1"
 }

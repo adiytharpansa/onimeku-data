@@ -1,7 +1,90 @@
 {
- "generatedAt": "2026-10-16T18:21:46.676683+00:00",
- "count": 448,
+ "generatedAt": "2026-10-16T21:34:01.296270+00:00",
+ "count": 450,
  "data": [
+  {
+   "id": "aho-girl",
+   "title": "Aho Girl",
+   "poster": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
+   "banner": "",
+   "synopsis": "",
+   "genres": [
+    "Manga",
+    "Shounen",
+    "Comedy",
+    "4-koma Manga",
+    "Half-length Episodes"
+   ],
+   "score": null,
+   "year": null,
+   "status": "FINISHED",
+   "totalEpisodes": 12,
+   "latestEpisode": 12,
+   "episodeNumbers": [
+    1,
+    2,
+    4,
+    6,
+    8,
+    10,
+    12
+   ],
+   "updatedAt": "2026-10-16T21:24:47.568Z",
+   "type": null,
+   "season": null,
+   "anilistId": null,
+   "country": null
+  },
+  {
+   "id": "arifureta-shokugyou-de-sekai-saikyou-season-3",
+   "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
+   "poster": "https://v2.samehadaku.how/wp-content/uploads/2024/10/145597l.jpg",
+   "banner": "",
+   "synopsis": "Musim ke-3 dari anime Arifureta Shokugyou de Sekai Saikyou. Tonton juga: Season 1 Arifureta Shokugyou de Sekai Saikyou Season 2 Arifureta Shokugyou de Sekai Sai...",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Romance",
+    "Comedy",
+    "Harem",
+    "School",
+    "Isekai",
+    "Drama",
+    "Music",
+    "Performing Arts",
+    "Gag Humor",
+    "Historical",
+    "Parody",
+    "Samurai",
+    "Sci-Fi",
+    "Shounen",
+    "Reincarnation",
+    "Supernatural",
+    "Gore",
+    "Urban Fantasy"
+   ],
+   "score": null,
+   "year": 2024,
+   "status": "FINISHED",
+   "totalEpisodes": 16,
+   "latestEpisode": 16,
+   "episodeNumbers": [
+    2,
+    4,
+    6,
+    8,
+    10,
+    12,
+    14,
+    16
+   ],
+   "updatedAt": "2026-10-16T18:51:59.249Z",
+   "type": null,
+   "season": null,
+   "anilistId": null,
+   "country": "JP"
+  },
   {
    "id": "blue-lock-season-2",
    "title": "Blue Lock Season 2",
@@ -47,7 +130,8 @@
    "updatedAt": "2026-10-16T17:51:18.159Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "bleach-sennen-kessen-hen-ketsubetsu-tan-cour-2",
@@ -98,7 +182,8 @@
    "updatedAt": "2026-10-16T17:48:24.024Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "bleach-sennen-kessen-hen",
@@ -147,7 +232,8 @@
    "updatedAt": "2026-10-16T17:47:40.542Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "ars-no-kyojuu",
@@ -196,7 +282,8 @@
    "updatedAt": "2026-10-16T17:42:33.437Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "arifureta-shokugyou-de-sekai-saikyou-season-2",
@@ -246,7 +333,8 @@
    "updatedAt": "2026-10-16T17:40:53.149Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "ao-no-orchestra-season-2",
@@ -295,7 +383,8 @@
    "updatedAt": "2026-10-16T17:37:43.635Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "ao-no-orchestra",
@@ -352,7 +441,8 @@
    "updatedAt": "2026-10-16T17:36:27.058Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "ao-no-miburo",
@@ -404,7 +494,8 @@
    "updatedAt": "2026-10-16T17:34:53.848Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "ao-no-exorcist-shimane-illuminati-hen",
@@ -453,7 +544,8 @@
    "updatedAt": "2026-10-16T17:31:41.157Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "amagami-san-chi-no-enmusubi",
@@ -499,7 +591,8 @@
    "updatedAt": "2026-10-16T17:25:02.184Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "akuyaku-reijou-level-99-watashi-wa-ura-boss-desu-ga-maou-dewa-arimasen",
@@ -547,7 +640,8 @@
    "updatedAt": "2026-10-16T17:22:12.782Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai",
@@ -578,7 +672,8 @@
    "updatedAt": "2026-10-16T17:17:24.146Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "5-toubun-no-hanayome",
@@ -627,7 +722,8 @@
    "updatedAt": "2026-10-16T17:16:13.158Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "aparida",
@@ -681,7 +777,8 @@
    "updatedAt": "2026-10-16T17:39:41.902Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "ao-no-miburo-season-2",
@@ -732,7 +829,8 @@
    "updatedAt": "2026-10-16T17:07:46.781Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "ao-no-hako-season-2",
@@ -772,7 +870,8 @@
    "updatedAt": "2026-10-16T17:33:39.854Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "ao-no-exorcist-season-5",
@@ -819,7 +918,8 @@
    "updatedAt": "2026-10-16T17:03:36.098Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "ao-no-exorcist-season-4",
@@ -867,7 +967,8 @@
    "updatedAt": "2026-10-16T17:02:49.208Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "ansatsusha-de-aru-ore-no-status-ga-yuusha",
@@ -913,7 +1014,8 @@
    "updatedAt": "2026-10-16T17:00:37.092Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "another",
@@ -960,7 +1062,8 @@
    "updatedAt": "2026-10-16T16:59:57.328Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "angel-beats",
@@ -1012,7 +1115,8 @@
    "updatedAt": "2026-10-16T16:59:23.644Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "ameku-takao-no-suiri-karte",
@@ -1057,7 +1161,8 @@
    "updatedAt": "2026-10-16T16:58:28.890Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "akuyaku-reijou-nanode-last-boss-wo-kattemimashita",
@@ -1107,7 +1212,8 @@
    "updatedAt": "2026-10-16T16:55:49.410Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "akame-ga-kill",
@@ -1159,7 +1265,8 @@
    "updatedAt": "2026-10-16T17:21:00.486Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "onmyou-kaiten-re-birth-subtitle-indonesia",
@@ -1188,7 +1295,8 @@
    "updatedAt": "2026-10-16T16:53:14.201Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "aishiteru-game-wo-owarasetai",
@@ -1234,7 +1342,8 @@
    "updatedAt": "2026-10-16T17:20:11.181Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "86",
@@ -1292,7 +1401,8 @@
    "updatedAt": "2026-10-16T17:16:51.882Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "enen-no-shouboutai-season-2-subtitle-indonesia",
@@ -1329,7 +1439,8 @@
    "updatedAt": "2026-10-16T16:48:55.852Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "29-sai-dokushin-chuuken-boukensha-no-nichijou",
@@ -1377,7 +1488,8 @@
    "updatedAt": "2026-10-16T16:48:30.868Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "2-5-jigen-no-ririsa",
@@ -1433,7 +1545,8 @@
    "updatedAt": "2026-10-16T16:47:54.653Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "2-43-seiin-koukou-danshi-volley-bu",
@@ -1483,7 +1596,8 @@
    "updatedAt": "2026-10-16T17:13:37.140Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season",
@@ -1529,7 +1643,8 @@
    "updatedAt": "2026-10-16T17:13:14.484Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "zombie-sagashitemasu",
@@ -1572,7 +1687,8 @@
    "updatedAt": "2026-10-16T16:45:16.769Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "compass2-0-animation-project",
@@ -1621,7 +1737,8 @@
    "updatedAt": "2026-10-16T16:45:06.344Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "kenja-no-mago",
@@ -1659,7 +1776,8 @@
    "updatedAt": "2026-10-16T16:24:08.034Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "alien-collections",
@@ -1683,7 +1801,8 @@
    "updatedAt": "2026-10-16T15:36:18.888Z",
    "type": "ONA",
    "season": null,
-   "anilistId": 156104
+   "anilistId": 156104,
+   "country": "CN"
   },
   {
    "id": "fx-senshi-kurumi-chan",
@@ -1729,7 +1848,8 @@
    "updatedAt": "2026-10-16T15:04:34.645Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "akane-banashi",
@@ -1751,7 +1871,8 @@
    "updatedAt": "2026-10-16T14:45:48.837Z",
    "type": "TV",
    "season": "SPRING",
-   "anilistId": 196935
+   "anilistId": 196935,
+   "country": "JP"
   },
   {
    "id": "aharen-san-wa-hakarenai-season-2",
@@ -1801,7 +1922,8 @@
    "updatedAt": "2026-10-16T17:18:47.491Z",
    "type": "TV",
    "season": "SPRING",
-   "anilistId": 179979
+   "anilistId": 179979,
+   "country": "JP"
   },
   {
    "id": "aharen-san-wa-hakarenai-season-2-dub",
@@ -1821,7 +1943,8 @@
    "updatedAt": "2026-10-16T09:58:05.820Z",
    "type": "TV",
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "86-eighty-six-part-2",
@@ -1846,7 +1969,8 @@
    "updatedAt": "2026-10-16T09:47:09.593Z",
    "type": "TV",
    "season": "FALL",
-   "anilistId": 131586
+   "anilistId": 131586,
+   "country": "JP"
   },
   {
    "id": "a-wild-last-boss-appeared",
@@ -1871,7 +1995,8 @@
    "updatedAt": "2026-10-16T08:31:26.559Z",
    "type": "ONA",
    "season": "FALL",
-   "anilistId": 180523
+   "anilistId": 180523,
+   "country": "JP"
   },
   {
    "id": "ace-of-diamond-act-ii-season-2",
@@ -1893,7 +2018,8 @@
    "updatedAt": "2026-10-15T23:50:08.685Z",
    "type": "TV",
    "season": "SPRING",
-   "anilistId": 177634
+   "anilistId": 177634,
+   "country": "JP"
   },
   {
    "id": "a-record-of-mortals-journey-to-immortality-season-3",
@@ -1913,7 +2039,8 @@
    "updatedAt": "2026-10-15T23:46:22.090Z",
    "type": "ONA",
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "a-record-of-mortals-journey-to-immortality-season-4",
@@ -1933,7 +2060,8 @@
    "updatedAt": "2026-10-15T23:46:21.643Z",
    "type": "ONA",
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "agents-of-the-four-seasons-dance-of-spring",
@@ -1957,7 +2085,8 @@
    "updatedAt": "2026-10-15T23:46:20.996Z",
    "type": "TV",
    "season": "SPRING",
-   "anilistId": 190143
+   "anilistId": 190143,
+   "country": "JP"
   },
   {
    "id": "above-myriads",
@@ -1981,7 +2110,8 @@
    "updatedAt": "2026-10-15T22:39:38.599Z",
    "type": "ONA",
    "season": null,
-   "anilistId": 199418
+   "anilistId": 199418,
+   "country": "CN"
   },
   {
    "id": "a-tale-of-the-secret-saint",
@@ -2005,7 +2135,8 @@
    "updatedAt": "2026-10-15T22:39:35.811Z",
    "type": "ONA",
    "season": "FALL",
-   "anilistId": 187402
+   "anilistId": 187402,
+   "country": "JP"
   },
   {
    "id": "a-nobodys-way-up-to-an-exploration-hero",
@@ -2027,7 +2158,8 @@
    "updatedAt": "2026-10-15T22:31:09.939Z",
    "type": "TV",
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "a-journey-through-another-world-raising-kids-while-adventuring-dub",
@@ -2047,7 +2179,8 @@
    "updatedAt": "2026-10-15T20:31:40.222Z",
    "type": "TV",
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "a-will-eternal-3rd-season",
@@ -2070,7 +2203,8 @@
    "updatedAt": "2026-10-15T20:31:39.517Z",
    "type": "SPECIAL",
    "season": "WINTER",
-   "anilistId": 11777
+   "anilistId": 11777,
+   "country": "JP"
   },
   {
    "id": "a-wild-last-boss-appeared-season-2",
@@ -2095,7 +2229,8 @@
    "updatedAt": "2026-10-15T23:46:19.915Z",
    "type": "ONA",
    "season": "FALL",
-   "anilistId": 204389
+   "anilistId": 204389,
+   "country": "JP"
   },
   {
    "id": "a-silent-voice",
@@ -2119,7 +2254,8 @@
    "updatedAt": "2026-10-15T19:22:26.513Z",
    "type": "MOVIE",
    "season": "SUMMER",
-   "anilistId": 20954
+   "anilistId": 20954,
+   "country": "JP"
   },
   {
    "id": "a-terrified-teacher-at-ghoul-school",
@@ -2142,7 +2278,8 @@
    "updatedAt": "2026-10-15T19:22:23.649Z",
    "type": "TV",
    "season": "FALL",
-   "anilistId": 171545
+   "anilistId": 171545,
+   "country": "JP"
   },
   {
    "id": "a-star-brighter-than-the-sun",
@@ -2164,7 +2301,8 @@
    "updatedAt": "2026-10-15T18:21:33.427Z",
    "type": "TV",
    "season": "FALL",
-   "anilistId": 186621
+   "anilistId": 186621,
+   "country": "JP"
   },
   {
    "id": "a-misanthrope-teaches-a-class-for-demi-humans",
@@ -2190,7 +2328,8 @@
    "updatedAt": "2026-10-15T18:16:28.032Z",
    "type": "TV",
    "season": "WINTER",
-   "anilistId": 198374
+   "anilistId": 198374,
+   "country": "JP"
   },
   {
    "id": "0-years-old-child-starting-dash-story-season-2",
@@ -2212,7 +2351,8 @@
    "updatedAt": "2026-10-15T18:16:26.721Z",
    "type": "TV_SHORT",
    "season": "WINTER",
-   "anilistId": 185462
+   "anilistId": 185462,
+   "country": "JP"
   },
   {
    "id": "a-star-brighter-than-the-sun-dub",
@@ -2232,7 +2372,8 @@
    "updatedAt": "2026-10-15T15:41:11.578Z",
    "type": "TV",
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "a-misanthrope-teaches-a-class-for-demi-humans-dub",
@@ -2255,7 +2396,8 @@
    "updatedAt": "2026-10-15T07:46:45.738Z",
    "type": "TV",
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "a-couple-of-cuckoos-season-2-dub",
@@ -2285,7 +2427,8 @@
    "updatedAt": "2026-10-15T07:46:45.567Z",
    "type": "TV",
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "a-gentle-nobles-vacation-recommendation",
@@ -2310,7 +2453,8 @@
    "updatedAt": "2026-10-15T15:40:44.070Z",
    "type": "TV",
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "a-hundred-scenes-of-awajima",
@@ -2338,7 +2482,8 @@
    "updatedAt": "2026-10-15T22:31:12.571Z",
    "type": "TV",
    "season": "SPRING",
-   "anilistId": 177501
+   "anilistId": 177501,
+   "country": "JP"
   },
   {
    "id": "86-eighty-six",
@@ -2367,7 +2512,8 @@
    "updatedAt": "2026-10-15T07:46:45.073Z",
    "type": "TV",
    "season": "SPRING",
-   "anilistId": 116589
+   "anilistId": 116589,
+   "country": "JP"
   },
   {
    "id": "a-herbivorous-dragon-of-5000-years-gets-unfairly-villainized-2nd-season",
@@ -2387,7 +2533,8 @@
    "updatedAt": "2026-10-14T14:16:24.389Z",
    "type": "ONA",
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "CN"
   },
   {
    "id": "a-bouquet-for-an-ugly-girl",
@@ -2419,7 +2566,8 @@
    "updatedAt": "2026-10-15T15:41:25.621Z",
    "type": "TV",
    "season": "SUMMER",
-   "anilistId": 156395
+   "anilistId": 156395,
+   "country": "JP"
   },
   {
    "id": "86-eighty-six-dub",
@@ -2449,7 +2597,8 @@
    "updatedAt": "2026-10-15T15:40:48.572Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "2200-nen-neko-no-kuni-nippon",
@@ -2477,7 +2626,8 @@
    "updatedAt": "2026-10-15T15:40:45.951Z",
    "type": "TV_SHORT",
    "season": "FALL",
-   "anilistId": 199009
+   "anilistId": 199009,
+   "country": "JP"
   },
   {
    "id": "a-couple-of-cuckoos",
@@ -2503,7 +2653,8 @@
    "updatedAt": "2026-10-15T15:40:53.071Z",
    "type": "TV",
    "season": "SPRING",
-   "anilistId": 132052
+   "anilistId": 132052,
+   "country": "JP"
   },
   {
    "id": "100-meters",
@@ -2526,7 +2677,8 @@
    "updatedAt": "2026-10-14T11:46:24.754Z",
    "type": "MOVIE",
    "season": "SUMMER",
-   "anilistId": 177687
+   "anilistId": 177687,
+   "country": "JP"
   },
   {
    "id": "a-certain-dark-item",
@@ -2549,7 +2701,8 @@
    "updatedAt": "2026-10-14T10:44:35.678Z",
    "type": "TV",
    "season": "FALL",
-   "anilistId": 186742
+   "anilistId": 186742,
+   "country": "JP"
   },
   {
    "id": "365-days-to-the-wedding",
@@ -2582,7 +2735,8 @@
    "updatedAt": "2026-10-15T15:40:40.917Z",
    "type": "TV",
    "season": "FALL",
-   "anilistId": 165790
+   "anilistId": 165790,
+   "country": "JP"
   },
   {
    "id": "25-dimensional-seduction",
@@ -2618,7 +2772,8 @@
    "updatedAt": "2026-10-15T15:41:26.595Z",
    "type": "TV",
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "0-saiji-start-dash-monogatari",
@@ -2645,7 +2800,8 @@
    "updatedAt": "2026-10-15T15:40:45.368Z",
    "type": "TV_SHORT",
    "season": "SUMMER",
-   "anilistId": 177879
+   "anilistId": 177879,
+   "country": "JP"
   },
   {
    "id": "battle-spirits-re-zekkai-no-ku",
@@ -2665,7 +2821,8 @@
    "updatedAt": "2026-10-14T05:36:39.249Z",
    "type": "TV",
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "mr-osomatsu-3",
@@ -2689,7 +2846,8 @@
    "updatedAt": "2026-10-15T22:31:06.841Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "perfect-world",
@@ -2709,7 +2867,8 @@
    "updatedAt": "2026-10-15T15:42:19.385Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "CN"
   },
   {
    "id": "alya-sometimes-hides-her-feelings-in-russian",
@@ -2737,7 +2896,8 @@
    "updatedAt": "2026-10-14T03:50:28.156Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "naruto-spin-off-rock-lee-his-ninja-pals",
@@ -2762,7 +2922,8 @@
    "updatedAt": "2026-10-15T22:31:03.047Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "whisper-me-a-love-song",
@@ -2782,7 +2943,8 @@
    "updatedAt": "2026-10-15T15:40:35.160Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "once-upon-a-witchs-death-dub",
@@ -2807,7 +2969,8 @@
    "updatedAt": "2026-10-16T08:32:26.095Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "tower-of-god-season-2-workshop-battle-dub",
@@ -2827,7 +2990,8 @@
    "updatedAt": "2026-10-15T15:40:50.175Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "headhunted-to-another-world-from-salaryman-to-big-four-dub",
@@ -2849,7 +3013,8 @@
    "updatedAt": "2026-10-15T22:31:08.054Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "sumpock",
@@ -2871,7 +3036,8 @@
    "updatedAt": "2026-10-15T22:31:09.991Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "himitsu-no-aipri-2nd-season",
@@ -2898,7 +3064,8 @@
    "updatedAt": "2026-10-15T15:42:00.858Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "transcend-evolution",
@@ -2922,7 +3089,8 @@
    "updatedAt": "2026-10-15T15:41:09.689Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "the-sovereigns-ascension-2nd-season",
@@ -2945,7 +3113,8 @@
    "updatedAt": "2026-10-16T08:32:25.767Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "one-piece-dub",
@@ -2973,7 +3142,8 @@
    "updatedAt": "2026-10-15T15:43:36.034Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "skeleton-knight-in-another-world-ii",
@@ -2995,7 +3165,8 @@
    "updatedAt": "2026-10-15T22:31:13.997Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "one-piece",
@@ -3026,7 +3197,8 @@
    "updatedAt": "2026-10-15T15:42:18.891Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "wandance-dub",
@@ -3046,7 +3218,8 @@
    "updatedAt": "2026-10-15T15:41:10.707Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "beyblade-x",
@@ -3108,7 +3281,8 @@
    "updatedAt": "2026-10-16T11:45:11.578Z",
    "type": "TV",
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "bleach-dub",
@@ -3161,7 +3335,8 @@
    "updatedAt": "2026-10-15T15:43:56.612Z",
    "type": "TV",
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "love-through-a-prism",
@@ -3181,7 +3356,8 @@
    "updatedAt": "2026-10-15T15:41:19.832Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "sugar-sugar-rune",
@@ -3204,7 +3380,8 @@
    "updatedAt": "2026-10-16T08:56:07.744Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "kubo-wont-let-me-be-invisible",
@@ -3224,7 +3401,8 @@
    "updatedAt": "2026-10-16T14:16:08.463Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "mobile-suit-gundam-00-special-edition",
@@ -3250,7 +3428,8 @@
    "updatedAt": "2026-10-15T23:57:25.863Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "kakuriyo-bed-and-breakfast-for-spirits",
@@ -3274,7 +3453,8 @@
    "updatedAt": "2026-10-16T08:31:12.943Z",
    "type": "TV",
    "season": "SPRING",
-   "anilistId": 100500
+   "anilistId": 100500,
+   "country": "JP"
   },
   {
    "id": "k-return-of-kings",
@@ -3298,7 +3478,8 @@
    "updatedAt": "2026-10-15T23:58:49.381Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "pui-pui-molcar",
@@ -3318,7 +3499,8 @@
    "updatedAt": "2026-10-15T16:40:32.212Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "full-metal-panic-fumoffu",
@@ -3342,7 +3524,8 @@
    "updatedAt": "2026-10-16T14:19:52.938Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "bang-dream-episode-of-roselia-ii-song-i-am",
@@ -3364,7 +3547,8 @@
    "updatedAt": "2026-10-16T17:20:52.036Z",
    "type": "MOVIE",
    "season": "SUMMER",
-   "anilistId": 117764
+   "anilistId": 117764,
+   "country": "JP"
   },
   {
    "id": "shadows-house",
@@ -3384,7 +3568,8 @@
    "updatedAt": "2026-10-16T17:21:29.229Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "shadows-house-2nd-season",
@@ -3404,7 +3589,8 @@
    "updatedAt": "2026-10-16T14:23:47.789Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "one-piece-film-strong-world",
@@ -3431,7 +3617,8 @@
    "updatedAt": "2026-10-15T15:44:13.007Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "detective-conan-the-private-eyes-requiem",
@@ -3453,7 +3640,8 @@
    "updatedAt": "2026-10-16T15:25:42.998Z",
    "type": "MOVIE",
    "season": "SPRING",
-   "anilistId": 1506
+   "anilistId": 1506,
+   "country": "JP"
   },
   {
    "id": "detective-conan-captured-in-her-eyes",
@@ -3477,7 +3665,8 @@
    "updatedAt": "2026-10-16T15:28:22.615Z",
    "type": "MOVIE",
    "season": "SPRING",
-   "anilistId": 1363
+   "anilistId": 1363,
+   "country": "JP"
   },
   {
    "id": "gridman-universe",
@@ -3497,7 +3686,8 @@
    "updatedAt": "2026-10-16T15:31:15.127Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "hellsing-ultimate",
@@ -3520,10 +3710,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-16T15:32:22.470Z",
+   "updatedAt": "2026-10-16T19:12:55.487Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "chivalry-of-a-failed-knight",
@@ -3549,7 +3740,8 @@
    "updatedAt": "2026-10-16T09:17:38.564Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "food-wars-the-third-plate-ova",
@@ -3571,7 +3763,8 @@
    "updatedAt": "2026-10-15T15:44:14.424Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "world-trigger-3rd-season",
@@ -3594,7 +3787,8 @@
    "updatedAt": "2026-10-16T17:35:23.615Z",
    "type": "TV",
    "season": "FALL",
-   "anilistId": 127400
+   "anilistId": 127400,
+   "country": "JP"
   },
   {
    "id": "world-trigger-2nd-season",
@@ -3614,10 +3808,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-15T21:28:38.919Z",
+   "updatedAt": "2026-10-16T20:26:40.839Z",
    "type": "TV",
    "season": "WINTER",
-   "anilistId": 114087
+   "anilistId": 114087,
+   "country": "JP"
   },
   {
    "id": "kimi-ni-todoke-from-me-to-you-season-3",
@@ -3639,10 +3834,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-16T15:37:09.610Z",
+   "updatedAt": "2026-10-16T20:28:14.989Z",
    "type": "ONA",
    "season": "SUMMER",
-   "anilistId": 168872
+   "anilistId": 168872,
+   "country": "JP"
   },
   {
    "id": "food-wars-the-second-plate-ova",
@@ -3662,10 +3858,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-16T15:38:10.082Z",
+   "updatedAt": "2026-10-16T20:29:05.579Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "paprika",
@@ -3690,10 +3887,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-16T12:36:13.121Z",
+   "updatedAt": "2026-10-16T20:30:36.767Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "detective-conan-the-bride-of-halloween",
@@ -3717,7 +3915,8 @@
    "updatedAt": "2026-10-16T15:42:06.247Z",
    "type": "MOVIE",
    "season": "SPRING",
-   "anilistId": 142219
+   "anilistId": 142219,
+   "country": "JP"
   },
   {
    "id": "date-a-live-iv",
@@ -3737,7 +3936,8 @@
    "updatedAt": "2026-10-16T15:42:57.984Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "there-is-also-a-hole-in-the-student-organization",
@@ -3757,7 +3957,8 @@
    "updatedAt": "2026-10-15T15:38:19.647Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "date-a-live-iii",
@@ -3784,7 +3985,8 @@
    "updatedAt": "2026-10-16T15:43:52.451Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "date-a-live-ii",
@@ -3811,7 +4013,8 @@
    "updatedAt": "2026-10-16T15:45:01.763Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "date-a-live-date-to-date",
@@ -3837,7 +4040,8 @@
    "updatedAt": "2026-10-16T17:45:37.813Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "date-a-live",
@@ -3864,7 +4068,8 @@
    "updatedAt": "2026-10-16T17:46:33.965Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "this-boy-suffers-from-crystallization",
@@ -3888,7 +4093,8 @@
    "updatedAt": "2026-10-16T17:47:23.919Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "this-boy-can-fight-aliens",
@@ -3914,7 +4120,8 @@
    "updatedAt": "2026-10-15T15:44:19.294Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "kono-naka-ni-hitori-imouto-ga-iru-ani-imouto-koibito",
@@ -3940,7 +4147,8 @@
    "updatedAt": "2026-10-15T21:43:42.827Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "deadman-wonderland",
@@ -3964,7 +4172,8 @@
    "updatedAt": "2026-10-15T21:44:45.930Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "throne-of-seal",
@@ -3984,7 +4193,8 @@
    "updatedAt": "2026-10-16T09:36:41.419Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "CN"
   },
   {
    "id": "one-piece-episode-of-nami-tears-of-a-navigator-and-the-bonds-of-friends",
@@ -4012,7 +4222,8 @@
    "updatedAt": "2026-10-15T21:55:49.200Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "demon-slayer-kimetsu-no-yaiba-mugen-train-arc",
@@ -4032,7 +4243,8 @@
    "updatedAt": "2026-10-15T15:40:55.141Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "demon-slayer-kimetsu-no-yaiba-entertainment-district-arc",
@@ -4049,10 +4261,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-15T22:52:50.406Z",
+   "updatedAt": "2026-10-16T20:47:48.817Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "episode-1",
@@ -4072,7 +4285,8 @@
    "updatedAt": "2026-10-15T15:40:47.982Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "the-apothecary-diaries",
@@ -4092,7 +4306,8 @@
    "updatedAt": "2026-10-15T15:44:21.973Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "death-note-relight",
@@ -4118,7 +4333,8 @@
    "updatedAt": "2026-10-15T15:44:23.368Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "smoking-behind-the-supermarket-with-you",
@@ -4138,7 +4354,8 @@
    "updatedAt": "2026-10-15T15:44:25.549Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "mebius-dust",
@@ -4158,7 +4375,8 @@
    "updatedAt": "2026-10-16T12:57:19.192Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "dara-san-of-reiwa",
@@ -4182,7 +4400,8 @@
    "updatedAt": "2026-10-16T09:48:53.088Z",
    "type": "TV",
    "season": "SUMMER",
-   "anilistId": 203880
+   "anilistId": 203880,
+   "country": null
   },
   {
    "id": "candy-caries",
@@ -4199,14 +4418,15 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-16T09:49:09.864Z",
+   "updatedAt": "2026-10-16T19:40:16.695Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "tomb-raider-king",
-   "title": "tomb raider king",
+   "title": "Tomb Raider King",
    "poster": "https://lain.bgm.tv/pic/cover/l/7a/d3/621835_IFhDH.jpg",
    "banner": "https://lain.bgm.tv/pic/cover/l/7a/d3/621835_IFhDH.jpg",
    "synopsis": "",
@@ -4219,10 +4439,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-15T15:38:18.294Z",
+   "updatedAt": "2026-10-16T19:41:05.064Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "KR"
   },
   {
    "id": "from-old-country-bumpkin-to-master-swordsman-season-2",
@@ -4239,10 +4460,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-16T13:00:42.948Z",
+   "updatedAt": "2026-10-16T20:52:34.073Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "saga-of-tanya-the-evil-ii",
@@ -4259,10 +4481,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-15T15:44:31.880Z",
+   "updatedAt": "2026-10-16T20:53:31.090Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "clevatess-season-2",
@@ -4283,10 +4506,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-16T13:02:51.238Z",
+   "updatedAt": "2026-10-16T20:54:22.230Z",
    "type": "TV",
    "season": "SUMMER",
-   "anilistId": 198946
+   "anilistId": 198946,
+   "country": "JP"
   },
   {
    "id": "walking-the-way-all-alone",
@@ -4303,10 +4527,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-16T09:53:45.351Z",
+   "updatedAt": "2026-10-16T20:54:56.609Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "versatile-mage-season-7-episode-1",
@@ -4326,10 +4551,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-16T08:31:15.614Z",
+   "updatedAt": "2026-10-16T20:55:37.023Z",
    "type": "ONA",
    "season": "SPRING",
-   "anilistId": 206354
+   "anilistId": 206354,
+   "country": "CN"
   },
   {
    "id": "red-river",
@@ -4346,10 +4572,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-16T16:07:27.719Z",
+   "updatedAt": "2026-10-16T20:56:20.569Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-forsaken-saintess-and-her-foodie-roadtrip-in-another-world",
@@ -4369,7 +4596,8 @@
    "updatedAt": "2026-10-15T15:44:38.440Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "a-livid-ladys-guide-to-getting-even-how-i-crushed-my-homeland-with-my-mighty-grimoires",
@@ -4389,7 +4617,8 @@
    "updatedAt": "2026-10-16T09:57:15.214Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "oh-boy-was-i-wrong-about-her",
@@ -4409,7 +4638,8 @@
    "updatedAt": "2026-10-15T15:39:34.295Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-insipid-princes-furtive-grab-for-the-throne",
@@ -4429,7 +4659,8 @@
    "updatedAt": "2026-10-16T18:06:09.779Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "one-piece-film-z",
@@ -4456,7 +4687,8 @@
    "updatedAt": "2026-10-16T18:08:25.752Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "ghost-in-the-shell-stand-alone-complex-solid-state-society",
@@ -4482,7 +4714,8 @@
    "updatedAt": "2026-10-16T18:11:18.427Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-duke-of-death-and-his-maid-season-3",
@@ -4502,7 +4735,8 @@
    "updatedAt": "2026-10-15T15:44:42.690Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "yona-of-the-dawn-ova",
@@ -4524,10 +4758,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-16T10:06:40.929Z",
+   "updatedAt": "2026-10-16T19:57:11.832Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "aoashi",
@@ -4544,10 +4779,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-16T10:07:31.089Z",
+   "updatedAt": "2026-10-16T19:58:02.938Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-king-of-braves-gaogaigar-final",
@@ -4569,10 +4805,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-15T15:40:49.531Z",
+   "updatedAt": "2026-10-16T19:58:47.192Z",
    "type": "OVA",
    "season": "WINTER",
-   "anilistId": 1382
+   "anilistId": 1382,
+   "country": "JP"
   },
   {
    "id": "lupin-the-3rd-the-castle-of-cagliostro",
@@ -4592,7 +4829,8 @@
    "updatedAt": "2026-10-16T16:23:03.741Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "hand-maid-may-never-give-up",
@@ -4612,7 +4850,8 @@
    "updatedAt": "2026-10-16T13:21:08.987Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "episode-2",
@@ -4632,7 +4871,8 @@
    "updatedAt": "2026-10-15T15:41:42.255Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "fullmetal-alchemist",
@@ -4660,7 +4900,8 @@
    "updatedAt": "2026-10-15T15:40:27.526Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "akira",
@@ -4688,7 +4929,8 @@
    "updatedAt": "2026-10-15T15:40:17.809Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "moriarty-the-patriot",
@@ -4708,7 +4950,8 @@
    "updatedAt": "2026-10-15T15:40:15.956Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "quanzhi-gaoshou-specials",
@@ -4731,7 +4974,8 @@
    "updatedAt": "2026-10-15T15:44:45.358Z",
    "type": "ONA",
    "season": "SPRING",
-   "anilistId": 101410
+   "anilistId": 101410,
+   "country": "CN"
   },
   {
    "id": "high-school-of-the-dead",
@@ -4757,7 +5001,8 @@
    "updatedAt": "2026-10-15T15:40:14.340Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "magia-record-puella-magi-madoka-magica-side-story",
@@ -4783,7 +5028,8 @@
    "updatedAt": "2026-10-15T15:43:46.279Z",
    "type": "TV",
    "season": "WINTER",
-   "anilistId": 104051
+   "anilistId": 104051,
+   "country": "JP"
   },
   {
    "id": "kakegurui",
@@ -4807,7 +5053,8 @@
    "updatedAt": "2026-10-15T23:46:15.996Z",
    "type": "TV",
    "season": "WINTER",
-   "anilistId": 100876
+   "anilistId": 100876,
+   "country": "JP"
   },
   {
    "id": "the-slime-diaries-that-time-i-got-reincarnated-as-a-slime",
@@ -4827,7 +5074,8 @@
    "updatedAt": "2026-10-15T15:40:12.924Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "love-chunibyo-and-other-delusions-take-on-me",
@@ -4852,7 +5100,8 @@
    "updatedAt": "2026-10-15T15:54:02.556Z",
    "type": "MOVIE",
    "season": "WINTER",
-   "anilistId": 98762
+   "anilistId": 98762,
+   "country": "JP"
   },
   {
    "id": "hyouka-what-should-be-had",
@@ -4876,7 +5125,8 @@
    "updatedAt": "2026-10-15T15:40:11.236Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "horimiya-the-missing-pieces",
@@ -4896,7 +5146,8 @@
    "updatedAt": "2026-10-15T15:44:46.782Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "horimiya",
@@ -4916,7 +5167,8 @@
    "updatedAt": "2026-10-15T15:40:09.051Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "anohana-the-flower-we-saw-that-day-the-movie",
@@ -4938,10 +5190,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-15T15:40:07.621Z",
+   "updatedAt": "2026-10-16T18:33:22.108Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "tearmoon-empire",
@@ -4958,10 +5211,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-15T15:44:48.365Z",
+   "updatedAt": "2026-10-16T18:34:06.380Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "bang-dream-chan",
@@ -4984,11 +5238,12 @@
    "updatedAt": "2026-10-16T08:31:20.495Z",
    "type": "ONA",
    "season": "FALL",
-   "anilistId": 187166
+   "anilistId": 187166,
+   "country": "JP"
   },
   {
    "id": "the-umbrella-fairy",
-   "title": "the umbrella fairy",
+   "title": "The Umbrella Fairy",
    "poster": "https://lain.bgm.tv/pic/cover/l/19/77/424563_DD5js.jpg",
    "banner": "https://lain.bgm.tv/pic/cover/l/19/77/424563_DD5js.jpg",
    "synopsis": "",
@@ -5001,10 +5256,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-15T15:38:21.080Z",
+   "updatedAt": "2026-10-16T18:34:48.222Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "kaiju-no-8-narumis-week-at-work",
@@ -5024,7 +5280,8 @@
    "updatedAt": "2026-10-16T16:42:27.506Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "jojos-bizarre-adventure-part-3-stardust-crusaders-2nd-season-uncensored",
@@ -5044,7 +5301,8 @@
    "updatedAt": "2026-10-15T15:40:44.648Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "spy-x-family-code-white",
@@ -5061,10 +5319,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-16T16:45:19.945Z",
+   "updatedAt": "2026-10-16T18:37:03.799Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "squishy-black-clover",
@@ -5084,7 +5343,8 @@
    "updatedAt": "2026-10-16T13:45:00.946Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "black-clover-the-all-magic-knights-thanksgiving-festa",
@@ -5104,7 +5364,8 @@
    "updatedAt": "2026-10-16T13:46:08.474Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "black-clover-sword-of-the-wizard-king",
@@ -5124,11 +5385,12 @@
    "updatedAt": "2026-10-16T13:48:43.247Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "isekai-quartet-the-movie-another-world",
-   "title": "isekai quartet the movie another world",
+   "title": "Isekai Quartet the Movie Another World",
    "poster": "https://shikimori.one/system/animes/original/41567.jpg?1711955267",
    "banner": "https://shikimori.one/system/animes/original/41567.jpg?1711955267",
    "synopsis": "",
@@ -5141,14 +5403,15 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-15T15:41:40.892Z",
+   "updatedAt": "2026-10-16T18:44:08.712Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "another-the-other",
-   "title": "another the other",
+   "title": "Another the Other",
    "poster": "https://shikimori.one/system/animes/original/11701.jpg?1711941430",
    "banner": "https://shikimori.one/system/animes/original/11701.jpg?1711941430",
    "synopsis": "",
@@ -5161,10 +5424,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-15T15:41:39.517Z",
+   "updatedAt": "2026-10-16T18:44:52.562Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "16bit-sensation-another-layer",
@@ -5184,10 +5448,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-16T16:55:51.109Z",
+   "updatedAt": "2026-10-16T18:45:46.921Z",
    "type": "TV",
    "season": "FALL",
-   "anilistId": 159559
+   "anilistId": 159559,
+   "country": "JP"
   },
   {
    "id": "violet-evergarden-eternity-and-the-auto-memory-doll",
@@ -5208,10 +5473,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-16T16:57:32.875Z",
+   "updatedAt": "2026-10-16T18:47:17.157Z",
    "type": "MOVIE",
    "season": "SUMMER",
-   "anilistId": 109190
+   "anilistId": 109190,
+   "country": "JP"
   },
   {
    "id": "the-daily-life-of-the-immortal-king-3",
@@ -5228,10 +5494,11 @@
    "episodeNumbers": [
     1
    ],
-   "updatedAt": "2026-10-15T15:39:58.600Z",
+   "updatedAt": "2026-10-16T18:48:07.782Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "CN"
   },
   {
    "id": "the-daily-life-of-the-immortal-king-2",
@@ -5255,7 +5522,8 @@
    "updatedAt": "2026-10-15T15:54:03.654Z",
    "type": "ONA",
    "season": "FALL",
-   "anilistId": 126357
+   "anilistId": 126357,
+   "country": "CN"
   },
   {
    "id": "the-daily-life-of-the-immortal-king",
@@ -5275,7 +5543,8 @@
    "updatedAt": "2026-10-15T15:39:57.193Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "CN"
   },
   {
    "id": "dragon-ball-plan-to-eradicate-the-super-saiyans",
@@ -5298,7 +5567,8 @@
    "updatedAt": "2026-10-15T15:39:55.718Z",
    "type": "OVA",
    "season": "FALL",
-   "anilistId": 10017
+   "anilistId": 10017,
+   "country": "JP"
   },
   {
    "id": "dragon-ball-mystical-adventure",
@@ -5323,7 +5593,8 @@
    "updatedAt": "2026-10-15T15:39:54.308Z",
    "type": "MOVIE",
    "season": "SUMMER",
-   "anilistId": 892
+   "anilistId": 892,
+   "country": "JP"
   },
   {
    "id": "dragon-ball-the-path-to-power",
@@ -5348,7 +5619,8 @@
    "updatedAt": "2026-10-15T15:39:52.478Z",
    "type": "MOVIE",
    "season": "SPRING",
-   "anilistId": 893
+   "anilistId": 893,
+   "country": "JP"
   },
   {
    "id": "dragon-ball-sleeping-princess-in-devils-castle",
@@ -5373,7 +5645,8 @@
    "updatedAt": "2026-10-15T15:39:50.781Z",
    "type": "MOVIE",
    "season": "SUMMER",
-   "anilistId": 891
+   "anilistId": 891,
+   "country": "JP"
   },
   {
    "id": "dragon-ball-curse-of-the-blood-rubies",
@@ -5397,7 +5670,8 @@
    "updatedAt": "2026-10-15T15:39:49.119Z",
    "type": "MOVIE",
    "season": "FALL",
-   "anilistId": 502
+   "anilistId": 502,
+   "country": "JP"
   },
   {
    "id": "endride",
@@ -5420,7 +5694,8 @@
    "updatedAt": "2026-10-15T15:44:50.729Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "sonny-boy",
@@ -5440,7 +5715,8 @@
    "updatedAt": "2026-10-16T17:04:57.510Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "kikou-kai-galient-ova",
@@ -5465,7 +5741,8 @@
    "updatedAt": "2026-10-16T17:05:32.075Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "mobile-suit-gundam-hathaway",
@@ -5485,7 +5762,8 @@
    "updatedAt": "2026-10-15T15:39:39.218Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "golden-curse",
@@ -5505,7 +5783,8 @@
    "updatedAt": "2026-10-16T10:57:21.381Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "CN"
   },
   {
    "id": "mobile-suit-gundam-hathaway-the-sorcery-of-nymph-circe",
@@ -5525,7 +5804,8 @@
    "updatedAt": "2026-10-16T11:00:01.279Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "code-geass-lelouch-of-the-rebellion-iii-glorification",
@@ -5552,7 +5832,8 @@
    "updatedAt": "2026-10-16T11:06:29.467Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "code-geass-akito-the-exiled-memories-of-hatred",
@@ -5572,7 +5853,8 @@
    "updatedAt": "2026-10-16T11:08:07.846Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "code-geass-lelouch-of-the-rebellion-i-initiation",
@@ -5599,7 +5881,8 @@
    "updatedAt": "2026-10-15T15:39:29.981Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "code-geass-akito-the-exiled-the-brightness-falls",
@@ -5623,7 +5906,8 @@
    "updatedAt": "2026-10-16T11:14:21.295Z",
    "type": "MOVIE",
    "season": "SPRING",
-   "anilistId": 15199
+   "anilistId": 15199,
+   "country": "JP"
   },
   {
    "id": "code-geass-akito-the-exiled-the-wyvern-arrives",
@@ -5647,7 +5931,8 @@
    "updatedAt": "2026-10-16T11:15:45.377Z",
    "type": "MOVIE",
    "season": "SUMMER",
-   "anilistId": 8888
+   "anilistId": 8888,
+   "country": "JP"
   },
   {
    "id": "code-geass-lelouch-of-the-resurrection",
@@ -5667,7 +5952,8 @@
    "updatedAt": "2026-10-16T11:20:00.186Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "my-next-life-as-a-villainess-all-routes-lead-to-doom-x-i-met-my-destined-one",
@@ -5687,7 +5973,8 @@
    "updatedAt": "2026-10-16T11:21:46.302Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "my-next-life-as-a-villainess-all-routes-lead-to-doom-movie",
@@ -5707,7 +5994,8 @@
    "updatedAt": "2026-10-16T11:24:19.778Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "my-next-life-as-a-villainess-all-routes-lead-to-doom-x",
@@ -5727,7 +6015,8 @@
    "updatedAt": "2026-10-16T11:25:36.654Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "my-next-life-as-a-villainess-all-routes-lead-to-doom",
@@ -5747,7 +6036,8 @@
    "updatedAt": "2026-10-16T11:28:39.618Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "no-game-no-life-specials",
@@ -5776,7 +6066,8 @@
    "updatedAt": "2026-10-16T11:31:30.013Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "no-game-no-life-zero",
@@ -5805,7 +6096,8 @@
    "updatedAt": "2026-10-16T11:31:59.410Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "steinsgate-open-the-missing-link-divide-by-zero",
@@ -5825,7 +6117,8 @@
    "updatedAt": "2026-10-16T11:32:41.086Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "steinsgate-egoistic-poriomania",
@@ -5845,7 +6138,8 @@
    "updatedAt": "2026-10-16T11:33:34.574Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "steinsgate-the-sagacious-wisdom-of-cognitive-computing",
@@ -5865,7 +6159,8 @@
    "updatedAt": "2026-10-16T11:33:59.409Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "steel-ball-run-jojos-bizarre-adventure",
@@ -5885,7 +6180,8 @@
    "updatedAt": "2026-10-15T15:44:59.354Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "witch-hat-atelier",
@@ -5905,7 +6201,8 @@
    "updatedAt": "2026-10-16T11:36:49.461Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "haikyuu-special-feature-the-spring-tournament-of-their-youth",
@@ -5928,7 +6225,8 @@
    "updatedAt": "2026-10-15T15:45:02.884Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "haikyuu-the-movie-the-winner-and-the-loser",
@@ -5952,7 +6250,8 @@
    "updatedAt": "2026-10-15T15:43:42.117Z",
    "type": "MOVIE",
    "season": "SUMMER",
-   "anilistId": 21244
+   "anilistId": 21244,
+   "country": "JP"
   },
   {
    "id": "haikyu-vs-failing-marks",
@@ -5976,7 +6275,8 @@
    "updatedAt": "2026-10-16T11:41:43.054Z",
    "type": "SPECIAL",
    "season": "FALL",
-   "anilistId": 21348
+   "anilistId": 21348,
+   "country": "JP"
   },
   {
    "id": "haikyu-the-movie-battle-of-concepts",
@@ -6001,7 +6301,8 @@
    "updatedAt": "2026-10-16T11:45:54.136Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "haikyu-the-movie-talent-and-sense",
@@ -6021,7 +6322,8 @@
    "updatedAt": "2026-10-16T11:50:26.044Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "bleach-memories-in-the-rain",
@@ -6047,7 +6349,8 @@
    "updatedAt": "2026-10-16T11:51:21.062Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "bleach-the-movie-hell-verse",
@@ -6073,7 +6376,8 @@
    "updatedAt": "2026-10-16T11:53:24.218Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "bleach-the-movie-fade-to-black",
@@ -6099,7 +6403,8 @@
    "updatedAt": "2026-10-16T11:55:27.914Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "kaiju-girl-caramelise",
@@ -6119,7 +6424,8 @@
    "updatedAt": "2026-10-15T15:45:04.273Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "draw-this-then-die",
@@ -6139,7 +6445,8 @@
    "updatedAt": "2026-10-15T15:45:05.761Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "crowned-in-a-hundred-days",
@@ -6159,7 +6466,8 @@
    "updatedAt": "2026-10-15T15:45:07.005Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "CN"
   },
   {
    "id": "hell-mode-the-hardcore-gamer-dominates-in-another-world-with-garbage-balancing-season-2",
@@ -6179,7 +6487,8 @@
    "updatedAt": "2026-10-15T15:45:08.704Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "black-torch",
@@ -6199,7 +6508,8 @@
    "updatedAt": "2026-10-15T15:45:10.292Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance",
@@ -6219,7 +6529,8 @@
    "updatedAt": "2026-10-15T15:45:11.546Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "rich-girl-caretaker-im-secretly-the-caregiver-of-the-most-popular-girl-in-this-rich-kid-school",
@@ -6239,7 +6550,8 @@
    "updatedAt": "2026-10-15T15:45:12.842Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "love-unseen-beneath-the-clear-night-sky",
@@ -6259,7 +6571,8 @@
    "updatedAt": "2026-10-16T11:56:35.256Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "recommendations-from-iwamoto-senpai",
@@ -6282,7 +6595,8 @@
    "updatedAt": "2026-10-15T20:31:32.337Z",
    "type": "TV",
    "season": "SUMMER",
-   "anilistId": 206249
+   "anilistId": 206249,
+   "country": "JP"
   },
   {
    "id": "azur-lane-slow-ahead-season-2",
@@ -6305,7 +6619,8 @@
    "updatedAt": "2026-10-15T15:54:02.781Z",
    "type": "TV_SHORT",
    "season": "SUMMER",
-   "anilistId": 169080
+   "anilistId": 169080,
+   "country": "JP"
   },
   {
    "id": "goodbye-lara",
@@ -6325,7 +6640,8 @@
    "updatedAt": "2026-10-15T15:45:15.575Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-100-girlfriends-who-really-really-really-really-really-love-you-season-3",
@@ -6345,7 +6661,8 @@
    "updatedAt": "2026-10-15T15:45:16.938Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-worlds-strongest-rearguard",
@@ -6369,7 +6686,8 @@
    "updatedAt": "2026-10-15T15:43:54.659Z",
    "type": "TV",
    "season": "SUMMER",
-   "anilistId": 198409
+   "anilistId": 198409,
+   "country": "JP"
   },
   {
    "id": "iron-wok-jan",
@@ -6389,7 +6707,8 @@
    "updatedAt": "2026-10-15T15:45:19.344Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "you-and-i-are-polar-opposites-season-2",
@@ -6409,7 +6728,8 @@
    "updatedAt": "2026-10-15T15:45:20.811Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "lets-go-kaikigumi",
@@ -6429,7 +6749,8 @@
    "updatedAt": "2026-10-15T15:38:15.786Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "the-ogres-bride",
@@ -6449,7 +6770,8 @@
    "updatedAt": "2026-10-15T15:45:22.236Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-dukes-son-claims-he-wont-love-me-yet-showers-me-with-adoration",
@@ -6469,7 +6791,8 @@
    "updatedAt": "2026-10-15T15:38:14.281Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "magilumiere-magical-girls-inc-season-2",
@@ -6489,7 +6812,8 @@
    "updatedAt": "2026-10-15T15:45:23.564Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "grow-up-show",
@@ -6513,7 +6837,8 @@
    "updatedAt": "2026-10-15T15:43:58.544Z",
    "type": "TV",
    "season": "SUMMER",
-   "anilistId": 196017
+   "anilistId": 196017,
+   "country": "JP"
   },
   {
    "id": "jaadugar-a-witch-in-mongolia",
@@ -6533,7 +6858,8 @@
    "updatedAt": "2026-10-15T15:45:25.547Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "mushoku-tensei-jobless-reincarnation-season-3",
@@ -6553,7 +6879,8 @@
    "updatedAt": "2026-10-16T12:00:08.082Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "please-excuse-my-younger-brothers",
@@ -6573,7 +6900,8 @@
    "updatedAt": "2026-10-15T15:45:29.010Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-frontier-lord-begins-with-zero-subjects",
@@ -6593,7 +6921,8 @@
    "updatedAt": "2026-10-15T15:38:12.831Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "i-became-a-legend-after-my-10-year-long-last-stand",
@@ -6613,7 +6942,8 @@
    "updatedAt": "2026-10-15T15:38:11.226Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-exiled-heavy-knight-knows-how-to-game-the-system",
@@ -6633,7 +6963,8 @@
    "updatedAt": "2026-10-15T15:38:09.240Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "bang-dream-yumeinfinitymita",
@@ -6653,7 +6984,8 @@
    "updatedAt": "2026-10-15T15:41:36.228Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "bungo-stray-dogs-wan-2",
@@ -6673,7 +7005,8 @@
    "updatedAt": "2026-10-15T15:45:31.145Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "dara-san-of-the-reiwa-era",
@@ -6697,7 +7030,8 @@
    "updatedAt": "2026-10-15T18:16:16.979Z",
    "type": "TV",
    "season": "SUMMER",
-   "anilistId": 203880
+   "anilistId": 203880,
+   "country": "JP"
   },
   {
    "id": "hana-kimi-season-2",
@@ -6722,7 +7056,8 @@
    "updatedAt": "2026-10-15T15:54:02.348Z",
    "type": "ONA",
    "season": "SUMMER",
-   "anilistId": 209669
+   "anilistId": 209669,
+   "country": "JP"
   },
   {
    "id": "the-villager-of-level-999",
@@ -6742,7 +7077,8 @@
    "updatedAt": "2026-10-15T15:45:32.688Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-oblivious-saint-cant-contain-her-power",
@@ -6762,7 +7098,8 @@
    "updatedAt": "2026-10-15T15:45:34.144Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-world-is-dancing",
@@ -6782,7 +7119,8 @@
    "updatedAt": "2026-10-15T15:45:35.514Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-cat-and-the-dragon",
@@ -6802,7 +7140,8 @@
    "updatedAt": "2026-10-15T15:45:36.961Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "given-the-movie-to-the-sea",
@@ -6822,7 +7161,8 @@
    "updatedAt": "2026-10-15T15:40:31.715Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "fights-break-sphere-4",
@@ -6842,7 +7182,8 @@
    "updatedAt": "2026-10-15T15:40:30.363Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "kirio-fanclub",
@@ -6862,7 +7203,8 @@
    "updatedAt": "2026-10-15T15:45:38.611Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "dandelion",
@@ -6882,7 +7224,8 @@
    "updatedAt": "2026-10-15T15:45:41.405Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "pokemon-the-movie-the-power-of-us",
@@ -6906,7 +7249,8 @@
    "updatedAt": "2026-10-15T23:50:03.697Z",
    "type": "MOVIE",
    "season": "SUMMER",
-   "anilistId": 100744
+   "anilistId": 100744,
+   "country": "JP"
   },
   {
    "id": "pokemon-heroes",
@@ -6932,7 +7276,8 @@
    "updatedAt": "2026-10-15T15:39:14.165Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "pokemon-the-movie-2000",
@@ -6958,7 +7303,8 @@
    "updatedAt": "2026-10-15T15:39:11.895Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "pokemon-the-first-movie",
@@ -6985,7 +7331,8 @@
    "updatedAt": "2026-10-15T15:39:09.505Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "pokemon-origins",
@@ -7009,7 +7356,8 @@
    "updatedAt": "2026-10-15T22:30:49.370Z",
    "type": "SPECIAL",
    "season": "FALL",
-   "anilistId": 20159
+   "anilistId": 20159,
+   "country": "JP"
   },
   {
    "id": "i-want-to-end-this-love-game",
@@ -7029,7 +7377,8 @@
    "updatedAt": "2026-10-15T15:39:07.997Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "beyond-twilight",
@@ -7049,7 +7398,8 @@
    "updatedAt": "2026-10-15T15:38:01.048Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "link-click",
@@ -7069,7 +7419,8 @@
    "updatedAt": "2026-10-15T15:39:06.102Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "CN"
   },
   {
    "id": "the-classroom-of-a-black-cat-and-a-witch",
@@ -7089,7 +7440,8 @@
    "updatedAt": "2026-10-15T16:40:35.589Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "pokemon-pichu-bros-in-party-panic",
@@ -7114,7 +7466,8 @@
    "updatedAt": "2026-10-15T15:45:44.291Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "pokemon-the-movie-diancie-and-the-cocoon-of-destruction",
@@ -7138,7 +7491,8 @@
    "updatedAt": "2026-10-15T15:39:04.738Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "pokemon-the-movie-hoopa-and-the-clash-of-ages",
@@ -7162,7 +7516,8 @@
    "updatedAt": "2026-10-15T15:45:45.656Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "pokemon-the-movie-04-celebi-voice-of-the-forest",
@@ -7188,7 +7543,8 @@
    "updatedAt": "2026-10-15T20:31:31.353Z",
    "type": "MOVIE",
    "season": "SUMMER",
-   "anilistId": 1119
+   "anilistId": 1119,
+   "country": "JP"
   },
   {
    "id": "pokemon-destiny-deoxys",
@@ -7215,7 +7571,8 @@
    "updatedAt": "2026-10-15T15:45:46.990Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "pokemon-zoroark-master-of-illusions",
@@ -7240,7 +7597,8 @@
    "updatedAt": "2026-10-15T15:39:03.318Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "pokemon-the-movie-i-choose-you",
@@ -7264,7 +7622,8 @@
    "updatedAt": "2026-10-15T15:54:03.176Z",
    "type": "MOVIE",
    "season": "SUMMER",
-   "anilistId": 98298
+   "anilistId": 98298,
+   "country": "JP"
   },
   {
    "id": "pokemon-ranger-and-the-temple-of-the-sea",
@@ -7288,7 +7647,8 @@
    "updatedAt": "2026-10-16T08:32:21.676Z",
    "type": "MOVIE",
    "season": "SUMMER",
-   "anilistId": 2201
+   "anilistId": 2201,
+   "country": "JP"
   },
   {
    "id": "pokemon-the-movie-kyurem-vs-the-sword-of-justice",
@@ -7315,7 +7675,8 @@
    "updatedAt": "2026-10-15T15:39:01.945Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "pokemon-evolutions",
@@ -7338,7 +7699,8 @@
    "updatedAt": "2026-10-15T15:54:05.650Z",
    "type": "ONA",
    "season": "FALL",
-   "anilistId": 138699
+   "anilistId": 138699,
+   "country": "JP"
   },
   {
    "id": "pokemon-twilight-wings",
@@ -7358,7 +7720,8 @@
    "updatedAt": "2026-10-15T15:45:48.260Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "pokemon-concierge",
@@ -7381,7 +7744,8 @@
    "updatedAt": "2026-10-15T20:31:30.394Z",
    "type": "ONA",
    "season": "FALL",
-   "anilistId": 162147
+   "anilistId": 162147,
+   "country": "JP"
   },
   {
    "id": "pokemon-paldean-winds",
@@ -7404,7 +7768,8 @@
    "updatedAt": "2026-10-15T15:54:03.590Z",
    "type": "ONA",
    "season": "SUMMER",
-   "anilistId": 168092
+   "anilistId": 168092,
+   "country": "JP"
   },
   {
    "id": "classroom-of-the-elite-iv",
@@ -7427,7 +7792,8 @@
    "updatedAt": "2026-10-15T21:36:28.116Z",
    "type": "TV",
    "season": "SUMMER",
-   "anilistId": 98659
+   "anilistId": 98659,
+   "country": "JP"
   },
   {
    "id": "rezero-starting-life-in-another-world-season-4",
@@ -7447,7 +7813,8 @@
    "updatedAt": "2026-10-15T15:45:49.528Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "rent-a-girlfriend-season-5",
@@ -7470,7 +7837,8 @@
    "updatedAt": "2026-10-15T15:54:03.350Z",
    "type": "ONA",
    "season": "SPRING",
-   "anilistId": 199029
+   "anilistId": 199029,
+   "country": "JP"
   },
   {
    "id": "gals-cant-be-kind-to-otaku",
@@ -7490,7 +7858,8 @@
    "updatedAt": "2026-10-15T15:39:00.645Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "eren-the-southpaw",
@@ -7510,7 +7879,8 @@
    "updatedAt": "2026-10-15T15:45:50.831Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "even-a-replica-can-fall-in-love",
@@ -7530,7 +7900,8 @@
    "updatedAt": "2026-10-15T15:45:52.240Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "marriagetoxin",
@@ -7550,7 +7921,8 @@
    "updatedAt": "2026-10-15T15:45:53.614Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-most-heretical-last-boss-queen-from-villainess-to-savior-season-2",
@@ -7570,7 +7942,8 @@
    "updatedAt": "2026-10-15T15:45:55.249Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "farming-life-in-another-world-season-2",
@@ -7590,7 +7963,8 @@
    "updatedAt": "2026-10-15T15:45:56.537Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-klutzy-class-monitor-and-the-girl-with-the-short-skirt",
@@ -7610,7 +7984,8 @@
    "updatedAt": "2026-10-15T15:45:58.678Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "liar-game",
@@ -7630,7 +8005,8 @@
    "updatedAt": "2026-10-15T15:46:00.167Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "magical-sisters-lulutto-lilly",
@@ -7653,7 +8029,8 @@
    "updatedAt": "2026-10-15T23:46:16.028Z",
    "type": "TV",
    "season": "SPRING",
-   "anilistId": 178749
+   "anilistId": 178749,
+   "country": "JP"
   },
   {
    "id": "ingoku-danchi",
@@ -7675,7 +8052,8 @@
    "updatedAt": "2026-10-15T23:46:15.865Z",
    "type": "TV_SHORT",
    "season": "SPRING",
-   "anilistId": 206166
+   "anilistId": 206166,
+   "country": "JP"
   },
   {
    "id": "ghost-concert-missing-songs",
@@ -7695,7 +8073,8 @@
    "updatedAt": "2026-10-15T15:46:01.543Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-familiar-of-zero",
@@ -7725,7 +8104,8 @@
    "updatedAt": "2026-10-15T22:59:51.038Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-familiar-of-zero-knight-of-the-twin-moons",
@@ -7755,7 +8135,8 @@
    "updatedAt": "2026-10-15T15:38:58.049Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-familiar-of-zero-rondo-of-princesses",
@@ -7785,7 +8166,8 @@
    "updatedAt": "2026-10-15T15:38:55.685Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-familiar-of-zero-f",
@@ -7811,7 +8193,8 @@
    "updatedAt": "2026-10-15T15:38:53.973Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "fatekaleid-liner-prisma-illya",
@@ -7831,7 +8214,8 @@
    "updatedAt": "2026-10-15T15:41:34.816Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "tsubasa-reservoir-chronicle-season-two",
@@ -7859,7 +8243,8 @@
    "updatedAt": "2026-10-15T15:38:52.469Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "tsubasa-reservoir-chronicle",
@@ -7886,7 +8271,8 @@
    "updatedAt": "2026-10-15T15:38:50.741Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "space-patrol-luluco",
@@ -7911,7 +8297,8 @@
    "updatedAt": "2026-10-15T15:38:48.969Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "sengoku-basara-end-of-judgement",
@@ -7937,7 +8324,8 @@
    "updatedAt": "2026-10-15T15:38:47.430Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "sengoku-basara-samurai-kings-the-movie",
@@ -7963,7 +8351,8 @@
    "updatedAt": "2026-10-15T15:38:46.009Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "sengoku-basara-ni-ryuko-itadaki-no-chikai-atsuki-mirai-e-kakeru-tamashii",
@@ -7983,7 +8372,8 @@
    "updatedAt": "2026-10-15T15:41:33.447Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "plus-sized-misadventures-in-love",
@@ -8009,7 +8399,8 @@
    "updatedAt": "2026-10-16T08:32:21.345Z",
    "type": "TV",
    "season": "FALL",
-   "anilistId": 170936
+   "anilistId": 170936,
+   "country": "JP"
   },
   {
    "id": "tonikawa-over-the-moon-for-you-uniform",
@@ -8029,7 +8420,8 @@
    "updatedAt": "2026-10-15T15:46:02.995Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "hug-tto-precure",
@@ -8053,7 +8445,8 @@
    "updatedAt": "2026-10-15T15:46:04.532Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "a-certain-magical-index-iii-specials",
@@ -8073,7 +8466,8 @@
    "updatedAt": "2026-10-15T15:46:05.888Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "sengoku-basara-setonai-no-gekitotsu-hi-wo-fuku-umi-no-daiyousai-fugaku",
@@ -8098,7 +8492,8 @@
    "updatedAt": "2026-10-15T15:46:07.213Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "chainsmoker-cat",
@@ -8118,7 +8513,8 @@
    "updatedAt": "2026-10-15T15:46:09.699Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "pokemon-the-movie-genesect-and-the-legend-awakened",
@@ -8144,7 +8540,8 @@
    "updatedAt": "2026-10-15T15:46:11.273Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "pokemon-jirachi-wish-maker",
@@ -8170,7 +8567,8 @@
    "updatedAt": "2026-10-15T23:46:16.540Z",
    "type": "MOVIE",
    "season": "SUMMER",
-   "anilistId": 1121
+   "anilistId": 1121,
+   "country": "JP"
   },
   {
    "id": "skeleton-knight-in-another-world-season-2",
@@ -8190,7 +8588,8 @@
    "updatedAt": "2026-10-15T15:46:12.671Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "sengoku-basara-samurai-kings-2",
@@ -8216,7 +8615,8 @@
    "updatedAt": "2026-10-15T15:38:44.291Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "sengoku-basara-samurai-kings",
@@ -8242,7 +8642,8 @@
    "updatedAt": "2026-10-15T15:38:42.888Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-prince-of-tennis-ii",
@@ -8266,7 +8667,8 @@
    "updatedAt": "2026-10-15T15:38:41.409Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "soukyuu-no-fafner-dead-aggressor-exodus",
@@ -8292,7 +8694,8 @@
    "updatedAt": "2026-10-15T15:38:39.451Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "soukyuu-no-fafner-dead-aggressor-exodus-part-2",
@@ -8316,7 +8719,8 @@
    "updatedAt": "2026-10-15T23:46:17.618Z",
    "type": "TV",
    "season": "FALL",
-   "anilistId": 21287
+   "anilistId": 21287,
+   "country": "JP"
   },
   {
    "id": "the-idolmster",
@@ -8336,7 +8740,8 @@
    "updatedAt": "2026-10-15T15:40:28.964Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "a-certain-magical-index-the-movie-the-miracle-of-endymion",
@@ -8361,7 +8766,8 @@
    "updatedAt": "2026-10-15T15:38:37.900Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "a-certain-magical-index-specials",
@@ -8384,7 +8790,8 @@
    "updatedAt": "2026-10-15T15:38:36.434Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "blood",
@@ -8410,7 +8817,8 @@
    "updatedAt": "2026-10-15T15:38:34.983Z",
    "type": "TV",
    "season": "FALL",
-   "anilistId": 150
+   "anilistId": 150,
+   "country": "JP"
   },
   {
    "id": "bokurano",
@@ -8435,7 +8843,8 @@
    "updatedAt": "2026-10-15T15:46:14.559Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "sentenced-to-be-a-hero",
@@ -8455,7 +8864,8 @@
    "updatedAt": "2026-10-15T15:38:33.584Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "cardcaptor-sakura-clear-card",
@@ -8482,7 +8892,8 @@
    "updatedAt": "2026-10-15T15:38:32.103Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "sword-art-online-alicization-war-of-underworld",
@@ -8502,7 +8913,8 @@
    "updatedAt": "2026-10-15T15:38:30.748Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-swords-2",
@@ -8522,7 +8934,8 @@
    "updatedAt": "2026-10-15T15:38:07.950Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "the-world-is-still-beautiful",
@@ -8546,7 +8959,8 @@
    "updatedAt": "2026-10-15T15:38:29.415Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "servant-x-service",
@@ -8570,7 +8984,8 @@
    "updatedAt": "2026-10-15T15:38:27.944Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "crest-of-the-stars",
@@ -8596,7 +9011,8 @@
    "updatedAt": "2026-10-15T15:38:26.477Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "tonikawa-over-the-moon-for-you-high-school-days",
@@ -8616,7 +9032,8 @@
    "updatedAt": "2026-10-15T16:40:37.792Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "tonikawa-over-the-moon-for-you-sns",
@@ -8640,7 +9057,8 @@
    "updatedAt": "2026-10-15T15:43:43.820Z",
    "type": "OVA",
    "season": "SUMMER",
-   "anilistId": 127371
+   "anilistId": 127371,
+   "country": "JP"
   },
   {
    "id": "style-of-hiroshi-noharas-lunch",
@@ -8662,7 +9080,8 @@
    "updatedAt": "2026-10-15T06:58:45.969Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "gintama-mr-ginpachi-s-zany-class",
@@ -8685,7 +9104,8 @@
    "updatedAt": "2026-10-15T13:03:36.541Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 162890
+   "anilistId": 162890,
+   "country": "JP"
   },
   {
    "id": "naruto",
@@ -8713,7 +9133,8 @@
    "updatedAt": "2026-10-15T05:52:25.298Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 20
+   "anilistId": 20,
+   "country": "JP"
   },
   {
    "id": "jujutsu-kaisen-season-2",
@@ -8739,7 +9160,8 @@
    "updatedAt": "2026-10-13T22:23:35.948Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": 145064
+   "anilistId": 145064,
+   "country": "JP"
   },
   {
    "id": "anila-to-cocora",
@@ -8764,7 +9186,8 @@
    "updatedAt": "2026-10-15T15:46:19.611Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 199794
+   "anilistId": 199794,
+   "country": "JP"
   },
   {
    "id": "koupen-chan",
@@ -8788,7 +9211,8 @@
    "updatedAt": "2026-10-15T22:30:48.275Z",
    "type": "TV_SHORT",
    "season": "SPRING",
-   "anilistId": 185646
+   "anilistId": 185646,
+   "country": "JP"
   },
   {
    "id": "theatre-of-darkness-yamishibai-15",
@@ -8813,7 +9237,8 @@
    "updatedAt": "2026-10-13T22:21:26.433Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": 194088
+   "anilistId": 194088,
+   "country": "JP"
   },
   {
    "id": "gachiakuta",
@@ -8839,7 +9264,8 @@
    "updatedAt": "2026-10-13T22:20:55.642Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": 178025
+   "anilistId": 178025,
+   "country": "JP"
   },
   {
    "id": "may-i-ask-for-one-final-thing",
@@ -8867,7 +9293,8 @@
    "updatedAt": "2026-10-13T22:20:24.477Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 181447
+   "anilistId": 181447,
+   "country": "JP"
   },
   {
    "id": "shabake",
@@ -8892,7 +9319,8 @@
    "updatedAt": "2026-10-15T13:06:44.149Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 184997
+   "anilistId": 184997,
+   "country": "JP"
   },
   {
    "id": "mono",
@@ -8916,7 +9344,8 @@
    "updatedAt": "2026-10-15T15:46:20.904Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "tougen-anki",
@@ -8942,7 +9371,8 @@
    "updatedAt": "2026-10-15T13:07:56.062Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": 177474
+   "anilistId": 177474,
+   "country": "JP"
   },
   {
    "id": "food-for-the-soul",
@@ -8962,7 +9392,8 @@
    "updatedAt": "2026-10-15T15:46:22.150Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "go-go-vehicle-zoo-vehicle-star-hen",
@@ -8982,7 +9413,8 @@
    "updatedAt": "2026-10-15T15:46:23.840Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "watari-kuns-is-about-to-collapse",
@@ -9009,7 +9441,8 @@
    "updatedAt": "2026-10-16T08:31:22.557Z",
    "type": "TV",
    "season": "SUMMER",
-   "anilistId": 169420
+   "anilistId": 169420,
+   "country": "JP"
   },
   {
    "id": "lord-of-mysteries",
@@ -9029,7 +9462,8 @@
    "updatedAt": "2026-10-15T15:46:26.309Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "CN"
   },
   {
    "id": "kaijuu-sekai-seifuku-tv",
@@ -9049,7 +9483,8 @@
    "updatedAt": "2026-10-15T15:46:27.691Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "binan-koukou-chikyuu-bouei-bu-haikara",
@@ -9069,7 +9504,8 @@
    "updatedAt": "2026-10-15T15:46:29.107Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "a-mangakas-weirdly-wonderful-workplace",
@@ -9094,7 +9530,8 @@
    "updatedAt": "2026-10-15T13:12:51.323Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 173523
+   "anilistId": 173523,
+   "country": "JP"
   },
   {
    "id": "captivated-by-you",
@@ -9114,7 +9551,8 @@
    "updatedAt": "2026-10-15T15:46:31.855Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "apocalypse-bringer-mynoghra",
@@ -9134,7 +9572,8 @@
    "updatedAt": "2026-10-15T15:46:33.692Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "a-gatherers-adventure-in-isekai",
@@ -9161,7 +9600,8 @@
    "updatedAt": "2026-10-15T13:14:16.914Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 187663
+   "anilistId": 187663,
+   "country": "JP"
   },
   {
    "id": "fairies-album-season-5",
@@ -9181,7 +9621,8 @@
    "updatedAt": "2026-10-15T15:46:35.053Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "my-status-as-an-assassin-obviously-exceeds-the-heros",
@@ -9207,7 +9648,8 @@
    "updatedAt": "2026-10-15T13:15:49.874Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 186794
+   "anilistId": 186794,
+   "country": "JP"
   },
   {
    "id": "my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge",
@@ -9233,7 +9675,8 @@
    "updatedAt": "2026-10-15T13:17:28.762Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 184322
+   "anilistId": 184322,
+   "country": "JP"
   },
   {
    "id": "cats-eye",
@@ -9259,7 +9702,8 @@
    "updatedAt": "2026-10-16T08:32:11.964Z",
    "type": "ONA",
    "season": "FALL",
-   "anilistId": 184718
+   "anilistId": 184718,
+   "country": "JP"
   },
   {
    "id": "dragon-raja-season-2",
@@ -9284,7 +9728,8 @@
    "updatedAt": "2026-10-15T20:31:37.620Z",
    "type": "ONA",
    "season": null,
-   "anilistId": 157692
+   "anilistId": 157692,
+   "country": "CN"
   },
   {
    "id": "the-summer-hikaru-died",
@@ -9310,7 +9755,8 @@
    "updatedAt": "2026-10-15T15:46:37.428Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": 177689
+   "anilistId": 177689,
+   "country": "JP"
   },
   {
    "id": "the-fragrant-flower-blooms-with-dignity",
@@ -9334,7 +9780,8 @@
    "updatedAt": "2026-10-15T15:46:39.440Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": 181444
+   "anilistId": 181444,
+   "country": "JP"
   },
   {
    "id": "ugoku-neko-mukashibanashi",
@@ -9356,7 +9803,8 @@
    "updatedAt": "2026-10-15T23:50:04.369Z",
    "type": "ONA",
    "season": "FALL",
-   "anilistId": 188529
+   "anilistId": 188529,
+   "country": "JP"
   },
   {
    "id": "9-rulers-crown",
@@ -9376,7 +9824,8 @@
    "updatedAt": "2026-10-15T15:41:31.865Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "poppinpartys-ordinary-days",
@@ -9396,7 +9845,8 @@
    "updatedAt": "2026-10-15T15:39:31.418Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "classicstars",
@@ -9416,7 +9866,8 @@
    "updatedAt": "2026-10-15T15:38:22.417Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths",
@@ -9436,7 +9887,8 @@
    "updatedAt": "2026-10-15T15:43:16.875Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "magic-maker-how-to-make-magic-in-another-world",
@@ -9456,7 +9908,8 @@
    "updatedAt": "2026-10-15T15:38:06.651Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "fatestrange-fake",
@@ -9476,7 +9929,8 @@
    "updatedAt": "2026-10-15T15:40:26.084Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "ron-kamonohashis-forbidden-deductions-season-2",
@@ -9496,7 +9950,8 @@
    "updatedAt": "2026-10-15T15:40:24.724Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "ron-kamonohashis-forbidden-deductions",
@@ -9516,7 +9971,8 @@
    "updatedAt": "2026-10-15T15:40:23.307Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "kamierabi-godapp",
@@ -9536,7 +9992,8 @@
    "updatedAt": "2026-10-15T15:43:15.512Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "the-most-notorious-talker-runs-the-worlds-greatest-clan",
@@ -9556,7 +10013,8 @@
    "updatedAt": "2026-10-15T15:43:14.051Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "bananya-around-the-world",
@@ -9576,7 +10034,8 @@
    "updatedAt": "2026-10-15T15:43:12.781Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "tsumasho",
@@ -9596,7 +10055,8 @@
    "updatedAt": "2026-10-15T15:43:11.391Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "tower-of-god",
@@ -9616,7 +10076,8 @@
    "updatedAt": "2026-10-15T15:38:25.093Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "demon-lord-retry-r",
@@ -9636,7 +10097,8 @@
    "updatedAt": "2026-10-15T15:43:08.460Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "tower-of-god-season-2-workshop-battle",
@@ -9656,7 +10118,8 @@
    "updatedAt": "2026-10-15T15:46:40.886Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "mission-yozakura-family",
@@ -9676,7 +10139,8 @@
    "updatedAt": "2026-10-15T15:43:06.808Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "ishura",
@@ -9696,7 +10160,8 @@
    "updatedAt": "2026-10-15T15:46:42.729Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "wistoria-wand-and-sword",
@@ -9716,7 +10181,8 @@
    "updatedAt": "2026-10-15T15:43:05.485Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "legend-of-the-galactic-heroes",
@@ -9742,7 +10208,8 @@
    "updatedAt": "2026-10-15T15:43:03.973Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "ishura-season-2",
@@ -9762,7 +10229,8 @@
    "updatedAt": "2026-10-15T15:46:44.169Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-disastrous-life-of-saiki-k-2",
@@ -9787,7 +10255,8 @@
    "updatedAt": "2026-10-15T15:43:01.898Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "grisaia-phantom-trigger",
@@ -9810,7 +10279,8 @@
    "updatedAt": "2026-10-15T15:46:45.512Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "the-disastrous-life-of-saiki-k-final-arc",
@@ -9830,7 +10300,8 @@
    "updatedAt": "2026-10-15T15:43:00.593Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "honey-lemon-soda",
@@ -9850,7 +10321,8 @@
    "updatedAt": "2026-10-15T16:40:40.543Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-disastrous-life-of-saiki-k-reawakened",
@@ -9870,7 +10342,8 @@
    "updatedAt": "2026-10-15T15:42:59.315Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "tonikawa-over-the-moon-for-you-flashbacks",
@@ -9890,7 +10363,8 @@
    "updatedAt": "2026-10-15T15:42:58.036Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "yu-yu-hakusho-ghost-files",
@@ -9917,7 +10391,8 @@
    "updatedAt": "2026-10-15T15:42:56.677Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "fairy-tail-series-2",
@@ -9944,7 +10419,8 @@
    "updatedAt": "2026-10-15T15:42:54.583Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-super-cube",
@@ -9964,7 +10440,8 @@
    "updatedAt": "2026-10-15T15:46:48.788Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "la-corda-doro-primo-passo",
@@ -9992,7 +10469,8 @@
    "updatedAt": "2026-10-15T15:42:53.079Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "kingdom-season-4",
@@ -10012,7 +10490,8 @@
    "updatedAt": "2026-10-15T15:42:51.110Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "capeta",
@@ -10036,7 +10515,8 @@
    "updatedAt": "2026-10-15T15:42:49.762Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "guilty-gear-strive-dual-rulers",
@@ -10056,7 +10536,8 @@
    "updatedAt": "2026-10-15T15:38:23.730Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "is-the-order-a-rabbit-bloom",
@@ -10076,7 +10557,8 @@
    "updatedAt": "2026-10-15T15:42:47.805Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "kingdom-season-5",
@@ -10096,7 +10578,8 @@
    "updatedAt": "2026-10-15T15:42:45.849Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "word-of-honor-2nd-season",
@@ -10116,7 +10599,8 @@
    "updatedAt": "2026-10-15T15:40:21.761Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": "CN"
   },
   {
    "id": "is-the-order-a-rabbit",
@@ -10139,7 +10623,8 @@
    "updatedAt": "2026-10-15T15:42:44.506Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "space-dandy",
@@ -10163,7 +10648,8 @@
    "updatedAt": "2026-10-15T15:42:42.637Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "igano-kabamaru",
@@ -10189,7 +10675,8 @@
    "updatedAt": "2026-10-15T15:42:39.854Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "soul-of-the-dragon",
@@ -10209,7 +10696,8 @@
    "updatedAt": "2026-10-15T15:42:37.356Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "sket-dance",
@@ -10232,7 +10720,8 @@
    "updatedAt": "2026-10-15T15:42:35.926Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "fatestay-night-unlimited-blade-works-season-2",
@@ -10257,7 +10746,8 @@
    "updatedAt": "2026-10-15T15:42:34.465Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "grisaia-no-rakuen-specials",
@@ -10279,7 +10769,8 @@
    "updatedAt": "2026-10-15T15:42:33.108Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "fatestay-night-unlimited-blade-works",
@@ -10304,7 +10795,8 @@
    "updatedAt": "2026-10-15T15:42:31.825Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "grisaia-no-kajitsu-specials",
@@ -10326,7 +10818,8 @@
    "updatedAt": "2026-10-15T15:42:30.517Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "fatestay-night-unlimited-blade-works-season-2-sunny-day",
@@ -10351,7 +10844,8 @@
    "updatedAt": "2026-10-15T15:42:29.094Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "the-fruit-of-grisaia",
@@ -10377,7 +10871,8 @@
    "updatedAt": "2026-10-15T15:42:27.039Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "little-busters-refrain",
@@ -10404,7 +10899,8 @@
    "updatedAt": "2026-10-15T15:42:25.616Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "ergo-proxy",
@@ -10428,7 +10924,8 @@
    "updatedAt": "2026-10-15T15:42:23.481Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "back-as-immortal-lord",
@@ -10448,7 +10945,8 @@
    "updatedAt": "2026-10-15T15:38:05.238Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "super-dimension-fortress-macross",
@@ -10468,7 +10966,8 @@
    "updatedAt": "2026-10-15T15:40:19.798Z",
    "type": null,
    "season": null,
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "durarara-x2-ten",
@@ -10492,7 +10991,8 @@
    "updatedAt": "2026-10-15T15:42:20.043Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "durarara-x2-ketsu",
@@ -10516,7 +11016,8 @@
    "updatedAt": "2026-10-15T15:42:18.067Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "ef-a-tale-of-memories",
@@ -10541,7 +11042,8 @@
    "updatedAt": "2026-10-15T15:42:16.540Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "teasing-master-takagi-san-2",
@@ -10561,7 +11063,8 @@
    "updatedAt": "2026-10-15T15:42:15.175Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "azumanga-daioh-the-animation",
@@ -10586,7 +11089,8 @@
    "updatedAt": "2026-10-15T15:42:13.583Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "wotakoi-love-is-hard-for-otaku",
@@ -10609,7 +11113,8 @@
    "updatedAt": "2026-10-15T15:42:12.271Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "teasing-master-takagi-san",
@@ -10634,7 +11139,8 @@
    "updatedAt": "2026-10-15T15:42:10.997Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "overlord-iv",
@@ -10654,7 +11160,8 @@
    "updatedAt": "2026-10-15T15:42:09.702Z",
    "type": null,
    "season": "SUMMER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "teasing-master-takagi-san-3",
@@ -10674,7 +11181,8 @@
    "updatedAt": "2026-10-15T15:42:08.222Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "slayers",
@@ -10700,7 +11208,8 @@
    "updatedAt": "2026-10-15T15:42:05.564Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "jojos-bizarre-adventure-stone-ocean",
@@ -10720,7 +11229,8 @@
    "updatedAt": "2026-10-15T15:42:04.177Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "slayers-next",
@@ -10746,7 +11256,8 @@
    "updatedAt": "2026-10-15T15:42:02.834Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "jojos-bizarre-adventure-stone-ocean-part-2",
@@ -10766,7 +11277,8 @@
    "updatedAt": "2026-10-15T15:42:01.498Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "big-windup-the-basics-of-basics",
@@ -10789,7 +11301,8 @@
    "updatedAt": "2026-10-15T15:41:59.885Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-ancient-magus-bride-season-2-part-2",
@@ -10809,7 +11322,8 @@
    "updatedAt": "2026-10-15T15:41:58.415Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "jojos-bizarre-adventure-stone-ocean-part-3",
@@ -10829,7 +11343,8 @@
    "updatedAt": "2026-10-15T15:41:56.446Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "the-ancient-magus-bride-season-2",
@@ -10849,7 +11364,8 @@
    "updatedAt": "2026-10-15T15:41:55.178Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "skip-beat",
@@ -10873,7 +11389,8 @@
    "updatedAt": "2026-10-15T15:41:53.734Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "the-ancient-magus-bride",
@@ -10897,7 +11414,8 @@
    "updatedAt": "2026-10-15T15:41:52.266Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "little-busters",
@@ -10923,7 +11441,8 @@
    "updatedAt": "2026-10-15T15:41:50.865Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "fatestay-night-unlimited-blade-works-prologue",
@@ -10948,7 +11467,8 @@
    "updatedAt": "2026-10-15T15:41:48.777Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": null
   },
   {
    "id": "parasyte-the-maxim",
@@ -10974,7 +11494,8 @@
    "updatedAt": "2026-10-15T15:41:47.239Z",
    "type": null,
    "season": "FALL",
-   "anilistId": null
+   "anilistId": null,
+   "country": "JP"
   },
   {
    "id": "from-far-away",
@@ -10998,7 +11519,8 @@
    "updatedAt": "2026-10-13T21:46:22.712Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 209463
+   "anilistId": 209463,
+   "country": "JP"
   },
   {
    "id": "chitose-is-in-the-ramune-bottle-part-2",
@@ -11021,7 +11543,8 @@
    "updatedAt": "2026-10-13T21:43:11.274Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 198727
+   "anilistId": 198727,
+   "country": "JP"
   },
   {
    "id": "a-returners-magic-should-be-special-season-2",
@@ -11045,7 +11568,8 @@
    "updatedAt": "2026-10-15T01:01:42.170Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 172192
+   "anilistId": 172192,
+   "country": "JP"
   },
   {
    "id": "dragon-ball-super-beerus",
@@ -11069,7 +11593,8 @@
    "updatedAt": "2026-10-13T21:21:47.001Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 206814
+   "anilistId": 206814,
+   "country": "JP"
   },
   {
    "id": "ameku-md-doctor-detective-dub",
@@ -11093,7 +11618,8 @@
    "updatedAt": "2026-10-15T15:40:34.727Z",
    "type": null,
    "season": "WINTER",
-   "anilistId": 176642
+   "anilistId": 176642,
+   "country": "JP"
   },
   {
    "id": "as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-3",
@@ -11117,7 +11643,8 @@
    "updatedAt": "2026-10-15T16:05:56.039Z",
    "type": null,
    "season": "SPRING",
-   "anilistId": 164702
+   "anilistId": 164702,
+   "country": "JP"
   },
   {
    "id": "black-clover-season-2",
@@ -11143,7 +11670,8 @@
    "updatedAt": "2026-10-13T21:20:36.199Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 195604
+   "anilistId": 195604,
+   "country": "JP"
   },
   {
    "id": "aoashi-season-2",
@@ -11166,7 +11694,8 @@
    "updatedAt": "2026-10-13T21:20:29.593Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 191788
+   "anilistId": 191788,
+   "country": "JP"
   },
   {
    "id": "ace-of-diamond-act-ii-season-2-part-2",
@@ -11188,7 +11717,8 @@
    "updatedAt": "2026-10-13T21:20:22.264Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 213658
+   "anilistId": 213658,
+   "country": "JP"
   },
   {
    "id": "blue-box-season-2",
@@ -11213,7 +11743,8 @@
    "updatedAt": "2026-10-13T21:19:09.111Z",
    "type": null,
    "season": "FALL",
-   "anilistId": 189123
+   "anilistId": 189123,
+   "country": "JP"
   }
  ]
 }

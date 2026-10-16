@@ -24,6 +24,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "tsubasa reservoir chronicle",
  "altTitles": [
   "Tsubasa Chronicle",
@@ -48,5 +49,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "255b7274ed14e4cc"
+ "_syncHash": "80c68eb6b2466935"
 }

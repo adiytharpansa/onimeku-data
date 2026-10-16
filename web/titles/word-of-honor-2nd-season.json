@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "CN",
  "rawTitle": "word of honor 2nd season",
  "altTitles": [],
  "studio": null,
@@ -32,5 +33,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "3b6dcea02cb6c62d"
+ "_syncHash": "8d0e3ce8f9858031"
 }

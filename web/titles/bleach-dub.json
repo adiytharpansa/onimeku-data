@@ -50,6 +50,7 @@
  "type": "TV",
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "bleach dub",
  "altTitles": [
   "BLEACH",
@@ -328,5 +329,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "ffc88fbac85fde96"
+ "_syncHash": "a3b7eddcc9522ae1"
 }

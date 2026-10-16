@@ -17,10 +17,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-16T13:02:51.238Z",
+ "updatedAt": "2026-10-16T20:54:22.230Z",
  "type": "TV",
  "season": "SUMMER",
  "anilistId": 198946,
+ "country": "JP",
  "rawTitle": "clevatess season 2",
  "altTitles": [
   "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
@@ -51,9 +52,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/e1epgvhzxb/63lr32pag3/bg0voue876d9m2/subs/rai7ww42ewlpqbv2.vtt"
     }
    ],
-   "addedAt": "2026-10-16T13:02:51.238Z",
+   "addedAt": "2026-10-16T20:54:22.230Z",
    "customSubs": []
   }
  ],
- "_syncHash": "5f6682dbcd6b7c52"
+ "_syncHash": "6436b7dcb05742b5"
 }

@@ -23,6 +23,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "sengoku basara samurai kings",
  "altTitles": [
   "Sengoku Basara",
@@ -47,5 +48,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f8e014f70bb1e577"
+ "_syncHash": "b5c0c74e913d1eb1"
 }

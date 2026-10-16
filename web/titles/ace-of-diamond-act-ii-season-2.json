@@ -19,6 +19,7 @@
  "type": "TV",
  "season": "SPRING",
  "anilistId": 177634,
+ "country": "JP",
  "rawTitle": "ace of diamond act ii season 2",
  "altTitles": [
   "Diamond no Ace act II: Second Season",
@@ -37,5 +38,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "257ffbc11c8d8ffa"
+ "_syncHash": "50d5463370fed203"
 }

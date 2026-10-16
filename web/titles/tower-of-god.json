@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "tower of god",
  "altTitles": [
   "Kami no Tou: Tower of God",
@@ -81,5 +82,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f2a3ce4df18f421e"
+ "_syncHash": "00198f8a9f7343d0"
 }

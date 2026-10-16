@@ -30,6 +30,7 @@
  "type": "TV",
  "season": "FALL",
  "anilistId": 165790,
+ "country": "JP",
  "rawTitle": "365 days to the wedding",
  "altTitles": [
   "Kekkon Suru tte, Hontou desu ka",
@@ -148,5 +149,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "8bb9283ad789ec56"
+ "_syncHash": "2010401278725448"
 }

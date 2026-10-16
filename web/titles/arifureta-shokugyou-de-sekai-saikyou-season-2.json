@@ -47,6 +47,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "Arifureta Shokugyou de Sekai Saikyou Season 2",
  "altTitles": [],
  "studio": null,
@@ -132,5 +133,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "052be535b828ebb5"
+ "_syncHash": "46a3fe6206eebb3b"
 }

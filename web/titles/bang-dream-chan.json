@@ -20,6 +20,7 @@
  "type": "ONA",
  "season": "FALL",
  "anilistId": 187166,
+ "country": "JP",
  "rawTitle": "bang dream chan",
  "altTitles": [
   "Ganso! Bandori-chan",
@@ -44,5 +45,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "cb6b3b4095a7ba04"
+ "_syncHash": "9ade62148472bfb6"
 }

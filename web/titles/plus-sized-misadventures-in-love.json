@@ -23,6 +23,7 @@
  "type": "TV",
  "season": "FALL",
  "anilistId": 170936,
+ "country": "JP",
  "rawTitle": "plus sized misadventures in love",
  "altTitles": [
   "Debu to Love to Ayamachi to!",
@@ -79,5 +80,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "37fdb8daa431ec6e"
+ "_syncHash": "5fb808cbbda9777a"
 }

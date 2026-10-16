@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "love unseen beneath the clear night sky",
  "altTitles": [
   "Tomei na Yoru ni Kakeru-kun to, Menimienai Koi wo Shita",
@@ -81,5 +82,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "fd53dcae294dfc63"
+ "_syncHash": "876dc6a6ff752291"
 }

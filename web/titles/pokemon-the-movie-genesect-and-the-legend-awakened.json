@@ -23,6 +23,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "pokemon the movie genesect and the legend awakened",
  "altTitles": [
   "Pokemon Best Wishes! Season 2: Shinsoku no Genosect - Mewtwo Kakusei",
@@ -41,5 +42,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "0a80979e3d0aedb8"
+ "_syncHash": "5a3f1750034f997f"
 }

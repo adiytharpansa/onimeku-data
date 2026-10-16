@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "black clover sword of the wizard king",
  "altTitles": [
   "Black Clover: Mahou Tei no Ken",
@@ -196,5 +197,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b151e214badcd796"
+ "_syncHash": "a92682d182bb61b2"
 }

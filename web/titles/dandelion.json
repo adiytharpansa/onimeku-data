@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "dandelion",
  "altTitles": [
   "ダンデライオン"
@@ -40,5 +41,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "26dc53269f59f2f5"
+ "_syncHash": "53fc165a5846a429"
 }

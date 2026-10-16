@@ -21,6 +21,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": 206814,
+ "country": "JP",
  "rawTitle": "dragon ball super beerus",
  "altTitles": [
   "ドラゴンボール超 ビルス"
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "fdf15e42627c523a"
+ "_syncHash": "6d2b09edba244743"
 }

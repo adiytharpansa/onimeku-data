@@ -43,6 +43,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "Ansatsusha de Aru Ore no Status ga Yuusha",
  "altTitles": [],
  "studio": null,
@@ -108,5 +109,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "a44ea34fd9f34708"
+ "_syncHash": "bdbb8b312ff8d203"
 }

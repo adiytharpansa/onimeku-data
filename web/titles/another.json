@@ -44,6 +44,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "Another",
  "altTitles": [],
  "studio": null,
@@ -109,5 +110,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "31895c375323b971"
+ "_syncHash": "d69429ff60fd2492"
 }

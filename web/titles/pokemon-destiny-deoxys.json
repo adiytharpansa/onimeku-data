@@ -24,6 +24,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "pokemon destiny deoxys",
  "altTitles": [
   "Pokemon Advanced Generation: Rekkuu no Houmonsha Deoxys",
@@ -53,5 +54,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b2c2468271717323"
+ "_syncHash": "991b0c2b26856bd3"
 }

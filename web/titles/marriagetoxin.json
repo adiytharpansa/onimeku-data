@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "marriagetoxin",
  "altTitles": [
   "マリッジトキシン"
@@ -40,5 +41,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "bb2c6f46e70c896b"
+ "_syncHash": "4370a8b39c32f6ac"
 }

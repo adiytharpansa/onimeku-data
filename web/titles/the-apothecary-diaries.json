@@ -17,6 +17,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "the apothecary diaries",
  "altTitles": [
   "Kusuriya no Hitorigoto",
@@ -71,5 +72,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "740b20de6a1f8102"
+ "_syncHash": "7f59491d168121c8"
 }

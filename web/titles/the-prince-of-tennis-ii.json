@@ -21,6 +21,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "the prince of tennis ii",
  "altTitles": [
   "Shin Tennis no Ouji-sama",
@@ -55,5 +56,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "8586da558d6d8a2b"
+ "_syncHash": "44d1d58a51975ad6"
 }

@@ -27,6 +27,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "the familiar of zero rondo of princesses",
  "altTitles": [
   "Zero no Tsukaima: Princesses no Rondo",
@@ -51,5 +52,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "3d55e388561d7f55"
+ "_syncHash": "c517405dfeff1941"
 }

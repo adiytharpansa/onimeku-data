@@ -20,6 +20,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": null,
  "rawTitle": "grisaia phantom trigger",
  "altTitles": [
   "グリザイア：ファントムトリガー"
@@ -83,5 +84,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "56bf28705501a145"
+ "_syncHash": "369fff6757649679"
 }

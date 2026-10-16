@@ -46,6 +46,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "Bleach: Sennen Kessen-hen",
  "altTitles": [],
  "studio": null,
@@ -111,5 +112,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "4c9baf8466ac5e82"
+ "_syncHash": "d9ea3c78e1b531d8"
 }

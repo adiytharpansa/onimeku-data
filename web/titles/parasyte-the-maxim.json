@@ -23,6 +23,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "parasyte the maxim",
  "altTitles": [
   "Kiseijuu: Sei no Kakuritsu",
@@ -77,5 +78,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f526a9cf08c102b5"
+ "_syncHash": "3a4bd334897ea58d"
 }

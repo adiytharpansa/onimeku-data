@@ -17,6 +17,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "honey lemon soda",
  "altTitles": [
   "ハニーレモンソーダ"
@@ -40,5 +41,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "5549d929d28cf2a9"
+ "_syncHash": "54a705f3452b63ec"
 }

@@ -17,6 +17,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "love through a prism",
  "altTitles": [
   "Prism Rondo",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "474cb72d48ae9343"
+ "_syncHash": "7a06d9311900ef77"
 }

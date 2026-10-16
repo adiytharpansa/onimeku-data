@@ -19,6 +19,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "grisaia no rakuen specials",
  "altTitles": [
   "Grisaia no Rakuen Specials",
@@ -37,5 +38,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "64004e564638befd"
+ "_syncHash": "f539da56c02776b2"
 }

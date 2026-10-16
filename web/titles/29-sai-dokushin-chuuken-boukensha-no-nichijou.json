@@ -45,6 +45,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "29-sai Dokushin Chuuken Boukensha no Nichijou",
  "altTitles": [],
  "studio": null,
@@ -110,5 +111,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "03a474586167daad"
+ "_syncHash": "77ef08796bbe662f"
 }

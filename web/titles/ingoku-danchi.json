@@ -19,6 +19,7 @@
  "type": "TV_SHORT",
  "season": "SPRING",
  "anilistId": 206166,
+ "country": "JP",
  "rawTitle": "ingoku danchi",
  "altTitles": [
   "Ingoku Danchi",
@@ -43,5 +44,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "7f7f6db9c2bde3f1"
+ "_syncHash": "c7c5ea7bcceb0837"
 }

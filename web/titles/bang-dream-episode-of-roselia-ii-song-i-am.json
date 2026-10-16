@@ -19,6 +19,7 @@
  "type": "MOVIE",
  "season": "SUMMER",
  "anilistId": 117764,
+ "country": "JP",
  "rawTitle": "bang dream episode of roselia ii song i am",
  "altTitles": [
   "BanG Dream! Episode of Roselia II: Song I am.",
@@ -43,5 +44,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "7c288edf87fd27a3"
+ "_syncHash": "178cfbaf737f9033"
 }

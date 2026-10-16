@@ -21,6 +21,7 @@
  "type": "TV",
  "season": "SUMMER",
  "anilistId": 203880,
+ "country": null,
  "rawTitle": "dara san of reiwa",
  "altTitles": [
   "Reiwa no Dara-san",
@@ -45,5 +46,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "7973e5f9f45482b8"
+ "_syncHash": "520f3d90cf2cef1a"
 }

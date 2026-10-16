@@ -17,6 +17,7 @@
  "type": "ONA",
  "season": "FALL",
  "anilistId": null,
+ "country": "CN",
  "rawTitle": "a herbivorous dragon of 5000 years gets unfairly villainized 2nd season",
  "altTitles": [],
  "studio": null,
@@ -32,5 +33,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "5e310b26c48232dd"
+ "_syncHash": "e055c1f90ad79b46"
 }

@@ -20,6 +20,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": 162890,
+ "country": "JP",
  "rawTitle": "Gintama Mr. Ginpachi's Zany Class",
  "altTitles": [
   "3-nen Z-gumi Ginpachi-sensei",
@@ -60,5 +61,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "fe56e8023434998a"
+ "_syncHash": "5ebe640d9a53806a"
 }

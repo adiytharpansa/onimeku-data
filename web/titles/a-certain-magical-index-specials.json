@@ -20,6 +20,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "a certain magical index specials",
  "altTitles": [
   "Toaru Majutsu no Index-tan",
@@ -44,5 +45,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "94462123338b3980"
+ "_syncHash": "a8fb293ecd516cb3"
 }

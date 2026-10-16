@@ -13,10 +13,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-16T09:53:45.351Z",
+ "updatedAt": "2026-10-16T20:54:56.609Z",
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": null,
  "rawTitle": "walking the way all alone",
  "altTitles": [],
  "studio": null,
@@ -34,9 +35,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/qvbbg67lam/wddra47ksr/3p4f7skfjmmhtj/subs/vg2tqv3jgbpb419c.vtt"
     }
    ],
-   "addedAt": "2026-10-16T09:53:45.351Z",
+   "addedAt": "2026-10-16T20:54:56.609Z",
    "customSubs": []
   }
  ],
- "_syncHash": "1910fb05979b845a"
+ "_syncHash": "4a5f9da3729462f2"
 }

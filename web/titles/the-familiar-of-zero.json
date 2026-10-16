@@ -27,6 +27,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "the familiar of zero",
  "altTitles": [
   "Zero no Tsukaima",
@@ -51,5 +52,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "2cf797c9f8f982ce"
+ "_syncHash": "0c26d68f2ceb4f8e"
 }

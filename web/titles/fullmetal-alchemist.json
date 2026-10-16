@@ -25,6 +25,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "fullmetal alchemist",
  "altTitles": [
   "Hagane no Renkinjutsushi",
@@ -49,5 +50,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "ee1b570f1dfaa66f"
+ "_syncHash": "cf026272d1d8405f"
 }

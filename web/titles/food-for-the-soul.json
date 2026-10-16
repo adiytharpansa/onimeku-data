@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "food for the soul",
  "altTitles": [
   "Hibi wa Sugiredo Meshi Umashi",
@@ -35,5 +36,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "a15a0eb83bfcefbd"
+ "_syncHash": "975c3db8c0ecec67"
 }

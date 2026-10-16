@@ -24,6 +24,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": 187663,
+ "country": "JP",
  "rawTitle": "a gatherers adventure in isekai",
  "altTitles": [
   "Sozai Saishuka no Isekai Ryokouki",
@@ -80,5 +81,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "619ac7445d8295a3"
+ "_syncHash": "99f574fe863c9d34"
 }

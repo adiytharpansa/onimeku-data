@@ -23,6 +23,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": 177474,
+ "country": "JP",
  "rawTitle": "tougen anki",
  "altTitles": [
   "Tougen Anki",
@@ -79,5 +80,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "d38cb44fcb209c60"
+ "_syncHash": "1891b22b009be379"
 }

@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "the classroom of a black cat and a witch",
  "altTitles": [
   "Kuroneko to Majo no Kyoushitsu",
@@ -41,5 +42,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "2f68347549414f1d"
+ "_syncHash": "072601a65e15e0f9"
 }

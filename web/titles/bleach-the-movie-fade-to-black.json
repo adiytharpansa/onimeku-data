@@ -23,6 +23,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "bleach the movie fade to black",
  "altTitles": [
   "Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu",
@@ -47,5 +48,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "70f8841d2a1274f7"
+ "_syncHash": "d1d0c3ef4e3d957c"
 }

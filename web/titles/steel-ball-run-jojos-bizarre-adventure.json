@@ -17,6 +17,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "steel ball run jojos bizarre adventure",
  "altTitles": [
   "Steel Ball Run: JoJo no Kimyou na Bouken",
@@ -201,5 +202,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "470c08303194a61c"
+ "_syncHash": "5652b470aca01161"
 }

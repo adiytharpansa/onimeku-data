@@ -19,6 +19,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": null,
  "rawTitle": "style of hiroshi noharas lunch",
  "altTitles": [
   "Nohara Hiroshi: Hiru Meshi no Ryuugi",
@@ -75,5 +76,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "dc01c977b2e97657"
+ "_syncHash": "3178684ca17ca46f"
 }

@@ -20,6 +20,7 @@
  "type": "TV",
  "season": "FALL",
  "anilistId": 127400,
+ "country": "JP",
  "rawTitle": "world trigger 3rd season",
  "altTitles": [
   "ワールドトリガー 3rdシーズン"
@@ -43,5 +44,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "8b295b5353f94232"
+ "_syncHash": "1aabece48af1ed77"
 }

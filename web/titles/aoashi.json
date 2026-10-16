@@ -13,10 +13,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-16T18:13:57.688Z",
+ "updatedAt": "2026-10-16T19:58:02.938Z",
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "aoashi",
  "altTitles": [],
  "studio": null,
@@ -34,9 +35,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/05wrjrqegx/hzdewuhnub/ue9b4m90y7fy66/subs/tu82lqurddrd28sn.vtt"
     }
    ],
-   "addedAt": "2026-10-16T18:13:57.688Z",
+   "addedAt": "2026-10-16T19:58:02.938Z",
    "customSubs": []
   }
  ],
- "_syncHash": "fecd10642d4c7e85"
+ "_syncHash": "220046c1ee97e1da"
 }

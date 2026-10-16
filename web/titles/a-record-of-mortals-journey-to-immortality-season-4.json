@@ -17,6 +17,7 @@
  "type": "ONA",
  "season": "WINTER",
  "anilistId": null,
+ "country": null,
  "rawTitle": "a record of mortals journey to immortality season 4",
  "altTitles": [
   "凡人修仙传 第四季",
@@ -37,5 +38,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "7d9de18b6a101cf7"
+ "_syncHash": "235ea207b01df657"
 }

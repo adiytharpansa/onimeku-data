@@ -43,6 +43,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season",
  "altTitles": [],
  "studio": null,
@@ -118,5 +119,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "9dbaf8bd5620d7f3"
+ "_syncHash": "2b36b614b1786c66"
 }

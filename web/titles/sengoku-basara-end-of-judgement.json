@@ -23,6 +23,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "sengoku basara end of judgement",
  "altTitles": [
   "Sengoku Basara: Judge End",
@@ -47,5 +48,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "55c2fe47e78d9d1c"
+ "_syncHash": "087637545be33886"
 }

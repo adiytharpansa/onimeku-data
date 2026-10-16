@@ -40,6 +40,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "#Zombie Sagashitemasu",
  "altTitles": [],
  "studio": null,
@@ -55,5 +56,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "24ef00c1c1db95ac"
+ "_syncHash": "d6c8f8be4828d9d6"
 }

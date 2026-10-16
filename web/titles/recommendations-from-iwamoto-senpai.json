@@ -20,6 +20,7 @@
  "type": "TV",
  "season": "SUMMER",
  "anilistId": 206249,
+ "country": "JP",
  "rawTitle": "recommendations from iwamoto senpai",
  "altTitles": [
   "Iwamoto-senpai no Suisen",
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "28d3f15ebe9ed4d1"
+ "_syncHash": "62d258ec01e87dd8"
 }

@@ -18,10 +18,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-16T18:13:07.800Z",
+ "updatedAt": "2026-10-16T19:57:11.832Z",
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "yona of the dawn ova",
  "altTitles": [
   "Akatsuki no Yona OVA",
@@ -42,9 +43,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/8qoeh3fwr8/b5dqlqvo7o/4iued2hwig3ufk/subs/w33utj1y7mld1d9z.vtt"
     }
    ],
-   "addedAt": "2026-10-16T18:13:07.800Z",
+   "addedAt": "2026-10-16T19:57:11.832Z",
    "customSubs": []
   }
  ],
- "_syncHash": "e7b47c7e96c21642"
+ "_syncHash": "08bcfbbd82419d8b"
 }

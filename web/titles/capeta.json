@@ -21,6 +21,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "capeta",
  "altTitles": [
   "カペタ"
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "7e001569e27aa7d2"
+ "_syncHash": "2cf9ea8ad97b917d"
 }

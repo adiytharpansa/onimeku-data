@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "mebius dust",
  "altTitles": [
   "メビウス・ダスト"
@@ -110,5 +111,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "c62be1ddc99a545b"
+ "_syncHash": "97deaf6e48a39a07"
 }

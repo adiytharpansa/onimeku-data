@@ -22,6 +22,7 @@
  "type": "ONA",
  "season": null,
  "anilistId": 157692,
+ "country": "CN",
  "rawTitle": "dragon raja season 2",
  "altTitles": [
   "Long Zu 2",
@@ -46,5 +47,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "2599954c56bbd3db"
+ "_syncHash": "56d4f44ce4b194e9"
 }

@@ -19,6 +19,7 @@
  "type": "TV",
  "season": "SPRING",
  "anilistId": 196935,
+ "country": "JP",
  "rawTitle": "akane banashi",
  "altTitles": [
   "あかね噺"
@@ -36,5 +37,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b03a64723b75ce0b"
+ "_syncHash": "a79c3e9246b2b80b"
 }

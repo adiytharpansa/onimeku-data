@@ -22,6 +22,7 @@
  "type": "MOVIE",
  "season": "WINTER",
  "anilistId": 98762,
+ "country": "JP",
  "rawTitle": "love chunibyo and other delusions take on me",
  "altTitles": [
   "Chuunibyou demo Koi ga Shitai!: Take On Me",
@@ -46,5 +47,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "2fa2306648e339cc"
+ "_syncHash": "80b6251e1aeb841f"
 }

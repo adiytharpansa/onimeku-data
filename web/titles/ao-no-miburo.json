@@ -49,6 +49,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "Ao no Miburo",
  "altTitles": [],
  "studio": null,
@@ -174,5 +175,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "24f8997e340b929a"
+ "_syncHash": "accedc2036aae73b"
 }

@@ -23,6 +23,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "high school of the dead",
  "altTitles": [
   "Highschool of the Dead",
@@ -57,5 +58,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "6f1d9bae6cec6d76"
+ "_syncHash": "ec641c317740ee2c"
 }

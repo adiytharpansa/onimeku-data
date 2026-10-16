@@ -23,6 +23,7 @@
  "type": "TV",
  "season": "FALL",
  "anilistId": 150,
+ "country": "JP",
  "rawTitle": "blood",
  "altTitles": [
   "BLOOD+",
@@ -47,5 +48,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "1abf03909bd40dc6"
+ "_syncHash": "edb324669765c6ae"
 }

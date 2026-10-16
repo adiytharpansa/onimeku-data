@@ -17,6 +17,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": null,
  "rawTitle": "kamierabi godapp",
  "altTitles": [
   "Kamierabi",
@@ -76,5 +77,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "36b1d06194f11f0d"
+ "_syncHash": "5232b72dc37fe389"
 }

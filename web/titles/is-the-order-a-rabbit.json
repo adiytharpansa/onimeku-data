@@ -20,6 +20,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "is the order a rabbit",
  "altTitles": [
   "Gochuumon wa Usagi desu ka?",
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "a4a5022996473585"
+ "_syncHash": "9388e9367539a226"
 }

@@ -23,6 +23,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "legend of the galactic heroes",
  "altTitles": [
   "Ginga Eiyuu Densetsu",
@@ -47,5 +48,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "92c8f6bcf247e972"
+ "_syncHash": "fb3605645dff9590"
 }

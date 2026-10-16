@@ -25,6 +25,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "akira",
  "altTitles": [
   "AKIRA（アキラ）"
@@ -48,5 +49,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "6999a8fa2572c227"
+ "_syncHash": "ee322937220d0e85"
 }

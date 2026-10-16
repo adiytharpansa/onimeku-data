@@ -37,6 +37,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "Ao no Hako Season 2",
  "altTitles": [],
  "studio": null,
@@ -52,5 +53,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "e2be207ebce7b00d"
+ "_syncHash": "c56a7d3150f28118"
 }

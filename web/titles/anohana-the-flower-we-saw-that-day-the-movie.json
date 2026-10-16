@@ -18,10 +18,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:40:07.621Z",
+ "updatedAt": "2026-10-16T18:33:22.108Z",
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "anohana the flower we saw that day the movie",
  "altTitles": [
   "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie",
@@ -42,9 +43,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/s6e6bllg5p/m0k2taic8b/pqut726t04y0yh/subs/scsm7xemg47hq114.vtt"
     }
    ],
-   "addedAt": "2026-10-14T02:16:05.317Z",
+   "addedAt": "2026-10-16T18:33:22.108Z",
    "customSubs": []
   }
  ],
- "_syncHash": "cb9fd93db9bfb535"
+ "_syncHash": "fc7d107c0795f1de"
 }

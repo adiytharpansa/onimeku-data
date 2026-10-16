@@ -20,6 +20,7 @@
  "type": "MOVIE",
  "season": "SUMMER",
  "anilistId": 177687,
+ "country": "JP",
  "rawTitle": "100 meters",
  "altTitles": [
   "Hyakuemu.",
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "a01f7f56db146f82"
+ "_syncHash": "72db13a7b14b2d72"
 }

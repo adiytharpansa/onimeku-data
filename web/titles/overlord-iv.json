@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "overlord iv",
  "altTitles": [
   "オーバーロードⅣ"
@@ -34,5 +35,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "031c5303d2b448bd"
+ "_syncHash": "80e160a121bfe5ab"
 }

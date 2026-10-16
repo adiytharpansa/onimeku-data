@@ -21,6 +21,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "pokemon the movie hoopa and the clash of ages",
  "altTitles": [
   "Pokemon the Movie XY: Ring no Choumajin Hoopa",
@@ -60,5 +61,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "d2664fa28dca9514"
+ "_syncHash": "456c11ed507ada0b"
 }

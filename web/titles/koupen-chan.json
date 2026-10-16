@@ -21,6 +21,7 @@
  "type": "TV_SHORT",
  "season": "SPRING",
  "anilistId": 185646,
+ "country": "JP",
  "rawTitle": "koupen chan",
  "altTitles": [
   "コウペンちゃん"
@@ -76,5 +77,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "b564c1e2115121c3"
+ "_syncHash": "ed204e69e82f21a1"
 }

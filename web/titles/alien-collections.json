@@ -21,6 +21,7 @@
  "type": "ONA",
  "season": null,
  "anilistId": 156104,
+ "country": "CN",
  "rawTitle": "alien collections",
  "altTitles": [
   "新·异常生物见闻录：序"
@@ -38,5 +39,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "478abe5e6478f510"
+ "_syncHash": "ac1db1711a166c95"
 }

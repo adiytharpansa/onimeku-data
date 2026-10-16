@@ -17,6 +17,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": null,
  "rawTitle": "jojos bizarre adventure stone ocean part 2",
  "altTitles": [
   "JoJo no Kimyou na Bouken: Stone Ocean Part 2",
@@ -196,5 +197,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "58ca49be8f084861"
+ "_syncHash": "ff46d2fa40a13f0f"
 }

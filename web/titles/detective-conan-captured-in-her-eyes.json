@@ -21,6 +21,7 @@
  "type": "MOVIE",
  "season": "SPRING",
  "anilistId": 1363,
+ "country": "JP",
  "rawTitle": "detective conan captured in her eyes",
  "altTitles": [
   "Meitantei Conan: Hitomi no Naka no Ansatsusha",
@@ -45,5 +46,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "6ba29a3698899ec7"
+ "_syncHash": "25b64fa48af20ea8"
 }

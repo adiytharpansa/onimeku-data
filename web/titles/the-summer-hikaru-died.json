@@ -23,6 +23,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": 177689,
+ "country": "JP",
  "rawTitle": "the summer hikaru died",
  "altTitles": [
   "Hikaru ga Shinda Natsu",
@@ -217,5 +218,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "1313492a2079832e"
+ "_syncHash": "1d7a1f33f4925648"
 }

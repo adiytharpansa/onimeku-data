@@ -24,6 +24,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "date a live",
  "altTitles": [
   "デート・ア・ライブ"
@@ -47,5 +48,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "567f3452a63e2587"
+ "_syncHash": "6a2c581ddaebc658"
 }

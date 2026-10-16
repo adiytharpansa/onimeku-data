@@ -22,6 +22,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "sengoku basara setonai no gekitotsu hi wo fuku umi no daiyousai fugaku",
  "altTitles": [
   "戦国BASARA 瀬戸内の激突! 火を噴く海の大要塞・富嶽!!"
@@ -39,5 +40,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "7b8b03e372f0351e"
+ "_syncHash": "4a43a58109728b3c"
 }

@@ -46,6 +46,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "5-toubun no Hanayome ∬",
  "altTitles": [],
  "studio": null,
@@ -111,5 +112,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f26e88820f5d551b"
+ "_syncHash": "66a28b88e5a5df5b"
 }
