@@ -1,0 +1,52 @@
+{
+ "id": "tsubasa-reservoir-chronicle",
+ "title": "Tsubasa RESERVoir CHRoNiCLE",
+ "poster": "https://media.kitsu.app/anime/poster_images/154/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/154/large.jpg",
+ "synopsis": "During an excavation at the mysterious ruins in Clow Country, Syaoran discovers his childhood friend Princess Sakura appear on the site with wings that disperse into many feathers. As the feather's disappear to different dimensions, so does Sakura's memory. In attempts to save Sakura's life and restore her memory, Syaoran travels through to another world to find a solution. There's only one thing left he can do. Travel through to different dimensions to collect Sakura's feathers. Helping out with the quest is Kurogane, an exiled ninja from Japan Country who wishes to return to his world, the runaway magician, Fay, who desires to jump between each world never to return to his own and the white meat-bun shaped creature, Mokona.",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Magic",
+  "Supernatural",
+  "Fantasy",
+  "Romance"
+ ],
+ "score": 7.4,
+ "year": 2005,
+ "status": "FINISHED",
+ "totalEpisodes": 26,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:50.741Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "tsubasa reservoir chronicle",
+ "altTitles": [
+  "Tsubasa Chronicle",
+  "ツバサ・クロニクル"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/bthckl0pg2/eh1hlqrrqi/2znypi8jyc3zc4/master.m3u8",
+   "downloadUrl": "/download/mal/177/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/154/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/177/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/bthckl0pg2/eh1hlqrrqi/2znypi8jyc3zc4/subs/y39qq4zlok2ijg02.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:14:50.987Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "255b7274ed14e4cc"
+}

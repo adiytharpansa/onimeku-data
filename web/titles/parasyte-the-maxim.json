@@ -1,0 +1,81 @@
+{
+ "id": "parasyte-the-maxim",
+ "title": "parasyte the maxim",
+ "poster": "https://media.kitsu.app/anime/poster_images/8147/large.jpg",
+ "banner": "https://media.kitsu.app/anime/8147/cover_image/large-4c609943757c2adf4d04e5a209354131.jpeg",
+ "synopsis": "All of a sudden, they arrived: parasitic aliens that descended upon Earth and quickly infiltrated humanity by burrowing into the brains of vulnerable targets. These insatiable beings acquire full control of their host and are able to morph into a variety of forms in order to feed on unsuspecting prey.\n\nSixteen-year-old high school student Shinichi Izumi falls victim to one of these parasites, but it fails to take over his brain, ending up in his right hand instead. Unable to relocate, the parasite, now named Migi, has no choice but to rely on Shinichi in order to stay alive. Thus, the pair is forced into an uneasy coexistence and must defend themselves from hostile parasites that hope to eradicate this new threat to their species.\n\n(Source: MAL Rewrite)",
+ "genres": [
+  "Action",
+  "Drama",
+  "Sci-Fi",
+  "Horror",
+  "Psychological"
+ ],
+ "score": 8.2,
+ "year": 2014,
+ "status": "FINISHED",
+ "totalEpisodes": 24,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:41:47.239Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "parasyte the maxim",
+ "altTitles": [
+  "Kiseijuu: Sei no Kakuritsu",
+  "寄生獣 セイの格率"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/vabcyd0s0f/sthjwpk4aw/issvsj0pbdlqhp/master.m3u8",
+   "downloadUrl": "/download/mal/22535/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/22535/1/sub",
+   "subtitles": [
+    {
+     "label": "Arabic (- العربية (Arabic))",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/vabcyd0s0f/sthjwpk4aw/issvsj0pbdlqhp/subs/2ht16tkgpv4o1gps.vtt"
+    },
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/vabcyd0s0f/sthjwpk4aw/issvsj0pbdlqhp/subs/9vployb3mj5in2xm.vtt"
+    },
+    {
+     "label": "French (- Français (France))",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/vabcyd0s0f/sthjwpk4aw/issvsj0pbdlqhp/subs/suiyg1xupi0wtq8q.vtt"
+    },
+    {
+     "label": "German (- Deutsch)",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/vabcyd0s0f/sthjwpk4aw/issvsj0pbdlqhp/subs/bzl7ieptdf4qqxy6.vtt"
+    },
+    {
+     "label": "Portuguese (- Português (Brasil))",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/vabcyd0s0f/sthjwpk4aw/issvsj0pbdlqhp/subs/yenzrslmavfhqub0.vtt"
+    },
+    {
+     "label": "Spanish (- Español (España))",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/vabcyd0s0f/sthjwpk4aw/issvsj0pbdlqhp/subs/bltjku5k6hmkrn0k.vtt"
+    },
+    {
+     "label": "Spanish (- Español (LA))",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/vabcyd0s0f/sthjwpk4aw/issvsj0pbdlqhp/subs/cxoz4uvw9z5e1idu.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:07:52.577Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "f526a9cf08c102b5"
+}

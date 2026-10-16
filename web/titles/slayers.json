@@ -1,0 +1,44 @@
+{
+ "id": "slayers",
+ "title": "slayers",
+ "poster": "https://media.kitsu.app/anime/poster_images/493/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/493/large.jpg",
+ "synopsis": "Powerful, avaricious sorceress Lina Inverse travels around the world, stealing treasures from bandits who cross her path. Her latest victims, a band of thieves, wait in ambush in a forest, thirsting for revenge. When Lina is about to effortlessly pummel her would-be attackers, the swordsman Gourry Gabriev suddenly announces his presence. Assuming Lina to be a damsel in distress, the foolish yet magnanimous man confronts the brigands in order to rescue her. After defeating them posthaste, the oblivious cavalier decides to escort Lina to Atlas City. Though not very keen on this idea, she ends up accepting his offer.\nHowever, without realizing it, Lina has chanced upon a mighty magical item among her most recent spoils. Now two mysterious men are hunting the young magician and her self-proclaimed guardian to obtain this powerful object for apparently nefarious purposes. This way they begin their adventure, one where the fate of the world itself may be at stake.\n[Written by MAL Rewrite]",
+ "genres": [
+  "Adventure",
+  "Comedy",
+  "Magic",
+  "Fantasy",
+  "Demons"
+ ],
+ "score": 7.7,
+ "year": 1995,
+ "status": "FINISHED",
+ "totalEpisodes": 26,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:42:05.564Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "slayers",
+ "altTitles": [
+  "スレイヤーズ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/gk75ujxvoq/2qfvph28sm/f9pjezuhm1hrrw/master.m3u8",
+   "downloadUrl": "/download/mal/534/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/534/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-13T22:05:29.357Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "cdadb385641b1d67"
+}

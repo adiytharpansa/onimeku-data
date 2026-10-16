@@ -1,0 +1,57 @@
+{
+ "id": "pokemon-destiny-deoxys",
+ "title": "Pokemon: Destiny Deoxys",
+ "poster": "https://media.kitsu.app/anime/poster_images/1006/large.jpg",
+ "banner": "",
+ "synopsis": "Satoshi and his friends travel to LaRousse, where they meet a boy named Tooi who is afraid of Pokemon due to an incident that happened four years earlier. Meanwhile, Deoxys, a Pokemon from space, has reappeared, putting a barrier around the city and kidnapping people. Rayquaza, a Pokemon that lives in the atmosphere, comes to fight it.\n(Source: ANN)",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Comedy",
+  "Sci-Fi",
+  "Fantasy",
+  "Kids"
+ ],
+ "score": 6.7,
+ "year": 2004,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:46.990Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "pokemon destiny deoxys",
+ "altTitles": [
+  "Pokemon Advanced Generation: Rekkuu no Houmonsha Deoxys",
+  "ポケットモンスター アドバンスジェネレーション 裂空の訪問者 デオキシス"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/c384txpz56/docpi9mizi/sf0n6xbuf2l4py/master.m3u8",
+   "downloadUrl": "/download/mal/1122/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/1006/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/1122/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/c384txpz56/docpi9mizi/sf0n6xbuf2l4py/subs/p048djaeh8b9it3r.vtt"
+    },
+    {
+     "label": "Italian",
+     "lang": "it",
+     "url": "https://hls.dramahot.top/v/scxqicy/c384txpz56/docpi9mizi/sf0n6xbuf2l4py/subs/2ypspy4qby4rb8fj.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:21:32.961Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "b2c2468271717323"
+}

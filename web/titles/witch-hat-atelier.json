@@ -1,0 +1,45 @@
+{
+ "id": "witch-hat-atelier",
+ "title": "Witch Hat Atelier",
+ "poster": "https://media.kitsu.app/anime/46043/poster_image/large-ef088c3ffa0345c7843b1d5d99171b47.jpeg",
+ "banner": "https://media.kitsu.app/anime/46043/cover_image/large-b71ca20ca126b077e5287ffcd4ab182d.jpeg",
+ "synopsis": "In a world where only witches can cast magic, they must avoid being seen by ordinary people while casting. While Coco does her chores, she daydreams of becoming a witch. When a young witch named Qifrey visits her village, Coco uncovers the “absolute secret,” becomes Qifrey’s apprentice, and begins her studies. This is the story of children who encounter despair, yet reach out toward hope.\n\n(Source: Crunchyroll)\n\nNote: Tongari Boushi no Atelier episode 2 was streamed a week in advance on Crunchyroll, ABEMA, and Netflix, alongside episode 1. Streaming is one week ahead of the TV broadcast.",
+ "genres": [],
+ "score": 8.6,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:00.721Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "witch hat atelier",
+ "altTitles": [
+  "Tongari Boushi no Atelier",
+  "とんがり帽子のアトリエ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/5bxip3u9kt/s5a3khqmdw/vpbh3x0lmltwbj/master.m3u8",
+   "downloadUrl": "/download/mal/51553/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/46043/poster_image/large-ef088c3ffa0345c7843b1d5d99171b47.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/51553/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/5bxip3u9kt/s5a3khqmdw/vpbh3x0lmltwbj/subs/f77sc2k1fxnlmd7x.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:06:13.979Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "8e09c6227dee4034"
+}

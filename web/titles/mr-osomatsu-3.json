@@ -1,0 +1,53 @@
+{
+ "id": "mr-osomatsu-3",
+ "title": "Mr. Osomatsu Episode 3.5: Virgin Heroes",
+ "poster": "https://media.kitsu.app/anime/poster_images/11681/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/11681/large.jpg",
+ "synopsis": "The 1st BD &amp; DVD volume of Osomatsu-san will have a new episode, replacing episode 1 of the original series.",
+ "genres": [
+  "Comedy",
+  "Parody"
+ ],
+ "score": 7.3,
+ "year": 2016,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 9,
+ "episodeNumbers": [
+  1,
+  9
+ ],
+ "updatedAt": "2026-10-15T22:31:06.841Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "mr osomatsu 3",
+ "altTitles": [
+  "Osomatsu-san Special",
+  "おそ松さん"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1471a8e08c604e589e04339b320deeb8/e432516728d585300cd022371b0bf034/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/51514/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-14T03:51:45.398Z",
+   "customSubs": []
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1471a8e08c604e589e04339b320deeb8/8d8fa367ec836647b88004c7bf387758/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/51522/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T22:31:06.841Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "6ef4566db413c1ef"
+}

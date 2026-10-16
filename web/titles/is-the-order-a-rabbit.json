@@ -1,0 +1,42 @@
+{
+ "id": "is-the-order-a-rabbit",
+ "title": "is the order a rabbit",
+ "poster": "https://media.kitsu.app/anime/poster_images/8095/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/8095/large.jpg",
+ "synopsis": "Kokoa Hoto is a positive and energetic girl who becomes friends with anyone in just three seconds. After moving in with the Kafuu family in order to attend high school away from home, she immediately befriends the shy and precocious granddaughter of Rabbit House cafe's founder, Chino Kafuu, who is often seen with the talking rabbit, Tippy, on her head.\nAfter beginning to work as a waitress in return for room and board, Kokoa also befriends another part-timer, Rize Tedeza, who has unusual behavior and significant physical capabilities due to her military upbringing; Chiya Ujimatsu, a waitress from a rival cafe who does everything at her own pace; and Sharo Kirima, another waitress at a different cafe who has the air of a noblewoman despite being impoverished.\nWith fluffy silliness and caffeinated fun, Gochuumon wa Usagi Desu ka? is a heartwarming comedy about five young waitresses and their amusing adventures in the town they call home.\n[Written by MAL Rewrite]",
+ "genres": [
+  "Comedy",
+  "Slice of Life"
+ ],
+ "score": 7.4,
+ "year": 2014,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:42:44.506Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "is the order a rabbit",
+ "altTitles": [
+  "Gochuumon wa Usagi desu ka?",
+  "ご注文はうさぎですか？"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/v4z628v9bk/y7t4x43cz7/3z5f97wtyrzrp9/master.m3u8",
+   "downloadUrl": "/download/mal/21273/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/21273/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-13T22:07:48.145Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "a4a5022996473585"
+}

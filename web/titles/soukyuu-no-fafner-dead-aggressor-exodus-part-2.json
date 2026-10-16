@@ -1,0 +1,49 @@
+{
+ "id": "soukyuu-no-fafner-dead-aggressor-exodus-part-2",
+ "title": "Fafner Exodus 2",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21287-ey3gaynEFqUS.png",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21287-EugxMxa1mOco.jpg",
+ "synopsis": "The convoy from Srinagar is underway to the place where hope can be found. While at the same time Tatsumiyajima Island is under attack by the Festum called Walker. While these events unfold, new allies emerge along with new enemies. Alas, all of this is accompanied by the departing of friends.\n\n\n\n(Source: Anime News Network)",
+ "genres": [
+  "Drama",
+  "Mecha",
+  "Sci-Fi"
+ ],
+ "score": 7.4,
+ "year": 2015,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T23:46:17.618Z",
+ "type": "TV",
+ "season": "FALL",
+ "anilistId": 21287,
+ "rawTitle": "soukyuu no fafner dead aggressor exodus part 2",
+ "altTitles": [
+  "Soukyuu no Fafner: EXODUS 2",
+  "蒼穹のファフナー EXODUS 2"
+ ],
+ "studio": "Xebec Zwei",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/evmwsa4ghp/26oube77lv/euxd9u7ajnydri/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/30549/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21287-ey3gaynEFqUS.png",
+   "referer": "https://zokoanime.video/stream/mal/30549/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/evmwsa4ghp/26oube77lv/euxd9u7ajnydri/subs/ytmicg49mpuck4j6.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T23:46:17.618Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "4fd230b64d7a7fac"
+}

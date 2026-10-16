@@ -1,0 +1,45 @@
+{
+ "id": "spy-x-family-code-white",
+ "title": "SPY x FAMILY - CODE: White",
+ "poster": "https://media.kitsu.app/anime/46874/poster_image/large-85b05e2082a5ea2e5dbb54d208d11520.jpeg",
+ "banner": "https://media.kitsu.app/anime/46874/cover_image/large-35787e38b30c1fa66455fa4d2bb0e79f.jpeg",
+ "synopsis": "He's a spy. She's an assassin. Together, Loid and Yor keep their double lives to themselves while pretending to be the perfect family. However, their adopted daughter Anya, a telepath, knows both of their exciting secrets unbeknownst to them. While under the guise of taking his family on a weekend winter getaway, Loid's attempt to make progress on his current mission Operation Strix proves difficult when Anya mistakenly gets involved and triggers events that threaten world peace!\n\n(Source: Crunchyroll)",
+ "genres": [],
+ "score": 8.2,
+ "year": 2023,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:06.027Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "spy x family code white",
+ "altTitles": [
+  "SPY×FAMILY CODE: White",
+  "SPY×FAMILY CODE: White"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/0cym2u5df1/0f175s5e30/4eqs6m97344sk1/master.m3u8",
+   "downloadUrl": "/download/mal/53888/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/46874/poster_image/large-85b05e2082a5ea2e5dbb54d208d11520.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/53888/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/0cym2u5df1/0f175s5e30/4eqs6m97344sk1/subs/9xd0go6kqhq3jmcp.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:15:20.279Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "b03d9ff5480dbe12"
+}

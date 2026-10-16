@@ -1,0 +1,42 @@
+{
+ "id": "fatestrange-fake",
+ "title": "fatestrange fake",
+ "poster": "https://shikimori.one/system/animes/original/55830.jpg?1712137805",
+ "banner": "https://shikimori.one/system/animes/original/55830.jpg?1712137805",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": null,
+ "status": "",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:26.084Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "rawTitle": "fatestrange fake",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/datymhkki2/c3ympy7i9i/uf3x0ri6vp3v8g/master.m3u8",
+   "downloadUrl": "/download/mal/55830/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/55830/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/datymhkki2/c3ympy7i9i/uf3x0ri6vp3v8g/subs/j0b7hriqrzdy2cwe.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:12:32.048Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "c7269893c635d65b"
+}

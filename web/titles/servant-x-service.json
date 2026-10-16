@@ -1,0 +1,58 @@
+{
+ "id": "servant-x-service",
+ "title": "Servant x Service",
+ "poster": "https://media.kitsu.app/anime/poster_images/7669/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/7669/large.jpg",
+ "synopsis": "Imagine if three people suddenly found themselves as civil servants of the city Mitsuba. What sort of personalities and drives would they have to push them to seek out such careers? Lucy Yamagami, a serious young woman assigned to the Welfare Administrative Section, intends to use the job as a means of settling a vendetta against another civil servant. Yutaka Hasebe, a flirtatious young man assigned to the First Section of the Welfare Department, intends to slack off whenever he can and have a good time. And Saya Miyoshi, a college graduate assigned to the Second Section of the Welfare Department, intends to simply get through the first job she's had in her life as best she can.Servant x Service follows these three newcomers starting their jobs as government employees under their supervisor, Taishi Ichimiya, who is utterly clueless about how to direct them—despite having worked there for the last eight years. Nevertheless, he welcomes them as fellow civil servants and encourages them to work themselves like dogs for the sake of the citizens. We follow their day-to-day lives as they experience the rigors of government employment, including dealing with regulations, office romances, paperwork, and being the nearest punching bags when citizens need something to complain about.",
+ "genres": [
+  "Comedy",
+  "Slice of Life",
+  "Workplace"
+ ],
+ "score": 7.6,
+ "year": 2013,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:27.944Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "servant x service",
+ "altTitles": [
+  "サーバント×サービス"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/m4oeev9uje/4dhzyrh2jv/414i2365bzztlu/master.m3u8",
+   "downloadUrl": "/download/mal/18119/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/7669/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/18119/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/m4oeev9uje/4dhzyrh2jv/414i2365bzztlu/subs/5hjjg5hd640yc9c3.vtt"
+    },
+    {
+     "label": "Spanish (- Español (LA))",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/m4oeev9uje/4dhzyrh2jv/414i2365bzztlu/subs/3oauuz1h0gp9grqy.vtt"
+    },
+    {
+     "label": "Portuguese (- Português (Brasil))",
+     "lang": "pt",
+     "url": "https://hls.dramahot.top/v/scxqicy/m4oeev9uje/4dhzyrh2jv/414i2365bzztlu/subs/ro00vxzzy1gc8sy7.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:27:03.055Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "168ec52dcc281606"
+}

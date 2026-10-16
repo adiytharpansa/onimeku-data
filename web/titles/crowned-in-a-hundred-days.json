@@ -1,0 +1,36 @@
+{
+ "id": "crowned-in-a-hundred-days",
+ "title": "Crowned in a Hundred Days",
+ "poster": "https://media.kitsu.app/anime/50828/poster_image/large-fc7825605009de77bc81c440c356aa67.jpeg",
+ "banner": "https://media.kitsu.app/anime/50828/poster_image/large-fc7825605009de77bc81c440c356aa67.jpeg",
+ "synopsis": "After a beloved king unleashes a brutal massacre, Ming loses everything and vows revenge. But as he sets out to kill the tyrant, he discovers the true King Lie has been forced from his own body. With only 100 days left to reclaim the throne, the king and his would-be assassin must join forces to expose an impostor before the kingdom falls into darkness.\n\n(Source: Crunchyroll)",
+ "genres": [],
+ "score": null,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 25,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:07.005Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "crowned in a hundred days",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/1etoez2ct4/avhml0m87v/wma83uq6eue27p/master.m3u8",
+   "downloadUrl": "/download/mal/62957/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/50828/poster_image/large-fc7825605009de77bc81c440c356aa67.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/62957/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-14T00:34:09.856Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "d21e66306f8a0853"
+}

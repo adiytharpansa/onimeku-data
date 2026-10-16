@@ -1,0 +1,45 @@
+{
+ "id": "kingdom-season-5",
+ "title": "kingdom season 5",
+ "poster": "https://media.kitsu.app/anime/45602/poster_image/large-483147120fff62b9c3397cba9fa3d64d.jpeg",
+ "banner": "https://media.kitsu.app/anime/45602/poster_image/large-483147120fff62b9c3397cba9fa3d64d.jpeg",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": 2020,
+ "status": "FINISHED",
+ "totalEpisodes": 2,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:42:45.849Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "kingdom season 5",
+ "altTitles": [
+  "5-fun de Wakaru! Kingdom: Gasshougun-hen",
+  "5分でわかる！TVアニメ「キングダム」合従軍編"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/xrci2jsyaa/mudn8z7rwz/m55mutf18egy8l/master.m3u8",
+   "downloadUrl": "/download/mal/53223/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/53223/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/xrci2jsyaa/mudn8z7rwz/m55mutf18egy8l/subs/9ulkai3w2h3ztfit.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:08:04.719Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "f759c549cf8baea8"
+}

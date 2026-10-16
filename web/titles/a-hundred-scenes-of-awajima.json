@@ -1,0 +1,87 @@
+{
+ "id": "a-hundred-scenes-of-awajima",
+ "title": "A Hundred Scenes of AWAJIMA",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177501-BwdlSMEXGZWz.png",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177501-oucV5vhyzxjb.jpg",
+ "synopsis": "At Awajima Opera School, girls from across Japan strive to earn a place on stage. Wakana is driven by her love of musical theater, while Kinue studies with quiet discipline. Scholarship student Emi draws attention from all—but especially from Keiko, who struggles with admiration and comparison. Through shifting perspectives, their intertwined days explore ambition, friendship, and self-discovery.\n\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Drama",
+  "Music",
+  "Romance"
+ ],
+ "score": 7.2,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 12,
+ "episodeNumbers": [
+  1,
+  7,
+  9,
+  11,
+  12
+ ],
+ "updatedAt": "2026-10-15T22:31:12.571Z",
+ "type": "TV",
+ "season": "SPRING",
+ "anilistId": 177501,
+ "rawTitle": "a hundred scenes of awajima",
+ "altTitles": [
+  "Awajima Hyakkei",
+  "淡島百景"
+ ],
+ "studio": "MADHOUSE",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/89dddcba3bee579371daaadab524fc84/066169a57902b563ad67b2bfbf318a89/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/a-hundred-scenes-of-awajima.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/170284/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-14T16:46:30.419Z",
+   "customSubs": []
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/89dddcba3bee579371daaadab524fc84/1b74591fd08c06919b4804da980e552c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/a-hundred-scenes-of-awajima.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/58820/7/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:17:05.880Z",
+   "customSubs": []
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/89dddcba3bee579371daaadab524fc84/3afc869cf65bd75651b982e27b1bd427/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/a-hundred-scenes-of-awajima.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/58820/9/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T22:31:12.571Z",
+   "customSubs": []
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/89dddcba3bee579371daaadab524fc84/5a145f21491e55a6641dc36cbb2cb9a9/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/a-hundred-scenes-of-awajima.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/58820/11/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:06:00.862Z",
+   "customSubs": []
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/89dddcba3bee579371daaadab524fc84/a0b9a6d10e3d3a26da6ba002efebe024/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/a-hundred-scenes-of-awajima.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/58820/12/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:44.191Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "fa1ac322d426c8eb"
+}

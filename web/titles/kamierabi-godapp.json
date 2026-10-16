@@ -1,0 +1,80 @@
+{
+ "id": "kamierabi-godapp",
+ "title": "kamierabi godapp",
+ "poster": "https://media.kitsu.app/anime/47227/poster_image/large-08a1bb5c690fb0fe52593172856ce661.jpeg",
+ "banner": "https://media.kitsu.app/anime/47227/cover_image/large-f331835fa06708c3a9d475d68c2b7c3f.jpeg",
+ "synopsis": "The ultimate battle royale for divinity has begun. High schoolers must use their unique powers to compete against each other for the coveted title “God.” But as each brawl becomes more vicious than the last, alliances are formed and betrayals take place. Who will emerge victorious and claim their godly throne?\n\n(Source: Crunchyroll)",
+ "genres": [],
+ "score": 5.9,
+ "year": 2023,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:43:15.512Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "kamierabi godapp",
+ "altTitles": [
+  "Kamierabi",
+  "カミエラビ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/hovl4g5emj/snn2i7toos/g2qhianoy0ci3q/master.m3u8",
+   "downloadUrl": "/download/mal/54798/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/54798/1/sub",
+   "subtitles": [
+    {
+     "label": "Italian",
+     "lang": "it",
+     "url": "https://hls.dramahot.top/v/scxqicy/hovl4g5emj/snn2i7toos/g2qhianoy0ci3q/subs/a32vkyk9g011i6nq.vtt"
+    },
+    {
+     "label": "Russian",
+     "lang": "ru",
+     "url": "https://hls.dramahot.top/v/scxqicy/hovl4g5emj/snn2i7toos/g2qhianoy0ci3q/subs/tsgpu9hpfo654wr6.vtt"
+    },
+    {
+     "label": "Portuguese (- Portuguese(Brazil))",
+     "lang": "pt",
+     "url": "https://hls.dramahot.top/v/scxqicy/hovl4g5emj/snn2i7toos/g2qhianoy0ci3q/subs/tggikm4o33x80koq.vtt"
+    },
+    {
+     "label": "French",
+     "lang": "fr",
+     "url": "https://hls.dramahot.top/v/scxqicy/hovl4g5emj/snn2i7toos/g2qhianoy0ci3q/subs/korrhcy9dm7zrpbl.vtt"
+    },
+    {
+     "label": "German",
+     "lang": "de",
+     "url": "https://hls.dramahot.top/v/scxqicy/hovl4g5emj/snn2i7toos/g2qhianoy0ci3q/subs/096l75cgy2nvi37s.vtt"
+    },
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hovl4g5emj/snn2i7toos/g2qhianoy0ci3q/subs/e76v9lyov9i7hfgx.vtt"
+    },
+    {
+     "label": "Spanish (- Spanish(Latin America))",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/hovl4g5emj/snn2i7toos/g2qhianoy0ci3q/subs/2v4kxcx0l02o8333.vtt"
+    },
+    {
+     "label": "Spanish",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/hovl4g5emj/snn2i7toos/g2qhianoy0ci3q/subs/ig1xjlsauwdyok7g.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:11:59.022Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "36b1d06194f11f0d"
+}

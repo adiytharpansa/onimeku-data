@@ -1,0 +1,59 @@
+{
+ "id": "the-world-is-still-beautiful",
+ "title": "The World is Still Beautiful",
+ "poster": "https://media.kitsu.app/anime/poster_images/8258/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/8258/large.jpg",
+ "synopsis": "In the Sun Kingdom, sunshine is part of its citizens' everyday lives, and rain is something that they have never even heard of. However, in a faraway land called the Rain Dukedom, the weather is reversed, and everybody has the power to create rain with their voices.\nLivius Ifrikia has conquered the entire world and expanded the Sun Kingdom's influence in the three short years since he was crowned king. Upon learning about the powers to create rain, Livius decides to marry Nike Remercier, one of the princesses of the Rain Dukedom. However, those outside the Sun Kingdom have spread a rumor that Livius is a cruel, ruthless, and tyrannical ruler, and as word reaches the princess, she begins to prepare herself for the worst. But when she finally meets her fiancé, Nike discovers that he is an entirely different person from what she originally expected.\n[Written by MAL Rewrite]",
+ "genres": [
+  "Adventure",
+  "Fantasy",
+  "Romance"
+ ],
+ "score": 7.6,
+ "year": 2014,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:29.415Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "the world is still beautiful",
+ "altTitles": [
+  "Soredemo Sekai wa Utsukushii",
+  "それでも世界は美しい"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/389xqk3ak9/2np0mr81pf/6e6177g677dqaa/master.m3u8",
+   "downloadUrl": "/download/mal/22101/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/8258/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/22101/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/389xqk3ak9/2np0mr81pf/6e6177g677dqaa/subs/nda2iokopdpb9l08.vtt"
+    },
+    {
+     "label": "Portuguese (- Português (Brasil))",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/389xqk3ak9/2np0mr81pf/6e6177g677dqaa/subs/18ixk2xkkadbqu19.vtt"
+    },
+    {
+     "label": "Spanish (- Español (LA))",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/389xqk3ak9/2np0mr81pf/6e6177g677dqaa/subs/8togoidwn59pl8b0.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:27:21.684Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "2c0737811dbc2287"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "the-duke-of-death-and-his-maid-season-3",
+ "title": "The Duke of Death and His Maid Season 3",
+ "poster": "https://media.kitsu.app/anime/47984/poster_image/large-84f91db4e441c63d0ce40e7e5127cd42.jpeg",
+ "banner": "https://media.kitsu.app/anime/47984/cover_image/large-cfcd580340c01f3aac298b8a6aa29733.jpeg",
+ "synopsis": "The third season of Shinigami Bocchan to Kuro Maid.",
+ "genres": [],
+ "score": 8,
+ "year": 2024,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:44:42.690Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "the duke of death and his maid season 3",
+ "altTitles": [
+  "Shinigami Bocchan to Kuro Maid 3rd Season",
+  "死神坊ちゃんと黒メイド 第3期"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/ehlpnh7j8u/7b14og4jof/5291vka4jttb70/master.m3u8",
+   "downloadUrl": "/download/mal/56738/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/47984/poster_image/large-84f91db4e441c63d0ce40e7e5127cd42.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/56738/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/ehlpnh7j8u/7b14og4jof/5291vka4jttb70/subs/6vctiofgkzandyf5.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:20:22.045Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "65f0ac0e964cc861"
+}

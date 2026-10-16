@@ -1,0 +1,51 @@
+{
+ "id": "crest-of-the-stars",
+ "title": "Crest of the Stars",
+ "poster": "https://media.kitsu.app/anime/poster_images/265/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/265/large.jpg",
+ "synopsis": "Based on a science fiction novel series, Crest of the Stars (Seikai no Monsho) is the first installment in this sci-fi saga. The story follows Jinto, whose world was taken over by the largest empire in the galaxy: the Abh. Jinto's father, the planet's prime minister, handed their world over to the Abh in exchange for a standing in the Abh Empire. As a result, Jinto became a prince and was shipped off for an Abh Education. There he meets a princess of the Abh Empire, Lafiel, whom he quickly befriends despite her cold exterior. The Abh Empire is plunged into war soon after and the story continues from there...\n(Source: ANN)",
+ "genres": [
+  "Action",
+  "Sci-Fi",
+  "Space",
+  "Romance",
+  "Military"
+ ],
+ "score": 7.7,
+ "year": 1999,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:26.477Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "crest of the stars",
+ "altTitles": [
+  "Seikai no Monshou",
+  "星界の紋章"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/k73dpirjl9/5amarqcklc/ap09pvrb0v0kde/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/265/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/290/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/k73dpirjl9/5amarqcklc/ap09pvrb0v0kde/subs/ac2mhi3e0fc9gc1q.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:26:54.437Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "0b43d7799ac8f74a"
+}

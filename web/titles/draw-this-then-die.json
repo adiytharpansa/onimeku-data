@@ -1,0 +1,39 @@
+{
+ "id": "draw-this-then-die",
+ "title": "Draw this, then die!",
+ "poster": "https://media.kitsu.app/anime/50244/poster_image/large-bec021543c2c4ba8e533ef976076e8df.jpeg",
+ "banner": "https://media.kitsu.app/anime/50244/poster_image/large-bec021543c2c4ba8e533ef976076e8df.jpeg",
+ "synopsis": "Kore Kaite Shine is set in Izu Oshima, an island 120 kilometers south of Tokyo. The story centers on Ai Yasumi, a high school girl who loves to read manga, and learns about the joy and pain of drawing her own manga\n\n(Source: Anime News Network)",
+ "genres": [],
+ "score": 7.9,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:05.761Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "draw this then die",
+ "altTitles": [
+  "Kore Kaite Shine",
+  "これ描いて死ね"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/oy5ly5j9ye/0wmf8p0r1i/3nqgrvzgaf98kb/master.m3u8",
+   "downloadUrl": "/download/mal/61280/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/50244/poster_image/large-bec021543c2c4ba8e533ef976076e8df.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/61280/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-14T00:34:23.848Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "72eb0308ed54311b"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "sugar-sugar-rune",
+ "title": "Sugar Sugar Rune",
+ "poster": "https://media.kitsu.app/anime/poster_images/1477/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/1477/large.jpg",
+ "synopsis": "Chocolat Meilleure and Vanilla Mieux are two witches who are pitched in a contest to see who will become the new Queen of the Witch World. They must travel to the Human World and collect the hearts of humans. Whoever collects the most \"human hearts\" wins. Even though they're rivals, the two are still best friends. Join them on this adventure!",
+ "genres": [
+  "Magic",
+  "Fantasy"
+ ],
+ "score": 7.6,
+ "year": 2005,
+ "status": "FINISHED",
+ "totalEpisodes": 51,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-16T08:56:07.744Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "sugar sugar rune",
+ "altTitles": [
+  "シュガシュガルーン"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/mevl53un2k/0cpkhcw5u6/cj1ttzz7pjjxjv/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/1477/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/1642/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/mevl53un2k/0cpkhcw5u6/cj1ttzz7pjjxjv/subs/bggk4br38ocjgfih.vtt"
+    }
+   ],
+   "addedAt": "2026-10-16T08:56:07.744Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "24a93dd091b09cb5"
+}

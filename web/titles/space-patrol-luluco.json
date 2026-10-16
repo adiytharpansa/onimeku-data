@@ -1,0 +1,50 @@
+{
+ "id": "space-patrol-luluco",
+ "title": "Space Patrol Luluco",
+ "poster": "https://media.kitsu.app/anime/poster_images/11818/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/11818/large.jpg",
+ "synopsis": "Living an abnormal existence in Ogikubo, an intergalactic melting pot of humans and aliens as well as the only Space Immigration Zone on Earth, Luluco is a bubbly middle school girl who just wants to be normal. One morning, however, her father, who works at the Space Patrol, eats a volatile sleep capsule by mistake and is frozen solid! To make matters worse, Luluco accidentally breaks him, so she hurries off to his office for help. There, the chief of the Space Patrol, Over Justice, hires Luluco as a space temp worker for undercover investigations, so that the institution may crack down on crime within her school.\nMade to don the Space Patrol suit and sent on her way to mete out justice, Luluco attempts to maintain the image of a normal girl who does not stand out in any way. But she soon discovers that with the automatic systems and inherently zealous judiciousness of the Space Patrol suit, continuing to be normal will be more difficult than she thought.\n[Written by MAL Rewrite]",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Comedy",
+  "Space"
+ ],
+ "score": 7.6,
+ "year": 2016,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:48.969Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "space patrol luluco",
+ "altTitles": [
+  "Uchuu Patrol Luluco",
+  "宇宙パトロールルル子"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/yg70jt935v/vdcx96zdgd/5034at6b7wka85/master.m3u8",
+   "downloadUrl": "/download/mal/32681/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/11818/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/32681/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/yg70jt935v/vdcx96zdgd/5034at6b7wka85/subs/m4y45q9x7nfdwvv1.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:14:42.831Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "85b8619c60287153"
+}

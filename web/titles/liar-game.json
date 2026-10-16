@@ -1,0 +1,42 @@
+{
+ "id": "liar-game",
+ "title": "LIAR GAME",
+ "poster": "https://media.kitsu.app/anime/50108/poster_image/large-72566980f13de5aeae5c636ff3381917.jpeg",
+ "banner": "",
+ "synopsis": "When Nao Kanzaki receives a strange letter and a suitcase containing 100 million yen, she learns that she has been selected to participate in the LIAR GAME. In this high-stakes psychological battle, lies, deception, and betrayal reign supreme. Naïve and honest, Nao turns to Shinichi Akiyama, a brilliant former con artist, to survive the twisted game. In a game built on lies, can honesty prevail?\n\n(Source: Crunchyroll)",
+ "genres": [],
+ "score": 7,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 26,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:46:00.167Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "liar game",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/sd31atj16l/9jcs19qpkt/3y1hv5jnrjorqa/master.m3u8",
+   "downloadUrl": "/download/mal/62331/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/50108/poster_image/large-72566980f13de5aeae5c636ff3381917.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/62331/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/sd31atj16l/9jcs19qpkt/3y1hv5jnrjorqa/subs/awile98255kfmfv5.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:17:08.945Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "7079629dab65b8f0"
+}

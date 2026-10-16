@@ -1,0 +1,42 @@
+{
+ "id": "the-daily-life-of-the-immortal-king-3",
+ "title": "The Daily Life of the Immortal King 3",
+ "poster": "https://media.kitsu.app/anime/45524/poster_image/large-8b58ba4e1e870e8db00879d34a11cacc.jpeg",
+ "banner": "",
+ "synopsis": "Third season of Xian Wang de Richang Shenghuo.",
+ "genres": [],
+ "score": 7.5,
+ "year": 2022,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:39:58.600Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "the daily life of the immortal king 3",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/fw860ayerb/ya5hgrerg7/4j14bvqk4rq80w/master.m3u8",
+   "downloadUrl": "/download/mal/50404/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/45524/poster_image/large-8b58ba4e1e870e8db00879d34a11cacc.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/50404/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/fw860ayerb/ya5hgrerg7/4j14bvqk4rq80w/subs/7mfwadmm4nnc7lgs.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:13:22.247Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "752e5d60454502bc"
+}

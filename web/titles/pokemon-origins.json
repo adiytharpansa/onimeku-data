@@ -1,0 +1,49 @@
+{
+ "id": "pokemon-origins",
+ "title": "Pokémon Origins",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20159-Q4VpDs7q2j3O.png",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20159-hlRzN7QIuZhT.jpg",
+ "synopsis": "One day, Red, a boy filled with dreams of going on a Pokémon journey, is called to Professor Okido's lab. There, he and his rival Green are given a Pokédex in order to collect data on all of the Pokémon in the region. As Red works his way to become champion with his Charmander, he meets many people on his journey, including Old Man Fuji, a man who runs the home for abandoned Pokémon, and Reina, a girl who works there. As danger in Red's journey begins to peak, he and his partner Pokémon experience a transformation like never before...\n\n\n\n(Source: Anime News Network)",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Fantasy"
+ ],
+ "score": 7.5,
+ "year": 2013,
+ "status": "FINISHED",
+ "totalEpisodes": 4,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T22:30:49.370Z",
+ "type": "SPECIAL",
+ "season": "FALL",
+ "anilistId": 20159,
+ "rawTitle": "pokemon origins",
+ "altTitles": [
+  "Pocket Monsters: THE ORIGIN",
+  "ポケットモンスター THE ORIGIN"
+ ],
+ "studio": "Production I.G",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/y36t695wwe/fmbh62x1ti/ehmkhyxh75efmd/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/20159/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20159-Q4VpDs7q2j3O.png",
+   "referer": "https://zokoanime.video/stream/mal/20159/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/y36t695wwe/fmbh62x1ti/ehmkhyxh75efmd/subs/fmlfhrxkfazdua32.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T22:30:49.370Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "f14b77769d23dab8"
+}

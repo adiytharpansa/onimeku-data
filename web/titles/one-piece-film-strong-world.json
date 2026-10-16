@@ -1,0 +1,45 @@
+{
+ "id": "one-piece-film-strong-world",
+ "title": "One Piece Film: Strong World",
+ "poster": "https://media.kitsu.app/anime/poster_images/3492/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/3492/large.jpg",
+ "synopsis": "20 years after his escape from Impel Down, the legendary pirate Shiki \"the Golden Lion\" reappears causing massive upheaval to the Marines. During his long seclusion, he was able to come up with a scheme to bring the World Government to its knees. On his way to execute the plan, Shiki crosses paths with the Straw Hat Pirates and becomes so impressed with Nami's knowledge of meteorology that he abducts her to forcedly enlist her into his crew. Luffy and the gang end up on a strange land populated with monstrous beasts as they desperately search for Shiki and Nami.\n(Source: ANN)",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Comedy",
+  "Drama",
+  "Fantasy",
+  "Friendship"
+ ],
+ "score": 8.2,
+ "year": 2009,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:44:13.007Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "one piece film strong world",
+ "altTitles": [
+  "ワンピース　フィルム　ストロングワールド"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/pukyjf9lmt/68q07akbkh/j0281oqwwzek5f/master.m3u8",
+   "downloadUrl": "/download/mal/4155/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/3492/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/4155/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-14T02:48:02.868Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "b543854187dc0920"
+}

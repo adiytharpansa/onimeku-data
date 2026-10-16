@@ -1,0 +1,41 @@
+{
+ "id": "grisaia-no-rakuen-specials",
+ "title": "grisaia no rakuen specials",
+ "poster": "https://media.kitsu.app/anime/poster_images/11322/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/11322/large.jpg",
+ "synopsis": "Short specials included in the Blu-ray and DVD releases.",
+ "genres": [
+  "Ecchi"
+ ],
+ "score": 6.9,
+ "year": 2015,
+ "status": "FINISHED",
+ "totalEpisodes": 5,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:42:33.108Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "grisaia no rakuen specials",
+ "altTitles": [
+  "Grisaia no Rakuen Specials",
+  "グリザイアの楽園"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/8b2cyrexyn/3yvdyxnvyr/e1dqy6vkzo132s/master.m3u8",
+   "downloadUrl": "/download/mal/31368/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/31368/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-13T22:07:19.422Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "64004e564638befd"
+}

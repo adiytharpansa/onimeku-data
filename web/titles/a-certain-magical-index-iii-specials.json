@@ -1,0 +1,39 @@
+{
+ "id": "a-certain-magical-index-iii-specials",
+ "title": "A Certain Magical Index III: Specials",
+ "poster": "https://media.kitsu.app/anime/poster_images/43131/large.jpg",
+ "banner": "https://media.kitsu.app/anime/poster_images/43131/large.jpg",
+ "synopsis": "New series of shorts featuring Index-tan.",
+ "genres": [],
+ "score": 6.4,
+ "year": 2018,
+ "status": "FINISHED",
+ "totalEpisodes": 2,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:46:05.888Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "a certain magical index iii specials",
+ "altTitles": [
+  "Toaru Majutsu no Index-tan III",
+  "とある魔術の禁書目録たん"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/cutlhdpqs5/v9zov9nxju/exx28ckv4i3a4o/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/39094/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/43131/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/39094/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:46:05.888Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "e555a86664504b02"
+}

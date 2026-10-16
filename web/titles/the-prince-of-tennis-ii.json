@@ -1,0 +1,59 @@
+{
+ "id": "the-prince-of-tennis-ii",
+ "title": "The Prince of Tennis II",
+ "poster": "https://media.kitsu.app/anime/poster_images/6501/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/6501/large.jpg",
+ "synopsis": "It takes a lot to reach the top when it comes to tennis. No one knows that better than Ryouma Echizen, a young prodigy tennis player, and his teammates at the Seishun Academy. It was only because they pushed themselves to the limit, spending countless hours preparing for every pulse-pounding match, that they managed to claim victory in the All-Japan National Tournament.New Prince of Tennis begins with Ryouma and his teammates heading to the U-17 Selection training camp, after receiving a special invitation due to their victory in the Nationals. The training camp is renowned for producing strong tennis players, so the boys of Seishun Academy can’t wait to take their game to the next level. However, not everyone is happy to have them among their ranks, and they’ll have to weather the intense training to prove they belong among the best of the up-and-coming players of their generation.",
+ "genres": [
+  "Action",
+  "Comedy",
+  "Sports"
+ ],
+ "score": 7.7,
+ "year": 2012,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:41.409Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "the prince of tennis ii",
+ "altTitles": [
+  "Shin Tennis no Ouji-sama",
+  "新テニスの王子様"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/zldbt8nwwp/qcee9odw9v/1e1a05b4to8m5u/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/6501/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/11371/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/zldbt8nwwp/qcee9odw9v/1e1a05b4to8m5u/subs/8zy0nhibpxjwyqcd.vtt"
+    },
+    {
+     "label": "Portuguese",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/zldbt8nwwp/qcee9odw9v/1e1a05b4to8m5u/subs/mswnue5o9aqmnha6.vtt"
+    },
+    {
+     "label": "Spanish",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/zldbt8nwwp/qcee9odw9v/1e1a05b4to8m5u/subs/6wwto9haueftzhhv.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:30:25.318Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "8586da558d6d8a2b"
+}

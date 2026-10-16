@@ -1,0 +1,43 @@
+{
+ "id": "kakuriyo-bed-and-breakfast-for-spirits",
+ "title": "Kakuriyo -Bed & Breakfast for Spirits-",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100500-D1InEy2GriJV.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/100500-hCNQi4hkx54o.jpg",
+ "synopsis": "The series centers on a female college student named Aoi, who inherited the ability to see spirits from her late grandfather. Aoi prides herself on her cooking, and one day she's feeding some agricultural spirits when suddenly a god and the master of the \"Tenshinya\" (Heavenly Inn) appears and takes Aoi away. He says that due to her grandfather's debts, she must become his bride. Aoi hates this idea and instead declares that she will pay back her grandfather's debt by working at the Tenshinya. \n\n\n\n(Source: Anime News Network)",
+ "genres": [
+  "Drama",
+  "Romance",
+  "Supernatural"
+ ],
+ "score": 7.3,
+ "year": 2018,
+ "status": "FINISHED",
+ "totalEpisodes": 26,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-16T08:31:12.943Z",
+ "type": "TV",
+ "season": "SPRING",
+ "anilistId": 100500,
+ "rawTitle": "kakuriyo bed and breakfast for spirits",
+ "altTitles": [
+  "Kakuriyo no Yadomeshi",
+  "かくりよの宿飯"
+ ],
+ "studio": "GONZO",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/q57i96wfwr/4p8atztngo/3rcexwkvfz6q1r/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/36754/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx100500-D1InEy2GriJV.jpg",
+   "referer": "https://zokoanime.video/stream/mal/36754/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-16T08:31:12.943Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "6f1ffb5440c5a613"
+}

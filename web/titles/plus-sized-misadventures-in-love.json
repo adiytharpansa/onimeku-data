@@ -1,0 +1,83 @@
+{
+ "id": "plus-sized-misadventures-in-love",
+ "title": "Plus-sized Misadventures in Love!",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170936-NlDYAjV86ljm.png",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170936-NlDYAjV86ljm.png",
+ "synopsis": "Yumeko is a quiet, downcast office worker, weighed down by crippling insecurities and self-loathing—until a sudden accident leaves her with amnesia…and a sparkling new personality. Her dramatic transformation baffles everyone around her, but with a new zest for life and unshakeable confidence, Yumeko is ready to tackle anything: love, work, friendship…and maybe even an attempted-murder mystery.\n\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Comedy",
+  "Drama",
+  "Romance"
+ ],
+ "score": 6.2,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 3,
+ "episodeNumbers": [
+  1,
+  2,
+  3
+ ],
+ "updatedAt": "2026-10-16T08:32:21.345Z",
+ "type": "TV",
+ "season": "FALL",
+ "anilistId": 170936,
+ "rawTitle": "plus sized misadventures in love",
+ "altTitles": [
+  "Debu to Love to Ayamachi to!",
+  "デブとラブと過ちと！"
+ ],
+ "studio": "Marvy Jack",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/ji0ydca5x1/01tw27bhv3/elluobnfd160t2/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/57189/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170936-NlDYAjV86ljm.png",
+   "referer": "https://zokoanime.video/stream/mal/57189/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/ji0ydca5x1/01tw27bhv3/elluobnfd160t2/subs/fyv2yqillu54c0ft.vtt"
+    }
+   ],
+   "addedAt": "2026-10-16T08:32:21.345Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/ji0ydca5x1/jje7ipu0o3/vl5m4s5k4x0ro6/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/57189/2/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170936-NlDYAjV86ljm.png",
+   "referer": "https://zokoanime.video/stream/mal/57189/2/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/ji0ydca5x1/jje7ipu0o3/vl5m4s5k4x0ro6/subs/eouezd76ryrp7j3b.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:22:53.835Z",
+   "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/ji0ydca5x1/to6rz4u6ig/eoyepukylv7048/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/57189/3/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx170936-NlDYAjV86ljm.png",
+   "referer": "https://zokoanime.video/stream/mal/57189/3/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/ji0ydca5x1/to6rz4u6ig/eoyepukylv7048/subs/05b4vtlbduzi68xn.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:23:04.761Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "37fdb8daa431ec6e"
+}

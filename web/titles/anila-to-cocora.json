@@ -1,0 +1,81 @@
+{
+ "id": "anila-to-cocora",
+ "title": "Anila to Cocora",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199794-DjnzEzfFG559.jpg",
+ "banner": "",
+ "synopsis": "The anime centers on sea otter brothers Anira and Kokora, who live at a certain aquarium. Anira is the older brother who is cool, but also has a naive side. The younger brother Kokora is a passionate otter who adores his older brother. \n\n\n\n(Source: Anime News Network)",
+ "genres": [
+  "Comedy",
+  "Slice of Life"
+ ],
+ "score": 4.7,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 3,
+ "episodeNumbers": [
+  1,
+  2,
+  3
+ ],
+ "updatedAt": "2026-10-15T15:46:19.611Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": 199794,
+ "rawTitle": "anila to cocora",
+ "altTitles": [
+  "アニラとココラ"
+ ],
+ "studio": "Kachidoki Studio",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/382m96l2x0/mls5rzxo0v/5j9p0yygbdm92z/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/62643/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199794-DjnzEzfFG559.jpg",
+   "referer": "https://zokoanime.video/stream/mal/62643/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/382m96l2x0/mls5rzxo0v/5j9p0yygbdm92z/subs/uuybejg0kf8iw4y6.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:22:08.928Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/382m96l2x0/sdaa2iwt17/wsng4uj8x73x9i/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199794-DjnzEzfFG559.jpg",
+   "referer": "https://zokoanime.video/stream/mal/62643/2/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/382m96l2x0/sdaa2iwt17/wsng4uj8x73x9i/subs/7utxoazo669k1w3i.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:22:19.508Z",
+   "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/382m96l2x0/29ek7geoq0/7xvsn2dljsbvvh/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199794-DjnzEzfFG559.jpg",
+   "referer": "https://zokoanime.video/stream/mal/62643/3/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/382m96l2x0/29ek7geoq0/7xvsn2dljsbvvh/subs/if3lacgm1458zqvm.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:22:30.161Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "91f4be7bee31e12a"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "blood",
+ "title": "Blood+",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150-YRcwKiJEXcLx.png",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/150-zwoYr5tDxtOw.jpg",
+ "synopsis": "Saya Otonashi, a seemingly normal high school student, suffers from amnesia and she can't remember the past year of her life. One day, after a man appears and gives her a katana sword, her destiny begins to be revealed.\n\n\n\nSoon she finds herself fighting the latest threat to humanity - Chiropteran monsters, ravenous immortal creatures that can change their form, disguising themselves as human beings. They feed off blood and hide themselves within the human world. An organization known as the Red Shield has been waging a private war to wipe them out and now the struggle has grown. Saya's journey for the truth has begun.\n\n\n\n(Source: Sony Pictures Home Entertainment)",
+ "genres": [
+  "Action",
+  "Drama",
+  "Horror",
+  "Mystery",
+  "Supernatural"
+ ],
+ "score": 7.3,
+ "year": 2005,
+ "status": "FINISHED",
+ "totalEpisodes": 50,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:34.983Z",
+ "type": "TV",
+ "season": "FALL",
+ "anilistId": 150,
+ "rawTitle": "blood",
+ "altTitles": [
+  "BLOOD+",
+  "BLOOD+"
+ ],
+ "studio": "Production I.G",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/g6qfqbfa89/lcbcl7jdb4/dsgc1wosiged8y/master.m3u8",
+   "downloadUrl": "/download/mal/150/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx150-YRcwKiJEXcLx.png",
+   "referer": "https://zokoanime.video/stream/mal/150/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/g6qfqbfa89/lcbcl7jdb4/dsgc1wosiged8y/subs/5vgkelr2vt6cntq9.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T14:16:32.703Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "1abf03909bd40dc6"
+}

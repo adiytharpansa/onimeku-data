@@ -1,0 +1,44 @@
+{
+ "id": "kirio-fanclub",
+ "title": "Kirio Fanclub",
+ "poster": "https://media.kitsu.app/anime/49503/poster_image/large-7c6354a9eb178186b5647fa55a52e8ff.jpeg",
+ "banner": "",
+ "synopsis": "For Aimi and Nami, the answer is to cry tears of joy for being able to pinpoint at a distance the object of their affections, Kirio, from a single toot. These are the kinds of deep, philosophical questions the two friends/rivals in romance pose to each other to prove their love for this boy who hardly seems to know they exist. That won’t stop them from conducting nightly rituals to entice him into their dreams, though, or listing out what exactly they like about him, down to the very last organ. But when push comes to shove, will they choose their hilarious friendship over a shot at love?\n\n(Source: Kodansha USA)",
+ "genres": [],
+ "score": 7.2,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:38.611Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "kirio fanclub",
+ "altTitles": [
+  "霧尾ファンクラブ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/smnlbhizg8/7db5avf120/7xxieg4tt1250k/master.m3u8",
+   "downloadUrl": "/download/mal/59835/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/49503/poster_image/large-7c6354a9eb178186b5647fa55a52e8ff.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/59835/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/smnlbhizg8/7db5avf120/7xxieg4tt1250k/subs/i9kvtn8e2hk4ein4.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:25:07.122Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "f06ba2bfdaec9dc8"
+}

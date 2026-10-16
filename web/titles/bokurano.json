@@ -1,0 +1,43 @@
+{
+ "id": "bokurano",
+ "title": "Bokurano",
+ "poster": "https://media.kitsu.app/anime/poster_images/1518/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/1518/large.jpg",
+ "synopsis": "15 children, 8 boys and 7 girls, are enjoying their summer camp together when they suddenly discover a grotto by the sea. When they enter the mysterious place they find a room full of computers, as well as a man named Kokopelli, who introduces himself as the owner. He claims to be working on a game which involves a giant robot that has been designed to protect the Earth from 15 different alien invasions. Kokopelli hasn't been able to test the game yet, so he persuades all but one of the children to sign a contract in what he claims will be a fun adventure.\nHowever, as soon as the contracts are signed things start to take a much darker turn. In Bokurano, the children must now pilot the giant robot Zearth one at a time in the hopes that they will have what it takes to defeat all of the upcoming enemies. But Kokopelli has left out one very important piece of information: the giant robot Zearth's energy source.",
+ "genres": [
+  "Drama",
+  "Sci-Fi",
+  "Psychological",
+  "Mecha"
+ ],
+ "score": 7.5,
+ "year": 2007,
+ "status": "FINISHED",
+ "totalEpisodes": 24,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:46:14.559Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "bokurano",
+ "altTitles": [
+  "ぼくらの"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/djuq3crttp/55he4ljum8/xvlsyu3t5qtomt/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/1518/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/1690/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-13T22:28:19.258Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "56682aecc5d138cc"
+}

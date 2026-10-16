@@ -1,0 +1,49 @@
+{
+ "id": "hyouka-what-should-be-had",
+ "title": "Hyouka: What Should Be Had",
+ "poster": "https://media.kitsu.app/anime/poster_images/6974/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/6974/large.jpg",
+ "synopsis": "Episode 11.5, an OVA bundled with the third volume of the manga. Oreki Houtarou gets a job at a swimming pool.",
+ "genres": [
+  "Mystery",
+  "Slice of Life",
+  "School"
+ ],
+ "score": 7.3,
+ "year": 2012,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:11.236Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "hyouka what should be had",
+ "altTitles": [
+  "Hyouka: Motsubeki Mono wa",
+  "氷菓 持つべきものは"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/i2v7nzxebv/ex40plnkbu/nqzy5zg2d65z3r/master.m3u8",
+   "downloadUrl": "/download/mal/13469/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/6974/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/13469/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/i2v7nzxebv/ex40plnkbu/nqzy5zg2d65z3r/subs/lpqghzieibx3x46k.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:16:43.242Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "5d93620df795545f"
+}

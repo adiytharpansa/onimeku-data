@@ -1,0 +1,44 @@
+{
+ "id": "slayers-next",
+ "title": "slayers next",
+ "poster": "https://media.kitsu.app/anime/poster_images/494/large.jpg",
+ "banner": "https://media.kitsu.app/anime/poster_images/494/large.jpg",
+ "synopsis": "In the kingdom of Xoana, Lina Inverse and Gourry Gabriev unexpectedly come across their old companions, Zelgadis Graywords and Princess Ameilia Wil Tesla Saillune. Upon their reunion, the friends end up easily foiling the King of Xoana and his daughter's dastardly plans of world conquest.\nSoon after, it is revealed that Zelgadis is in search of the world's most valuable magical tome, the Claire Bible, hoping to discover a method to recover his human body among the many secrets sheltered within it. Despite his protests, the rest of the group decides to join in the quest after hearing of his mission. However, just when they were wondering where to start looking for the legendary book, they stumble upon a mysterious priest by the name of Xellos, who claims that he may be of some help in their pursuit.\n[Written by MAL Rewrite]",
+ "genres": [
+  "Adventure",
+  "Comedy",
+  "Magic",
+  "Fantasy",
+  "Demons"
+ ],
+ "score": 8,
+ "year": 1996,
+ "status": "FINISHED",
+ "totalEpisodes": 26,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:42:02.834Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "slayers next",
+ "altTitles": [
+  "スレイヤーズNEXT"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/id9ciz2qxs/5onua726mv/er1w4qp97tg61b/master.m3u8",
+   "downloadUrl": "/download/mal/535/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/535/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-13T22:05:16.984Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "ae15c5420245ef26"
+}

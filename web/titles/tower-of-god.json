@@ -1,0 +1,85 @@
+{
+ "id": "tower-of-god",
+ "title": "tower of god",
+ "poster": "https://media.kitsu.app/anime/43004/poster_image/large-03a16e6cdf9abafff6642c76454e2903.jpeg",
+ "banner": "https://media.kitsu.app/anime/cover_images/43004/large.jpg",
+ "synopsis": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours. You can become a god. This is the story of the beginning and the end of Rachel, the girl who climbed the tower so she could see the stars, and Bam, the boy who needed nothing but her.\n\n(Source: Crunchyroll)",
+ "genres": [],
+ "score": 7.6,
+ "year": 2020,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:25.093Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "tower of god",
+ "altTitles": [
+  "Kami no Tou: Tower of God",
+  "神之塔 -Tower of God-"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/om4rp3czls/nup6b88jip/3zk2gehs5pxw4m/master.m3u8",
+   "downloadUrl": "/download/mal/40221/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/43004/poster_image/large-03a16e6cdf9abafff6642c76454e2903.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/40221/1/sub",
+   "subtitles": [
+    {
+     "label": "Arabic",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/om4rp3czls/nup6b88jip/3zk2gehs5pxw4m/subs/h4qter50la42h63n.vtt"
+    },
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/om4rp3czls/nup6b88jip/3zk2gehs5pxw4m/subs/nx4sxxj9ghp3reef.vtt"
+    },
+    {
+     "label": "French",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/om4rp3czls/nup6b88jip/3zk2gehs5pxw4m/subs/2u8tul7sl58pumvm.vtt"
+    },
+    {
+     "label": "German",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/om4rp3czls/nup6b88jip/3zk2gehs5pxw4m/subs/19m3b3ju4x6fq54o.vtt"
+    },
+    {
+     "label": "Italian",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/om4rp3czls/nup6b88jip/3zk2gehs5pxw4m/subs/3ogwinkr979pjxhq.vtt"
+    },
+    {
+     "label": "Portuguese (Portuguese - Brazilian)",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/om4rp3czls/nup6b88jip/3zk2gehs5pxw4m/subs/p9qdh4259rugbqzz.vtt"
+    },
+    {
+     "label": "Russian",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/om4rp3czls/nup6b88jip/3zk2gehs5pxw4m/subs/upxoqs5zf32ajtbp.vtt"
+    },
+    {
+     "label": "Spanish (- Spanish[ESP])",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/om4rp3czls/nup6b88jip/3zk2gehs5pxw4m/subs/g2r6t04o7oboza93.vtt"
+    },
+    {
+     "label": "Spanish (- Spanish[LAT])",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/om4rp3czls/nup6b88jip/3zk2gehs5pxw4m/subs/5up6hozuysjzdts1.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:11:13.159Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "f2a3ce4df18f421e"
+}

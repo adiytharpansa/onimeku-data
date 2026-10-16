@@ -1,0 +1,44 @@
+{
+ "id": "sonny-boy",
+ "title": "Sonny Boy",
+ "poster": "https://media.kitsu.app/anime/poster_images/44501/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/44501/large.jpg",
+ "synopsis": "The science-fiction ensemble drama centers around 36 boys and girls. On August 16, midway through a seemingly endless summer vacation, middle school third-year student Nagara, the mysterious transfer student Nozomi, and classmates such as Mizuho and Asakaze, are suddenly transported from their tranquil daily lives to a school adrift in an alternate dimension. They must survive with the super powers that have awakened within them. \n\n(Source: ANN)",
+ "genres": [],
+ "score": 7.7,
+ "year": 2021,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:39:47.077Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "sonny boy",
+ "altTitles": [
+  "ソニーボーイ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/2nht53kysn/7d1p4mmagu/4ubqunj2zldjv9/master.m3u8",
+   "downloadUrl": "/download/mal/48849/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/44501/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/48849/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/2nht53kysn/7d1p4mmagu/4ubqunj2zldjv9/subs/v5kh9abjah9egua4.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:11:05.980Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "55a12db8a0d3b239"
+}

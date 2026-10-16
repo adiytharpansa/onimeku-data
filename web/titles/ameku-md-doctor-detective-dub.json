@@ -1,0 +1,53 @@
+{
+ "id": "ameku-md-doctor-detective-dub",
+ "title": "Ameku M.D.: Doctor Detective",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx176642-lgDtPlodCMRm.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/176642-JHVfcE7sJi5l.jpg",
+ "synopsis": "Ten’ikai General Hospital’s Supervisory Department of Diagnostic Pathology handles cases other physicians deem too difficult to treat. It’s also where bizarre mysteries surface, from unexplained illnesses to strange murders even the police can’t solve. At the center of it all is Takao Ameku, a brilliant doctor determined to reveal the shocking truth behind these anomalies.\n\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Mystery",
+  "Slice of Life"
+ ],
+ "score": 6.9,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  1,
+  2
+ ],
+ "updatedAt": "2026-10-15T15:40:34.727Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": 176642,
+ "rawTitle": "ameku md doctor detective dub",
+ "altTitles": [
+  "Ameku Takao no Suiri Karte",
+  "天久鷹央の推理カルテ"
+ ],
+ "studio": "project No.9",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/0c57998b6a8290670e111c41ae60df33/7e2149d674bf26f6c133f73d4f75a286/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/ameku-md-doctor-detective-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/131275/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-13T21:20:53.953Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/0c57998b6a8290670e111c41ae60df33/6604bf0880a06ff1f72fd7c4dda7d1f4/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/ameku-md-doctor-detective-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/131281/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-13T20:06:39.305Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "faf26ebe344c7fcd"
+}

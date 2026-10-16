@@ -1,0 +1,69 @@
+{
+ "id": "naruto",
+ "title": "Naruto",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20-HHxhPj5JD13a.jpg",
+ "synopsis": "Naruto Uzumaki, a hyperactive and knuckle-headed ninja, lives in Konohagakure, the Hidden Leaf village. Moments prior to his birth, a huge demon known as the Kyuubi, the Nine-tailed Fox, attacked Konohagakure and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the 4th Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto. \n\n\nShunned because of the presence of the Kyuubi inside him, Naruto struggles to find his place in the village. He strives to become the Hokage of Konohagakure, and he meets many friends and foes along the way. \n\n\n(Source: MAL Rewrite)",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Comedy",
+  "Drama",
+  "Fantasy",
+  "Supernatural"
+ ],
+ "score": 8,
+ "year": 2002,
+ "status": "FINISHED",
+ "totalEpisodes": 220,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  1,
+  2
+ ],
+ "updatedAt": "2026-10-15T05:52:25.298Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": 20,
+ "rawTitle": "Naruto",
+ "altTitles": [
+  "NARUTO",
+  "NARUTO -ナルト-"
+ ],
+ "studio": "Studio Pierrot",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/hc0y8v2ihz/p48ydr1hwk/4y86pucj56am7p/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/20/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+   "referer": "https://zokoanime.video/stream/mal/20/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hc0y8v2ihz/p48ydr1hwk/4y86pucj56am7p/subs/8rebebsb5sj8484u.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:23:47.188Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/hc0y8v2ihz/ayedc8ynlk/zgq8mpiobrlhj3/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/20/2/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20-dE6UHbFFg1A5.jpg",
+   "referer": "https://zokoanime.video/stream/mal/20/2/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hc0y8v2ihz/ayedc8ynlk/zgq8mpiobrlhj3/subs/iyypvdbeta3qypuf.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:23:57.184Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "507d50db5ee25ab4"
+}

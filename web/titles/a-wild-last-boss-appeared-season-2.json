@@ -1,0 +1,54 @@
+{
+ "id": "a-wild-last-boss-appeared-season-2",
+ "title": "A Wild Last Boss Appeared! Season 2",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204389-jCoFCeTthDMy.jpg",
+ "banner": "",
+ "synopsis": "The second season of Yasei no Last Boss ga Arawareta!",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Fantasy"
+ ],
+ "score": 7.3,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": null,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  1,
+  2
+ ],
+ "updatedAt": "2026-10-15T23:46:19.915Z",
+ "type": "ONA",
+ "season": "FALL",
+ "anilistId": 204389,
+ "rawTitle": "a wild last boss appeared season 2",
+ "altTitles": [
+  "Yasei no Last Boss ga Arawareta! 2nd Season",
+  "野生のラスボスが現れた！ 第2期"
+ ],
+ "studio": "WAO World",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/d2c40040f2351d9c355630c2b4d44eb3/4039851116d5794dab1f23896804e19d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/09/a-wild-last-boss-appeared-season-2.webp",
+   "referer": "https://megaplay.buzz/stream/mal/63140/1/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T19:22:27.458Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/d2c40040f2351d9c355630c2b4d44eb3/363d51173b8ffeb3bfd3ab0506bb296b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/09/a-wild-last-boss-appeared-season-2.webp",
+   "referer": "https://megaplay.buzz/stream/mal/63140/2/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T23:46:19.915Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "85d2a6c180b0c4f5"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "tomb-raider-king",
+ "title": "tomb raider king",
+ "poster": "https://lain.bgm.tv/pic/cover/l/7a/d3/621835_IFhDH.jpg",
+ "banner": "https://lain.bgm.tv/pic/cover/l/7a/d3/621835_IFhDH.jpg",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": null,
+ "status": "",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:18.294Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "rawTitle": "tomb raider king",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/u9ha06h7og/lx33gyebpy/a3hyng1xlsbigi/master.m3u8",
+   "downloadUrl": "/download/mal/63316/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/63316/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/u9ha06h7og/lx33gyebpy/a3hyng1xlsbigi/subs/jq9mhos3xlszpux7.vtt"
+    },
+    {
+     "label": "Indonesian",
+     "lang": "id",
+     "url": "https://hls.dramahot.top/v/scxqicy/u9ha06h7og/lx33gyebpy/a3hyng1xlsbigi/subs/jed2kswgtpsdowqw.vtt"
+    },
+    {
+     "label": "Thai",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/u9ha06h7og/lx33gyebpy/a3hyng1xlsbigi/subs/fop61ej1fi7qrzk8.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:39:30.815Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "fb93db52a66deb22"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "kubo-wont-let-me-be-invisible",
+ "title": "Kubo Won't Let Me Be Invisible",
+ "poster": "https://media.kitsu.app/anime/46110/poster_image/large-b0d2a1c170fe5d38263e1cb90a079abe.jpeg",
+ "banner": "https://media.kitsu.app/anime/46110/cover_image/large-61e7bc6255d1535264e7a3ea1f48df34.jpeg",
+ "synopsis": "First year high schooler Junta Shiraishi is a mob character who goes unnoticed even when he's standing right next to you. But his classmate, \"heroine-level beauty\" Kubo, always notices him and is there to tease him. Anyone can become special to someone, but it might be a little too early to call these feelings \"love.\" Perhaps this story is still two-steps from being a romantic comedy--let's call it a sweet comedy where a background character becomes visible!",
+ "genres": [],
+ "score": 7.6,
+ "year": 2023,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T23:53:27.323Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "kubo wont let me be invisible",
+ "altTitles": [
+  "Kubo-san wa Mob wo Yurusanai",
+  "久保さんは僕を許さない"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/x0mx3agimm/bfe5np8xrf/k08io2ksq3g8c9/master.m3u8",
+   "downloadUrl": "/download/mal/51815/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/46110/poster_image/large-b0d2a1c170fe5d38263e1cb90a079abe.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/51815/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/x0mx3agimm/bfe5np8xrf/k08io2ksq3g8c9/subs/ggrpzmfmbftogdb9.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T23:53:27.323Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "7bec7c677b099157"
+}

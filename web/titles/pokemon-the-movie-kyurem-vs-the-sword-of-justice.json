@@ -1,0 +1,72 @@
+{
+ "id": "pokemon-the-movie-kyurem-vs-the-sword-of-justice",
+ "title": "Pokemon the Movie: Kyurem VS. The Sword of Justice",
+ "poster": "https://media.kitsu.app/anime/poster_images/6786/large.jpg",
+ "banner": "",
+ "synopsis": "The 15th Pokemon movie and the 2nd 'Best Wishes!' movie. It will feature the legendary Pokemon Kyurem (appearing also in its new Black Kyurem and White Kyurem formes.) The Legendary Musketeer Pokemon-Cobalion, Terrakion and Virizion-will appear alongside their newly revealed 4th member, Keldeo.",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Comedy",
+  "Drama",
+  "Fantasy",
+  "Kids"
+ ],
+ "score": 6.3,
+ "year": 2012,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:39:01.945Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "pokemon the movie kyurem vs the sword of justice",
+ "altTitles": [
+  "Pokemon Best Wishes! Season 2: Kyurem vs. Seikenshi",
+  "劇場版 ポケットモンスター ベストウイッシュ キュレムVS聖剣士"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/nq2sz8g7t7/y5d2xxz3d4/evm00a6nsk90ha/master.m3u8",
+   "downloadUrl": "/download/mal/12671/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/6786/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/12671/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/nq2sz8g7t7/y5d2xxz3d4/evm00a6nsk90ha/subs/r1oasn7qzt8fs88c.vtt"
+    },
+    {
+     "label": "Portuguese (Portuguese - (Brasil))",
+     "lang": "pt",
+     "url": "https://hls.dramahot.top/v/scxqicy/nq2sz8g7t7/y5d2xxz3d4/evm00a6nsk90ha/subs/98b1ug7byh4ohupd.vtt"
+    },
+    {
+     "label": "Portuguese (Portuguese - (Portugal))",
+     "lang": "pt",
+     "url": "https://hls.dramahot.top/v/scxqicy/nq2sz8g7t7/y5d2xxz3d4/evm00a6nsk90ha/subs/ircge86rq13hkw57.vtt"
+    },
+    {
+     "label": "Spanish",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/nq2sz8g7t7/y5d2xxz3d4/evm00a6nsk90ha/subs/v8ouggnvalty3g0s.vtt"
+    },
+    {
+     "label": "Spanish (- Castilian)",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/nq2sz8g7t7/y5d2xxz3d4/evm00a6nsk90ha/subs/i4jvkwdkimllla2m.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:20:39.240Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "1a9b91ffab10455c"
+}

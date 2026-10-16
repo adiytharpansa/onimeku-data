@@ -1,0 +1,45 @@
+{
+ "id": "sentenced-to-be-a-hero",
+ "title": "Sentenced to Be a Hero",
+ "poster": "https://media.kitsu.app/anime/47759/poster_image/large-fadac60d40bf1a14768ec6c52dd6c43b.jpeg",
+ "banner": "https://media.kitsu.app/anime/47759/cover_image/large-56ab1a8b695fc233ee66f1dd1e824141.jpeg",
+ "synopsis": "In a world where heroism is a punishment, Xylo Forbartz, a condemned goddess killer, battles endless hordes of monstrous abominations as part of Penal Hero Unit 9004. Death is no escape, only a cycle of resurrection and relentless combat. But when Xylo encounters a mysterious new goddess, their unlikely alliance sparks a rebellion that could shatter the chains of eternal punishment.\n\n(Source: Crunchyroll)\n\nNotes:\n- The first episode aired with a runtime of ~58 minutes as opposed to the standard 24 minute long episode.\n- Initially scheduled to air in October, 2025",
+ "genres": [],
+ "score": 8.1,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:33.584Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "sentenced to be a hero",
+ "altTitles": [
+  "Yuusha Kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+  "勇者刑に処す　懲罰勇者9004隊刑務記録"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/1tzgw2yyj5/s3mvirb9w4/xqfq5i48anzlck/master.m3u8",
+   "downloadUrl": "/download/mal/56009/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/47759/poster_image/large-fadac60d40bf1a14768ec6c52dd6c43b.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/56009/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/1tzgw2yyj5/s3mvirb9w4/xqfq5i48anzlck/subs/9qgj58jc1cx55jp2.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:28:11.965Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "62bd2541738e924f"
+}

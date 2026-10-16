@@ -1,0 +1,42 @@
+{
+ "id": "chitose-is-in-the-ramune-bottle-part-2",
+ "title": "Chitose Is in the Ramune Bottle 2nd Cour",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198727-BL0JTpg0G8tq.jpg",
+ "synopsis": "The second part of Chitose-kun wa Ramune Bin no Naka.",
+ "genres": [
+  "Comedy",
+  "Romance"
+ ],
+ "score": null,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 11,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-13T21:43:11.274Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": 198727,
+ "rawTitle": "chitose is in the ramune bottle part 2",
+ "altTitles": [
+  "Chitose-kun wa Ramune Bin no Naka Part 2",
+  "千歳くんはラムネ瓶のなか 2クール"
+ ],
+ "studio": "feel.",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/752bf884d2e0a73fc1724e791556e296/692957e3f6f2fc0ae846d44a7027aa33/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/10/chitose-is-in-the-ramune-bottle-part-2.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/62484/1/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-13T21:43:11.274Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "55468c333d54fd15"
+}

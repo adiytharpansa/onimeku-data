@@ -1,0 +1,50 @@
+{
+ "id": "pokemon-pichu-bros-in-party-panic",
+ "title": "Pokemon: Pichu Bros. in Party Panic",
+ "poster": "https://media.kitsu.app/anime/poster_images/4763/large.jpg",
+ "banner": "",
+ "synopsis": "This is an animated cartoon that was released inside the game Pokémon Channel.\nA half-hour long anime show, broken into five short segments, featuring the Pichu Brothers. Meowth throws a party that the Pichu brothers and their friends are not invited to. After a series of events, they find out they were invited, but their invitations were simply delivered late. They go to Meowth's Party and hear him sing. The series has a total of five episodes, each on its own channel.\n(Source: Wikipedia)",
+ "genres": [
+  "Adventure",
+  "Comedy",
+  "Fantasy",
+  "Kids"
+ ],
+ "score": 6.4,
+ "year": 2003,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:44.291Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "pokemon pichu bros in party panic",
+ "altTitles": [
+  "Pokemon: Bokutachi Pichu Brothers - Party wa Oosawagi! no Maki",
+  "ぼくたちピチューブラザーズ　～パーティはおおさわぎ！のまき～"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/b7njvngqou/ic6ijz5oq1/n7rd6pooc53zxg/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/4763/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/6877/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/b7njvngqou/ic6ijz5oq1/n7rd6pooc53zxg/subs/6y3ualjam6le4zwj.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:22:35.467Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "59ba0ea83bad01d2"
+}

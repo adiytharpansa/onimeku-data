@@ -1,0 +1,87 @@
+{
+ "id": "grisaia-phantom-trigger",
+ "title": "grisaia phantom trigger",
+ "poster": "https://media.kitsu.app/anime/poster_images/13685/large.jpg",
+ "banner": "https://media.kitsu.app/anime/poster_images/13685/large.jpg",
+ "synopsis": "Following the Heath Oslo incident, the existence of the US-Japanese anti-terror organization CIRS has become a matter of public knowledge. CIRS has been rebuilt from the ground up, and its most covert functions spun off to a new agency: SORD (Social Ops, Research &amp; Development).\n\nThe goal of SORD is to train a new generation of operatives to defend the country against future threats. To that end, the organization has established a series of schools up and down the country. Mihama Academy, more-or-less left to rot after its abrupt closure, has been given new purpose as one such 'specialist training school'.\n\nThis new incarnation of Mihama Academy is home to a diverse group of students, who every day work to polish their unusual skills - sometimes on the job. Mihama now entrusts the misfit girls who attend it with guns and live ammunition. Paying their own safety no heed, these students are again and again plunged into dangerous extrajudicial missions - all for the good of the realm.\n\n(Source: Official page)",
+ "genres": [
+  "Action",
+  "School"
+ ],
+ "score": 6.9,
+ "year": 2019,
+ "status": "FINISHED",
+ "totalEpisodes": 2,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:46:45.512Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "grisaia phantom trigger",
+ "altTitles": [
+  "グリザイア：ファントムトリガー"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/4eyzqx39ie/k8k1r41olc/5p9mzem0gn1fae/master.m3u8",
+   "downloadUrl": "/download/mal/51119/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/13685/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/51119/1/sub",
+   "subtitles": [
+    {
+     "label": "Arabic (- Saudi Arabia)",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/4eyzqx39ie/k8k1r41olc/5p9mzem0gn1fae/subs/gbvgmh26t2n65uqe.vtt"
+    },
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/4eyzqx39ie/k8k1r41olc/5p9mzem0gn1fae/subs/2pctiiultmeka9np.vtt"
+    },
+    {
+     "label": "French",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/4eyzqx39ie/k8k1r41olc/5p9mzem0gn1fae/subs/xoak4ewp0wmvyww1.vtt"
+    },
+    {
+     "label": "German",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/4eyzqx39ie/k8k1r41olc/5p9mzem0gn1fae/subs/ulz5a22fd34k6d0m.vtt"
+    },
+    {
+     "label": "Italian",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/4eyzqx39ie/k8k1r41olc/5p9mzem0gn1fae/subs/829trum24urm9x5q.vtt"
+    },
+    {
+     "label": "Portuguese (- Brazilian)",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/4eyzqx39ie/k8k1r41olc/5p9mzem0gn1fae/subs/8r8aupcg4zyl1i0r.vtt"
+    },
+    {
+     "label": "Russian",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/4eyzqx39ie/k8k1r41olc/5p9mzem0gn1fae/subs/rk04070kns3sa1nu.vtt"
+    },
+    {
+     "label": "Spanish (- European)",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/4eyzqx39ie/k8k1r41olc/5p9mzem0gn1fae/subs/9fuhe4wsazislgu0.vtt"
+    },
+    {
+     "label": "Spanish (- Latin American)",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/4eyzqx39ie/k8k1r41olc/5p9mzem0gn1fae/subs/3k21qkj3qkqlg73d.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:09:32.882Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "56bf28705501a145"
+}

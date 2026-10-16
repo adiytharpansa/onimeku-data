@@ -1,0 +1,36 @@
+{
+ "id": "9-rulers-crown",
+ "title": "9 rulers crown",
+ "poster": "https://shikimori.one/system/animes/original/58957.jpg?1717006914",
+ "banner": "https://shikimori.one/system/animes/original/58957.jpg?1717006914",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": null,
+ "status": "",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:41:31.865Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "rawTitle": "9 rulers crown",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/84ljorm65e/pqbyq6kooc/xuucspq0d0lmxy/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/58957/1/sub",
+   "thumbnail": "https://shikimori.one/system/animes/original/58957.jpg?1717006914",
+   "referer": "https://zokoanime.video/stream/mal/58957/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:31.865Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "774fb0e66aef7bd3"
+}

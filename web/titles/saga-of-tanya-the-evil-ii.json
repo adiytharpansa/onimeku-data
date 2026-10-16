@@ -1,0 +1,85 @@
+{
+ "id": "saga-of-tanya-the-evil-ii",
+ "title": "Saga of Tanya the Evil II",
+ "poster": "https://media.kitsu.app/anime/44778/poster_image/large-f09d935245e81ce280bb22bd8f16e003.jpeg",
+ "banner": "",
+ "synopsis": "The second season of Youjo Senki.",
+ "genres": [],
+ "score": 8,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:44:31.880Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "saga of tanya the evil ii",
+ "altTitles": [
+  "Youjo Senki II",
+  "幼女戦記 II"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/1lxx6alxgz/gzacs4srfz/0rw4ws46yls59f/master.m3u8",
+   "downloadUrl": "/download/mal/49233/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/44778/poster_image/large-f09d935245e81ce280bb22bd8f16e003.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/49233/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/1lxx6alxgz/gzacs4srfz/0rw4ws46yls59f/subs/ewd1nelhe9s7lidk.vtt"
+    },
+    {
+     "label": "Arabic",
+     "lang": "ar",
+     "url": "https://hls.dramahot.top/v/scxqicy/1lxx6alxgz/gzacs4srfz/0rw4ws46yls59f/subs/c3s20vgs2t8g5v74.vtt"
+    },
+    {
+     "label": "French",
+     "lang": "fr",
+     "url": "https://hls.dramahot.top/v/scxqicy/1lxx6alxgz/gzacs4srfz/0rw4ws46yls59f/subs/hjg8vy4btnybj0v6.vtt"
+    },
+    {
+     "label": "German",
+     "lang": "de",
+     "url": "https://hls.dramahot.top/v/scxqicy/1lxx6alxgz/gzacs4srfz/0rw4ws46yls59f/subs/tc58shjxs1ko9k3o.vtt"
+    },
+    {
+     "label": "Italian",
+     "lang": "it",
+     "url": "https://hls.dramahot.top/v/scxqicy/1lxx6alxgz/gzacs4srfz/0rw4ws46yls59f/subs/dlbn0lsoswdjudfo.vtt"
+    },
+    {
+     "label": "Portuguese (Brazil)",
+     "lang": "pt",
+     "url": "https://hls.dramahot.top/v/scxqicy/1lxx6alxgz/gzacs4srfz/0rw4ws46yls59f/subs/ru3c0f0wlr79xf2u.vtt"
+    },
+    {
+     "label": "Russian",
+     "lang": "ru",
+     "url": "https://hls.dramahot.top/v/scxqicy/1lxx6alxgz/gzacs4srfz/0rw4ws46yls59f/subs/2gmolbgacsf5nhnl.vtt"
+    },
+    {
+     "label": "Spanish (Latin America)",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/1lxx6alxgz/gzacs4srfz/0rw4ws46yls59f/subs/y4wquasvsi4mrob0.vtt"
+    },
+    {
+     "label": "Spanish (Spain)",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/1lxx6alxgz/gzacs4srfz/0rw4ws46yls59f/subs/bgcmwuiorbqq7qct.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:39:09.297Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "97937f9109cda9ee"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "the-idolmster",
+ "title": "the idolmster",
+ "poster": "https://shikimori.one/system/animes/original/10278.jpg?1711977291",
+ "banner": "https://shikimori.one/system/animes/original/10278.jpg?1711977291",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": null,
+ "status": "",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:28.964Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "rawTitle": "the idolmster",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/7bcicli0et/2ajrvdwb5e/wm62cqqo4yvoej/master.m3u8",
+   "downloadUrl": "/download/mal/10278/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/10278/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/7bcicli0et/2ajrvdwb5e/wm62cqqo4yvoej/subs/ev0m8uy53juzr3h4.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:29:40.123Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "22de569d633e6855"
+}

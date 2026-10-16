@@ -1,0 +1,42 @@
+{
+ "id": "code-geass-lelouch-of-the-resurrection",
+ "title": "code geass lelouch of the resurrection",
+ "poster": "https://shikimori.one/system/animes/original/34437.jpg?1711946538",
+ "banner": "https://shikimori.one/system/animes/original/34437.jpg?1711946538",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": null,
+ "status": "",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:41.851Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "rawTitle": "code geass lelouch of the resurrection",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/hzps0f78ar/zbq9nq152n/6ip771i3tn5gyh/master.m3u8",
+   "downloadUrl": "/download/mal/34437/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/34437/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hzps0f78ar/zbq9nq152n/6ip771i3tn5gyh/subs/xpqyibcl9sfeusbf.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:08:43.482Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "016424290e481eef"
+}

@@ -1,0 +1,86 @@
+{
+ "id": "2200-nen-neko-no-kuni-nippon",
+ "title": "2200-nen Neko no Kuni Nippon",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx199009-MxwkHEavznVW.jpg",
+ "banner": "",
+ "synopsis": "Takes place in the year 2200, where Japan has become a land of cats as the human population's birth rate has declined. In this future world, cats can talk, learn, and work. The story follows a high school girl and her argumentative cat.\n\n\n\n(Source: Anime News Network)",
+ "genres": [
+  "Comedy",
+  "Sci-Fi",
+  "Slice of Life"
+ ],
+ "score": 5,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 11,
+ "episodeNumbers": [
+  1,
+  3,
+  8,
+  9,
+  11
+ ],
+ "updatedAt": "2026-10-15T15:40:45.951Z",
+ "type": "TV_SHORT",
+ "season": "FALL",
+ "anilistId": 199009,
+ "rawTitle": "2200 nen neko no kuni nippon",
+ "altTitles": [
+  "2200年ねこの国ニッポン"
+ ],
+ "studio": "Imageworks Studio",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e97ee5fdd2d1cb6594616ccf3488eac2/d777eff55b0cee1a2173e700aec41fbc/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759911275-1551-1759910761-5513-152249.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/145633/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-14T13:01:39.622Z",
+   "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e97ee5fdd2d1cb6594616ccf3488eac2/27ac99ac2523cca30c56bb1bc56c75e6/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759911275-1551-1759910761-5513-152249.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/145931/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:37.565Z",
+   "customSubs": []
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e97ee5fdd2d1cb6594616ccf3488eac2/b1634cd5c5cea46a6a99ac900410a527/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759911275-1551-1759910761-5513-152249.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/156289/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:41.230Z",
+   "customSubs": []
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e97ee5fdd2d1cb6594616ccf3488eac2/aa07acca2fb76e14565925d193c7f2df/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759911275-1551-1759910761-5513-152249.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/160365/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:42.638Z",
+   "customSubs": []
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e97ee5fdd2d1cb6594616ccf3488eac2/f69e332b0fd7542ae9184a3af8977110/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759911275-1551-1759910761-5513-152249.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/161125/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:45.951Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "2bd17390fe5db098"
+}

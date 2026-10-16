@@ -1,0 +1,36 @@
+{
+ "id": "super-dimension-fortress-macross",
+ "title": "super dimension fortress macross",
+ "poster": "https://shikimori.one/system/animes/original/1088.jpg?1711961977",
+ "banner": "https://shikimori.one/system/animes/original/1088.jpg?1711961977",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": null,
+ "status": "",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:19.798Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "rawTitle": "super dimension fortress macross",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/7x8vw8nc1u/akvyn0xcju/kxkwjcc3ukybdl/master.m3u8",
+   "downloadUrl": "/download/mal/1088/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/1088/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-13T22:06:17.405Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "26b9019ff8f7f17a"
+}

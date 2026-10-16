@@ -1,0 +1,60 @@
+{
+ "id": "demon-slayer-kimetsu-no-yaiba-mugen-train-arc",
+ "title": "Demon Slayer: Kimetsu no Yaiba - Mugen Train Arc",
+ "poster": "https://media.kitsu.app/anime/45249/poster_image/large-178aab3e16cd06c2022873d93b90ae63.jpeg",
+ "banner": "https://media.kitsu.app/anime/45249/cover_image/large-1776be86097bff490d58498e7472e5bd.jpeg",
+ "synopsis": "The TV version of Kimetsu no Yaiba Movie: Mugen Ressha-hen including an entirely new first episode. The first episode depicts Rengoku as he embarks on his journey to the Mugen Train. The remaining episodes will add about 70 new animation cuts and new background music, as well as a new trailer.\n\n(Source: Anime News Network)",
+ "genres": [],
+ "score": 8.7,
+ "year": 2021,
+ "status": "FINISHED",
+ "totalEpisodes": 7,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:55.141Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "demon slayer kimetsu no yaiba mugen train arc",
+ "altTitles": [
+  "Kimetsu no Yaiba: Mugen Ressha-hen",
+  "鬼滅の刃 無限列車編"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/ji91mesb66/djp49zmdty/jcptd40x9atwjl/master.m3u8",
+   "downloadUrl": "/download/mal/49926/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/45249/poster_image/large-178aab3e16cd06c2022873d93b90ae63.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/49926/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/ji91mesb66/djp49zmdty/jcptd40x9atwjl/subs/ar24ed2eblvaa06i.vtt"
+    },
+    {
+     "label": "Portuguese (- Portuguese(Brazil))",
+     "lang": "pt",
+     "url": "https://hls.dramahot.top/v/scxqicy/ji91mesb66/djp49zmdty/jcptd40x9atwjl/subs/zo2dnn1kwkryz7hz.vtt"
+    },
+    {
+     "label": "Spanish",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/ji91mesb66/djp49zmdty/jcptd40x9atwjl/subs/pi9o4ngkmkchiqcs.vtt"
+    },
+    {
+     "label": "Spanish (- Spanish(Latin America))",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/ji91mesb66/djp49zmdty/jcptd40x9atwjl/subs/z42nmr4m8ym08zdj.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:41:20.656Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "6028a42ce60cdbc1"
+}

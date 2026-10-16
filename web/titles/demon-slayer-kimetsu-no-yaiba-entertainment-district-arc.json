@@ -1,0 +1,45 @@
+{
+ "id": "demon-slayer-kimetsu-no-yaiba-entertainment-district-arc",
+ "title": "Demon Slayer: Kimetsu no Yaiba - Entertainment District Arc",
+ "poster": "https://media.kitsu.app/anime/44081/poster_image/large-049ba5097e6d6dbb515a0584a7ccd3b2.jpeg",
+ "banner": "https://media.kitsu.app/anime/44081/cover_image/large-a5ef1fa23f686e8f2b11f4d33fe38b92.jpeg",
+ "synopsis": "After visiting the Rengoku residence, Tanjirou and his comrades volunteer for a mission within the Entertainment District, a place where desires are sold and demons dwell. They journey alongside the flashy Sound Hashira, Tengen Uzui, in search of a monstrous foe terrorizing the town. Sworn to slay creatures of the night, the hunt continues.\n\n(Source: Funimation)",
+ "genres": [],
+ "score": 8.7,
+ "year": 2021,
+ "status": "FINISHED",
+ "totalEpisodes": 11,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T22:52:50.406Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "demon slayer kimetsu no yaiba entertainment district arc",
+ "altTitles": [
+  "Kimetsu no Yaiba: Yuukaku-hen",
+  "鬼滅の刃 遊郭編"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/3y6pk0a3ui/pudvew5kh4/vts8i68lrgz1t4/master.m3u8",
+   "downloadUrl": "/download/mal/47778/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/44081/poster_image/large-049ba5097e6d6dbb515a0584a7ccd3b2.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/47778/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/3y6pk0a3ui/pudvew5kh4/vts8i68lrgz1t4/subs/u0zsap5jfjse1aig.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T22:52:50.406Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "b125f4a7c77e038a"
+}

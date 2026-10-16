@@ -1,0 +1,53 @@
+{
+ "id": "tsubasa-reservoir-chronicle-season-two",
+ "title": "Tsubasa RESERVoir CHRoNiCLE Season Two",
+ "poster": "https://media.kitsu.app/anime/poster_images/859/large.jpg",
+ "banner": "",
+ "synopsis": "Syaoran, Sakura, Kurogane, Fai and Mokona's journey through to different world's continue as they search for Sakura's feathers. The fated journey slowly becomes more complicated for our travelers, as they find themselves diving deeper into more dangerous worlds. Takes place immediately after the first season. Based on the manga by CLAMP.",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Drama",
+  "Mystery",
+  "Supernatural",
+  "Fantasy",
+  "Romance"
+ ],
+ "score": 7.4,
+ "year": 2006,
+ "status": "FINISHED",
+ "totalEpisodes": 26,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:52.469Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "tsubasa reservoir chronicle season two",
+ "altTitles": [
+  "Tsubasa Chronicle 2nd Season",
+  "ツバサ・クロニクル 第2シリーズ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/pstornhngs/mkoq0ckfxv/3e0vel7h8vmzca/master.m3u8",
+   "downloadUrl": "/download/mal/969/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/859/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/969/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/pstornhngs/mkoq0ckfxv/3e0vel7h8vmzca/subs/ij4k870kpq26nhhj.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:15:08.078Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "c135ee64c8c2870c"
+}

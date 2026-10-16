@@ -1,0 +1,43 @@
+{
+ "id": "grow-up-show",
+ "title": "Grow Up Show",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx196017-GynDNdbDzqzk.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/196017-qB1xhp5PO10x.jpg",
+ "synopsis": "The anime's story is set in the late 1950s and early 1960s, during the height of Japan's economic boom, when the circus is a major form of entertainment. Different circus troupes travel throughout Japan to perform and compete for a chance to participate in the world-renowned festival called \"Circus Collection.\" One troupe called the \"Sunflower Circus,\" led by its ringmaster Maria, travels around Japan to perform, despite struggling with financial difficulties. However, they meet a circus prodigy named Mizuka Tsurumaki. This is the story of a one-of-a-kind circus show of young girls with big dreams.\n\n\n(Source: Anime News Network)",
+ "genres": [
+  "Adventure",
+  "Slice of Life",
+  "Sports"
+ ],
+ "score": 7.3,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:43:58.544Z",
+ "type": "TV",
+ "season": "SUMMER",
+ "anilistId": 196017,
+ "rawTitle": "grow up show",
+ "altTitles": [
+  "Grow Up Show: Himawari no Circus-dan",
+  "グロウアップショウ ～ひまわりのサーカス団～"
+ ],
+ "studio": "A-1 Pictures",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/qvx89vtkjy/6whkrpukfi/dvs40ee3gbhar2/master.m3u8",
+   "downloadUrl": "/download/mal/62051/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/50694/poster_image/large-5a699d6605677992ca5031320cc20589.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/62051/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-14T00:29:26.109Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "18b6c100c10f1f17"
+}

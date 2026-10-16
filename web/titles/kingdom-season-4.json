@@ -1,0 +1,44 @@
+{
+ "id": "kingdom-season-4",
+ "title": "kingdom season 4",
+ "poster": "https://media.kitsu.app/anime/45324/poster_image/large-402f8a8ec8e496490eb6ed039b732da7.jpeg",
+ "banner": "https://media.kitsu.app/anime/45324/poster_image/large-402f8a8ec8e496490eb6ed039b732da7.jpeg",
+ "synopsis": "The fourth season of Kingdom.",
+ "genres": [],
+ "score": 8.2,
+ "year": 2022,
+ "status": "FINISHED",
+ "totalEpisodes": 26,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:42:51.110Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "kingdom season 4",
+ "altTitles": [
+  "キングダム 4"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/43k9h96usb/z9vgurzlaa/3bhpxjwywnb25a/master.m3u8",
+   "downloadUrl": "/download/mal/50160/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/50160/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/43k9h96usb/z9vgurzlaa/3bhpxjwywnb25a/subs/yp7e57vj805vqy4b.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:08:25.265Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "265ce9bfeaddbcde"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "pokemon-concierge",
+ "title": "Pokémon Concierge",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162147-90IXqW7pehgw.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162147-fQ1wNM1CQ7gE.jpg",
+ "synopsis": "Pack your bags—an all-new Pokémon paradise awaits!\n\n\n\nIntroducing Pokémon Concierge, a new collaboration between Pokémon and Netflix featuring stop-motion animation by dwarf studio. Set in a resort on a tropical island resort for Pokémon, rookie concierge Haru and her partner Psyduck interact with trainers and Pokémon guests in this heartwarming story of growth.\n\n\n(Source: Official Pokémon YouTube video description, Netflix Anime, edited) \n\n\n\nNote: Announced on Pokémon Day 2023.",
+ "genres": [
+  "Fantasy",
+  "Slice of Life"
+ ],
+ "score": 7.7,
+ "year": 2023,
+ "status": "FINISHED",
+ "totalEpisodes": 4,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T20:31:30.394Z",
+ "type": "ONA",
+ "season": "FALL",
+ "anilistId": 162147,
+ "rawTitle": "pokemon concierge",
+ "altTitles": [
+  "ポケモンコンシェルジュ"
+ ],
+ "studio": "dwarf",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/hw71r6kldy/pqs9wdztkn/krk8jq1h80umbk/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/54633/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162147-90IXqW7pehgw.jpg",
+   "referer": "https://zokoanime.video/stream/mal/54633/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hw71r6kldy/pqs9wdztkn/krk8jq1h80umbk/subs/fnsdeuswbgkhtuc7.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T20:31:30.394Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "3a1ea47e694d092b"
+}

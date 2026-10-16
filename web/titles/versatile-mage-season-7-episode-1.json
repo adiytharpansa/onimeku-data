@@ -1,0 +1,48 @@
+{
+ "id": "versatile-mage-season-7-episode-1",
+ "title": "Versatile Mage Season 7",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206354-JDkdtdhrd6mD.jpg",
+ "banner": "",
+ "synopsis": "The seventh season of Quanzhi Fashi.",
+ "genres": [
+  "Action",
+  "Fantasy"
+ ],
+ "score": 6.3,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-16T08:31:15.614Z",
+ "type": "ONA",
+ "season": "SPRING",
+ "anilistId": 206354,
+ "rawTitle": "versatile mage season 7 episode 1",
+ "altTitles": [
+  "Quanzhi Fashi 7",
+  "全职法师 第7季"
+ ],
+ "studio": "Foch",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/ronrsvwuqh/cklfk7h35m/pr7o045ux7t3ww/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/62719/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206354-JDkdtdhrd6mD.jpg",
+   "referer": "https://zokoanime.video/stream/mal/62719/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/ronrsvwuqh/cklfk7h35m/pr7o045ux7t3ww/subs/f16pik1smzgk1yl0.vtt"
+    }
+   ],
+   "addedAt": "2026-10-16T08:31:15.614Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "b2e569460d186b1e"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "haikyuu-special-feature-the-spring-tournament-of-their-youth",
+ "title": "Haikyuu!! Special Feature! The Spring Tournament of Their Youth",
+ "poster": "https://media.kitsu.app/anime/poster_images/41556/large.jpg",
+ "banner": "",
+ "synopsis": "The OVA episode revisits the primary matches from the spring tournament and features interviews with players.\n\n(Source: MAL News)",
+ "genres": [
+  "Sports",
+  "School"
+ ],
+ "score": 8.2,
+ "year": 2017,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:02.884Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "haikyuu special feature the spring tournament of their youth",
+ "altTitles": [
+  "Haikyuu!!: Tokushuu! Haru-kou Volley ni Kaketa Seishun",
+  "ハイキュー!! 特集！春高バレーに賭けた青春"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/zvcrzt2nud/cajyvjl27g/ekeda5olm2wqv4/master.m3u8",
+   "downloadUrl": "/download/mal/35321/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/41556/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/35321/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/zvcrzt2nud/cajyvjl27g/ekeda5olm2wqv4/subs/a2vfwhsttvf3blke.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:05:47.076Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "2381b5032ebe3ce9"
+}

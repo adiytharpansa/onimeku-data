@@ -1,0 +1,55 @@
+{
+ "id": "the-familiar-of-zero-knight-of-the-twin-moons",
+ "title": "The Familiar of Zero: Knight of the Twin Moons",
+ "poster": "https://media.kitsu.app/anime/poster_images/1657/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/1657/large.jpg",
+ "synopsis": "Revered as heroes for their role in defending Tristain, Louise and her familiar Saito face heavy pressure to continue protecting the Kingdom. With an uneasy peace now established within Albion, the newly crowned Queen Henrietta must deal with a political struggle brewing on the horizon. To make matters worse, a new villain has begun plotting in the shadows against the Crown.\nWith the continuing threats that face the Kingdom, Louise and Saito are compelled to work together once more. No longer \"Louise the Zero,\" the young mage's newfound aptitude for Void magic gives her enough power to wipe out an entire village; however, wielding these abilities comes with its share of challenges. As more conflicts arise, the idea of placing honor above oneself is put into question—regardless of their answer, their only choice is to see it through until the end.\n[Written by MAL Rewrite]",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Comedy",
+  "Magic",
+  "Fantasy",
+  "Romance",
+  "School",
+  "Ecchi",
+  "Harem"
+ ],
+ "score": 7.4,
+ "year": 2007,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:58.049Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "the familiar of zero knight of the twin moons",
+ "altTitles": [
+  "Zero no Tsukaima: Futatsuki no Kishi",
+  "ゼロの使い魔 ～双月の騎士～"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/ct6ogxl5xn/7mms02ak6k/qq5ut87iqlfqew/master.m3u8",
+   "downloadUrl": "/download/mal/1840/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/1657/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/1840/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/ct6ogxl5xn/7mms02ak6k/qq5ut87iqlfqew/subs/0htdxvc4jjd1dqkn.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:15:58.827Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "a5e3342805de8265"
+}

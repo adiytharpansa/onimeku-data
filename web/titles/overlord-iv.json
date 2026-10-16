@@ -1,0 +1,38 @@
+{
+ "id": "overlord-iv",
+ "title": "overlord iv",
+ "poster": "https://media.kitsu.app/anime/44529/poster_image/large-d0683b94779e1ca0078b0dfde25443d7.jpeg",
+ "banner": "https://media.kitsu.app/anime/44529/cover_image/large-f71fc621735eeb86343179dbe0c866dc.jpeg",
+ "synopsis": "The fourth season of Overlord.",
+ "genres": [],
+ "score": 8.1,
+ "year": 2022,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:42:09.702Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "overlord iv",
+ "altTitles": [
+  "オーバーロードⅣ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/k43622ayqp/s9deb60bsq/n0lw3c9npq8o1a/master.m3u8",
+   "downloadUrl": "/download/mal/48895/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/48895/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-13T22:05:35.109Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "031c5303d2b448bd"
+}

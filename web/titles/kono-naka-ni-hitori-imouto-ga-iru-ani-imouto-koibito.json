@@ -1,0 +1,50 @@
+{
+ "id": "kono-naka-ni-hitori-imouto-ga-iru-ani-imouto-koibito",
+ "title": "Kono Naka ni Hitori, Imouto ga Iru!: Ani, Imouto, Koibito",
+ "poster": "https://media.kitsu.app/anime/poster_images/7282/large.jpg",
+ "banner": "",
+ "synopsis": "Unaired 13th episode of the TV series.",
+ "genres": [
+  "Comedy",
+  "Romance",
+  "School",
+  "Ecchi",
+  "Harem"
+ ],
+ "score": 6.6,
+ "year": 2013,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T21:43:42.827Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "kono naka ni hitori imouto ga iru ani imouto koibito",
+ "altTitles": [
+  "この中に1人、妹がいる！兄、妹、恋人"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/z79npopi97/sp5g0bs7dt/lau0i5fph72rfm/master.m3u8",
+   "downloadUrl": "/download/mal/15609/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/7282/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/15609/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/z79npopi97/sp5g0bs7dt/lau0i5fph72rfm/subs/27u4xeegou51a6ri.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T21:43:42.827Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "22d379a8464a9f0e"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "haikyu-the-movie-battle-of-concepts",
+ "title": "Haikyu!! The Movie: Battle of Concepts!!",
+ "poster": "https://media.kitsu.app/anime/poster_images/13656/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/13656/large.jpg",
+ "synopsis": "The finals of the Miyagi prelims for the Spring Tournament... After defeating Aoba Johsai, Karasuno head toward their next match to qualify for the Spring Tournament. Their opponent is the undefeated champion Shiratorizawa, led by the high school prodigy, Wakatoshi Ushijima. From the beginning of the match, Karasuno gets beat down by Ushijima’s ferocious spikes. Even though they try to turn the tables, they are also shut down due to Tendo’s precise blocks. Is this a wall they will not be able to get over? The one who holds the key to turning the tables is the master of blocking, Tsukishima. Hinata and Kageyama manage to increase their intensity due to his calm and precise defense. Despite both teams have completely different play concepts, their intensity is the same. Who will be the ones who will laugh after this desperate struggle?\n\n(Source: CR)",
+ "genres": [
+  "Comedy",
+  "Drama",
+  "Sports",
+  "School"
+ ],
+ "score": 8.2,
+ "year": 2017,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:39:20.778Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "haikyu the movie battle of concepts",
+ "altTitles": [
+  "Haikyuu!! Movie 4: Concept no Tatakai",
+  "ハイキュー!! コンセプトの戦い"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/jxqvlyv247/ek6mrv9v2k/64fk2tcc61hs72/master.m3u8",
+   "downloadUrl": "/download/mal/35111/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/13656/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/35111/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/jxqvlyv247/ek6mrv9v2k/64fk2tcc61hs72/subs/y6pjn59rxtvpt5xv.vtt"
+    },
+    {
+     "label": "Spanish (- Espanol)",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/jxqvlyv247/ek6mrv9v2k/64fk2tcc61hs72/subs/zontyr3kpksjshjk.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:05:07.717Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "3049a3d0cfed8afb"
+}

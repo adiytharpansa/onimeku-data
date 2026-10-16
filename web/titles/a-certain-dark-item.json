@@ -1,0 +1,42 @@
+{
+ "id": "a-certain-dark-item",
+ "title": "A Certain Dark Item",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186742-v7yfbefc8fuO.png",
+ "banner": "",
+ "synopsis": "This is a story of four girls living in the \"Dark Side\" of Academy City.\n\n\n\nIn Academy City where \"ESP\" has been recognized as a general science. Behind the peace, there is a Dark Side organization that undertakes missions that cannot be made public.\n\n\n\n\"ITEM\" is an elite unit consisting of four girls. Takitsubo Rikou is able to read and track the AIM fields emitted by those with abilities. Frenda Seivelun, who excels in combat using explosives and traps.\n\n\n\nKinuhata Saiai, who can manipulate nitrogen at will and plays a defensive role. And one of the 7 Espers that Academy City is proud of: Mugino Shizuri. They live freely in the darkness of the Academy City, and quietly set their sights on their target...!\n\n\n\nThis is a story of encounter, friendship, and darkness that eventually leads to a terrible incident!\n\n\n\n(Source: Kadokawa, translated)",
+ "genres": [
+  "Action",
+  "Sci-Fi"
+ ],
+ "score": 6.9,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-14T10:44:35.678Z",
+ "type": "TV",
+ "season": "FALL",
+ "anilistId": 186742,
+ "rawTitle": "a certain dark item",
+ "altTitles": [
+  "Toaru Anbu no ITEM",
+  "とある暗部の少女共棲"
+ ],
+ "studio": "J.C.STAFF",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/71163fc9dd94177cfe28ed434e69c0d2/fcc9d152149f71ba5c40146d967ddd75/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/10/a-certain-dark-item.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/61014/1/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-14T10:44:35.678Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "09a3e53b8111d943"
+}

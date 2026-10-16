@@ -1,0 +1,48 @@
+{
+ "id": "dragon-ball-plan-to-eradicate-the-super-saiyans",
+ "title": "Dragon Ball: Plan to Eradicate the Super Saiyans",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10017-2MwGtAPOPg6P.png",
+ "banner": "",
+ "synopsis": "Remake of Dragon Ball Z: Plan to Destroy the Saiyajin. Extra on Dragonball Raging Blast 2 game on X360/PS3.",
+ "genres": [
+  "Adventure",
+  "Sci-Fi"
+ ],
+ "score": 6,
+ "year": 2010,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:39:55.718Z",
+ "type": "OVA",
+ "season": "FALL",
+ "anilistId": 10017,
+ "rawTitle": "dragon ball plan to eradicate the super saiyans",
+ "altTitles": [
+  "Dragon Ball: Super Saiya-jin Zetsumetsu Keikaku",
+  "ドラゴンボール　超サイヤ人絶滅計画"
+ ],
+ "studio": "Toei Animation",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/mr5uq82bzs/2fqbzxhtxl/5tpxklseq4qy3i/master.m3u8",
+   "downloadUrl": "/download/mal/10017/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx10017-2MwGtAPOPg6P.png",
+   "referer": "https://zokoanime.video/stream/mal/10017/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/mr5uq82bzs/2fqbzxhtxl/5tpxklseq4qy3i/subs/z3jz4u6vrokpsaoz.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T05:49:55.416Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "7ab7b6bb3e4c9f61"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "magical-sisters-lulutto-lilly",
+ "title": "Magical Sisters LuluttoLilly",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178749-2TRwfr1T7jzI.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178749-55kXPhUDKYvQ.jpg",
+ "synopsis": "Fuu and Rui are two sisters who used to be close, but have been a bit distant from each other recently. One day, Fuu encounters a mysterious spaceship and gains magical powers. At that same time, Rui also gains magical powers, and both transform into the adults they dream to be. The sisters' powers come with two conditions: their magic powers can only be used in one year, and no one must know about it. Unaware of each other's secrets, Fuu and Rui become active as idols. \n\n\n\n(Source: Anime News Network, edited)",
+ "genres": [
+  "Mahou Shoujo",
+  "Music"
+ ],
+ "score": 6.7,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T23:46:16.028Z",
+ "type": "TV",
+ "season": "SPRING",
+ "anilistId": 178749,
+ "rawTitle": "magical sisters lulutto lilly",
+ "altTitles": [
+  "Mahou no Shimai LuluttoLilly",
+  "魔法の姉妹ルルットリリィ"
+ ],
+ "studio": "Studio Pierrot",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/3bgkr72oeh/d9sxtf5ddx/pumlewsie3sw16/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/59176/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178749-2TRwfr1T7jzI.jpg",
+   "referer": "https://zokoanime.video/stream/mal/59176/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/3bgkr72oeh/d9sxtf5ddx/pumlewsie3sw16/subs/drug40v373sei9of.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T23:46:16.028Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "1555024ca0a48197"
+}

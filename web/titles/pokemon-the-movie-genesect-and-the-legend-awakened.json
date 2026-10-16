@@ -1,0 +1,45 @@
+{
+ "id": "pokemon-the-movie-genesect-and-the-legend-awakened",
+ "title": "Pokemon the Movie: Genesect and the Legend Awakened",
+ "poster": "https://media.kitsu.app/anime/poster_images/7489/large.jpg",
+ "banner": "https://media.kitsu.app/anime/poster_images/7489/large.jpg",
+ "synopsis": "The 16th Pokemon movie and the 3rd \"Best Wishes!\" movie.",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Comedy",
+  "Fantasy",
+  "Kids"
+ ],
+ "score": 6.3,
+ "year": 2013,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:46:11.273Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "pokemon the movie genesect and the legend awakened",
+ "altTitles": [
+  "Pokemon Best Wishes! Season 2: Shinsoku no Genosect - Mewtwo Kakusei",
+  "劇場版 ポケットモンスター ベストウイッシュ 神速のゲノセクト ミュウツー覚醒"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/nrf52gzmyc/uep7uhbwhk/a0aagwhoidk7rm/master.m3u8",
+   "downloadUrl": "/download/mal/16680/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/7489/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/16680/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-14T00:03:18.140Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "0a80979e3d0aedb8"
+}

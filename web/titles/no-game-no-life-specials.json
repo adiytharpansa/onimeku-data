@@ -1,0 +1,48 @@
+{
+ "id": "no-game-no-life-specials",
+ "title": "No Game No Life Specials",
+ "poster": "https://media.kitsu.app/anime/poster_images/8534/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/8534/large.jpg",
+ "synopsis": "Specials included on the Blu-ray/DVD volumes.",
+ "genres": [
+  "Fantasy",
+  "Ecchi",
+  "Game"
+ ],
+ "score": 6.6,
+ "year": 2014,
+ "status": "FINISHED",
+ "totalEpisodes": 6,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:44:57.727Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "no game no life specials",
+ "altTitles": [
+  "ノーゲーム・ノーライフ ミニ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/p0gc79wqcu/ymao58hifq/appv0tccb0z763/master.m3u8",
+   "downloadUrl": "/download/mal/24991/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/8534/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/24991/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/p0gc79wqcu/ymao58hifq/appv0tccb0z763/subs/i9utwxfn22gz91i9.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:07:35.357Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "7088c15abf132e3d"
+}

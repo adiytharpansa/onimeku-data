@@ -1,0 +1,44 @@
+{
+ "id": "horimiya",
+ "title": "Horimiya",
+ "poster": "https://media.kitsu.app/anime/poster_images/43545/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/43545/large.jpg",
+ "synopsis": "Do opposites attract? At school, Hori is a social butterfly but her life at home is anything but perfect. Left to raise her brother, she’s facing responsibilities that she’s not ready for.\n\nMeanwhile, under a brooding façade, Miyamura hides a gentle heart, along with piercings and tattoos. In a chance meeting, they both reveal a side they’ve never shown. Could this blossom into something new?\n\n(Source: Funimation)",
+ "genres": [],
+ "score": 8.2,
+ "year": 2021,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:09.051Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "horimiya",
+ "altTitles": [
+  "ホリミヤ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/9br5v495r2/urejj76cke/up9pqhkfwv4e4d/master.m3u8",
+   "downloadUrl": "/download/mal/42897/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/43545/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/42897/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/9br5v495r2/urejj76cke/up9pqhkfwv4e4d/subs/0b04ji0lyq8ysipn.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:16:20.522Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "dad3b62a0d31db25"
+}

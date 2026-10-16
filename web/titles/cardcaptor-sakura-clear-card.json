@@ -1,0 +1,62 @@
+{
+ "id": "cardcaptor-sakura-clear-card",
+ "title": "Cardcaptor Sakura: Clear Card",
+ "poster": "https://media.kitsu.app/anime/poster_images/12237/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/12237/large.jpg",
+ "synopsis": "The January issue of Kodansha's Nakayoshi magazine revealed on December 1 that CLAMP's Cardcaptor Sakura Clear Card-hen sequel manga is getting a television anime series adaptation in January 2018.\n\nFourteen-year-old Sakura starts junior high school along her friends, including Syaoran, who had just returned to Tomoeda. After having a dream with a mysterious cloaked figure, all of Sakura's cards turn blank and are rendered powerless, thus she starts her quest to find out what is wrong. In doing so, Sakura and her allies discover and capture new transparent cards using a new key.\n\n(Source: Cardcaptor Sakura Wikia)",
+ "genres": [
+  "Adventure",
+  "Comedy",
+  "Magic",
+  "Fantasy",
+  "Romance",
+  "Mahou Shoujo"
+ ],
+ "score": 7.8,
+ "year": 2018,
+ "status": "FINISHED",
+ "totalEpisodes": 22,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:32.103Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "cardcaptor sakura clear card",
+ "altTitles": [
+  "Cardcaptor Sakura: Clear Card-hen",
+  "カードキャプターさくら クリアカード編"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/bzf0jdyznt/edso3rrp1j/vbtd6bzp1los9d/master.m3u8",
+   "downloadUrl": "/download/mal/33354/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/12237/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/33354/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/bzf0jdyznt/edso3rrp1j/vbtd6bzp1los9d/subs/40jc0qe1l86or4pi.vtt"
+    },
+    {
+     "label": "Portuguese",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/bzf0jdyznt/edso3rrp1j/vbtd6bzp1los9d/subs/kqs8stjmisswpoa4.vtt"
+    },
+    {
+     "label": "Spanish",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/bzf0jdyznt/edso3rrp1j/vbtd6bzp1los9d/subs/rontp66katep2229.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:27:55.796Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "a3dbf27f479d5eed"
+}

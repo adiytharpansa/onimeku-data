@@ -1,0 +1,81 @@
+{
+ "id": "shabake",
+ "title": "Shabake",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184997-CnmvTLC9JQP0.jpg",
+ "banner": "",
+ "synopsis": "Ichitarou, the frail yet sharp-minded master of Nagasakiya, rarely leaves his estate—but he’s far from alone. Gifted with the ability to see spirits, he’s protected by ghostly companions like Hakutaku and Inugami. One night, he slips out and witnesses a brutal murder. Soon after, Edo is plagued by a series of eerie murders. As fear grips the city, Ichitarou and his spirits must uncover the culprit.\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Fantasy",
+  "Mystery"
+ ],
+ "score": 6,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 3,
+ "episodeNumbers": [
+  1,
+  2,
+  3
+ ],
+ "updatedAt": "2026-10-15T13:06:44.149Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": 184997,
+ "rawTitle": "shabake",
+ "altTitles": [
+  "しゃばけ"
+ ],
+ "studio": "Bandai Namco Pictures",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/q2uqxbtq9i/dd81yztpzs/5clsc33cpl5py1/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/60378/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184997-CnmvTLC9JQP0.jpg",
+   "referer": "https://zokoanime.video/stream/mal/60378/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/q2uqxbtq9i/dd81yztpzs/5clsc33cpl5py1/subs/skbwlk4a4ceeulvn.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:19:32.325Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/q2uqxbtq9i/m3egk421nx/9dcddfxj8xzh06/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/60378/2/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184997-CnmvTLC9JQP0.jpg",
+   "referer": "https://zokoanime.video/stream/mal/60378/2/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/q2uqxbtq9i/m3egk421nx/9dcddfxj8xzh06/subs/zsifkksvnclwwo3d.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:19:42.720Z",
+   "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/q2uqxbtq9i/jm9nkj8jl7/8b1yzml6f8k0xs/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/60378/3/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx184997-CnmvTLC9JQP0.jpg",
+   "referer": "https://zokoanime.video/stream/mal/60378/3/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/q2uqxbtq9i/jm9nkj8jl7/8b1yzml6f8k0xs/subs/7hb8r5ly93sv0s9x.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:19:52.952Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "fdeacd072b3b4e05"
+}

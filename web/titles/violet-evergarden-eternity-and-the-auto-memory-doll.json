@@ -1,0 +1,54 @@
+{
+ "id": "violet-evergarden-eternity-and-the-auto-memory-doll",
+ "title": "Violet Evergarden: Eternity and the Auto Memory Doll",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109190-e8mv1qdmpjLW.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/109190-SpM8A4w83FnR.jpg",
+ "synopsis": "Violet Evergarden comes to a private women's academy to tutor Isabella in the ways of being a lady. Heir to the York family, Isabella feels trapped in this new and uncomfortable world. She still grieves for the only person to ever bring her happiness – now lost to her. Violet's lessons do give her a brief respite from the melancholy but with the absence of joy, how long does it take to truly heal?\n\n\n\n(Source: Funimation)",
+ "genres": [
+  "Drama",
+  "Fantasy",
+  "Slice of Life"
+ ],
+ "score": 8.3,
+ "year": 2019,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:00.107Z",
+ "type": "MOVIE",
+ "season": "SUMMER",
+ "anilistId": 109190,
+ "rawTitle": "violet evergarden eternity and the auto memory doll",
+ "altTitles": [
+  "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
+  "ヴァイオレット・エヴァーガーデン 外伝~永遠と自動手記人形~"
+ ],
+ "studio": "Kyoto Animation",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/zcm4c6n4cy/jgfietpn6o/3yjemhg2s56idm/master.m3u8",
+   "downloadUrl": "/download/mal/39741/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx109190-e8mv1qdmpjLW.jpg",
+   "referer": "https://zokoanime.video/stream/mal/39741/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/zcm4c6n4cy/jgfietpn6o/3yjemhg2s56idm/subs/w58lg1h6xgbjdetb.vtt"
+    },
+    {
+     "label": "English 2",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/zcm4c6n4cy/jgfietpn6o/3yjemhg2s56idm/subs/9j57qwbqfc5szgte.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T05:49:58.386Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "1c0e7edbb8f0626d"
+}

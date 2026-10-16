@@ -1,0 +1,49 @@
+{
+ "id": "kikou-kai-galient-ova",
+ "title": "Kikou Kai Galient OVA",
+ "poster": "https://media.kitsu.app/anime/poster_images/6331/large.jpg",
+ "banner": "",
+ "synopsis": "The first two episodes are summaries of the TV series, the third one (Crest of Iron) takes place in an alternate universe.",
+ "genres": [
+  "Action",
+  "Sci-Fi",
+  "Fantasy",
+  "Mecha"
+ ],
+ "score": 6.9,
+ "year": 1986,
+ "status": "FINISHED",
+ "totalEpisodes": 3,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:44:52.959Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "kikou kai galient ova",
+ "altTitles": [
+  "機甲界ガリアン"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/rp2e0ov88w/aue1lrb7ja/dpu93q5gvsur1k/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/6331/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/10751/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/rp2e0ov88w/aue1lrb7ja/dpu93q5gvsur1k/subs/ulnfs7e86iu9luk7.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:10:58.707Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "18482a0a41ffe84e"
+}

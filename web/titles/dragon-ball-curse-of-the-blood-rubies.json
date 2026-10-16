@@ -1,0 +1,49 @@
+{
+ "id": "dragon-ball-curse-of-the-blood-rubies",
+ "title": "Dragon Ball: Curse of the Blood Rubies",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/502-qMhEQOjbNK0w.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/502-xNziMcLtegvj.jpg",
+ "synopsis": "A retelling of Dragon Ball's origins, this is a different version of the meeting of Goku, Bulma, Oolong, and Yamucha. They are all looking for the dragon balls for different reasons when they cross paths with an evil king named Gourmeth, who is also looking for the dragon balls.\n\n\n\n(Source: Anime News Network)",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Comedy"
+ ],
+ "score": 6.3,
+ "year": 1986,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:39:49.119Z",
+ "type": "MOVIE",
+ "season": "FALL",
+ "anilistId": 502,
+ "rawTitle": "dragon ball curse of the blood rubies",
+ "altTitles": [
+  "Dragon Ball: Shen Long no Densetsu",
+  "ドラゴンボール 神龍の伝説"
+ ],
+ "studio": "Toei Animation",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/05wetn1sxc/jj1hlrttxo/dxdhxgjj390c4r/master.m3u8",
+   "downloadUrl": "/download/mal/502/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/502-qMhEQOjbNK0w.jpg",
+   "referer": "https://zokoanime.video/stream/mal/502/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/05wetn1sxc/jj1hlrttxo/dxdhxgjj390c4r/subs/poresoapeqkwtckd.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T15:31:22.064Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "b4b3ba5c74f1ddc1"
+}

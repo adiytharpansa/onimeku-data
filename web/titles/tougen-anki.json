@@ -1,0 +1,83 @@
+{
+ "id": "tougen-anki",
+ "title": "TOUGEN ANKI",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177474-oHil1yLWldfl.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/177474-ZIPsMWa6RO0i.jpg",
+ "synopsis": "The bloodlines of “Oni” and “Momotarou” have been passed down among certain humans for generations.\n\n\n\nLong ago, the Oni, aware of their own ferocity, lived in seclusion. However, their peace was shattered by an invasion led by Momotarou.\nOver thousands of years, these two factions formed the “Momotarou Agency” and the “Oni Agency,” respectively, and have been locked in conflict ever since.\n\n\n\nThe protagonist, Shiki Ichinose, suddenly learns of his Oni lineage following an unexpected attack by Momotarou. This revelation sets Shiki on a path to discover the destiny that lies within his blood — a meeting with the Oni dwelling within him.\n\n\n\n—A new generation of dark heroics begins here in this tale of demons!\n\n\n\n\n(Source: Official Site)",
+ "genres": [
+  "Action",
+  "Mystery",
+  "Supernatural"
+ ],
+ "score": 6.8,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 24,
+ "latestEpisode": 3,
+ "episodeNumbers": [
+  1,
+  2,
+  3
+ ],
+ "updatedAt": "2026-10-15T13:07:56.062Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": 177474,
+ "rawTitle": "tougen anki",
+ "altTitles": [
+  "Tougen Anki",
+  "桃源暗鬼"
+ ],
+ "studio": "Studio Hibari",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/zhir4t0pps/a2u3r5uy9k/1j26k5w6dfacqe/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/58811/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177474-oHil1yLWldfl.jpg",
+   "referer": "https://zokoanime.video/stream/mal/58811/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/zhir4t0pps/a2u3r5uy9k/1j26k5w6dfacqe/subs/i6d8rfpbgo1ufskl.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:19:01.443Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/zhir4t0pps/uvr48eqxsg/qxv6bvcdzsp398/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/58811/2/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177474-oHil1yLWldfl.jpg",
+   "referer": "https://zokoanime.video/stream/mal/58811/2/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/zhir4t0pps/uvr48eqxsg/qxv6bvcdzsp398/subs/caffjfhbsl8r5pe5.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:19:11.826Z",
+   "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/zhir4t0pps/pujf8icb70/kobckraka6mtbk/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/58811/3/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx177474-oHil1yLWldfl.jpg",
+   "referer": "https://zokoanime.video/stream/mal/58811/3/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/zhir4t0pps/pujf8icb70/kobckraka6mtbk/subs/hy273ngtebn17037.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:19:22.000Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "d38cb44fcb209c60"
+}

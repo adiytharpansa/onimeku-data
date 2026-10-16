@@ -1,0 +1,45 @@
+{
+ "id": "gals-cant-be-kind-to-otaku",
+ "title": "Gals Can’t Be Kind to Otaku!?",
+ "poster": "https://media.kitsu.app/anime/50216/poster_image/large-f8ac1cab04b8bb24b48cdf5ea2c85834.jpeg",
+ "banner": "",
+ "synopsis": "Takuya Seo is a quiet otaku who keeps a low profile at school—until two gals from his class start talking to him. The cool but scatterbrained Kei Amane and the cheerful, energetic Kotoko Ijichi couldn’t be more different, but the three soon bond over anime, games, and shared fandom. But one question remains: do nice gals who hang out with otaku really exist?!\n\n(Source: Crunchyroll)",
+ "genres": [],
+ "score": 7.6,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:39:00.645Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "gals cant be kind to otaku",
+ "altTitles": [
+  "Otaku ni Yasashii Gal wa Inai!?",
+  "オタクに優しいギャルはいない!?"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/gcfcptdwb0/1ar04tvupu/gtjds85bcjitl8/master.m3u8",
+   "downloadUrl": "/download/mal/62604/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/50216/poster_image/large-f8ac1cab04b8bb24b48cdf5ea2c85834.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/62604/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/gcfcptdwb0/1ar04tvupu/gtjds85bcjitl8/subs/m4vsoyl7kjwejclh.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:18:33.128Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "a8a23f92d1a91ae3"
+}

@@ -1,0 +1,53 @@
+{
+ "id": "one-piece-episode-of-nami-tears-of-a-navigator-and-the-bonds-of-friends",
+ "title": "One Piece: Episode of Nami - Tears of a Navigator and the Bonds of Friends",
+ "poster": "https://media.kitsu.app/anime/poster_images/7240/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/7240/large.jpg",
+ "synopsis": "A retelling of the Arlong Park arc, with new animation.",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Comedy",
+  "Drama",
+  "Fantasy",
+  "Super Power",
+  "Friendship"
+ ],
+ "score": 8.2,
+ "year": 2012,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T21:55:49.200Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "one piece episode of nami tears of a navigator and the bonds of friends",
+ "altTitles": [
+  "One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna",
+  "ワンピースエピソード・オブ・ナミ～航海士の涙と仲間の絆～"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/jdnxdkdtm3/whyanb8dtc/28h7k6oscwt71j/master.m3u8",
+   "downloadUrl": "/download/mal/15323/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/7240/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/15323/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/jdnxdkdtm3/whyanb8dtc/28h7k6oscwt71j/subs/ocejr272f5bbbho8.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T21:55:49.200Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "44dbce4fca785e82"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "a-certain-magical-index-specials",
+ "title": "A Certain Magical Index: Specials",
+ "poster": "https://media.kitsu.app/anime/poster_images/4360/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/4360/large.jpg",
+ "synopsis": "A series of shorts featuring Index-tan.",
+ "genres": [
+  "Comedy",
+  "Parody"
+ ],
+ "score": 6.8,
+ "year": 2009,
+ "status": "FINISHED",
+ "totalEpisodes": 2,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:36.434Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "a certain magical index specials",
+ "altTitles": [
+  "Toaru Majutsu no Index-tan",
+  "とある魔術のいんでっくすたん"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/46bfwnuhx1/fot2ii5354/j2s4y22uhnmnrx/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/5955/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/4360/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/5955/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/46bfwnuhx1/fot2ii5354/j2s4y22uhnmnrx/subs/eghiy0s9oflwfqxt.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T15:38:36.434Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "94462123338b3980"
+}

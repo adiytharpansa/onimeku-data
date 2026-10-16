@@ -1,0 +1,36 @@
+{
+ "id": "perfect-world",
+ "title": "Perfect World",
+ "poster": "https://media.kitsu.app/anime/poster_images/44400/large.jpg",
+ "banner": "",
+ "synopsis": "Born into a unique world where villages fight to gain power and control, the main character, Shi Hao, is a genius blessed by the heavens born under the poorest of conditions.\n\nHis clan, however, has a mysterious past. To rise up and become the genius he is meant to be, the clan goes through every effort to aid his cultivation as they battle through fanatical monsters and engage in power struggles with other clans.\n\nHis journey will bring him through unknown lands until he is able to become a person that can truly shake the world.\n\n(Source: Novels Xianxia&amp;Xuanhuan Wiki)",
+ "genres": [],
+ "score": 7.8,
+ "year": 2021,
+ "status": "FINISHED",
+ "totalEpisodes": 26,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:42:19.385Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "perfect world",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/23fb42c7ddc1017599541a953efb68bb/cf37fe48b101ce7a6004726ea5588418/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758977387-9314-1724081864-1187-137928.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/125465/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-14T03:51:06.157Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "45cac8ce37d5142a"
+}

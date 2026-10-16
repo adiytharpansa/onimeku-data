@@ -1,0 +1,75 @@
+{
+ "id": "the-apothecary-diaries",
+ "title": "The Apothecary Diaries",
+ "poster": "https://media.kitsu.app/anime/47083/poster_image/large-74f34116934722c262866e8956e36b90.jpeg",
+ "banner": "https://media.kitsu.app/anime/47083/cover_image/large-ac417aa57ca0bdbd466c4f721fa1e8a1.jpeg",
+ "synopsis": "Maomao lived a peaceful life with her apothecary father. Until one day, she’s sold as a lowly servant to the emperor’s palace. But she wasn’t meant for a compliant life among royalty. So when imperial heirs fall ill, she decides to step in and find a cure! This catches the eye of Jinshi, a handsome palace official who promotes her. Now, she’s making a name for herself solving medical mysteries!\n\n(Source: Crunchyroll)",
+ "genres": [],
+ "score": 8.7,
+ "year": 2023,
+ "status": "FINISHED",
+ "totalEpisodes": 24,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:44:21.973Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "the apothecary diaries",
+ "altTitles": [
+  "Kusuriya no Hitorigoto",
+  "薬屋のひとりごと"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/v35slycw4f/k0zx814d9s/furmsoyv5gj4b6/master.m3u8",
+   "downloadUrl": "/download/mal/54492/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/47083/poster_image/large-74f34116934722c262866e8956e36b90.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/54492/1/sub",
+   "subtitles": [
+    {
+     "label": "French",
+     "lang": "fr",
+     "url": "https://hls.dramahot.top/v/scxqicy/v35slycw4f/k0zx814d9s/furmsoyv5gj4b6/subs/ulx7mj0atxjcwx1l.vtt"
+    },
+    {
+     "label": "German",
+     "lang": "de",
+     "url": "https://hls.dramahot.top/v/scxqicy/v35slycw4f/k0zx814d9s/furmsoyv5gj4b6/subs/gbp2txovmfppr7lw.vtt"
+    },
+    {
+     "label": "Italian",
+     "lang": "it",
+     "url": "https://hls.dramahot.top/v/scxqicy/v35slycw4f/k0zx814d9s/furmsoyv5gj4b6/subs/b857oul3b8gbldk4.vtt"
+    },
+    {
+     "label": "Portuguese (- Portuguese(Brazil))",
+     "lang": "pt",
+     "url": "https://hls.dramahot.top/v/scxqicy/v35slycw4f/k0zx814d9s/furmsoyv5gj4b6/subs/3kttj57qwm5edqyt.vtt"
+    },
+    {
+     "label": "Russian",
+     "lang": "ru",
+     "url": "https://hls.dramahot.top/v/scxqicy/v35slycw4f/k0zx814d9s/furmsoyv5gj4b6/subs/8w4wzwjbslhosvra.vtt"
+    },
+    {
+     "label": "Spanish",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/v35slycw4f/k0zx814d9s/furmsoyv5gj4b6/subs/dcot1e0rew0c8jey.vtt"
+    },
+    {
+     "label": "Spanish (- Spanish(Latin America))",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/v35slycw4f/k0zx814d9s/furmsoyv5gj4b6/subs/yz1l5lq0wnnewmla.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:40:50.120Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "740b20de6a1f8102"
+}

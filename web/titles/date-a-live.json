@@ -1,0 +1,51 @@
+{
+ "id": "date-a-live",
+ "title": "Date A Live",
+ "poster": "https://media.kitsu.app/anime/poster_images/7278/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/7278/large.jpg",
+ "synopsis": "\"Before the world ends, kill me or kiss me.\"\nThirty years before the events of Date A Live, an enormous explosion devastates east Asia and kills 150 million people. This is the first known \"Spacequake\", an inexplicable natural disaster that has since become commonplace. Fast forward to the future. High school second year Shidou Itsuka lives alone with his cute little sister while their parents are away.\nWhat do these things have to do with each other? While rushing to save his sister from a sudden Spacequake, Shidou is caught in the blast and, in the midst of the chaos, finds a mysterious girl. It turns out that this girl is actually a Spirit, a powerful being from another world whose arrival devastates the surrounding area. Thankfully, Shidou is rescued by an anti-Spirit strike team... led by his little sister?!\nThis vicious task force is locked and loaded, ready to exterminate Spirits with extreme prejudice. But this violent method is not for Shidou. He discovers the one way to neutralize these Spirits peacefully: make them fall in love. Now, it's up to Shidou to save the world by dating those who threaten to destroy it!",
+ "genres": [
+  "Comedy",
+  "Sci-Fi",
+  "Romance",
+  "School",
+  "Mecha",
+  "Harem"
+ ],
+ "score": 7.2,
+ "year": 2013,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-16T09:32:57.405Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "date a live",
+ "altTitles": [
+  "デート・ア・ライブ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/3acb3qwwbs/895ez0bgzr/dpd1j0tg2ekpel/master.m3u8",
+   "downloadUrl": "/download/mal/15583/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/7278/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/15583/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/3acb3qwwbs/895ez0bgzr/dpd1j0tg2ekpel/subs/b4csdreg7756n2wc.vtt"
+    }
+   ],
+   "addedAt": "2026-10-16T09:32:57.405Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "557bb4649ce12af0"
+}

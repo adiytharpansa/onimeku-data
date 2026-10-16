@@ -1,0 +1,44 @@
+{
+ "id": "date-a-live-iv",
+ "title": "Date A Live IV",
+ "poster": "https://media.kitsu.app/anime/43065/poster_image/large-7b10510948909a44b7d5291459598651.jpeg",
+ "banner": "https://media.kitsu.app/anime/43065/cover_image/large-bef021ac380c18378574096bd90e20a2.jpeg",
+ "synopsis": "The fourth season of Date A Live.",
+ "genres": [],
+ "score": 7.7,
+ "year": 2022,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T21:35:15.492Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "date a live iv",
+ "altTitles": [
+  "デート・ア・ライブ IV"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/qsgqajw7k9/qafr57pdpt/vnj4onci2qxcyv/master.m3u8",
+   "downloadUrl": "/download/mal/41461/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/43065/poster_image/large-7b10510948909a44b7d5291459598651.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/41461/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/qsgqajw7k9/qafr57pdpt/vnj4onci2qxcyv/subs/j4gmjq5fb9bl0692.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T21:35:15.492Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "8564bd23761c8be5"
+}

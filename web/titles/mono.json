@@ -1,0 +1,43 @@
+{
+ "id": "mono",
+ "title": "mono",
+ "poster": "https://media.kitsu.app/anime/poster_images/6974/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/6974/large.jpg",
+ "synopsis": "Episode 11.5, an OVA bundled with the third volume of the manga. Oreki Houtarou gets a job at a swimming pool.",
+ "genres": [
+  "Mystery",
+  "Slice of Life",
+  "School"
+ ],
+ "score": 7.3,
+ "year": 2012,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:46:20.904Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "mono",
+ "altTitles": [
+  "Hyouka: Motsubeki Mono wa",
+  "氷菓 持つべきものは"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/ywy2dijkb4/hsl6vg5skn/5hx8llh81m8f0w/master.m3u8",
+   "downloadUrl": "/download/mal/58492/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/6974/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/58492/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-13T22:19:25.574Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "f106b056228b272f"
+}

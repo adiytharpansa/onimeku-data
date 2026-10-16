@@ -1,0 +1,39 @@
+{
+ "id": "skeleton-knight-in-another-world-season-2",
+ "title": "Skeleton Knight in Another World Season 2",
+ "poster": "https://media.kitsu.app/anime/49410/poster_image/large-ea9b44af85904c999e56a7a5fbb92da1.jpeg",
+ "banner": "https://media.kitsu.app/anime/49410/poster_image/large-ea9b44af85904c999e56a7a5fbb92da1.jpeg",
+ "synopsis": "The second season of Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu.",
+ "genres": [],
+ "score": 6.8,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:46:12.671Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "skeleton knight in another world season 2",
+ "altTitles": [
+  "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu 2nd Season",
+  "骸骨騎士様、只今異世界へお出掛け中 第2期"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/jotf4t38yg/53wc3vwxai/l8plpzzxgzx4rp/master.m3u8",
+   "downloadUrl": "/download/mal/60522/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/49410/poster_image/large-ea9b44af85904c999e56a7a5fbb92da1.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/60522/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-14T00:02:54.358Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "acb8ba65ce58616c"
+}

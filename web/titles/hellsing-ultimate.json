@@ -1,0 +1,110 @@
+{
+ "id": "hellsing-ultimate",
+ "title": "Hellsing Ultimate",
+ "poster": "https://media.kitsu.app/anime/poster_images/695/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/695/large.jpg",
+ "synopsis": "There exist creatures of darkness and evil that plague the night, devouring any human unfortunate enough to be caught in their grasp. On the other side is Hellsing, an organization dedicated to destroying these supernatural forces that threaten the very existence of humanity. At its head is Integra Fairbrook Wingates Hellsing, who commands a powerful military and spends her life fighting the undead.\nIntegra's vast army, however, pales in comparison with her ultimate weapon: the vampire Alucard, who works against his own kind as an exterminator for Hellsing. With his new vampire servant, Seras Victoria, at his side, Alucard must battle not only monsters, but all those who stand to oppose Hellsing, be they in the guise of good or evil.\nIn a battle for mankind's survival, Hellsing Ultimate proves that appearances are not all they may seem, and sometimes the greatest weapon can come in the form of one's worst nightmare.\n[Written by MAL Rewrite]",
+ "genres": [
+  "Action",
+  "Supernatural",
+  "Horror",
+  "Vampire",
+  "Military"
+ ],
+ "score": 8.2,
+ "year": 2006,
+ "status": "FINISHED",
+ "totalEpisodes": 10,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T21:23:49.752Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "hellsing ultimate",
+ "altTitles": [
+  "HELLSING OVA"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/xboop8c0iz/foeqvywqpd/vdu3v7i6fksfrn/master.m3u8",
+   "downloadUrl": "/download/mal/777/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/695/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/777/1/sub",
+   "subtitles": [
+    {
+     "label": "Greek",
+     "lang": "el",
+     "url": "https://hls.dramahot.top/v/scxqicy/xboop8c0iz/foeqvywqpd/vdu3v7i6fksfrn/subs/vbltxo2irw47zpd4.vtt"
+    },
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/xboop8c0iz/foeqvywqpd/vdu3v7i6fksfrn/subs/9sm1jjl8u8r76oy2.vtt"
+    },
+    {
+     "label": "Hebrew",
+     "lang": "he",
+     "url": "https://hls.dramahot.top/v/scxqicy/xboop8c0iz/foeqvywqpd/vdu3v7i6fksfrn/subs/im5oay30uwueufkz.vtt"
+    },
+    {
+     "label": "Arabic",
+     "lang": "ar",
+     "url": "https://hls.dramahot.top/v/scxqicy/xboop8c0iz/foeqvywqpd/vdu3v7i6fksfrn/subs/qxh6icx2oxmaaeia.vtt"
+    },
+    {
+     "label": "Chinese 2",
+     "lang": "zh",
+     "url": "https://hls.dramahot.top/v/scxqicy/xboop8c0iz/foeqvywqpd/vdu3v7i6fksfrn/subs/e0ki3tov7wdo1a0c.vtt"
+    },
+    {
+     "label": "Chinese",
+     "lang": "zh",
+     "url": "https://hls.dramahot.top/v/scxqicy/xboop8c0iz/foeqvywqpd/vdu3v7i6fksfrn/subs/skpfylv60r3jxs2d.vtt"
+    },
+    {
+     "label": "Indonesian",
+     "lang": "id",
+     "url": "https://hls.dramahot.top/v/scxqicy/xboop8c0iz/foeqvywqpd/vdu3v7i6fksfrn/subs/iieqnewfrm64qf6n.vtt"
+    },
+    {
+     "label": "Spanish",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/xboop8c0iz/foeqvywqpd/vdu3v7i6fksfrn/subs/87bofnfz8dgfqtv1.vtt"
+    },
+    {
+     "label": "Turkish",
+     "lang": "tr",
+     "url": "https://hls.dramahot.top/v/scxqicy/xboop8c0iz/foeqvywqpd/vdu3v7i6fksfrn/subs/nl44nxmcha5mtbf7.vtt"
+    },
+    {
+     "label": "Italian",
+     "lang": "it",
+     "url": "https://hls.dramahot.top/v/scxqicy/xboop8c0iz/foeqvywqpd/vdu3v7i6fksfrn/subs/x0vj6l5otksiyf82.vtt"
+    },
+    {
+     "label": "Portuguese",
+     "lang": "pt",
+     "url": "https://hls.dramahot.top/v/scxqicy/xboop8c0iz/foeqvywqpd/vdu3v7i6fksfrn/subs/3311bsouvjssejek.vtt"
+    },
+    {
+     "label": "Thai",
+     "lang": "th",
+     "url": "https://hls.dramahot.top/v/scxqicy/xboop8c0iz/foeqvywqpd/vdu3v7i6fksfrn/subs/hm0oljd3u6nodeq6.vtt"
+    },
+    {
+     "label": "Vietnamese",
+     "lang": "vi",
+     "url": "https://hls.dramahot.top/v/scxqicy/xboop8c0iz/foeqvywqpd/vdu3v7i6fksfrn/subs/01gr4z368z39o51d.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T21:23:49.752Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "d7780a79465ac29f"
+}

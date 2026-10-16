@@ -1,0 +1,50 @@
+{
+ "id": "dragon-raja-season-2",
+ "title": "Dragon Raja II -The Mourner's Eyes-",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157692-lihmnuJGcbM6.png",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/157692-bnduywLJZIxk.jpg",
+ "synopsis": "The second season of Long Zu.",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Drama",
+  "Fantasy"
+ ],
+ "score": 7.5,
+ "year": null,
+ "status": "FINISHED",
+ "totalEpisodes": 24,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T20:31:37.620Z",
+ "type": "ONA",
+ "season": null,
+ "anilistId": 157692,
+ "rawTitle": "dragon raja season 2",
+ "altTitles": [
+  "Long Zu 2",
+  "龙族 第二季"
+ ],
+ "studio": "GARDEN",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/8nx7hlstfb/0bf6ldcwpk/m3559m6bjmgq64/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/59662/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx157692-lihmnuJGcbM6.png",
+   "referer": "https://zokoanime.video/stream/mal/59662/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/8nx7hlstfb/0bf6ldcwpk/m3559m6bjmgq64/subs/fykz6eg7b5187fyc.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T20:31:37.620Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "2599954c56bbd3db"
+}

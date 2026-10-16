@@ -1,0 +1,115 @@
+{
+ "id": "iron-wok-jan",
+ "title": "Iron Wok Jan",
+ "poster": "https://media.kitsu.app/anime/50801/poster_image/large-9222867a9c111d22354f97fccf3c1645.jpeg",
+ "banner": "",
+ "synopsis": "Jan Akiyama, a cocky arrogant teenager wants to fulfill his grandfathers wish of defeating his arch nemesis Mutsuju Gobancho. When he arrives at the Gobancho restaurant he meets his granddaughter Kiriko Gobancho. Their rivalry is easily compared to Jan's and Kiriko's grandfathers, for Jan believes cooking is about competition and Kiriko believes cooking is about heart.",
+ "genres": [],
+ "score": 7.7,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:19.344Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "iron wok jan",
+ "altTitles": [
+  "Tetsunabe no Jan!",
+  "鉄鍋のジャン！"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/hl352c39wi/6alretk9ca/znlsz22fy6ecvp/master.m3u8",
+   "downloadUrl": "/download/mal/63100/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/50801/poster_image/large-9222867a9c111d22354f97fccf3c1645.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/63100/1/sub",
+   "subtitles": [
+    {
+     "label": "eng",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hl352c39wi/6alretk9ca/znlsz22fy6ecvp/subs/atxfvvab5f13omzl.vtt"
+    },
+    {
+     "label": "Saudi Arabia ara",
+     "lang": "ar",
+     "url": "https://hls.dramahot.top/v/scxqicy/hl352c39wi/6alretk9ca/znlsz22fy6ecvp/subs/bm5hty2j4kesmx99.vtt"
+    },
+    {
+     "label": "ger",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hl352c39wi/6alretk9ca/znlsz22fy6ecvp/subs/9q4wwb9eezqs8rjf.vtt"
+    },
+    {
+     "label": "Latin American spa",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hl352c39wi/6alretk9ca/znlsz22fy6ecvp/subs/o8lf5k1m2d2kk7sv.vtt"
+    },
+    {
+     "label": "European spa",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hl352c39wi/6alretk9ca/znlsz22fy6ecvp/subs/d7qei53pldqcubph.vtt"
+    },
+    {
+     "label": "European fre",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hl352c39wi/6alretk9ca/znlsz22fy6ecvp/subs/m9zavqoozcsu7o04.vtt"
+    },
+    {
+     "label": "ind",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hl352c39wi/6alretk9ca/znlsz22fy6ecvp/subs/pbmybtt20tj85od9.vtt"
+    },
+    {
+     "label": "ita",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hl352c39wi/6alretk9ca/znlsz22fy6ecvp/subs/3n3bbsiyn8bk80k4.vtt"
+    },
+    {
+     "label": "may",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hl352c39wi/6alretk9ca/znlsz22fy6ecvp/subs/rksqccrzyatmblyu.vtt"
+    },
+    {
+     "label": "Brazilian por",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hl352c39wi/6alretk9ca/znlsz22fy6ecvp/subs/88yzmf130iu04vsw.vtt"
+    },
+    {
+     "label": "rus",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hl352c39wi/6alretk9ca/znlsz22fy6ecvp/subs/x8357prte3cg4ox4.vtt"
+    },
+    {
+     "label": "tha",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hl352c39wi/6alretk9ca/znlsz22fy6ecvp/subs/0ofh0moijqj6hyj5.vtt"
+    },
+    {
+     "label": "vie",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hl352c39wi/6alretk9ca/znlsz22fy6ecvp/subs/cmtxxve05ienebc6.vtt"
+    },
+    {
+     "label": "Simplified chi",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hl352c39wi/6alretk9ca/znlsz22fy6ecvp/subs/dfg1ga1g6fp8e0h0.vtt"
+    },
+    {
+     "label": "Traditional chi",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hl352c39wi/6alretk9ca/znlsz22fy6ecvp/subs/zriu6s4846spyohd.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:31:03.786Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "ff84347c5a3832df"
+}

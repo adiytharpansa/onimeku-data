@@ -1,0 +1,61 @@
+{
+ "id": "skeleton-knight-in-another-world-ii",
+ "title": "Skeleton Knight in Another World",
+ "poster": "https://media.kitsu.app/anime/44423/poster_image/large-e7360f7c716f776a3734f170facf6552.jpeg",
+ "banner": "",
+ "synopsis": "One day, a gamer played video games until he fell asleep...and when he woke up, he found himself in the game world—as a skeleton! Equipped with the powerful weapons and armor of his avatar but stuck with its frightening skeletal appearance, Arc has to find a place for himself in this new, fantastical land. All his hopes for a quiet life are dashed when he crosses paths with a beautiful elven warrior, setting him on a journey full of conflict and adventure.\n\n(Source: Seven Seas Entertainment)",
+ "genres": [],
+ "score": 7.3,
+ "year": 2022,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 8,
+ "episodeNumbers": [
+  1,
+  3,
+  8
+ ],
+ "updatedAt": "2026-10-15T22:31:13.997Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "skeleton knight in another world ii",
+ "altTitles": [
+  "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",
+  "骸骨騎士様、只今異世界へお出掛け中"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/6c5d124eddd0219b81c8ac758464e25b/dc64a610fa8a7428d3781c17b83dd466/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/07/skeleton-knight-in-another-world-ii.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/60522/1/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-14T02:55:15.920Z",
+   "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/6c5d124eddd0219b81c8ac758464e25b/5d396ecbc7c0d1b83fb3f12fc9765cef/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/07/skeleton-knight-in-another-world-ii.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/60522/3/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T22:31:02.746Z",
+   "customSubs": []
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/6c5d124eddd0219b81c8ac758464e25b/40bd1f3959125d2214c565c1e9df6d41/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/07/skeleton-knight-in-another-world-ii.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/60522/8/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T22:31:13.997Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "f2c5e4e9759b9d94"
+}

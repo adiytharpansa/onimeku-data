@@ -1,0 +1,50 @@
+{
+ "id": "dragon-ball-the-path-to-power",
+ "title": "Dragon Ball: The Path to Power",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b893-bzc4Y5KYngZJ.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/893-VvdQWCOh5Ipz.jpg",
+ "synopsis": "A retelling of Dragon Ball's origin with a different take on the meeting of Goku, Bulma, and Kame-Sen'nin. It also retells the Red Ribbon Army story; but this time they find Goku rather than Goku finding them.\n\n\n\n(Source: Anime News Network)",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Comedy",
+  "Sci-Fi"
+ ],
+ "score": 6.8,
+ "year": 1996,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:39:52.478Z",
+ "type": "MOVIE",
+ "season": "SPRING",
+ "anilistId": 893,
+ "rawTitle": "dragon ball the path to power",
+ "altTitles": [
+  "Dragon Ball: Saikyou e no Michi",
+  "ドラゴンボール 最強への道"
+ ],
+ "studio": "Toei Animation",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/hooewiiv16/fsxd0eb51c/xgcfnzchjuydo7/master.m3u8",
+   "downloadUrl": "/download/mal/893/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b893-bzc4Y5KYngZJ.jpg",
+   "referer": "https://zokoanime.video/stream/mal/893/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/hooewiiv16/fsxd0eb51c/xgcfnzchjuydo7/subs/fqrqg5l0v0ozzcno.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T05:50:00.746Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "29b8269197c6877e"
+}

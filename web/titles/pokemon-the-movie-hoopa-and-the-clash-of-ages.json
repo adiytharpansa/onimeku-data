@@ -1,0 +1,64 @@
+{
+ "id": "pokemon-the-movie-hoopa-and-the-clash-of-ages",
+ "title": "Pokemon the Movie: Hoopa and the Clash of Ages",
+ "poster": "https://media.kitsu.app/anime/poster_images/8903/large.jpg",
+ "banner": "",
+ "synopsis": "One hundred years ago, Dahara City was beset by a terrible calamity brought on by a great power. The city was saved when a mysterious man sealed that power in the Prison Bottle, and became peaceful.\nIn the present, Ash and his friends arrive in Dahara City, where they meet the mischievous Pokémon Hoopa as well as its human companion Mary. However, when Mary's elder brother Barza discovers the Prison Bottle in the desert and multiple Legendary Pokémon appear in the city, the battle of a century ago restarts, triggering a cataclysm that forces the appearance of even more Legendary Pokémon, drawing Arceus into the fray.\n(Source: Bulbapedia)",
+ "genres": [
+  "Adventure",
+  "Fantasy",
+  "Kids"
+ ],
+ "score": 6.5,
+ "year": 2015,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:45.656Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "pokemon the movie hoopa and the clash of ages",
+ "altTitles": [
+  "Pokemon the Movie XY: Ring no Choumajin Hoopa",
+  "ポケモン・ザ・ムービーXY『光輪（リング）の超魔神 フーパ』"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/6xa8amqub7/ipv2o2rap5/petl950h6yvcc2/master.m3u8",
+   "downloadUrl": "/download/mal/25805/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/8903/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/25805/1/sub",
+   "subtitles": [
+    {
+     "label": "Italian",
+     "lang": "it",
+     "url": "https://hls.dramahot.top/v/scxqicy/6xa8amqub7/ipv2o2rap5/petl950h6yvcc2/subs/9vgppnnxj7w8zitd.vtt"
+    },
+    {
+     "label": "Portuguese (Portuguese - (Brazil))",
+     "lang": "pt",
+     "url": "https://hls.dramahot.top/v/scxqicy/6xa8amqub7/ipv2o2rap5/petl950h6yvcc2/subs/sk7wbcz270sw2mlh.vtt"
+    },
+    {
+     "label": "Spanish",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/6xa8amqub7/ipv2o2rap5/petl950h6yvcc2/subs/p7o0spguwt6lmb58.vtt"
+    },
+    {
+     "label": "Spanish (- Castilian)",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/6xa8amqub7/ipv2o2rap5/petl950h6yvcc2/subs/8lfoj2sixf1hrqbw.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:22:04.621Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "d2664fa28dca9514"
+}

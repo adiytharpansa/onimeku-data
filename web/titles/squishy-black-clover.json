@@ -1,0 +1,80 @@
+{
+ "id": "squishy-black-clover",
+ "title": "Squishy! Black Clover",
+ "poster": "https://media.kitsu.app/anime/poster_images/42426/large.jpg",
+ "banner": "",
+ "synopsis": "",
+ "genres": [],
+ "score": 6.5,
+ "year": 2019,
+ "status": "FINISHED",
+ "totalEpisodes": 8,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:04.562Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "squishy black clover",
+ "altTitles": [
+  "Mugyutto! Black Clover",
+  "むぎゅっと！ブラッククローバー"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/m90f0ann3h/5c9m87f387/5ss9hbkclbdzrs/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/42426/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/40031/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/m90f0ann3h/5c9m87f387/5ss9hbkclbdzrs/subs/jfuzs6anqb5hljko.vtt"
+    },
+    {
+     "label": "French (- Francais France)",
+     "lang": "fr",
+     "url": "https://hls.dramahot.top/v/scxqicy/m90f0ann3h/5c9m87f387/5ss9hbkclbdzrs/subs/5cf77iukd2sokose.vtt"
+    },
+    {
+     "label": "German (- Deutsch)",
+     "lang": "de",
+     "url": "https://hls.dramahot.top/v/scxqicy/m90f0ann3h/5c9m87f387/5ss9hbkclbdzrs/subs/f42sn71xyaoi3tn6.vtt"
+    },
+    {
+     "label": "Italian (- Italiano)",
+     "lang": "it",
+     "url": "https://hls.dramahot.top/v/scxqicy/m90f0ann3h/5c9m87f387/5ss9hbkclbdzrs/subs/fruy6nuh6i2r58na.vtt"
+    },
+    {
+     "label": "Portuguese (- Portugues Brasil)",
+     "lang": "pt",
+     "url": "https://hls.dramahot.top/v/scxqicy/m90f0ann3h/5c9m87f387/5ss9hbkclbdzrs/subs/jqwjzrtncf67fu20.vtt"
+    },
+    {
+     "label": "Russian",
+     "lang": "ru",
+     "url": "https://hls.dramahot.top/v/scxqicy/m90f0ann3h/5c9m87f387/5ss9hbkclbdzrs/subs/lezg5o65oqcwq0y5.vtt"
+    },
+    {
+     "label": "Spanish (- Espanol)",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/m90f0ann3h/5c9m87f387/5ss9hbkclbdzrs/subs/6ijjslh0fw06jt2x.vtt"
+    },
+    {
+     "label": "Spanish (- Espanol Espana)",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/m90f0ann3h/5c9m87f387/5ss9hbkclbdzrs/subs/b04dlrdgctrx8izm.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:14:57.161Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "93b9549e48135248"
+}

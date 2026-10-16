@@ -1,0 +1,38 @@
+{
+ "id": "kaijuu-sekai-seifuku-tv",
+ "title": "kaijuu sekai seifuku tv",
+ "poster": "https://media.kitsu.app/anime/49843/poster_image/large-805a2f6fe1d62a8f6221dd07c7bce005.jpeg",
+ "banner": "https://media.kitsu.app/anime/49843/poster_image/large-805a2f6fe1d62a8f6221dd07c7bce005.jpeg",
+ "synopsis": "Following the chaotic and heartwarming daily lives of Kaijuu who have come to Earth to conquer the world and live with their human masters.",
+ "genres": [],
+ "score": null,
+ "year": 2025,
+ "status": "RELEASING",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:46:27.691Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "kaijuu sekai seifuku tv",
+ "altTitles": [
+  "かいじゅうせかいせいふく"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/gl3na5jb35/who97deaol/9jqnckdotfrslp/master.m3u8",
+   "downloadUrl": "/download/mal/60070/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/49843/poster_image/large-805a2f6fe1d62a8f6221dd07c7bce005.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/60070/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-13T22:18:28.660Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "ce6cde0780a269a1"
+}

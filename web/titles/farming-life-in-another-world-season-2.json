@@ -1,0 +1,45 @@
+{
+ "id": "farming-life-in-another-world-season-2",
+ "title": "Farming Life in Another World Season 2",
+ "poster": "https://media.kitsu.app/anime/50117/poster_image/large-913e18f6762a9c98fab90d8407a18033.jpeg",
+ "banner": "",
+ "synopsis": "The second season of Isekai Nonbiri Nouka.",
+ "genres": [],
+ "score": 7.4,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:56.537Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "farming life in another world season 2",
+ "altTitles": [
+  "Isekai Nonbiri Nouka 2",
+  "異世界のんびり農家２"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/fipjcy3efv/lmv7v4mr7q/46ae14lfgen3z8/master.m3u8",
+   "downloadUrl": "/download/mal/62146/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/50117/poster_image/large-913e18f6762a9c98fab90d8407a18033.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/62146/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/fipjcy3efv/lmv7v4mr7q/46ae14lfgen3z8/subs/w0exibonbggrkdgq.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:17:31.795Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "a26259f4f00e3b85"
+}

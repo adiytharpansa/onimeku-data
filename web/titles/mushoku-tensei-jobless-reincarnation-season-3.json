@@ -1,0 +1,55 @@
+{
+ "id": "mushoku-tensei-jobless-reincarnation-season-3",
+ "title": "Mushoku Tensei: Jobless Reincarnation Season 3",
+ "poster": "https://media.kitsu.app/anime/49002/poster_image/large-726cee92abdf1aba4683dedb5ad6a7d9.jpeg",
+ "banner": "https://media.kitsu.app/anime/49002/cover_image/large-2b36b6f9472d3d6193f597b42f97f013.jpeg",
+ "synopsis": "The third season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
+ "genres": [],
+ "score": 8.7,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 14,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:26.955Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "mushoku tensei jobless reincarnation season 3",
+ "altTitles": [
+  "Mushoku Tensei: Isekai Ittara Honki Dasu 3rd Season",
+  "無職転生 ～異世界行ったら本気だす～ 第3期"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/8sk32ez9st/20e7jag7ev/1u599s8n8ou72q/master.m3u8",
+   "downloadUrl": "/download/mal/59193/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/49002/poster_image/large-726cee92abdf1aba4683dedb5ad6a7d9.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/59193/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/8sk32ez9st/20e7jag7ev/1u599s8n8ou72q/subs/qxrtq8tad85it20v.vtt"
+    },
+    {
+     "label": "Indonesian",
+     "lang": "id",
+     "url": "https://hls.dramahot.top/v/scxqicy/8sk32ez9st/20e7jag7ev/1u599s8n8ou72q/subs/iowe6dvrpt357rk8.vtt"
+    },
+    {
+     "label": "Thai",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/8sk32ez9st/20e7jag7ev/1u599s8n8ou72q/subs/h4v7613apdmapsg0.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:28:56.759Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "60db91373789d352"
+}

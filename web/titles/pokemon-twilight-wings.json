@@ -1,0 +1,45 @@
+{
+ "id": "pokemon-twilight-wings",
+ "title": "Pokemon: Twilight Wings",
+ "poster": "https://media.kitsu.app/anime/42869/poster_image/large-c7accd1360459f3eea3bd605ed5af9de.jpeg",
+ "banner": "https://media.kitsu.app/anime/cover_images/42869/large.jpg",
+ "synopsis": "Galar is a region where Pokémon battles have developed into a cultural sensation. Pokémon: Twilight Wings will show in detail the dreams of Galar's residents, the realities they face, and the conflicts they must resolve.",
+ "genres": [],
+ "score": 7.6,
+ "year": 2020,
+ "status": "FINISHED",
+ "totalEpisodes": 7,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:48.260Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "pokemon twilight wings",
+ "altTitles": [
+  "Pokemon: Hakumei no Tsubasa",
+  "薄明の翼"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/kr9h7im6dq/u7cnzo0s2c/39l0u528155amm/master.m3u8",
+   "downloadUrl": "/download/mal/40861/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/42869/poster_image/large-c7accd1360459f3eea3bd605ed5af9de.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/40861/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/kr9h7im6dq/u7cnzo0s2c/39l0u528155amm/subs/m334evk7l7jgt1t1.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:19:56.440Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "4d5022f23b35e77b"
+}

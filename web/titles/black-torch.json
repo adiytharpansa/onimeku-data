@@ -1,0 +1,36 @@
+{
+ "id": "black-torch",
+ "title": "BLACK TORCH",
+ "poster": "https://media.kitsu.app/anime/49656/poster_image/large-89cbd3e489c8e87feae3cfc6f6639cff.jpeg",
+ "banner": "https://media.kitsu.app/anime/49656/poster_image/large-89cbd3e489c8e87feae3cfc6f6639cff.jpeg",
+ "synopsis": "Although he may appear rough-and-tumble, Jiro Azuma’s compassionate side emerges when it comes to the furry critters he can communicate with. But Jiro's soft spot for animals gets him in major trouble when a suspicious stray cat fuses with him, granting him exceptional power but also dragging him into humanity's hidden battle against powerful Japanese spirits, mononoke.\n\n(Source: VIZ Media)",
+ "genres": [],
+ "score": 6.9,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:10.292Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "black torch",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/zmbvxs32c8/daezqk6ajk/ypb5hj5ozrzzyd/master.m3u8",
+   "downloadUrl": "/download/mal/61169/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/49656/poster_image/large-89cbd3e489c8e87feae3cfc6f6639cff.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/61169/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-14T00:33:44.063Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "8432bedb5c3416c5"
+}

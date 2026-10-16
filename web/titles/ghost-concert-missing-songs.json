@@ -1,0 +1,44 @@
+{
+ "id": "ghost-concert-missing-songs",
+ "title": "Ghost Concert: missing Songs",
+ "poster": "https://media.kitsu.app/anime/50579/poster_image/large-2dd790935c5fb25d7d3c93d52e79d5a0.jpeg",
+ "banner": "",
+ "synopsis": "The anime takes place in 2045, in a world where songs have been banned. Instead of humans playing instruments and creating music, a music app titled \"MiucS\" is in charge of these things. High school student Seria goes out with her friends one day, but she happens to hear someone singing, which is supposed to be prohibited. What she finds is a lone ghost, a \"Great Ghost\" who has appeared from outside this world.\n\n(Source: Anime News Network)",
+ "genres": [],
+ "score": null,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:46:01.543Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "ghost concert missing songs",
+ "altTitles": [
+  "ゴーストコンサート: missing Songs"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/c2iobp4p93/7fm3a83e8u/h68z5f33skpqwx/master.m3u8",
+   "downloadUrl": "/download/mal/62852/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/50579/poster_image/large-2dd790935c5fb25d7d3c93d52e79d5a0.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/62852/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/c2iobp4p93/7fm3a83e8u/h68z5f33skpqwx/subs/y5v3j3qhxvq23cyh.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:16:21.827Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "4e0788df4c4fe758"
+}

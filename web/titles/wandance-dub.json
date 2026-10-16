@@ -1,0 +1,39 @@
+{
+ "id": "wandance-dub",
+ "title": "Wandance",
+ "poster": "https://media.kitsu.app/anime/49145/poster_image/large-24c292bb3fff1ec03df9ff4f84fe84fa.jpeg",
+ "banner": "",
+ "synopsis": "Kaboku Kotani is starting high school, and he plans to do what he’s always done: go along with his friends, keep quiet, and not draw too much attention to himself. After all, it’s hard enough to get by with a stutter like his— why make things worse by standing out from the crowd? But then he sees another first-year, Hikari Wanda, dancing like no one is watching—or like she doesn’t care who sees her. It makes Kaboku wonder: Could he reach that same freedom? To find his way to Wanda, he does something he never thought he could: He joins the dance club. After all, every routine begins with a single step, right? Join Kaboku and Wanda as they freestyle their way to life and love!\n\n(Source: Kodansha USA)",
+ "genres": [],
+ "score": 7.2,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:41:10.707Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "wandance dub",
+ "altTitles": [
+  "WanDance",
+  "ワンダンス"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/dbc52e4cacdf6537676c04fbcfca8941/1855f1a29158d65853cf6d0500143edc/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1760601196-8554-1759928664-1185-Wandance.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/145686/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-14T02:53:55.119Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "98cb0316898e70f1"
+}

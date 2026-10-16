@@ -1,0 +1,52 @@
+{
+ "id": "akira",
+ "title": "Akira",
+ "poster": "https://media.kitsu.app/anime/poster_images/29/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/29/large.jpg",
+ "synopsis": "Japan, 1988. An explosion caused by a young boy with psychic powers tears through the city of Tokyo and ignites the fuse that leads to World War III. In order to prevent any further destruction, he is captured and taken into custody, never to be heard from again. Now, in the year 2019, a restored version of the city known as Neo-Tokyo—an area rife with gang violence and terrorism against the current government—stands in its place. Here, Shoutarou Kaneda leads \"the Capsules,\" a group of misfits known for riding large, custom motorcycles and being in constant conflict with their rivals \"the Clowns.\"\n\nDuring one of these battles, Shoutarou's best friend Tetsuo Shima is caught up in an accident with an esper who finds himself in the streets of Tokyo after escaping confinement from a government institution. Through this encounter, Tetsuo begins to develop his own mysterious abilities, as the government seeks to quarantine this latest psychic in a desperate attempt to prevent him from unleashing the destructive power that could once again bring the city to its knees.\n\n(Source: MAL Rewrite)",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Sci-Fi",
+  "Supernatural",
+  "Horror",
+  "Military",
+  "Youth"
+ ],
+ "score": 8.1,
+ "year": 1988,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:17.809Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "akira",
+ "altTitles": [
+  "AKIRA（アキラ）"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/vfu32ntmre/gm3num2lj8/xrcxpg1fzhmxah/master.m3u8",
+   "downloadUrl": "/download/mal/47/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/29/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/47/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/vfu32ntmre/gm3num2lj8/xrcxpg1fzhmxah/subs/pji60dltgxub5utz.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:18:43.944Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "6999a8fa2572c227"
+}

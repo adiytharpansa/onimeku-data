@@ -1,0 +1,79 @@
+{
+ "id": "style-of-hiroshi-noharas-lunch",
+ "title": "style of hiroshi noharas lunch",
+ "poster": "https://media.kitsu.app/anime/50202/poster_image/large-b0a51e52146b1d81d8d0924b5a8bbe82.jpeg",
+ "banner": "https://media.kitsu.app/anime/50202/poster_image/large-b0a51e52146b1d81d8d0924b5a8bbe82.jpeg",
+ "synopsis": "This series follows Hiroshi Nohara's ultimate lunchtime philosophy, as he carefully selects and enjoys his midday meals within the constraints of a limited budget and break time.\n\nBut it's not just about savoring food—Hiroshi delves into cooking trivia, preparation methods, and the everyday dilemmas of a salaryman. From debating whether to treat his juniors to lunch, to finding quick meals between sales meetings, and even venting about his boss, the series is packed with relatable moments for working professionals.\n\n(Source: MAL News)",
+ "genres": [],
+ "score": null,
+ "year": 2025,
+ "status": "RELEASING",
+ "totalEpisodes": null,
+ "latestEpisode": 3,
+ "episodeNumbers": [
+  1,
+  2,
+  3
+ ],
+ "updatedAt": "2026-10-15T06:58:45.969Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "style of hiroshi noharas lunch",
+ "altTitles": [
+  "Nohara Hiroshi: Hiru Meshi no Ryuugi",
+  "野原ひろし 昼メシの流儀"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/vtlxqoldqg/m51arlqlhw/lk9jfy8uaj6fo8/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/61184/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/61184/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/vtlxqoldqg/m51arlqlhw/lk9jfy8uaj6fo8/subs/7umlma0izdamrtb4.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:24:31.926Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/vtlxqoldqg/zipnrkachf/80v9ykmfdggt1m/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/61184/2/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/61184/2/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/vtlxqoldqg/zipnrkachf/80v9ykmfdggt1m/subs/rzlom41ln35myr59.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:24:41.816Z",
+   "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/vtlxqoldqg/v9obgsep9e/58dfa4q56iwmlk/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/61184/3/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/61184/3/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/vtlxqoldqg/v9obgsep9e/58dfa4q56iwmlk/subs/9avbylb1pwlqsor0.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:24:51.364Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "dc01c977b2e97657"
+}

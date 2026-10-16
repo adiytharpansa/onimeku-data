@@ -1,0 +1,44 @@
+{
+ "id": "bananya-around-the-world",
+ "title": "bananya around the world",
+ "poster": "https://media.kitsu.app/anime/49155/poster_image/large-d698dfb5a7e7d4e43fb138b8959e3d0e.jpeg",
+ "banner": "https://media.kitsu.app/anime/49155/cover_image/large-ba2ccb35ef8092d8f02a8dc3a2cd9bfc.jpeg",
+ "synopsis": "Bananya returns! The mysterious cat who lives inside a banana is back for a new adventure when a ball of light appears. After the ball flashes, a new cat named Baby Sweet emerges. The two quickly become friends and set off on a grand adventure to discover new and exciting places around the world. Join the new friends on their journey!\n\n(Source: Crunchyroll)",
+ "genres": [],
+ "score": 7.2,
+ "year": 2024,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:43:12.781Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "bananya around the world",
+ "altTitles": [
+  "ばなにゃ あらうんど ざ わーるど"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/ud5mv7sq9w/zryv637l72/0y5zx1ouq1c8tl/master.m3u8",
+   "downloadUrl": "/download/mal/59666/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/59666/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/ud5mv7sq9w/zryv637l72/0y5zx1ouq1c8tl/subs/etttop7gvtu00vul.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:11:37.158Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "e4477bcf67fbfb40"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "food-wars-the-third-plate-ova",
+ "title": "Food Wars! The Third Plate OVA",
+ "poster": "https://media.kitsu.app/anime/poster_images/14124/large.jpg",
+ "banner": "https://media.kitsu.app/anime/poster_images/14124/large.jpg",
+ "synopsis": "Bundled with the 29th volume of the Shokugeki no Souma manga. It tells the story of what happened to Erina after she ran away from her father. \n\n(Source: MAL)",
+ "genres": [
+  "Drama"
+ ],
+ "score": 7.9,
+ "year": 2018,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:44:14.424Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "food wars the third plate ova",
+ "altTitles": [
+  "Shokugeki no Souma: San no Sara - Kyokuseiryou no Erina",
+  "食戟のソーマ 餐ノ皿 極星寮のえりな"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/2mw1jiijuj/s5yloho867/u32vcj1dz03p7h/master.m3u8",
+   "downloadUrl": "/download/mal/36962/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/14124/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/36962/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-14T04:39:46.364Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "8bc638d9d1da4ac5"
+}

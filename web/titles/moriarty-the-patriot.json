@@ -1,0 +1,45 @@
+{
+ "id": "moriarty-the-patriot",
+ "title": "Moriarty the Patriot",
+ "poster": "https://media.kitsu.app/anime/poster_images/43448/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/43448/large.jpg",
+ "synopsis": "Based on a crime suspense historical manga written by Takeuchi Ryousuke and drawn by Miyoshi Hikaru. The story's protagonist is James Moriarty, the famous antagonist from Sir Arthur Conan Doyle's Sherlock Holmes series.James is an orphan who assumes the name William James Moriarty when he and his younger brother are adopted into the Moriarty family. As a young man, he seeks to remove the ills caused by England's strict class system.(Source: ANN)",
+ "genres": [],
+ "score": 8.1,
+ "year": 2020,
+ "status": "FINISHED",
+ "totalEpisodes": 11,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:15.956Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "moriarty the patriot",
+ "altTitles": [
+  "Yuukoku no Moriarty",
+  "憂国のモリアーティ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/iegbz037fs/lf6rf1kzc6/atjtjapsii890x/master.m3u8",
+   "downloadUrl": "/download/mal/40911/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/43448/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/40911/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/iegbz037fs/lf6rf1kzc6/atjtjapsii890x/subs/m7x08ewi97h6dz0f.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:18:28.608Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "cd154834b4e0ac5e"
+}

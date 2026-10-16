@@ -1,0 +1,45 @@
+{
+ "id": "eren-the-southpaw",
+ "title": "Eren the Southpaw",
+ "poster": "https://media.kitsu.app/anime/46806/poster_image/large-39e3deb9d1b6f4c8059ad32acb1284af.jpeg",
+ "banner": "",
+ "synopsis": "Asakura Kouichi is a young designer working for an advertising agency. Lost and confused after being dropped from a project he worked hard to secure, he travels to the Yokohama Museum of Art. This is the place where, many years ago, he first encountered the talented \"Eren.\" The start of an inspirational adult ensemble drama about creatives!",
+ "genres": [],
+ "score": 6.8,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:50.831Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "eren the southpaw",
+ "altTitles": [
+  "Hidarikiki no Eren",
+  "左ききのエレン"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/jgg9hucyzw/7f06f5qq97/jbup5vpnhssxzt/master.m3u8",
+   "downloadUrl": "/download/mal/53732/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/46806/poster_image/large-39e3deb9d1b6f4c8059ad32acb1284af.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/53732/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/jgg9hucyzw/7f06f5qq97/jbup5vpnhssxzt/subs/ofxn6cu0ngbsptxd.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:18:25.120Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "9ad4f725f643b028"
+}

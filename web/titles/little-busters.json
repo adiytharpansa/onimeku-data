@@ -1,0 +1,44 @@
+{
+ "id": "little-busters",
+ "title": "little busters",
+ "poster": "https://media.kitsu.app/anime/poster_images/7005/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/7005/large.jpg",
+ "synopsis": "As a child, Riki Naoe shut himself from the world, thanks to a diagnosis of narcolepsy following the tragic deaths of his parents. However, Riki is saved when, one fateful day, a boy named Kyousuke recruits him into a team who call themselves the Little Busters. Accompanied by Masato, Kengo, and Rin, these misfits spend their childhood fighting evil and enjoying their youth.\nYears pass, and even in high school, the well-knit teammates remain together. Kyousuke decides to re-ignite the Little Busters by forming a baseball team as it will be his last school year with them. They have a problem though: there aren't enough members! The tables have turned, for it is now Riki's turn to reach out and recruit new friends into the Little Busters, just like Kyousuke had once done for him.\nThen, an omen surfaces—Rin finds a strange letter attached to her cat, assigning them the duty of uncovering the \"secret of this world\" by completing specific tasks. Just what is this secret, and why is it being hidden? It's up to the Little Busters to find out!\n[Written by MAL Rewrite]",
+ "genres": [
+  "Comedy",
+  "Drama",
+  "Supernatural",
+  "Slice of Life",
+  "School"
+ ],
+ "score": 7.3,
+ "year": 2012,
+ "status": "FINISHED",
+ "totalEpisodes": 26,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:41:50.865Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "little busters",
+ "altTitles": [
+  "リトルバスターズ!"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/4xt9oe3yc9/zd8l3p7zsp/j7j57lm99mfaux/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/13655/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-13T22:02:28.913Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "0c97560842abe4ee"
+}

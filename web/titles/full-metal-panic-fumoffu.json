@@ -1,0 +1,48 @@
+{
+ "id": "full-metal-panic-fumoffu",
+ "title": "Full Metal Panic? Fumoffu",
+ "poster": "https://media.kitsu.app/anime/poster_images/52/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/52/large.jpg",
+ "synopsis": "It's back-to-school mayhem with Kaname Chidori and her war-freak classmate Sousuke Sagara as they encounter more misadventures in and out of Jindai High School. But when Kaname gets into some serious trouble, Sousuke takes the guise of Bonta-kun—the gun-wielding, butt-kicking mascot. And while he struggles to continue living as a normal teenager, Sousuke also has to deal with protecting his superior officer Teletha Testarossa, who has decided to take a vacation from Mithril and spend a couple of weeks as his and Kaname's classmate.\n(Source: ANN)",
+ "genres": [
+  "Action",
+  "Comedy",
+  "School"
+ ],
+ "score": 8.1,
+ "year": 2003,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T20:57:55.188Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "full metal panic fumoffu",
+ "altTitles": [
+  "フルメタル・パニック? ふもっふ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/tc352wgqcn/q0dckvbrox/idpqowzoh4a8zx/master.m3u8",
+   "downloadUrl": "/download/mal/72/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/52/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/72/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/tc352wgqcn/q0dckvbrox/idpqowzoh4a8zx/subs/oltpnmk1763lbua1.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T20:57:55.188Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "2b2da391443cdeb0"
+}

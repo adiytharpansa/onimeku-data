@@ -1,0 +1,55 @@
+{
+ "id": "you-and-i-are-polar-opposites-season-2",
+ "title": "You and I Are Polar Opposites Season 2",
+ "poster": "https://media.kitsu.app/anime/50634/poster_image/large-c046fe3f31505e5b293acfd9eadb3b2c.jpeg",
+ "banner": "https://media.kitsu.app/anime/50634/cover_image/large-88d62e486f259aa0109896f4e5896c42.jpeg",
+ "synopsis": "The second season of Seihantai na Kimi to Boku.",
+ "genres": [],
+ "score": 8.5,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:20.811Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "you and i are polar opposites season 2",
+ "altTitles": [
+  "Seihantai na Kimi to Boku 2nd Season",
+  "正反対な君と僕 第2期"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/4fc4g6nlln/bpp3pf37w7/iiesl9f7u81tv2/master.m3u8",
+   "downloadUrl": "/download/mal/63832/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/50634/poster_image/large-c046fe3f31505e5b293acfd9eadb3b2c.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/63832/1/sub",
+   "subtitles": [
+    {
+     "label": "eng",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/4fc4g6nlln/bpp3pf37w7/iiesl9f7u81tv2/subs/suwonar2ldjkwb69.vtt"
+    },
+    {
+     "label": "ind",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/4fc4g6nlln/bpp3pf37w7/iiesl9f7u81tv2/subs/9kgaeu6iiqsc6aqc.vtt"
+    },
+    {
+     "label": "tha",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/4fc4g6nlln/bpp3pf37w7/iiesl9f7u81tv2/subs/i5r8acgyn2j04sg7.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:30:55.356Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "a2d789eaee840875"
+}

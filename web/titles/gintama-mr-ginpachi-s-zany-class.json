@@ -1,0 +1,64 @@
+{
+ "id": "gintama-mr-ginpachi-s-zany-class",
+ "title": "GINTAMA - Mr. Ginpachi's Zany Class",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162890-vDRlo1KuRM6W.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/162890-aY5XAN4j9Ph2.jpg",
+ "synopsis": "Sakata Ginpachi is a high-school teacher with his trademark silver, curly hair, dead-fish eyes, and sloppily worn lab coat.\nHe's in charge of Gintama High School's Class 3-Z: home to a ragtag group of frequent troublemakers including idol otaku, hurloines, stalkers, mayo guzzlers, sadists, delinquents, and many more.\n\n\n\nIf you thought this roller-coaster life would have Ginpachi holding his head in his hands, you thought wrong, as he nonchalantly resolves any trouble that comes his way. And if you thought this unique group of students would overcome adversity and come together as one, you thought wrong again, as they continue to raise hell!\n\n\n\n\"Oh, come on! Can 3-Z get any more ungovernable?!\"\n\n\n\nYou can never tell what this atypical teacher is thinking and he never seems up for the task, but he always comes through when it counts. He and his students star in this school-life comedy full of laughs, tears, and the whole kitchen sink!\nForget nerds, forget jocks, and come enjoy the kind of youthful days that only Gintama could ever deliver!\n\n\n\n(Source: Crunchyroll) \n\n\n\nNote: Announced at the the \"Gintama Ato no Matsuri 2023\" event.",
+ "genres": [
+  "Comedy"
+ ],
+ "score": 7.5,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  1,
+  2
+ ],
+ "updatedAt": "2026-10-15T13:03:36.541Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": 162890,
+ "rawTitle": "Gintama Mr. Ginpachi's Zany Class",
+ "altTitles": [
+  "3-nen Z-gumi Ginpachi-sensei",
+  "3年Z組銀八先生"
+ ],
+ "studio": "Bandai Namco Pictures",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/iy6m9sh3xe/eu9ebit13i/xkg67frar0xlnz/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/54757/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162890-vDRlo1KuRM6W.jpg",
+   "referer": "https://zokoanime.video/stream/mal/54757/1/sub?color=35d5bf",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/iy6m9sh3xe/eu9ebit13i/xkg67frar0xlnz/subs/e6lpca2zg63nx672.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:24:10.149Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/iy6m9sh3xe/chpde3coya/actw74d92cc884/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/54757/2/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx162890-vDRlo1KuRM6W.jpg",
+   "referer": "https://zokoanime.video/stream/mal/54757/2/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/iy6m9sh3xe/chpde3coya/actw74d92cc884/subs/rowe0fwksus2edpw.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:24:20.153Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "fe56e8023434998a"
+}

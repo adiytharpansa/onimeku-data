@@ -1,0 +1,42 @@
+{
+ "id": "episode-2",
+ "title": "episode 2",
+ "poster": "https://shikimori.one/system/animes/original/40948.jpg?1711968712",
+ "banner": "https://shikimori.one/system/animes/original/40948.jpg?1711968712",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": null,
+ "status": "",
+ "totalEpisodes": null,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  2
+ ],
+ "updatedAt": "2026-10-15T15:41:42.255Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "rawTitle": "episode 2",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 2,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/zhir4t0pps/uvr48eqxsg/qxv6bvcdzsp398/master.m3u8",
+   "downloadUrl": "/download/mal/58811/2/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/58811/2/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/zhir4t0pps/uvr48eqxsg/qxv6bvcdzsp398/subs/caffjfhbsl8r5pe5.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:19:14.484Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "732d3b6cdbd3a927"
+}

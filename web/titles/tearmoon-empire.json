@@ -1,0 +1,45 @@
+{
+ "id": "tearmoon-empire",
+ "title": "Tearmoon Empire",
+ "poster": "https://media.kitsu.app/anime/46455/poster_image/large-18bee9d3266d7755e9a9ec757a62a79e.jpeg",
+ "banner": "https://media.kitsu.app/anime/46455/cover_image/large-b01fad4f9640b6d4e8778be81173c1c7.jpeg",
+ "synopsis": "Surrounded by the hate-filled gazes of her people, the selfish princess of the fallen Tearmoon Empire, Mia, takes one last look at the bleeding sun before the guillotine blade falls... Only to wake back up as a twelve-year-old! With time rewound and a second chance at life dropped into her lap, she sets out to right the countless wrongs that plague the ailing Empire. Corrupt governance? Check. Border troubles? Check. Natural calamities and economic strife? Check. My, seems like a lot of work. Hard work and Mia don’t mix, so she seeks out the aid of others, starting with her loyal maid, Anne, and the brilliant minister, Ludwig. Together, they strive day and night to restore the Empire. Little by little, their tireless efforts begin to change the course of history, pushing the whole of the continent toward a new future. And why did the selfish princess have a change of heart, you ask? Simple—she didn’t. She’s just terrified of the guillotine. They hurt like hell, and Mia hates pain more than work.\n\n(Source: J-Novel Club)",
+ "genres": [],
+ "score": 7.3,
+ "year": 2023,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:44:48.365Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "tearmoon empire",
+ "altTitles": [
+  "Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story",
+  "ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/wxn9v5wox2/6l01hpm4a4/qwvlznm7w5nidz/master.m3u8",
+   "downloadUrl": "/download/mal/52962/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/46455/poster_image/large-18bee9d3266d7755e9a9ec757a62a79e.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/52962/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/wxn9v5wox2/6l01hpm4a4/qwvlznm7w5nidz/subs/z0yfuawp4jejeq9a.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:15:58.678Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "88376280f716103e"
+}

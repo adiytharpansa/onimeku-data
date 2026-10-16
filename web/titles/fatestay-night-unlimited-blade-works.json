@@ -1,0 +1,49 @@
+{
+ "id": "fatestay-night-unlimited-blade-works",
+ "title": "fatestay night unlimited blade works",
+ "poster": "https://media.kitsu.app/anime/poster_images/7882/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/7882/large.jpg",
+ "synopsis": "Fuyuki City—a city surrounded by the ocean and the mountains becomes the setting for an age-old ritual. To realize the mythical Holy Grail, which is said to grant any wish from its possessor, seven masters are given seven heroic spirits chosen by the Grail... Each master will enter into a contract with their assigned servants and battle the other masters and servants to the death until only one pair remains… This is the “Holy Grail War.”\n\n(Source: Aniplex of America)",
+ "genres": [
+  "Action",
+  "Magic",
+  "Supernatural",
+  "Fantasy"
+ ],
+ "score": 8.2,
+ "year": 2014,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:42:31.825Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "fatestay night unlimited blade works",
+ "altTitles": [
+  "Fate/stay night: Unlimited Blade Works"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/jgwyhdtulk/mr6mqyld3b/z1w8zsoq2mxc34/master.m3u8",
+   "downloadUrl": "/download/mal/22297/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/22297/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/jgwyhdtulk/mr6mqyld3b/z1w8zsoq2mxc34/subs/v48oanav6x39lrvk.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:07:03.857Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "282383df785b81f0"
+}

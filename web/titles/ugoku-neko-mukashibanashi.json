@@ -1,0 +1,47 @@
+{
+ "id": "ugoku-neko-mukashibanashi",
+ "title": "Cat Tales",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188529-6o9byjahRpEx.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188529-6o9byjahRpEx.jpg",
+ "synopsis": "What if cats appeared in that story…? When beloved old tales and fairy stories are joined by cats, a surreal and heartwarming new adventure begins…!? Tabby cats, orange cats, calico cats, and white cats— a delightful mix of feline friends woven into timeless stories is sure to soothe the hearts of all humanity! A charming cat comedy is about to unfold!\n\n\n\n(Source: AniOne Asia)",
+ "genres": [
+  "Comedy"
+ ],
+ "score": 5.6,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 50,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T23:50:04.369Z",
+ "type": "ONA",
+ "season": "FALL",
+ "anilistId": 188529,
+ "rawTitle": "ugoku neko mukashibanashi",
+ "altTitles": [
+  "Ugoku! Neko Mukashi Banashi",
+  "うごく！ねこむかしばなし"
+ ],
+ "studio": "Studio Comet",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/ndzs1x9fs4/ml47xln8ta/xohmfbgwx8xwmx/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/61254/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx188529-6o9byjahRpEx.jpg",
+   "referer": "https://zokoanime.video/stream/mal/61254/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/ndzs1x9fs4/ml47xln8ta/xohmfbgwx8xwmx/subs/jxr3nlcw9xvfjmar.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T23:50:04.369Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "eba54e2126752795"
+}

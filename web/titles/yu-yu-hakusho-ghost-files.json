@@ -1,0 +1,62 @@
+{
+ "id": "yu-yu-hakusho-ghost-files",
+ "title": "yu yu hakusho ghost files",
+ "poster": "https://media.kitsu.app/anime/poster_images/359/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/359/large.jpg",
+ "synopsis": "One fateful day, Yuusuke Urameshi, a 14-year-old delinquent with a dim future, gets a miraculous chance to turn it all around when he throws himself in front of a moving car to save a young boy. His ultimate sacrifice is so out of character that the authorities of the spirit realm are not yet prepared to let him pass on. Koenma, heir to the throne of the spirit realm, offers Yuusuke an opportunity to regain his life through completion of a series of tasks. With the guidance of the death god Botan, he is to thwart evil presences on Earth as a Spirit Detective.\n\nTo help him on his venture, Yuusuke enlists ex-rival Kazuma Kuwabara, and two demons, Hiei and Kurama, who have criminal pasts. Together, they train and battle against enemies who would threaten humanity's very existence.\n\n(Source: MAL Rewrite)",
+ "genres": [
+  "Action",
+  "Comedy",
+  "Fantasy",
+  "Martial Arts",
+  "School",
+  "Demons"
+ ],
+ "score": 8.2,
+ "year": 1992,
+ "status": "FINISHED",
+ "totalEpisodes": 112,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:42:56.677Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "yu yu hakusho ghost files",
+ "altTitles": [
+  "Yuu☆Yuu☆Hakusho",
+  "幽☆遊☆白書"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/ld21709lr3/ancp6n3nh4/2z4knz729007ly/master.m3u8",
+   "downloadUrl": "/download/mal/392/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/392/1/sub",
+   "subtitles": [
+    {
+     "label": "Arabic",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/ld21709lr3/ancp6n3nh4/2z4knz729007ly/subs/zwrkwr0ayh9o71n1.vtt"
+    },
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/ld21709lr3/ancp6n3nh4/2z4knz729007ly/subs/p3c8txe36f5mvlpv.vtt"
+    },
+    {
+     "label": "French",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/ld21709lr3/ancp6n3nh4/2z4knz729007ly/subs/299e1wgb0izgg403.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:08:48.130Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "a6323072cf4d66ad"
+}

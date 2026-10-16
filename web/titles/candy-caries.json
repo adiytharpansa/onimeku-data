@@ -1,0 +1,42 @@
+{
+ "id": "candy-caries",
+ "title": "Candy Caries",
+ "poster": "https://media.kitsu.app/anime/poster_images/44401/large.jpg",
+ "banner": "",
+ "synopsis": "A short animation made to promote WIT studio's new stop motion animation studio, with Tomoki Misato.\n\n(Source: Anime-Planet)",
+ "genres": [],
+ "score": null,
+ "year": 2021,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-16T09:49:09.864Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "candy caries",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/i5zfmgmnuy/f5hwjlmzik/naofbjt2at4clr/master.m3u8",
+   "downloadUrl": "/download/mal/63276/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/44401/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/63276/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/i5zfmgmnuy/f5hwjlmzik/naofbjt2at4clr/subs/ktfshdaatcsupj0t.vtt"
+    }
+   ],
+   "addedAt": "2026-10-16T09:49:09.864Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "701e059a6c406107"
+}

@@ -1,0 +1,48 @@
+{
+ "id": "azur-lane-slow-ahead-season-2",
+ "title": "Anime AzurLane: Slow Ahead! Season 2",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169080-el4sMLlqMxeI.png",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/169080-HcBclO97a4SE.jpg",
+ "synopsis": "The second season of Azur Lane: Bisoku Zenshin!",
+ "genres": [
+  "Ecchi",
+  "Slice of Life"
+ ],
+ "score": 6.6,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:54:02.781Z",
+ "type": "TV_SHORT",
+ "season": "SUMMER",
+ "anilistId": 169080,
+ "rawTitle": "azur lane slow ahead season 2",
+ "altTitles": [
+  "Azur Lane: Bisoku Zenshin! Ni!!",
+  "アズールレーン びそくぜんしんっ！にっ！！"
+ ],
+ "studio": "studio CANDY BOX",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/zsv4faaiad/nsgeqn61lb/50p39f0npt1n6f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx169080-el4sMLlqMxeI.png",
+   "referer": "https://zokoanime.video/stream/mal/56613/1/sub",
+   "subtitles": [
+    {
+     "label": "English subs eng",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/zsv4faaiad/nsgeqn61lb/50p39f0npt1n6f/subs/fi7ylvlb8ffkzg40.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T11:46:17.515Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "739450c34b0aa273"
+}

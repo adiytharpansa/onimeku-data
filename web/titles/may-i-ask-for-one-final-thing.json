@@ -1,0 +1,85 @@
+{
+ "id": "may-i-ask-for-one-final-thing",
+ "title": "May I Ask for One Final Thing?",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181447-aCmaQmtdwuU5.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/181447-t1JZ4Yy2kv94.jpg",
+ "synopsis": "Scarlet has put up with her fiancé’s bullying long enough. Not only is Second Prince Kyle arrogant and crude, but he suddenly called off their engagement during a ball. And if things couldn’t get any worse, he then accuses her of a crime she never committed. Fueled by betrayal, Scarlet unleashes her rage, giving the prince and his nobles a beatdown they’ll never forget.\n\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Action",
+  "Comedy",
+  "Drama",
+  "Fantasy",
+  "Romance"
+ ],
+ "score": 7.3,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 3,
+ "episodeNumbers": [
+  1,
+  2,
+  3
+ ],
+ "updatedAt": "2026-10-13T22:20:24.477Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": 181447,
+ "rawTitle": "may i ask for one final thing",
+ "altTitles": [
+  "Saigo ni Hitotsu dake Onegai Shite mo Yoroshii Deshou ka",
+  "最後にひとつだけお願いしてもよろしいでしょうか"
+ ],
+ "studio": "LIDENFILMS",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/ncpzyfhf6w/7a5cyqbcsg/0lqidpi2h0mttt/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/59846/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181447-aCmaQmtdwuU5.jpg",
+   "referer": "https://zokoanime.video/stream/mal/59846/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/ncpzyfhf6w/7a5cyqbcsg/0lqidpi2h0mttt/subs/9736krcfrfn9i8j8.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:20:05.032Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/ncpzyfhf6w/rnnom8lxlh/xurd6aoqcdxvea/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/59846/2/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181447-aCmaQmtdwuU5.jpg",
+   "referer": "https://zokoanime.video/stream/mal/59846/2/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/ncpzyfhf6w/rnnom8lxlh/xurd6aoqcdxvea/subs/93iz03nv2lumxnru.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:20:14.489Z",
+   "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/ncpzyfhf6w/29sp0qix90/g0ptxq3l50as6s/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/59846/3/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181447-aCmaQmtdwuU5.jpg",
+   "referer": "https://zokoanime.video/stream/mal/59846/3/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/ncpzyfhf6w/29sp0qix90/g0ptxq3l50as6s/subs/2ej251zv0kk9trfw.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:20:24.477Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "5d7526cfe2faf3fd"
+}

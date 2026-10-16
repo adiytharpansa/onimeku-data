@@ -1,0 +1,55 @@
+{
+ "id": "the-familiar-of-zero",
+ "title": "The Familiar of Zero",
+ "poster": "https://media.kitsu.app/anime/poster_images/1075/large.jpg",
+ "banner": "",
+ "synopsis": "Louise Françoise Le Blanc de La Vallière is a self-absorbed mage in a world of wands, cloaks, and royalty. Although she studies at Tristain Academy, a prestigious school for magicians, she has a major problem: Louise is unable to cast magic properly, earning her the nickname of \"Louise the Zero\" from her classmates.\nWhen the first year students are required to perform a summoning ritual, Louise's summoning results in a catastrophic explosion! Everyone deems this to be yet another failure, but when the smoke clears, a boy named Saito Hiraga appears. Now Louise's familiar, Saito is treated as a slave, forced to clean her clothes and eat off the ground. But when an unfamiliar brand is found etched on Saito's hand from the summoning ritual, it is believed to be the mark of a powerful familiar named Gandalfr.\nWild, adventurous, and explosive, Zero no Tsukaima follows Saito as he comes to terms with his new life and as Louise proves that there is more to her than her nickname suggests.\n[Written by MAL Rewrite]",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Comedy",
+  "Magic",
+  "Fantasy",
+  "Romance",
+  "School",
+  "Ecchi",
+  "Harem"
+ ],
+ "score": 7.2,
+ "year": 2006,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T22:59:51.038Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "the familiar of zero",
+ "altTitles": [
+  "Zero no Tsukaima",
+  "ゼロの使い魔"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/jyit02x5y9/uhusqydd3i/4x8d0jyqicxk38/master.m3u8",
+   "downloadUrl": "/download/mal/1195/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/1075/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/1195/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/jyit02x5y9/uhusqydd3i/4x8d0jyqicxk38/subs/biqpxzh10uv73ehs.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T22:59:51.038Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "2cf797c9f8f982ce"
+}

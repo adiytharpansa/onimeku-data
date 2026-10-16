@@ -1,0 +1,51 @@
+{
+ "id": "pokemon-jirachi-wish-maker",
+ "title": "Pokémon: Jirachi Wish Maker",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1121-yGTHBrWFTiBm.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1121-LhsnfC8GFvrL.jpg",
+ "synopsis": "Satoshi, Haruka, Takeshi, and Masato come upon the festival of the Wishing Star of Seven Nights. During their enjoyment, the legendary pokemon, Jirachi, decends from the heavens and befriends Masato. Jirachi, with the power to grant any wish, is sought after by many people wanting to claim its power. One man seeks to use its legendary power to revive an ancient pokemon known as Groudon, unaware of the dangers hidden within Jirachi's powers\n\n\n(Source: Anime News Network)",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Comedy",
+  "Drama",
+  "Fantasy"
+ ],
+ "score": 6.5,
+ "year": 2003,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T23:46:16.540Z",
+ "type": "MOVIE",
+ "season": "SUMMER",
+ "anilistId": 1121,
+ "rawTitle": "pokemon jirachi wish maker",
+ "altTitles": [
+  "Pocket Monsters Advanced Generation: Nanayo no Negaiboshi Jirachi",
+  "ポケットモンスター・アドバンスジェネレーション 七夜の願い星 ジラーチ"
+ ],
+ "studio": "OLM",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/5taano7eg6/5nin3x0twu/d4dvrufti00i0y/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/1121/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1121-yGTHBrWFTiBm.jpg",
+   "referer": "https://zokoanime.video/stream/mal/1121/1/sub",
+   "subtitles": [
+    {
+     "label": "Italian",
+     "lang": "it",
+     "url": "https://hls.dramahot.top/v/scxqicy/5taano7eg6/5nin3x0twu/d4dvrufti00i0y/subs/yc22e1hjx97ytqzh.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T23:46:16.540Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "b281543ede502d9b"
+}

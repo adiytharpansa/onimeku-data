@@ -1,0 +1,50 @@
+{
+ "id": "yona-of-the-dawn-ova",
+ "title": "Yona of the Dawn OVA",
+ "poster": "https://media.kitsu.app/anime/poster_images/10759/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/10759/large.jpg",
+ "synopsis": "The first episode adapts two bonus chapters from Mizuho Kusanagi's 12th manga volume, titled \"On That Back\" and \"Kija.\" \"On That Back\" follows an incident at a hot spring hotel, and \"Kija\" depicts the past of the Hakuryuu Kija. The second two episodes adapt the rest of the Zeno Arc and were bundled with the 21st and 22nd volumes of the manga.\n\n(Source: ANN)",
+ "genres": [
+  "Action",
+  "Comedy",
+  "Fantasy",
+  "Friendship"
+ ],
+ "score": 8.2,
+ "year": 2015,
+ "status": "FINISHED",
+ "totalEpisodes": 3,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-16T10:06:40.929Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "yona of the dawn ova",
+ "altTitles": [
+  "Akatsuki no Yona OVA",
+  "暁のヨナ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/8qoeh3fwr8/b5dqlqvo7o/4iued2hwig3ufk/master.m3u8",
+   "downloadUrl": "/download/mal/30370/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/10759/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/30370/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/8qoeh3fwr8/b5dqlqvo7o/4iued2hwig3ufk/subs/w33utj1y7mld1d9z.vtt"
+    }
+   ],
+   "addedAt": "2026-10-16T10:06:40.929Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "a5dd0de9d55897b7"
+}

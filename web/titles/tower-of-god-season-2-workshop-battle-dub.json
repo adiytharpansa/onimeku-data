@@ -1,0 +1,39 @@
+{
+ "id": "tower-of-god-season-2-workshop-battle-dub",
+ "title": "Tower of God Season 2: Workshop Battle",
+ "poster": "https://media.kitsu.app/anime/49244/poster_image/large-f27384e2fc73850200e9182bc567cda2.jpeg",
+ "banner": "https://media.kitsu.app/anime/49244/cover_image/large-547418ceadb806531365e1efba0a1efa.jpeg",
+ "synopsis": "Second part of Tower of God Season 2.",
+ "genres": [],
+ "score": 7.1,
+ "year": 2024,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:40:50.175Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "tower of god season 2 workshop battle dub",
+ "altTitles": [
+  "Kami no Tou: Koubou-sen",
+  "神之塔 -Tower of God- 工房戦"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/6b72ae1b07bcd7ac94b68f62d7cf4d8b/700c5f104da0c1c24c8721b152107d95/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/tower-of-god-season-2-workshop-battle-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/128482/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-14T03:47:55.574Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "be5a2accf0043839"
+}

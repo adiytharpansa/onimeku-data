@@ -1,0 +1,61 @@
+{
+ "id": "chivalry-of-a-failed-knight",
+ "title": "Chivalry of a Failed Knight",
+ "poster": "https://media.kitsu.app/anime/10745/poster_image/large-6c0881efcb35da7c4cd42709d0fc1c5e.jpeg",
+ "banner": "https://media.kitsu.app/anime/cover_images/10745/large.jpg",
+ "synopsis": "There are some humans capable of using magical power to manifest their souls as weapons and control forces beyond normal comprehension. These people are known as Blazers, and those who are recognized as such can undergo training at academies to become Mage-Knights. Ikki Kurogane is an aspiring Mage-Knight, despite being considered the worst student at Hagun Academy as an F-ranked Blazer—the lowest rank possible.\n\nOne morning, he accidentally stumbles upon Stella Vermillion, a visiting princess and A-ranked Blazer who has just enrolled at Hagun, in a state of undress. As a result, she challenges him to a duel where the loser will be the winner’s slave. It seems like a surefire win for Stella, but could there be more to Ikki than meets the eye?\n\nRakudai Kishi no Cavalry tells the story of Ikki’s valiant efforts to qualify for an upcoming tournament that could bring him a step closer to his dreams, aided by Stella. Together, they will prove that hard work can overcome the limits set upon them.",
+ "genres": [
+  "Action",
+  "Fantasy",
+  "Romance",
+  "School",
+  "Ecchi"
+ ],
+ "score": 7.5,
+ "year": 2015,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-16T09:17:38.564Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "chivalry of a failed knight",
+ "altTitles": [
+  "Rakudai Kishi no Cavalry",
+  "落第騎士の英雄譚《キャバルリィ》"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/92873u0140/tyuos3li0h/xjhjwzvwa1by0m/master.m3u8",
+   "downloadUrl": "/download/mal/30296/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/10745/poster_image/large-6c0881efcb35da7c4cd42709d0fc1c5e.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/30296/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/92873u0140/tyuos3li0h/xjhjwzvwa1by0m/subs/2bpncfs8nghx1waq.vtt"
+    },
+    {
+     "label": "Portuguese (- Português (Brasil))",
+     "lang": "pt",
+     "url": "https://hls.dramahot.top/v/scxqicy/92873u0140/tyuos3li0h/xjhjwzvwa1by0m/subs/1hb5ozs60rwfiznv.vtt"
+    },
+    {
+     "label": "Spanish (- Español (LA))",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/92873u0140/tyuos3li0h/xjhjwzvwa1by0m/subs/jqtgj45u6vkjmip3.vtt"
+    }
+   ],
+   "addedAt": "2026-10-16T09:17:38.564Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "77eac485dd4e947d"
+}

@@ -1,0 +1,39 @@
+{
+ "id": "bungo-stray-dogs-wan-2",
+ "title": "Bungo Stray Dogs Wan! 2",
+ "poster": "https://media.kitsu.app/anime/50328/poster_image/large-2128105918e7532547c5a8ec03d56c4a.jpeg",
+ "banner": "",
+ "synopsis": "Second season of Bungou Stray Dogs Wan!.",
+ "genres": [],
+ "score": null,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:31.145Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "bungo stray dogs wan 2",
+ "altTitles": [
+  "Bungou Stray Dogs Wan! 2",
+  "文豪ストレイドッグスわん！2"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/lihadnp7qp/yxjjz7wh3o/awj5nas2hdnbop/master.m3u8",
+   "downloadUrl": "/download/mal/62883/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/50328/poster_image/large-2128105918e7532547c5a8ec03d56c4a.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/62883/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-14T00:27:00.316Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "33518b4147cedb49"
+}

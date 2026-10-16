@@ -1,0 +1,82 @@
+{
+ "id": "a-mangakas-weirdly-wonderful-workplace",
+ "title": "A Mangaka's Weirdly Wonderful Workplace",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173523-wy1rDK1NaKuc.png",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/173523-m3DvdxCNwX9N.jpg",
+ "synopsis": "Futami, a novice shojo manga artist, is finally publishing her beloved shogi manga, Dear Subaru. But…the stress makes her stomach hurt, she’s forced to push the deadline for her first chapter, and she isn’t making any progress on the storyboards. To top it off, she’s gaining weight from midnight snacking and starts having wild delusions! Will Futami be able to enjoy life as a manga artist?!\n\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Comedy",
+  "Slice of Life"
+ ],
+ "score": 7.3,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 3,
+ "episodeNumbers": [
+  1,
+  2,
+  3
+ ],
+ "updatedAt": "2026-10-15T13:12:51.323Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": 173523,
+ "rawTitle": "a mangakas weirdly wonderful workplace",
+ "altTitles": [
+  "Egao no Taenai Shokuba desu.",
+  "笑顔のたえない職場です。"
+ ],
+ "studio": "Voil",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/epgma9jir6/f4szcff6e5/wy2tm7gtpw1d6m/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/57859/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173523-wy1rDK1NaKuc.png",
+   "referer": "https://zokoanime.video/stream/mal/57859/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/epgma9jir6/f4szcff6e5/wy2tm7gtpw1d6m/subs/ph7qbs9ajkpqexqh.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T13:09:37.730Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/epgma9jir6/2z1su8ot7n/rf4jz4haq67o8l/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/57859/2/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173523-wy1rDK1NaKuc.png",
+   "referer": "https://zokoanime.video/stream/mal/57859/2/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/epgma9jir6/2z1su8ot7n/rf4jz4haq67o8l/subs/gxfk61chur7p1bs4.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T13:11:09.480Z",
+   "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/epgma9jir6/u1evbon3t8/2exqqkwct0pvgf/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/57859/3/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx173523-wy1rDK1NaKuc.png",
+   "referer": "https://zokoanime.video/stream/mal/57859/3/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/epgma9jir6/u1evbon3t8/2exqqkwct0pvgf/subs/opup3dx6j6dtse24.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T13:12:51.323Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "6cdb99cb92e44639"
+}

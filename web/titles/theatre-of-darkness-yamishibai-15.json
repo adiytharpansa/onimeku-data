@@ -1,0 +1,122 @@
+{
+ "id": "theatre-of-darkness-yamishibai-15",
+ "title": "Theatre of Darkness: Yamishibai 15",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194088-lzp3BHNx0tnY.png",
+ "banner": "",
+ "synopsis": "Fifteenth season of Yami Shibai.",
+ "genres": [
+  "Horror",
+  "Supernatural"
+ ],
+ "score": 5.3,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 3,
+ "episodeNumbers": [
+  1,
+  2,
+  3
+ ],
+ "updatedAt": "2026-10-13T22:21:26.433Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": 194088,
+ "rawTitle": "theatre of darkness yamishibai 15",
+ "altTitles": [
+  "Yami Shibai 15",
+  "闇芝居 十五期"
+ ],
+ "studio": "ILCA",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/shfyaxnfd2/4kol4fq63z/ym5a87oggyyaxh/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/61793/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194088-lzp3BHNx0tnY.png",
+   "referer": "https://zokoanime.video/stream/mal/61793/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/shfyaxnfd2/4kol4fq63z/ym5a87oggyyaxh/subs/8as0onw2uprlif3i.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:21:06.119Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/shfyaxnfd2/d33j0n5g3v/4idmq7q20xvmdg/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/61793/2/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194088-lzp3BHNx0tnY.png",
+   "referer": "https://zokoanime.video/stream/mal/61793/2/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/shfyaxnfd2/d33j0n5g3v/4idmq7q20xvmdg/subs/ifrio484fqo0u1mh.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:21:16.520Z",
+   "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/shfyaxnfd2/icbxpr65jd/mkckzytr5ldj9s/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/61793/3/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx194088-lzp3BHNx0tnY.png",
+   "referer": "https://zokoanime.video/stream/mal/61793/3/sub",
+   "subtitles": [
+    {
+     "label": "French (- CR)",
+     "lang": "fr",
+     "url": "https://hls.dramahot.top/v/scxqicy/shfyaxnfd2/icbxpr65jd/mkckzytr5ldj9s/subs/xo2imxc9eo6hepja.vtt"
+    },
+    {
+     "label": "Portuguese (- Brazilian CR)",
+     "lang": "pt",
+     "url": "https://hls.dramahot.top/v/scxqicy/shfyaxnfd2/icbxpr65jd/mkckzytr5ldj9s/subs/lc6wejk5iqjmppqa.vtt"
+    },
+    {
+     "label": "Italian (- CR)",
+     "lang": "it",
+     "url": "https://hls.dramahot.top/v/scxqicy/shfyaxnfd2/icbxpr65jd/mkckzytr5ldj9s/subs/vuodefoebmiljfdu.vtt"
+    },
+    {
+     "label": "Arabic (- CR)",
+     "lang": "ar",
+     "url": "https://hls.dramahot.top/v/scxqicy/shfyaxnfd2/icbxpr65jd/mkckzytr5ldj9s/subs/m75xofv6cu6m25bh.vtt"
+    },
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/shfyaxnfd2/icbxpr65jd/mkckzytr5ldj9s/subs/nyge6012y94fqtjy.vtt"
+    },
+    {
+     "label": "Spanish (- Latin America CR)",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/shfyaxnfd2/icbxpr65jd/mkckzytr5ldj9s/subs/dmax9zdtit2e41fw.vtt"
+    },
+    {
+     "label": "Spanish (- CR)",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/shfyaxnfd2/icbxpr65jd/mkckzytr5ldj9s/subs/le3mga5uhxypqwze.vtt"
+    },
+    {
+     "label": "Russian (- CR)",
+     "lang": "ru",
+     "url": "https://hls.dramahot.top/v/scxqicy/shfyaxnfd2/icbxpr65jd/mkckzytr5ldj9s/subs/wnj5zfeqauo0chdg.vtt"
+    },
+    {
+     "label": "German (- CR)",
+     "lang": "de",
+     "url": "https://hls.dramahot.top/v/scxqicy/shfyaxnfd2/icbxpr65jd/mkckzytr5ldj9s/subs/0rme89a3k099kac4.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:21:26.433Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "473166391ae4c059"
+}

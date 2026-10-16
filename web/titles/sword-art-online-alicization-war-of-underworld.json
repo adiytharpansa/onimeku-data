@@ -1,0 +1,54 @@
+{
+ "id": "sword-art-online-alicization-war-of-underworld",
+ "title": "Sword Art Online: Alicization - War of Underworld",
+ "poster": "https://media.kitsu.app/anime/poster_images/42213/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/42213/large.jpg",
+ "synopsis": "Second part of Sword Art Online: Alicization.",
+ "genres": [],
+ "score": 7.8,
+ "year": 2019,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:30.748Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "sword art online alicization war of underworld",
+ "altTitles": [
+  "ソードアート・オンライン アリシゼーション War of Underworld"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/au905rmnu6/3iptsu1ye6/f9jhdxvmfi5nwa/master.m3u8",
+   "downloadUrl": "/download/mal/39597/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/42213/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/39597/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/au905rmnu6/3iptsu1ye6/f9jhdxvmfi5nwa/subs/3od60gam2iott4hn.vtt"
+    },
+    {
+     "label": "Portuguese",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/au905rmnu6/3iptsu1ye6/f9jhdxvmfi5nwa/subs/v4m5zue4w9mzn1c1.vtt"
+    },
+    {
+     "label": "Spanish",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/au905rmnu6/3iptsu1ye6/f9jhdxvmfi5nwa/subs/uzxfh6dq684xnkiq.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:27:46.277Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "b51217f935a65ac6"
+}

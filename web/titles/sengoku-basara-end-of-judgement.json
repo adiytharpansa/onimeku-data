@@ -1,0 +1,51 @@
+{
+ "id": "sengoku-basara-end-of-judgement",
+ "title": "Sengoku BASARA: End of Judgement",
+ "poster": "https://media.kitsu.app/anime/poster_images/8272/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/8272/large.jpg",
+ "synopsis": "Based on CAPCOM's 2010 game Sengoku Basara 3 (Sengoku Basara: Samurai Heroes), Sengoku Basara: Judge End will depict the epic Battle of Sekigahara.\n\n(Source: ANN)",
+ "genres": [
+  "Action",
+  "Martial Arts",
+  "Super Power",
+  "Historical",
+  "Samurai"
+ ],
+ "score": 6.8,
+ "year": 2014,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:38:47.430Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "sengoku basara end of judgement",
+ "altTitles": [
+  "Sengoku Basara: Judge End",
+  "戦国BASARA Judge End"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/n96oezhpc7/r8pwz2hvnb/l74skb79z39isn/master.m3u8",
+   "downloadUrl": "/download/mal/23201/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/8272/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/23201/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/n96oezhpc7/r8pwz2hvnb/l74skb79z39isn/subs/bguquoh9iyakc9k3.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:14:28.277Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "55c2fe47e78d9d1c"
+}

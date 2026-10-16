@@ -1,0 +1,48 @@
+{
+ "id": "deadman-wonderland",
+ "title": "Deadman Wonderland",
+ "poster": "https://media.kitsu.app/anime/poster_images/4765/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/4765/large.jpg",
+ "synopsis": "It looked like it would be a normal day for Ganta Igarashi and his classmates—they were preparing to go on a class field trip to a certain prison amusement park called Deadman Wonderland, where the convicts perform dangerous acts for the onlookers' amusement. However, Ganta's life is quickly turned upside down when his whole class gets massacred by a mysterious man in red. Framed for the incident and sentenced to death, Ganta is sent to the very jail he was supposed to visit. \nBut Ganta's nightmare is only just beginning. \nThe young protagonist is thrown into a world of sadistic inmates and enigmatic powers, to live in constant fear of the lethal collar placed around his neck that is slowed only by winning in the prison's deathly games. Ganta must bet his life to survive in a ruthless place where it isn't always easy to tell friend from foe, all while trying to find the mysterious \"Red Man\" and clear his name, in Deadman Wonderland.\n[Written by MAL Rewrite]",
+ "genres": [
+  "Action",
+  "Sci-Fi",
+  "Horror"
+ ],
+ "score": 7.2,
+ "year": 2011,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T21:44:45.930Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "deadman wonderland",
+ "altTitles": [
+  "デッドマン・ワンダーランド"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/7kz8qqb9wr/bb3zm0cwl8/jpkr4748cjz5zb/master.m3u8",
+   "downloadUrl": "/download/mal/6880/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/4765/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/6880/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/7kz8qqb9wr/bb3zm0cwl8/jpkr4748cjz5zb/subs/qszy0choufhvgrvp.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T21:44:45.930Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "c87d80c666d8622f"
+}

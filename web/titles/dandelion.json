@@ -1,0 +1,44 @@
+{
+ "id": "dandelion",
+ "title": "Dandelion",
+ "poster": "https://media.kitsu.app/anime/50657/poster_image/large-e1a27fdca91186099e24ab3e518b3167.jpeg",
+ "banner": "https://media.kitsu.app/anime/50657/cover_image/large-cc82133e88afbcc83a582c50c5877ced.jpeg",
+ "synopsis": "Dandelion follows Tetsuo Tanba and Misaki Kurogane, members of the Japanese Angel Federation’s Send-Off Department. Their job? Tracking down restless earthbound spirits and gently guiding them to the afterlife.\n\nWhile other angels rush to close their cases, the 21st Division’s Dandelion Clan takes a different approach. Dandelion members Tetsuo Tanba and his leader, Misaki Kurogane, listen to each spirit’s regrets and help them resolve what’s holding them back. They even help a spirit who’s an elderly man running at full speed, desperate to escape.\n\nThe angels themselves are full of surprises. Tanba’s permanent scowl and sharp tongue mask a deeply compassionate nature, while Kurogane is a formidable force — despite her girlish appearance. She’s rumored to have laid to rest the legendary soul of Musashi Miyamoto.\n\n(Source: Netflix)",
+ "genres": [],
+ "score": 7.3,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 7,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:41.405Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "dandelion",
+ "altTitles": [
+  "ダンデライオン"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/qjyc8haqr1/mxdhge89p4/o7cjf1lti5xej8/master.m3u8",
+   "downloadUrl": "/download/mal/63572/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/50657/poster_image/large-e1a27fdca91186099e24ab3e518b3167.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/63572/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/qjyc8haqr1/mxdhge89p4/o7cjf1lti5xej8/subs/wx1t0hiq3zicin09.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:24:51.092Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "26dc53269f59f2f5"
+}

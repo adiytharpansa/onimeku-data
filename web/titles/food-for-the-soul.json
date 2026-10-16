@@ -1,0 +1,39 @@
+{
+ "id": "food-for-the-soul",
+ "title": "food for the soul",
+ "poster": "https://media.kitsu.app/anime/49757/poster_image/large-cc3eab1e3a40a973f909903d827f2eb3.jpeg",
+ "banner": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/49757/cover_image/06952fe852cf1da4fde8407efa036ade.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20261013%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20261013T221910Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=59126734b997e642dbfd8f8edef7a167bb4f28e81bd39afddb6525287570c7e7",
+ "synopsis": "An original animation about the daily life of five girls who have just become university students.\n\nThey love delicious food, want to have lots of fun with everyone, and try their best to study, so they're enjoying university life to the fullest!\n\n(Source: Official Site, Translated)",
+ "genres": [],
+ "score": 7.7,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:46:22.150Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "rawTitle": "food for the soul",
+ "altTitles": [
+  "Hibi wa Sugiredo Meshi Umashi",
+  "日々は過ぎれど飯うまし"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/ivsw94nfaz/7ppolun0n0/30dt46lgly685x/master.m3u8",
+   "downloadUrl": "/download/mal/60658/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/49757/poster_image/large-cc3eab1e3a40a973f909903d827f2eb3.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/60658/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-13T22:19:12.684Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "a15a0eb83bfcefbd"
+}

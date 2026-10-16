@@ -1,0 +1,80 @@
+{
+ "id": "koupen-chan",
+ "title": "Koupen-chan",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185646-2eGmsnaSHiLC.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/185646-69FyAu3rfhEC.jpg",
+ "synopsis": "The story of the series follows the everyday adventures of Koupen-chan and his friends as they enjoy the little things in life.\n\n\n(Source: Crunchyroll News, edited)",
+ "genres": [
+  "Slice of Life"
+ ],
+ "score": 6.9,
+ "year": 2025,
+ "status": "RELEASING",
+ "totalEpisodes": null,
+ "latestEpisode": 3,
+ "episodeNumbers": [
+  1,
+  2,
+  3
+ ],
+ "updatedAt": "2026-10-15T22:30:48.275Z",
+ "type": "TV_SHORT",
+ "season": "SPRING",
+ "anilistId": 185646,
+ "rawTitle": "koupen chan",
+ "altTitles": [
+  "コウペンちゃん"
+ ],
+ "studio": "Lesprit",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/v2hmfnzd6p/pw7tib0nup/fznoxqu8xi5ygz/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/60534/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185646-2eGmsnaSHiLC.jpg",
+   "referer": "https://zokoanime.video/stream/mal/60534/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/v2hmfnzd6p/pw7tib0nup/fznoxqu8xi5ygz/subs/dl9a6eijh5cf1ez2.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T22:30:48.275Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/v2hmfnzd6p/ko5prk5erl/y2tocv9lfctw03/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/60534/2/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185646-2eGmsnaSHiLC.jpg",
+   "referer": "https://zokoanime.video/stream/mal/60534/2/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/v2hmfnzd6p/ko5prk5erl/y2tocv9lfctw03/subs/cf3ncemnvsyejem7.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:21:46.585Z",
+   "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/v2hmfnzd6p/ugu0fkrgwa/sejz45d4qq4d8l/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/60534/3/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx185646-2eGmsnaSHiLC.jpg",
+   "referer": "https://zokoanime.video/stream/mal/60534/3/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/v2hmfnzd6p/ugu0fkrgwa/sejz45d4qq4d8l/subs/iiygx44kvqejyr8h.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:21:57.495Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "b564c1e2115121c3"
+}

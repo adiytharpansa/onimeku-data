@@ -1,0 +1,47 @@
+{
+ "id": "world-trigger-2nd-season",
+ "title": "World Trigger 2nd Season",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114087-5sSD98EFqQZ5.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/114087-GdqifyWLJFsj.jpg",
+ "synopsis": "The border defense organization \"Border\" was established to fight against the attacks of the \"Neighbors\" who possess unknown power. \nOsamu Mikumo, a member of the Border, forms the Mikumo Squad with Yuma Kuga, a Neighbor who he met by chance, and his childhood friend Chika Ametori, and they struggle to win the internal Border rankings in order to join the expeditionary force to the Neighborhood.\n\n\n\n(Source: Toei Animation)",
+ "genres": [
+  "Action",
+  "Sci-Fi"
+ ],
+ "score": 8,
+ "year": 2021,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T21:28:38.919Z",
+ "type": "TV",
+ "season": "WINTER",
+ "anilistId": 114087,
+ "rawTitle": "world trigger 2nd season",
+ "altTitles": [
+  "ワールドトリガー 2ndシーズン"
+ ],
+ "studio": "Toei Animation",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/yojbhh93s0/8beo134x5z/lawpmbw5emc9c6/master.m3u8",
+   "downloadUrl": "/download/mal/40907/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/44396/poster_image/large-e886097ad4c72dd395723747b856a5b4.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/40907/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/yojbhh93s0/8beo134x5z/lawpmbw5emc9c6/subs/kcuifwud49wose3r.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T21:28:38.919Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "6ecdfd7ea6f912b3"
+}

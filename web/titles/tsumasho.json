@@ -1,0 +1,55 @@
+{
+ "id": "tsumasho",
+ "title": "tsumasho",
+ "poster": "https://media.kitsu.app/anime/47187/poster_image/large-2c74b01a42a24aa1078e1661a0f8d71e.jpeg",
+ "banner": "https://media.kitsu.app/anime/47187/cover_image/large-6fee4e4bd883b9eb0aacc9e51cca0a6a.jpeg",
+ "synopsis": "The story follows Keisuke Niijima—who lost his beloved wife, Takae, ten years ago—and their daughter, Mai. They have been in a state of despair since Takae's death. One evening, an elementary school girl visits the Niijima family claiming to be the reincarnation of Takae. At first, they don’t believe her but the girl continues to give them information that only the family knows. Keisuke and Mai soon recognize her as Takae and the three begin to act together as a \"family.”\n\n(Source: Crunchyroll News)\n\nNote: The first two episodes received an early screening at a special event on 21 September 2024 at T-Joy Prince Shinagawa in Tokyo. The regular TV broadcast started on 6 October 2024.",
+ "genres": [],
+ "score": 7.3,
+ "year": 2024,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:43:11.391Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "tsumasho",
+ "altTitles": [
+  "Tsuma, Shougakusei ni Naru.",
+  "妻、小学生になる。"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/qszpeh89xn/5z864onspq/xs8q1uzjhqlk3g/master.m3u8",
+   "downloadUrl": "/download/mal/54726/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/54726/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/qszpeh89xn/5z864onspq/xs8q1uzjhqlk3g/subs/89bzw9guyuvf6k6h.vtt"
+    },
+    {
+     "label": "Indonesian",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/qszpeh89xn/5z864onspq/xs8q1uzjhqlk3g/subs/tyo143oh7ycj8i6t.vtt"
+    },
+    {
+     "label": "Thai",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/qszpeh89xn/5z864onspq/xs8q1uzjhqlk3g/subs/zdn7lb4m8ooea4ps.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:11:25.069Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "7c709de40f860cb1"
+}

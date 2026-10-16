@@ -1,0 +1,59 @@
+{
+ "id": "clevatess-season-2",
+ "title": "Clevatess Season 2",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198946-IGXmbqBEYRYD.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198946-mtAaOmyKraEE.jpg",
+ "synopsis": "The war is over, but General Drel's secrets remain. As visitors from Hiden, Boelate, and Eslinn converge on Solsein, Boelate's divine academy, the search for Drel's hidden room begins. Among those drawn into the mystery is Klen, now serving as Luna's magic teacher. But what truth lies at the heart of Drel's secret?\n\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Action",
+  "Drama",
+  "Fantasy"
+ ],
+ "score": 7.8,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:44:33.772Z",
+ "type": "TV",
+ "season": "SUMMER",
+ "anilistId": 198946,
+ "rawTitle": "clevatess season 2",
+ "altTitles": [
+  "Clevatess II: Majuu no Ou to Itsuwari no Yuusha Denshou",
+  "クレバテスⅡ-魔獣の王と偽りの勇者伝承-"
+ ],
+ "studio": "Lay-duce",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/e1epgvhzxb/63lr32pag3/bg0voue876d9m2/master.m3u8",
+   "downloadUrl": "/download/mal/62513/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198946-IGXmbqBEYRYD.jpg",
+   "referer": "https://zokoanime.video/stream/mal/62513/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/e1epgvhzxb/63lr32pag3/bg0voue876d9m2/subs/dhd7b6oz157y2ovi.vtt"
+    },
+    {
+     "label": "Indonesian",
+     "lang": "id",
+     "url": "https://hls.dramahot.top/v/scxqicy/e1epgvhzxb/63lr32pag3/bg0voue876d9m2/subs/9tc7az9spn2yr3am.vtt"
+    },
+    {
+     "label": "Thai",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/e1epgvhzxb/63lr32pag3/bg0voue876d9m2/subs/rai7ww42ewlpqbv2.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T11:46:17.754Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "95a1e067a6bcedfe"
+}

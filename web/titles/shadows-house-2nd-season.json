@@ -1,0 +1,44 @@
+{
+ "id": "shadows-house-2nd-season",
+ "title": "Shadows House 2nd Season",
+ "poster": "https://media.kitsu.app/anime/45155/poster_image/large-761c07e52f68a41b92e8fe2aa0ea6667.jpeg",
+ "banner": "https://media.kitsu.app/anime/45155/cover_image/large-9214d2ded2d816d2d5459aa14c2b7035.jpeg",
+ "synopsis": "After finishing their \"debut,\" Kate, Emilico and three other pairs who started with them begin a new life as adults. With the mystery of the \"Shadows House\" still unsolved, a new incident occurs in the children's wing. Kate and Emilico, whom the Star Bearers suspect of being malcontents, investigate a mysterious robed Shadow who may be the culprit.\n\n(Source: Anime News Network)",
+ "genres": [],
+ "score": 8,
+ "year": 2022,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T21:04:19.942Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "shadows house 2nd season",
+ "altTitles": [
+  "シャドーハウス2"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/u8wxg36h5f/vurd5koaa4/kemdblsut4r9qs/master.m3u8",
+   "downloadUrl": "/download/mal/49782/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/45155/poster_image/large-761c07e52f68a41b92e8fe2aa0ea6667.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/49782/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/u8wxg36h5f/vurd5koaa4/kemdblsut4r9qs/subs/nlef1eue4dr4xj85.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T21:04:19.942Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "4db5834b6ac2f35c"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "death-note-relight",
+ "title": "Death Note: Relight",
+ "poster": "https://media.kitsu.app/anime/2707/poster_image/large-7f4410376c6894351d33d38a1b378cf5.jpeg",
+ "banner": "https://media.kitsu.app/anime/cover_images/2707/large.jpg",
+ "synopsis": "1. Genshisuru Kami (Visions of a God)\nA two hour episode of Death Note, mainly a compilation of the confrontations between Light and L, re-edited from Ryuk's perspective with new dialogue and soundtrack along with additional animation that could not be included in the original series.  An Unnamed Shinigami comes to Ryuk to question him about his new story in the human world.\n2. L o Tsugu Mono (L's Successors)\nThis story continues where the previous left off, continuing the story of Light. As the previous special told Light and L's battles, this story does the same with the conflicts between Light, Mello, and Near.  \n(Source: Wikipedia)",
+ "genres": [
+  "Mystery",
+  "Supernatural",
+  "Police",
+  "Psychological",
+  "Thriller"
+ ],
+ "score": 7.7,
+ "year": 2007,
+ "status": "FINISHED",
+ "totalEpisodes": 2,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:44:23.368Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "death note relight",
+ "altTitles": [
+  "Death Note: Rewrite",
+  "ディレクターズカット完全決着版 〜リライト"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/98dhgw7avk/2wm04rxc2l/ueat6f2rnnuy67/master.m3u8",
+   "downloadUrl": "/download/mal/2994/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/2707/poster_image/large-7f4410376c6894351d33d38a1b378cf5.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/2994/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-14T02:40:32.350Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "c770570e727f630d"
+}

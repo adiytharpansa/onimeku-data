@@ -1,0 +1,84 @@
+{
+ "id": "a-gatherers-adventure-in-isekai",
+ "title": "A Gatherer's Adventure in Isekai",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187663-VVdpMlkhwMSh.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/187663-ubpI6OALoAIR.jpg",
+ "synopsis": "Kamishiro Takeru was just an ordinary guy with an ordinary office job, until he’s suddenly summoned to Madeus, a world with swords and magic. Life as he knew it is over, but he’s starting his new one with powerful abilities: enhanced strength, overwhelming magic, and a “search” skill that allows him to find valuable items! Armed with his new cheat skills, Takeru begins his isekai journey!\n\n\n\n\n(Source: Crunchyroll) \n\n\nNote: Each episode streams 1 week early on some streaming services. The original TV broadcast starts on October 7th, 2025.",
+ "genres": [
+  "Adventure",
+  "Comedy",
+  "Fantasy",
+  "Slice of Life"
+ ],
+ "score": 6,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 3,
+ "episodeNumbers": [
+  1,
+  2,
+  3
+ ],
+ "updatedAt": "2026-10-15T13:14:16.914Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": 187663,
+ "rawTitle": "a gatherers adventure in isekai",
+ "altTitles": [
+  "Sozai Saishuka no Isekai Ryokouki",
+  "素材採取家の異世界旅行記"
+ ],
+ "studio": "Tatsunoko Production",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/dw5sbp0o0u/zk8op0ivd2/f4dg28zm5da07o/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/61174/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187663-VVdpMlkhwMSh.jpg",
+   "referer": "https://zokoanime.video/stream/mal/61174/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/dw5sbp0o0u/zk8op0ivd2/f4dg28zm5da07o/subs/o4oaheok69ikp0vf.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T13:14:16.914Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/dw5sbp0o0u/kegrtl458g/bz965a06u6qp5j/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/61174/2/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187663-VVdpMlkhwMSh.jpg",
+   "referer": "https://zokoanime.video/stream/mal/61174/2/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/dw5sbp0o0u/kegrtl458g/bz965a06u6qp5j/subs/3cfzwrcgw9rdioag.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:17:28.748Z",
+   "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/dw5sbp0o0u/m05x6yhrnc/z3ywp7y3bdc2h0/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/61174/3/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx187663-VVdpMlkhwMSh.jpg",
+   "referer": "https://zokoanime.video/stream/mal/61174/3/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/dw5sbp0o0u/m05x6yhrnc/z3ywp7y3bdc2h0/subs/8ddghykve3ggjc9k.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:17:39.000Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "619ac7445d8295a3"
+}

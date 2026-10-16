@@ -1,0 +1,65 @@
+{
+ "id": "pokemon-zoroark-master-of-illusions",
+ "title": "Pokemon: Zoroark: Master of Illusions",
+ "poster": "https://media.kitsu.app/anime/poster_images/5083/large.jpg",
+ "banner": "",
+ "synopsis": "The Fury of Zoroark Has Been Unleashed!\nThe Pokémon Baccer World Cup.\nIt is the most anticipated event of the year, and as hundreds flock to Crown City to watch the exciting competition unfold, Ash, Pikachu, and his friends encounter a mysterious new Pokémon they have never seen before.\nBut when the three Legendary Pokémon Raikou, Entei, and Suicune suddenly arrive and begin rampaging through the streets, it’s up to Ash and his companions, along with their new Pokémon friend Zorua, to uncover the secret behind the immense and powerful forces at work.\nWhat strange and dangerous powers are afoot in Crown City? Why did Celebi suddenly return after vanishing for twenty years? And why is the mighty Zoroark unleashing its fury upon the town? The quest for these answers leads down an uncertain path filled with peril—can Ash and his companions find enough courage, strength, and friendship to unearth the mystery in time to save Crown City?\n(Source: Pokemon.com)",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Fantasy",
+  "Kids"
+ ],
+ "score": 6.7,
+ "year": 2010,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:39:03.318Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "pokemon zoroark master of illusions",
+ "altTitles": [
+  "Pokemon Diamond & Pearl: Genei no Hasha Zoroark",
+  "ポケットモンスター ダイヤモンド&パール 幻影の覇者 ゾロアーク"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/3q1elt7hzy/lvxqrg95it/yx5znr8v4tigpm/master.m3u8",
+   "downloadUrl": "/download/mal/7695/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/5083/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/7695/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/3q1elt7hzy/lvxqrg95it/yx5znr8v4tigpm/subs/dtaououobem5bp59.vtt"
+    },
+    {
+     "label": "Portuguese (Portuguese - (Brasil))",
+     "lang": "pt",
+     "url": "https://hls.dramahot.top/v/scxqicy/3q1elt7hzy/lvxqrg95it/yx5znr8v4tigpm/subs/3n1mc125vs08d5qq.vtt"
+    },
+    {
+     "label": "Spanish",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/3q1elt7hzy/lvxqrg95it/yx5znr8v4tigpm/subs/92c1009mbrwh2sgk.vtt"
+    },
+    {
+     "label": "Spanish (- Castilian)",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/3q1elt7hzy/lvxqrg95it/yx5znr8v4tigpm/subs/ixm01uql5dkubr18.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:21:25.700Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "277043a2ef8eb21c"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "the-world-is-dancing",
+ "title": "The World Is Dancing",
+ "poster": "https://media.kitsu.app/anime/50690/poster_image/large-33e62cf2e4f84404638f536baff6910b.jpeg",
+ "banner": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/50690/cover_image/7e45eb06590dbbb6dacd9f5dc7307fee.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20261014%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20261014T002554Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=e92d867803c7d2d9df68bb405164b7b088801790d894f03543d2e45729c6a83a",
+ "synopsis": "Born into a life of acting and dance with a traveling theater troupe in 14th-century Japan, 12-year old Oniyasha has one problem—he doesn't know what the point of any of it is. \"Why must I step with the left foot here instead of the right? Why is one performance good and another, bad? Why do people dance at all?\" It all seems perfectly arbitrary, until a chance encounter in a run-down shack sets him down a path to revolutionizing the art form and influencing much of Japanese culture to come. A fictionalized account of the early life of Zeami Motokiyo (Oniyasha), the founder of modern Noh theater—the world's oldest surviving theater art—this coming-of-age artist's journey vividly brings to life a man far ahead of his time during one of Japan's most culturally and socially vibrant eras.\n\n(Source: Kodansha Comics)\nNote: World Is Dancing is streaming 3 days in advance of the TV broadcast on Prime Video and HIDIVE beginning June 29th, 2026. Regular broadcasting begins on July 2nd, 2026.",
+ "genres": [],
+ "score": 7.4,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:35.514Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "the world is dancing",
+ "altTitles": [
+  "World Is Dancing",
+  "ワールド イズ ダンシング"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/enl20bcj2b/seh7dfudur/gto64jbphjg65u/master.m3u8",
+   "downloadUrl": "/download/mal/63347/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/50690/poster_image/large-33e62cf2e4f84404638f536baff6910b.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/63347/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/enl20bcj2b/seh7dfudur/gto64jbphjg65u/subs/4vw82b8klfduia88.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:25:59.524Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "b9555341ea3f4e78"
+}

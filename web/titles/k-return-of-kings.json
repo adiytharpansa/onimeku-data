@@ -1,0 +1,48 @@
+{
+ "id": "k-return-of-kings",
+ "title": "K: Return of Kings",
+ "poster": "https://media.kitsu.app/anime/poster_images/9964/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/9964/large.jpg",
+ "synopsis": "In modern Japan, where history has strangely overlapped with reality. There, seven \"Kings\" with great superpowers existed. Along with their clansman to whom they shared their own power with, the kings each formed clans. Order bound by blue, red flames that cause chaos, irregularities that shine in white, and reforms branched off into green. The Kings, each with their own abilities, now...\nWith \"JUNGLE\" once again jumping back into action, the fates of the various Kings are brought together.",
+ "genres": [
+  "Action",
+  "Supernatural",
+  "Super Power"
+ ],
+ "score": 7.6,
+ "year": 2015,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T23:58:49.381Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "k return of kings",
+ "altTitles": [
+  "K RETURN OF KINGS"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/nsvwp2942f/unv5jhh98m/ptctkjm7zs2hak/master.m3u8",
+   "downloadUrl": "/download/mal/27991/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/9964/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/27991/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/nsvwp2942f/unv5jhh98m/ptctkjm7zs2hak/subs/zmln67h3zyrf9sgl.vtt"
+    }
+   ],
+   "addedAt": "2026-10-15T23:58:49.381Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "8c00b5d6b6a42e1a"
+}

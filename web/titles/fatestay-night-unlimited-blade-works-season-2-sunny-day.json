@@ -1,0 +1,49 @@
+{
+ "id": "fatestay-night-unlimited-blade-works-season-2-sunny-day",
+ "title": "fatestay night unlimited blade works season 2 sunny day",
+ "poster": "https://media.kitsu.app/anime/poster_images/11321/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/11321/large.jpg",
+ "synopsis": "Included with the second Blu-ray box set for the series, the short adapts \"sunny day,\" an alternate \"good\" ending to the \"Unlimited Blade Works\" route from the original Fate/stay night game.",
+ "genres": [
+  "Action",
+  "Magic",
+  "Supernatural",
+  "Fantasy"
+ ],
+ "score": 7.3,
+ "year": 2015,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:42:29.094Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "fatestay night unlimited blade works season 2 sunny day",
+ "altTitles": [
+  "Fate/stay night [Unlimited Blade Works] 新作映像「sunny day」"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/onitab5a00/8kowwkauyp/go148zw8x8ub96/master.m3u8",
+   "downloadUrl": "/download/mal/31389/1/sub",
+   "thumbnail": "",
+   "referer": "https://zokoanime.video/stream/mal/31389/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/onitab5a00/8kowwkauyp/go148zw8x8ub96/subs/1ycnfqb46mi2ko5y.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:06:51.778Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "be75bbeb37950291"
+}

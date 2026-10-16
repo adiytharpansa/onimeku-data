@@ -1,0 +1,88 @@
+{
+ "id": "86-eighty-six",
+ "title": "86 EIGHTY-SIX",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116589-KawXHB6sApFt.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116589-SqwYWzaZCdD5.jpg",
+ "synopsis": "Called “Juggernaut,” these are the unmanned combat drones developed by the Republic of San Magnolia in answer to the attacks by the autonomous unmanned drones of the neighboring Empire of Giad, the “Legion”. But they’re only unmanned in name. In reality, they are piloted by the Eighty-sixers—those considered to be less than human and treated as mere tools.\n\n\n\nDetermined to achieve his own mysterious ends, Shin, the captain of Spearhead Squadron, which is comprised of Eighty-sixers, continues to fight a hopeless war on a battlefield where only death awaits him.\n\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Action",
+  "Drama",
+  "Mecha",
+  "Sci-Fi"
+ ],
+ "score": 8.3,
+ "year": 2021,
+ "status": "FINISHED",
+ "totalEpisodes": 11,
+ "latestEpisode": 11,
+ "episodeNumbers": [
+  1,
+  2,
+  8,
+  10,
+  11
+ ],
+ "updatedAt": "2026-10-15T07:46:45.073Z",
+ "type": "TV",
+ "season": "SPRING",
+ "anilistId": 116589,
+ "rawTitle": "86 eighty six",
+ "altTitles": [
+  "86: Eighty Six",
+  "86－エイティシックス－"
+ ],
+ "studio": "A-1 Pictures",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/754b8fde508be74748bb02907c2409d9/56f4b6ac27f630b866d24e4a1a74b8ee/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/64558/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-14T14:16:36.670Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/754b8fde508be74748bb02907c2409d9/bddfbb50aa7d443a10d53883d28fbf0e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/64561/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:37.431Z",
+   "customSubs": []
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/754b8fde508be74748bb02907c2409d9/0c6e8b7bc982a638db6d2473da08fa05/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/72713/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:42.272Z",
+   "customSubs": []
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/754b8fde508be74748bb02907c2409d9/c8211e4918cc1e5c5b0ae74c68cd6a36/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/74099/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:44.129Z",
+   "customSubs": []
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/754b8fde508be74748bb02907c2409d9/81de84a24172c6a4e17bfb924acc3589/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/75748/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:45.073Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "e514b76678419ba8"
+}

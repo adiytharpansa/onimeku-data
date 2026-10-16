@@ -1,0 +1,47 @@
+{
+ "id": "pokemon-evolutions",
+ "title": "Pokémon Evolutions",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138699-V0PBmiG6hnuf.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/138699-VT4ZvtTKyNcd.jpg",
+ "synopsis": "An animated series created to celebrate 25 years of the global entertainment franchise. Each episode will take fans on a journey through all the known regions of the Pokémon world.",
+ "genres": [
+  "Action",
+  "Fantasy"
+ ],
+ "score": 7.3,
+ "year": 2021,
+ "status": "FINISHED",
+ "totalEpisodes": 8,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:54:05.650Z",
+ "type": "ONA",
+ "season": "FALL",
+ "anilistId": 138699,
+ "rawTitle": "pokemon evolutions",
+ "altTitles": [
+  "ポケモン エボリューションズ"
+ ],
+ "studio": "OLM",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/et5v6tsl2b/pyqxouagf0/tndiiut7uubrd0/master.m3u8",
+   "downloadUrl": "/download/mal/49730/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx138699-V0PBmiG6hnuf.jpg",
+   "referer": "https://zokoanime.video/stream/mal/49730/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/et5v6tsl2b/pyqxouagf0/tndiiut7uubrd0/subs/09gassv37ohhik8x.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T11:46:19.564Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "9347556c144e0d62"
+}

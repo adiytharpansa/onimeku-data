@@ -1,0 +1,45 @@
+{
+ "id": "tonikawa-over-the-moon-for-you-high-school-days",
+ "title": "TONIKAWA: Over The Moon For You - High School Days",
+ "poster": "https://media.kitsu.app/anime/47622/poster_image/large-bc3cfead393b3820992556007722b6e5.jpeg",
+ "banner": "https://media.kitsu.app/anime/47622/cover_image/large-08607ec7dd07f0e8e77f09b9eaf05c54.jpeg",
+ "synopsis": "The new anime centers on the series' protagonist Nasa, who is asked by his junior high teacher to hold a class in an all-girls high school. The students end up seeking Nasa's advice about their love problems. On the other hand, Tsukasa pretends to be cool, but is actually nervous knowing that Nasa is surrounded by young high school girls.\n\n(Source: Anime News Network)",
+ "genres": [],
+ "score": 7.7,
+ "year": 2023,
+ "status": "FINISHED",
+ "totalEpisodes": 4,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T16:40:37.792Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "tonikawa over the moon for you high school days",
+ "altTitles": [
+  "Tonikaku Kawaii: Joshikou-hen",
+  "トニカクカワイイ 女子高編"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/oripolnmla/efdbwat000/8o2wictp2qp3eq/master.m3u8",
+   "downloadUrl": "/download/mal/55651/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/47622/poster_image/large-bc3cfead393b3820992556007722b6e5.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/55651/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/oripolnmla/efdbwat000/8o2wictp2qp3eq/subs/zsmil001atacbq3s.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:26:23.782Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "49859e2ef27df11b"
+}
