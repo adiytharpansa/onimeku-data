@@ -146,7 +146,10 @@ def main():
         print("SYNC_TOKEN kosong — berhenti.")
         return 1
     print(f"Ambil daftar hulu dari {OLD_API}")
-    catalog = get_json(OLD_API).get("data") or []
+    # fresh=1: situs membaca katalog dari cermin ini sebagai
+    # jalur utama — penerbit WAJIB membaca sumber kebenaran
+    # (D1/KV) langsung, bukan cerminnya sendiri.
+    catalog = get_json(f"{OLD_API}?fresh=1").get("data") or []
     print(f"Hulu: {len(catalog)} judul")
 
     titles_dir = os.path.join(MIRROR_DIR, "titles")
@@ -160,7 +163,7 @@ def main():
     for item in catalog:
         cid = item["id"]
         try:
-            detail = get_json(f"{OLD_API}?id={cid}").get("data")
+            detail = get_json(f"{OLD_API}?id={cid}&fresh=1").get("data")
         except Exception as e:
             print(f"GAGAL detail {cid}: {e}")
             failed += 1
