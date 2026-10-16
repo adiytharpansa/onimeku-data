@@ -1,0 +1,53 @@
+{
+ "id": "a-wild-last-boss-appeared",
+ "title": "A Wild Last Boss Appeared!",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180523-FjvW1XByUNMK.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180523-ddHpvzlj9RlP.jpg",
+ "synopsis": "An MMO gamer awakens as the Black-Winged Tyrant, Lufas Maphaahl, rising from her sealed fate—only to find this is very real. Her defeat 200 years ago unleashed monsters of death, and the legend is one of terror. Now, trapped in the body of history’s most feared conqueror, he must survive a world that wants her dead…and uncover why he’s here.\n\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Fantasy"
+ ],
+ "score": 7.4,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  1,
+  2
+ ],
+ "updatedAt": "2026-10-16T08:31:26.559Z",
+ "type": "ONA",
+ "season": "FALL",
+ "anilistId": 180523,
+ "rawTitle": "a wild last boss appeared",
+ "altTitles": [
+  "Yasei no Last Boss ga Arawareta!",
+  "野生のラスボスが現れた！"
+ ],
+ "studio": "WAO World",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ff8d98d68afd8c8ce87d338b8b44c84c/16adeffde9ba398db10986b00af13ad4/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759229806-5108-1758817021-4261-A-Wild-Last-Boss-Appeared.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/145273/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T08:31:24.968Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ff8d98d68afd8c8ce87d338b8b44c84c/ec844c0438ad37761726a181a161da45/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759229806-5108-1758817021-4261-A-Wild-Last-Boss-Appeared.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/145525/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T08:31:26.559Z",
+   "customSubs": []
+  }
+ ]
+}
