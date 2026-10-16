@@ -20,6 +20,11 @@ Env:
   SYNC_TOKEN token upsert API baru (wajib, dari secret/file)
   MIRROR_DIR folder cermin untuk catalog.json + titles/
              (bawaan: direktori kerja saat ini)
+  FULL_MIRROR=1  sekalian terbitkan cermin PENUH situs lama di
+             web/ (SEMUA judul tanpa gerbang: web/catalog.json,
+             web/catalog-full.json, web/titles/<id>.json) —
+             situs my-anime-app membacanya sebagai lapis
+             cadangan di antara D1 dan snapshot KV.
   DRY_RUN=1  hanya laporkan, tanpa POST & tanpa tulis berkas
 
 Dipakai oleh: GitHub Actions (.github/workflows/sync.yml di repo
@@ -39,6 +44,7 @@ OLD_API = os.environ.get("OLD_API", "https://my-anime-app.adiyth-arpansa.workers
 NEW_API = os.environ.get("NEW_API", "https://onimeku-api.adiyth-arpansa.workers.dev")
 TOKEN = os.environ.get("SYNC_TOKEN", "")
 MIRROR_DIR = os.environ.get("MIRROR_DIR", ".")
+FULL_MIRROR = os.environ.get("FULL_MIRROR", "") == "1"
 DRY_RUN = os.environ.get("DRY_RUN", "") == "1"
 UA = {"User-Agent": "OnimekuSync/1.0 (+proyek-baru)"}
 
@@ -149,6 +155,8 @@ def main():
     imported = updated_skip = gated = failed = 0
     reasons = {}
     summaries = []
+    full_details = []
+    full_written = 0
     for item in catalog:
         cid = item["id"]
         try:
@@ -161,6 +169,25 @@ def main():
             gated += 1
             reasons["detail-kosong"] = reasons.get("detail-kosong", 0) + 1
             continue
+        if FULL_MIRROR and not DRY_RUN:
+            # Cermin penuh situs lama: semua judul, tanpa gerbang.
+            full_details.append(detail)
+            fh = digest(detail)
+            wdir = os.path.join(MIRROR_DIR, "web", "titles")
+            os.makedirs(wdir, exist_ok=True)
+            wpath = os.path.join(wdir, f"{cid}.json")
+            old_fh = None
+            if os.path.exists(wpath):
+                try:
+                    old_fh = json.load(open(wpath)).get("_syncHash")
+                except Exception:
+                    old_fh = None
+            if old_fh != fh:
+                doc = dict(detail)
+                doc["_syncHash"] = fh
+                with open(wpath, "w") as f:
+                    json.dump(doc, f, ensure_ascii=False, indent=1)
+                full_written += 1
         ok, reason = gate(detail)
         if not ok:
             gated += 1
@@ -221,6 +248,36 @@ def main():
                 json.dump(doc, f, ensure_ascii=False, indent=1)
         else:
             print(f"ANTI-MENYUSUT: hasil baru {len(summaries)} < terbit {old_count} — catalog.json dipertahankan")
+
+    if FULL_MIRROR and not DRY_RUN:
+        web_dir = os.path.join(MIRROR_DIR, "web")
+        os.makedirs(web_dir, exist_ok=True)
+        stamp = datetime.now(timezone.utc).isoformat()
+        wcat = os.path.join(web_dir, "catalog.json")
+        old_wc = -1
+        if os.path.exists(wcat):
+            try:
+                old_wc = int(json.load(open(wcat)).get("count", -1))
+            except Exception:
+                old_wc = -1
+        if len(catalog) >= old_wc:
+            with open(wcat, "w") as f:
+                json.dump({"generatedAt": stamp, "count": len(catalog), "data": catalog}, f, ensure_ascii=False, indent=1)
+        else:
+            print(f"ANTI-MENYUSUT web/catalog: {len(catalog)} < {old_wc} — dipertahankan")
+        wfull = os.path.join(web_dir, "catalog-full.json")
+        old_wf = -1
+        if os.path.exists(wfull):
+            try:
+                old_wf = len(json.load(open(wfull)))
+            except Exception:
+                old_wf = -1
+        if len(full_details) >= old_wf:
+            with open(wfull, "w") as f:
+                json.dump(full_details, f, ensure_ascii=False)
+        else:
+            print(f"ANTI-MENYUSUT web/full: {len(full_details)} < {old_wf} — dipertahankan")
+        print(f"cermin penuh web/: {len(full_details)} rekaman detail, {full_written} berkas judul ditulis")
 
     print(
         "--- sinkron selesai: "

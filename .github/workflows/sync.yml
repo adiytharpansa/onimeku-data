@@ -33,12 +33,13 @@ jobs:
         env:
           SYNC_TOKEN: ${{ secrets.SYNC_TOKEN }}
           MIRROR_DIR: ${{ github.workspace }}
+          FULL_MIRROR: "1"
         run: python3 tools/sync.py
       - name: Commit cermin bila berubah
         run: |
           git config user.name "onimeku-sync"
           git config user.email "sync@onimeku.local"
-          git add catalog.json titles
+          git add catalog.json titles web
           if git diff --cached --quiet; then
             echo "Tidak ada perubahan cermin."
           else
