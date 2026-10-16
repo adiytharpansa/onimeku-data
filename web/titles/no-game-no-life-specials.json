@@ -13,11 +13,16 @@
  "year": 2014,
  "status": "FINISHED",
  "totalEpisodes": 6,
- "latestEpisode": 1,
+ "latestEpisode": 6,
  "episodeNumbers": [
-  1
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
  ],
- "updatedAt": "2026-10-15T15:44:57.727Z",
+ "updatedAt": "2026-10-16T11:31:30.013Z",
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
@@ -40,9 +45,89 @@
      "url": "https://hls.dramahot.top/v/scxqicy/p0gc79wqcu/ymao58hifq/appv0tccb0z763/subs/i9utwxfn22gz91i9.vtt"
     }
    ],
-   "addedAt": "2026-10-14T02:07:35.357Z",
+   "addedAt": "2026-10-16T11:29:01.699Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/p0gc79wqcu/d68vpo1q26/6kcut8oiagpwf0/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/24991/2/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/8534/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/24991/2/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/p0gc79wqcu/d68vpo1q26/6kcut8oiagpwf0/subs/fxws4328j4toxhoj.vtt"
+    }
+   ],
+   "addedAt": "2026-10-16T11:31:22.744Z",
+   "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/p0gc79wqcu/7stetk23bl/o3shvp4zgba87g/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/24991/3/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/8534/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/24991/3/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/p0gc79wqcu/7stetk23bl/o3shvp4zgba87g/subs/azpji0qhkaoc53ge.vtt"
+    }
+   ],
+   "addedAt": "2026-10-16T11:31:24.941Z",
+   "customSubs": []
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/p0gc79wqcu/n1jws5vd5n/ebn4ovmxyl5s4l/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/24991/4/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/8534/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/24991/4/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/p0gc79wqcu/n1jws5vd5n/ebn4ovmxyl5s4l/subs/p52hkf2js0vdmxzr.vtt"
+    }
+   ],
+   "addedAt": "2026-10-16T11:31:26.698Z",
+   "customSubs": []
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/p0gc79wqcu/1wmnnul0s4/1c6ye2sxn80w5o/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/24991/5/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/8534/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/24991/5/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/p0gc79wqcu/1wmnnul0s4/1c6ye2sxn80w5o/subs/ur1cv65hvvja3196.vtt"
+    }
+   ],
+   "addedAt": "2026-10-16T11:31:28.325Z",
+   "customSubs": []
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/p0gc79wqcu/hnyo46lc8w/tws4602pojo0y4/master.m3u8",
+   "downloadUrl": "https://zokoanime.video/download/mal/24991/6/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/8534/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/24991/6/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/p0gc79wqcu/hnyo46lc8w/tws4602pojo0y4/subs/t9uc69oewoyy7ul9.vtt"
+    }
+   ],
+   "addedAt": "2026-10-16T11:31:30.013Z",
    "customSubs": []
   }
  ],
- "_syncHash": "7088c15abf132e3d"
+ "_syncHash": "b1c55520fdf98daf"
 }

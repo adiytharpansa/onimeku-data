@@ -1,6 +1,6 @@
 {
  "id": "steinsgate-open-the-missing-link-divide-by-zero",
- "title": "steinsgate open the missing link divide by zero",
+ "title": "Steinsgate Open the Missing Link Divide By Zero",
  "poster": "https://shikimori.one/system/animes/original/32188.jpg?1711975191",
  "banner": "https://shikimori.one/system/animes/original/32188.jpg?1711975191",
  "synopsis": "",
@@ -13,7 +13,7 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:40:37.699Z",
+ "updatedAt": "2026-10-16T11:32:41.086Z",
  "type": null,
  "season": null,
  "anilistId": null,
@@ -25,7 +25,7 @@
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/7d49mmebbz/cugw18m6md/dg90efcvklk3am/master.m3u8",
    "downloadUrl": "/download/mal/32188/1/sub",
-   "thumbnail": "",
+   "thumbnail": "https://shikimori.one/system/animes/original/32188.jpg?1711975191",
    "referer": "https://zokoanime.video/stream/mal/32188/1/sub",
    "subtitles": [
     {
@@ -34,9 +34,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/7d49mmebbz/cugw18m6md/dg90efcvklk3am/subs/cynvtpp7snvp9r2y.vtt"
     }
    ],
-   "addedAt": "2026-10-14T02:07:03.450Z",
+   "addedAt": "2026-10-16T11:32:41.086Z",
    "customSubs": []
   }
  ],
- "_syncHash": "7061de50ab167a61"
+ "_syncHash": "d8583aebb8d2084b"
 }

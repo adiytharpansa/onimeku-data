@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-10-16T11:05:20.871766+00:00",
- "count": 145,
+ "generatedAt": "2026-10-16T14:25:53.321935+00:00",
+ "count": 146,
  "data": [
   {
    "id": "a-record-of-mortals-journey-to-immortality-season-4",
@@ -631,7 +631,7 @@
   },
   {
    "id": "hand-maid-may-never-give-up",
-   "title": "hand maid may never give up",
+   "title": "Hand Maid May Never Give Up",
    "poster": "https://shikimori.one/system/animes/original/318.jpg?1711952647",
    "banner": "https://shikimori.one/system/animes/original/318.jpg?1711952647",
    "score": null,
@@ -1008,7 +1008,7 @@
   },
   {
    "id": "code-geass-akito-the-exiled-memories-of-hatred",
-   "title": "code geass akito the exiled memories of hatred",
+   "title": "Code Geass Akito the Exiled Memories of Hatred",
    "poster": "https://shikimori.one/system/animes/original/15201.jpg?1711946648",
    "banner": "https://shikimori.one/system/animes/original/15201.jpg?1711946648",
    "score": null,
@@ -1079,7 +1079,7 @@
   },
   {
    "id": "code-geass-lelouch-of-the-resurrection",
-   "title": "code geass lelouch of the resurrection",
+   "title": "Code Geass Lelouch of the Resurrection",
    "poster": "https://shikimori.one/system/animes/original/34437.jpg?1711946538",
    "banner": "https://shikimori.one/system/animes/original/34437.jpg?1711946538",
    "score": null,
@@ -1093,7 +1093,7 @@
   },
   {
    "id": "my-next-life-as-a-villainess-all-routes-lead-to-doom-x-i-met-my-destined-one",
-   "title": "my next life as a villainess all routes lead to doom x i met my destined one",
+   "title": "My Next Life As a Villainess All Routes Lead to Doom X I Met My Destined One",
    "poster": "https://shikimori.one/system/animes/original/49457.jpg?1706499580",
    "banner": "https://shikimori.one/system/animes/original/49457.jpg?1706499580",
    "score": null,
@@ -1121,7 +1121,7 @@
   },
   {
    "id": "my-next-life-as-a-villainess-all-routes-lead-to-doom-x",
-   "title": "my next life as a villainess all routes lead to doom x",
+   "title": "My Next Life As a Villainess All Routes Lead to Doom X",
    "poster": "https://shikimori.one/system/animes/original/42282.jpg?1711968121",
    "banner": "https://shikimori.one/system/animes/original/42282.jpg?1711968121",
    "score": null,
@@ -1132,6 +1132,24 @@
    "genres": [],
    "episodeCount": 1,
    "totalEpisodes": null
+  },
+  {
+   "id": "no-game-no-life-specials",
+   "title": "No Game No Life Specials",
+   "poster": "https://media.kitsu.app/anime/poster_images/8534/large.jpg",
+   "banner": "https://media.kitsu.app/anime/cover_images/8534/large.jpg",
+   "score": 6.6,
+   "year": 2014,
+   "season": "SUMMER",
+   "status": "FINISHED",
+   "type": null,
+   "genres": [
+    "Fantasy",
+    "Ecchi",
+    "Game"
+   ],
+   "episodeCount": 6,
+   "totalEpisodes": 6
   },
   {
    "id": "no-game-no-life-zero",
@@ -1158,7 +1176,7 @@
   },
   {
    "id": "steinsgate-open-the-missing-link-divide-by-zero",
-   "title": "steinsgate open the missing link divide by zero",
+   "title": "Steinsgate Open the Missing Link Divide By Zero",
    "poster": "https://shikimori.one/system/animes/original/32188.jpg?1711975191",
    "banner": "https://shikimori.one/system/animes/original/32188.jpg?1711975191",
    "score": null,
@@ -1172,7 +1190,7 @@
   },
   {
    "id": "steinsgate-egoistic-poriomania",
-   "title": "steinsgate egoistic poriomania",
+   "title": "Steinsgate Egoistic Poriomania",
    "poster": "https://shikimori.one/system/animes/original/10863.jpg?1711975253",
    "banner": "https://shikimori.one/system/animes/original/10863.jpg?1711975253",
    "score": null,
@@ -1186,7 +1204,7 @@
   },
   {
    "id": "steinsgate-the-sagacious-wisdom-of-cognitive-computing",
-   "title": "steinsgate the sagacious wisdom of cognitive computing",
+   "title": "Steinsgate the Sagacious Wisdom of Cognitive Computing",
    "poster": "https://shikimori.one/system/animes/original/27957.jpg?1711975209",
    "banner": "https://shikimori.one/system/animes/original/27957.jpg?1711975209",
    "score": null,
@@ -1286,7 +1304,7 @@
   },
   {
    "id": "haikyu-the-movie-talent-and-sense",
-   "title": "haikyu the movie talent and sense",
+   "title": "Haikyu the Movie Talent and Sense",
    "poster": "https://shikimori.one/system/animes/original/35110.jpg?1711952279",
    "banner": "https://shikimori.one/system/animes/original/35110.jpg?1711952279",
    "score": null,

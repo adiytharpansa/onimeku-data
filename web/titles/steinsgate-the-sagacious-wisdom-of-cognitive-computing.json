@@ -1,6 +1,6 @@
 {
  "id": "steinsgate-the-sagacious-wisdom-of-cognitive-computing",
- "title": "steinsgate the sagacious wisdom of cognitive computing",
+ "title": "Steinsgate the Sagacious Wisdom of Cognitive Computing",
  "poster": "https://shikimori.one/system/animes/original/27957.jpg?1711975209",
  "banner": "https://shikimori.one/system/animes/original/27957.jpg?1711975209",
  "synopsis": "",
@@ -13,7 +13,7 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:40:34.706Z",
+ "updatedAt": "2026-10-16T11:33:59.409Z",
  "type": null,
  "season": null,
  "anilistId": null,
@@ -25,7 +25,7 @@
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/pv7riydzjo/vdeb880r4m/i4eyw1ettclkox/master.m3u8",
    "downloadUrl": "/download/mal/27957/1/sub",
-   "thumbnail": "",
+   "thumbnail": "https://shikimori.one/system/animes/original/27957.jpg?1711975209",
    "referer": "https://zokoanime.video/stream/mal/27957/1/sub",
    "subtitles": [
     {
@@ -34,9 +34,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/pv7riydzjo/vdeb880r4m/i4eyw1ettclkox/subs/mphuxpp1bj35ffdo.vtt"
     }
    ],
-   "addedAt": "2026-10-14T02:06:41.747Z",
+   "addedAt": "2026-10-16T11:33:59.409Z",
    "customSubs": []
   }
  ],
- "_syncHash": "2055e5735c5d0a1f"
+ "_syncHash": "19f29734148ee840"
 }

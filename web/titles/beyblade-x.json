@@ -19,6 +19,7 @@
   8,
   9,
   10,
+  12,
   13,
   33,
   35,
@@ -54,7 +55,7 @@
   80,
   81
  ],
- "updatedAt": "2026-10-15T23:46:21.032Z",
+ "updatedAt": "2026-10-16T11:45:11.578Z",
  "type": "TV",
  "season": "FALL",
  "anilistId": null,
@@ -142,6 +143,16 @@
    "referer": "https://megaplay.buzz/stream/s-2/145879/sub?autostart=true",
    "subtitles": [],
    "addedAt": "2026-10-14T04:59:14.641Z",
+   "customSubs": []
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/be19b5f3f1fab3af9028503f50c864db/ca8f5ff9c95db9ace7f4db37cf6cbe9c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758892810-1948-1724094582-4987-138299.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/168913/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T11:45:11.578Z",
    "customSubs": []
   },
   {
@@ -485,5 +496,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "03971cc20c706f4d"
+ "_syncHash": "bbe9e100d92491ab"
 }

@@ -1,6 +1,6 @@
 {
  "id": "steinsgate-egoistic-poriomania",
- "title": "steinsgate egoistic poriomania",
+ "title": "Steinsgate Egoistic Poriomania",
  "poster": "https://shikimori.one/system/animes/original/10863.jpg?1711975253",
  "banner": "https://shikimori.one/system/animes/original/10863.jpg?1711975253",
  "synopsis": "",
@@ -13,7 +13,7 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:40:36.230Z",
+ "updatedAt": "2026-10-16T11:33:34.574Z",
  "type": null,
  "season": null,
  "anilistId": null,
@@ -25,7 +25,7 @@
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/oz3qz07u44/9rwbu3pl79/5orjks8wqm9wj4/master.m3u8",
    "downloadUrl": "/download/mal/10863/1/sub",
-   "thumbnail": "",
+   "thumbnail": "https://shikimori.one/system/animes/original/10863.jpg?1711975253",
    "referer": "https://zokoanime.video/stream/mal/10863/1/sub",
    "subtitles": [
     {
@@ -44,9 +44,9 @@
      "url": "https://hls.dramahot.top/v/scxqicy/oz3qz07u44/9rwbu3pl79/5orjks8wqm9wj4/subs/za0cqiek3wn0v3n2.vtt"
     }
    ],
-   "addedAt": "2026-10-14T02:06:49.062Z",
+   "addedAt": "2026-10-16T11:33:34.574Z",
    "customSubs": []
   }
  ],
- "_syncHash": "a4240fa46fca0d54"
+ "_syncHash": "9f4f57a0ece0afd0"
 }
