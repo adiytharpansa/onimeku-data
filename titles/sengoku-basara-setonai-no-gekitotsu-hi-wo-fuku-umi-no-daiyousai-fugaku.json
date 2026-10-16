@@ -1,0 +1,43 @@
+{
+ "id": "sengoku-basara-setonai-no-gekitotsu-hi-wo-fuku-umi-no-daiyousai-fugaku",
+ "title": "Sengoku Basara: Setonai no Gekitotsu! Hi wo Fuku Umi no Daiyousai - Fugaku!!",
+ "poster": "https://media.kitsu.app/anime/poster_images/4621/large.jpg",
+ "banner": "https://media.kitsu.app/anime/poster_images/4621/large.jpg",
+ "synopsis": "Maeda Toshiie and Matsu visit Chousokabe Motochika, who governs Shikoku. They tell Motochika unreasonable demands from Nobunaga. Motochika rejects them and urges Maeda to betray Nobunaga. Meanwhile Keiji tries to convince Mouri Motonari to join the fight against Nobunaga, and is imprisoned as a result. Motochika and Motonari move against each other.",
+ "genres": [
+  "Action",
+  "Martial Arts",
+  "Historical",
+  "Samurai"
+ ],
+ "score": 7,
+ "year": 2010,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:46:07.213Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "sengoku basara setonai no gekitotsu hi wo fuku umi no daiyousai fugaku",
+ "altTitles": [
+  "戦国BASARA 瀬戸内の激突! 火を噴く海の大要塞・富嶽!!"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/idsk2yd2gy/fahi42k7ml/pjmaglx12wjoj5/master.m3u8",
+   "downloadUrl": "/download/mal/6581/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/4621/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/6581/1/sub",
+   "subtitles": [],
+   "addedAt": "2026-10-14T00:03:40.867Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "dcd7f80f849b22a5"
+}
