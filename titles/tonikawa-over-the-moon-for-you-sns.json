@@ -1,0 +1,49 @@
+{
+ "id": "tonikawa-over-the-moon-for-you-sns",
+ "title": "TONIKAWA: Over The Moon For You ~SNS~",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127371-sQvD9sILl7Lc.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/127371-HSaCdJXeQX24.jpg",
+ "synopsis": "When Nasa is suddenly called in for some work, Tsukasa spends her first night alone since their marriage began. As the loneliness pulls at her, she takes the smartphone that Nasa got her as a gift in hand and continues to wait. Messaging allows the two of them to stay connected, even while separated. \n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Comedy",
+  "Romance",
+  "Slice of Life"
+ ],
+ "score": 7.9,
+ "year": 2021,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:43:43.820Z",
+ "type": "OVA",
+ "season": "SUMMER",
+ "anilistId": 127371,
+ "rawTitle": "tonikawa over the moon for you sns",
+ "altTitles": [
+  "Tonikaku Kawaii: SNS",
+  "トニカクカワイイ ～SNS～"
+ ],
+ "studio": "Seven Arcs",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/k434oev0kb/kl0m5i35m3/2u0mhbx6cb8n5t/master.m3u8",
+   "downloadUrl": "/download/mal/44931/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/43034/poster_image/large-72d15f29589aa9c8cfce350943668fe7.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/44931/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/k434oev0kb/kl0m5i35m3/2u0mhbx6cb8n5t/subs/ih0yageusi951lgf.vtt"
+    }
+   ],
+   "addedAt": "2026-10-13T22:25:58.248Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "41207ebcce3f5074"
+}
