@@ -1,0 +1,47 @@
+name: Sinkron Katalog Onimeku
+
+# Mengisi katalog API Onimeku BARU dari katalog hulu (API lama
+# yang teresolusi penuh), melewati gerbang kelengkapan, lalu
+# memperbarui cermin jsDelivr (catalog.json + titles/ di repo
+# ini). Berjalan tiap 30 menit + bisa dipicu manual.
+# Commit hasil oleh bot menjaga repo tetap aktif, sehingga
+# jadwal tidak dinonaktifkan GitHub.
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sinkron-katalog
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Jalankan sinkron
+        env:
+          SYNC_TOKEN: ${{ secrets.SYNC_TOKEN }}
+          MIRROR_DIR: ${{ github.workspace }}
+        run: python3 tools/sync.py
+      - name: Commit cermin bila berubah
+        run: |
+          git config user.name "onimeku-sync"
+          git config user.email "sync@onimeku.local"
+          git add catalog.json titles
+          if git diff --cached --quiet; then
+            echo "Tidak ada perubahan cermin."
+          else
+            git commit -m "Sinkron katalog $(date -u +%FT%TZ)"
+            git push
+          fi
