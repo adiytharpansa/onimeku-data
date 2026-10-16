@@ -1,0 +1,57 @@
+{
+ "id": "pokemon-the-first-movie",
+ "title": "Pokemon: The First Movie",
+ "poster": "https://media.kitsu.app/anime/poster_images/487/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/487/large.jpg",
+ "synopsis": "It was a successful science experiment gone horribly wrong. When a team of scientists discovers the DNA of the ancient Pokémon Mew, they harnessed the potential within it in an attempt to create the ultimate living weapon. With advanced cloning techniques and resources provided to them by Team Rocket crime syndicate leader Giovanni, the scientists succeed in creating the powerful psychic Pokémon, Mewtwo.Pokemon: Mewtwo no Gyakushuu reveals the terrifying power of Mewtwo as he learns that not only was he created to be an experiment, but also to be a tool for Giovanni’s sinister dealings. Breaking free of his control, Mewtwo creates his own island fortress and reconstructs the cloning technology that gave life to him.\nUnder the guise of being a master Pokémon trainer, Mewtwo lures the best trainers in the world to his base. Among these trainers are Ash Ketchum, his loyal Pokémon Pikachu, and their friends Brock and Misty. United together, human and Pokémon alike, they must not only discover the hidden secret of Mewtwo's plans, but stand against his terrifying might. If they fail, Mewtwo’s vengeance will not only lead to tyranny over all the Pokemon, but also the extinction of the human race.",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Comedy",
+  "Drama",
+  "Fantasy",
+  "Kids"
+ ],
+ "score": 7.6,
+ "year": 1998,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:39:09.505Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "pokemon the first movie",
+ "altTitles": [
+  "Pokemon: Mewtwo no Gyakushuu",
+  "ポケットモンスター ミュウツーの逆襲"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/pwatn0nzag/xmv14wply1/2g8fuxqjcyzxeb/master.m3u8",
+   "downloadUrl": "/download/mal/528/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/487/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/528/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/pwatn0nzag/xmv14wply1/2g8fuxqjcyzxeb/subs/3ut4qgkkuktc4z1y.vtt"
+    },
+    {
+     "label": "Italian",
+     "lang": "it",
+     "url": "https://hls.dramahot.top/v/scxqicy/pwatn0nzag/xmv14wply1/2g8fuxqjcyzxeb/subs/9r5g0qjobkdkegi6.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T00:23:55.793Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "9e16a737b4534a32"
+}
