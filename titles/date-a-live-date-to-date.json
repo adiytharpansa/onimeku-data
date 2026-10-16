@@ -1,0 +1,50 @@
+{
+ "id": "date-a-live-date-to-date",
+ "title": "Date A Live: Date to Date",
+ "poster": "https://media.kitsu.app/anime/poster_images/7839/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/7839/large.jpg",
+ "synopsis": "Bundled with the 9th volume of the original novel, it is the unaired 13th episode of the TV series.",
+ "genres": [
+  "Comedy",
+  "Sci-Fi",
+  "Romance",
+  "School",
+  "Harem"
+ ],
+ "score": 7.3,
+ "year": 2013,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-16T09:32:03.508Z",
+ "type": null,
+ "season": "WINTER",
+ "anilistId": null,
+ "rawTitle": "date a live date to date",
+ "altTitles": [
+  "デート・ア・ライブ DATE TO DATE"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/rhs3hw4ro6/xp2fcq1jty/a8vu1lflm1brpa/master.m3u8",
+   "downloadUrl": "/download/mal/17641/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/7839/large.jpg",
+   "referer": "https://zokoanime.video/stream/mal/17641/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/rhs3hw4ro6/xp2fcq1jty/a8vu1lflm1brpa/subs/q2da18g0qrubk61a.vtt"
+    }
+   ],
+   "addedAt": "2026-10-16T09:32:03.508Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "752dce2c99e910a3"
+}
