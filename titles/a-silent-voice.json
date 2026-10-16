@@ -1,0 +1,42 @@
+{
+ "id": "a-silent-voice",
+ "title": "A Silent Voice",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20954-sYRfE5jQRtSB.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20954-f30bHMXa5Qoe.jpg",
+ "synopsis": "After transferring into a new school, a deaf girl, Shouko Nishimiya, is bullied by the popular Shouya Ishida. As Shouya continues to bully Shouko, the class turns its back on him. Shouko transfers and Shouya grows up as an outcast. Alone and depressed, the regretful Shouya finds Shouko to make amends.\n\n\n\n(Source: Eleven Arts)",
+ "genres": [
+  "Drama",
+  "Romance",
+  "Slice of Life"
+ ],
+ "score": 8.8,
+ "year": 2016,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T19:22:26.513Z",
+ "type": "MOVIE",
+ "season": "SUMMER",
+ "anilistId": 20954,
+ "rawTitle": "a silent voice",
+ "altTitles": [
+  "Koe no Katachi",
+  "聲の形"
+ ],
+ "studio": "Kyoto Animation",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/6512bd43d9caa6e02c990b0a82652dca/a2e1c850c0e1a644a87e0404e7bb1980/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-silent-voice.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/50465/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T19:22:26.513Z",
+   "customSubs": []
+  }
+ ]
+}
