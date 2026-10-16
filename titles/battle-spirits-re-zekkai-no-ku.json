@@ -1,0 +1,38 @@
+{
+ "id": "battle-spirits-re-zekkai-no-ku",
+ "title": "Battle Spirits [Re] Zekkai No Ku",
+ "poster": "https://media.kitsu.app/anime/50964/poster_image/large-3ef8fd857b31d264e5750900922389e8.jpeg",
+ "banner": "",
+ "synopsis": "New Battle Spirits TV Anime.",
+ "genres": [],
+ "score": null,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-14T05:36:39.249Z",
+ "type": "TV",
+ "season": "FALL",
+ "anilistId": null,
+ "rawTitle": "Battle Spirits [Re] Zekkai No Ku",
+ "altTitles": [
+  "Battle Spirits [Re] 絶界の空"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://my.1anime.site/videos/Battle_Spirits_Re_Zekkai_no_Ku_Episode_1_1791299444.mp4",
+   "downloadUrl": "https://my.1anime.site/videos/Battle_Spirits_Re_Zekkai_no_Ku_Episode_1_1791299444.mp4",
+   "thumbnail": "https://9anime.or.at/wp-content/uploads/2026/10/battle-spirits-re-zekkai-no-ku.png",
+   "referer": "https://my.1anime.site/play/9c66ba54c7234475dd55b3dfa1154af7",
+   "subtitles": [],
+   "addedAt": "2026-10-14T05:36:39.249Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "a3b05de4fda45f78"
+}
