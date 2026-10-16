@@ -1,0 +1,85 @@
+{
+ "id": "red-river",
+ "title": "Red River",
+ "poster": "https://media.kitsu.app/anime/50562/poster_image/large-72c2331d53c47a9624f558270a35279b.jpeg",
+ "banner": "",
+ "synopsis": "After a mysterious hand drags her beneath a puddle, modern Japanese teenager Yuri awakens in the Hittite Empire of the 14th century BCE. Thrust into a deadly struggle for the throne, she joins Prince Kail to battle assassins, outwit royal conspiracies, and survive a world at war. As her exploits earn her renown as the goddess Ishtar, Yuri must choose between her old life and an uncertain future.\n\n(Source: Crunchyroll)",
+ "genres": [],
+ "score": null,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 24,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:44:37.096Z",
+ "type": null,
+ "season": "SUMMER",
+ "anilistId": null,
+ "rawTitle": "red river",
+ "altTitles": [
+  "Sora wa Akai Kawa no Hotori",
+  "天は赤い河のほとり"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://hls.dramahot.top/p/scxqicy/2esz6647bq/nvqy5m7zu6/2dded277e2g0wg/master.m3u8",
+   "downloadUrl": "/download/mal/63489/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/50562/poster_image/large-72c2331d53c47a9624f558270a35279b.jpeg",
+   "referer": "https://zokoanime.video/stream/mal/63489/1/sub",
+   "subtitles": [
+    {
+     "label": "English",
+     "lang": "en",
+     "url": "https://hls.dramahot.top/v/scxqicy/2esz6647bq/nvqy5m7zu6/2dded277e2g0wg/subs/e6gj5s2kp6smoc2s.vtt"
+    },
+    {
+     "label": "Arabic",
+     "lang": "ar",
+     "url": "https://hls.dramahot.top/v/scxqicy/2esz6647bq/nvqy5m7zu6/2dded277e2g0wg/subs/zjgs90j4qenlk6uh.vtt"
+    },
+    {
+     "label": "French",
+     "lang": "fr",
+     "url": "https://hls.dramahot.top/v/scxqicy/2esz6647bq/nvqy5m7zu6/2dded277e2g0wg/subs/agq03aweayyv6kgm.vtt"
+    },
+    {
+     "label": "German",
+     "lang": "de",
+     "url": "https://hls.dramahot.top/v/scxqicy/2esz6647bq/nvqy5m7zu6/2dded277e2g0wg/subs/ezs90s6dclpgpff8.vtt"
+    },
+    {
+     "label": "Italian",
+     "lang": "it",
+     "url": "https://hls.dramahot.top/v/scxqicy/2esz6647bq/nvqy5m7zu6/2dded277e2g0wg/subs/j44tiu99ks2z85z4.vtt"
+    },
+    {
+     "label": "Portuguese (Brazil)",
+     "lang": "pt",
+     "url": "https://hls.dramahot.top/v/scxqicy/2esz6647bq/nvqy5m7zu6/2dded277e2g0wg/subs/bce08ry7marij7zl.vtt"
+    },
+    {
+     "label": "Russian",
+     "lang": "ru",
+     "url": "https://hls.dramahot.top/v/scxqicy/2esz6647bq/nvqy5m7zu6/2dded277e2g0wg/subs/3jvxxts74flpvdq0.vtt"
+    },
+    {
+     "label": "Spanish (Latin America)",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/2esz6647bq/nvqy5m7zu6/2dded277e2g0wg/subs/0qy9h8uhovpyp45q.vtt"
+    },
+    {
+     "label": "Spanish (Spain)",
+     "lang": "es",
+     "url": "https://hls.dramahot.top/v/scxqicy/2esz6647bq/nvqy5m7zu6/2dded277e2g0wg/subs/z03jvkrmcarty49t.vtt"
+    }
+   ],
+   "addedAt": "2026-10-14T02:38:29.452Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "86ceb518e78933e9"
+}
