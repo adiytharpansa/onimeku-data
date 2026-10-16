@@ -1,0 +1,52 @@
+{
+ "id": "aoashi-season-2",
+ "title": "Aoashi Season 2",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx191788-XC6F24LdX6a4.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/191788-tyhsHpXeF26X.jpg",
+ "synopsis": "Aoi Ashito’s game has now earned him a spot on the A team, but he is quickly overwhelmed by his harsh new reality. Surrounded by elite players like Kuribayashi and Akutsu, practices are just as merciless as the matches. In this U-18 Premier League of powerhouse talent, Ashito must evolve or be crushed, if he’s ever to be acknowledged.\n\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Sports"
+ ],
+ "score": 7.9,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 24,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  1,
+  2
+ ],
+ "updatedAt": "2026-10-13T21:20:29.593Z",
+ "type": null,
+ "season": "FALL",
+ "anilistId": 191788,
+ "rawTitle": "aoashi season 2",
+ "altTitles": [
+  "Aoashi 2nd Season",
+  "アオアシ 第2期"
+ ],
+ "studio": "TMS Entertainment",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/757568f468515505024c9d2f9c47cb17/30876c9626a8207d5c0063d8d63cf15f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/10/aoashi-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/61603/1/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-13T21:20:29.593Z",
+   "customSubs": []
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/757568f468515505024c9d2f9c47cb17/afcd1c1d73c1c2270fb8e8a21593cb6b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/10/aoashi-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/61603/2/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-14T05:36:33.282Z",
+   "customSubs": []
+  }
+ ],
+ "_syncHash": "19919c23e0550c29"
+}
