@@ -19,6 +19,7 @@
  "type": null,
  "season": "SPRING",
  "anilistId": null,
+ "country": null,
  "rawTitle": "food wars the third plate ova",
  "altTitles": [
   "Shokugeki no Souma: San no Sara - Kyokuseiryou no Erina",
@@ -29,13 +30,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/2mw1jiijuj/s5yloho867/u32vcj1dz03p7h/master.m3u8",
-   "downloadUrl": "/download/mal/36962/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/36962/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/poster_images/14124/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/36962/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-14T04:39:46.364Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:44:14.424Z"
   }
  ],
- "_syncHash": "a6be9a999f5f3492"
+ "_syncHash": "12856017a63e63b0"
 }

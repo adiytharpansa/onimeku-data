@@ -17,6 +17,7 @@
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
+ "country": "CN",
  "rawTitle": "crowned in a hundred days",
  "altTitles": [],
  "studio": null,
@@ -24,13 +25,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/1etoez2ct4/avhml0m87v/wma83uq6eue27p/master.m3u8",
-   "downloadUrl": "/download/mal/62957/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/62957/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/50828/poster_image/large-fc7825605009de77bc81c440c356aa67.jpeg",
    "referer": "https://zokoanime.video/stream/mal/62957/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-14T00:34:09.856Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:45:07.005Z"
   }
  ],
- "_syncHash": "a4159e3e4b56043d"
+ "_syncHash": "275b790ef63360a5"
 }

@@ -1,0 +1,76 @@
+{
+ "id": "reincarnated-as-a-sword-season-2",
+ "title": "Reincarnated as a Sword Season 2",
+ "poster": "https://lain.bgm.tv/pic/cover/l/ee/ed/412008_vuyt4.jpg",
+ "banner": "",
+ "synopsis": "The second season of Tensei Shitara Ken Deshita.\n\n\nNote: Each episode was streamed one week in advance of the TV broadcast starting on October 1, 2026 on Abema. Regular broadcasting began on October 8, 2026.",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Fantasy"
+ ],
+ "score": 7.5,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 12,
+ "latestEpisode": 3,
+ "episodeNumbers": [
+  1,
+  3
+ ],
+ "updatedAt": "2026-10-17T09:20:38.936Z",
+ "type": "ONA",
+ "season": null,
+ "anilistId": 159042,
+ "country": "JP",
+ "rawTitle": "Reincarnated as a Sword Season 2",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/9aae782ce0bb85d118b47f327f502240/61435075c1b6009da5cd5ebf73f6a235/master.m3u8?token=MTc5MjIyNDk3NHw5YWFlNzgyY2UwYmI4NWQxMThiNDdmMzI3ZjUwMjI0MC82MTQzNTA3NWMxYjYwMDlkYTVjZDVlYmY3M2Y2YTIzNQ.NtsGRe7zeldmFPBwPuox0GKKG5MiRx0Uo6NKolTANlY",
+   "downloadUrl": null,
+   "thumbnail": "https://lain.bgm.tv/pic/cover/l/ee/ed/412008_vuyt4.jpg",
+   "referer": "https://megaplay.buzz/",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/9aae782ce0bb85d118b47f327f502240/61435075c1b6009da5cd5ebf73f6a235/subtitles/track_0_eng.vtt",
+     "referer": "https://megaplay.buzz/"
+    },
+    {
+     "lang": "id",
+     "url": "https://6a8y6.broforgotsave.online/anime/9aae782ce0bb85d118b47f327f502240/61435075c1b6009da5cd5ebf73f6a235/subtitles/track_1_ind.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T09:20:34.601Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/9aae782ce0bb85d118b47f327f502240/926fb19dd93228416b35180a3b32eabd/master.m3u8?token=MTc5MjIyNDk3NXw5YWFlNzgyY2UwYmI4NWQxMThiNDdmMzI3ZjUwMjI0MC85MjZmYjE5ZGQ5MzIyODQxNmIzNTE4MGEzYjMyZWFiZA.VNYPb821iOA22SsgpAftoPwW0ttHPdGESDJ-ILzAXFc",
+   "downloadUrl": null,
+   "thumbnail": "https://lain.bgm.tv/pic/cover/l/ee/ed/412008_vuyt4.jpg",
+   "referer": "https://megaplay.buzz/",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/9aae782ce0bb85d118b47f327f502240/926fb19dd93228416b35180a3b32eabd/subtitles/track_0_eng.vtt",
+     "referer": "https://megaplay.buzz/"
+    },
+    {
+     "lang": "id",
+     "url": "https://6a8y6.broforgotsave.online/anime/9aae782ce0bb85d118b47f327f502240/926fb19dd93228416b35180a3b32eabd/subtitles/track_1_ind.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T09:20:38.936Z"
+  }
+ ],
+ "_syncHash": "bb05a453412b947c"
+}

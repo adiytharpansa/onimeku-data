@@ -1,0 +1,90 @@
+{
+ "id": "steel-ball-run-jojo-s-bizarre-adventure-2nd-3rd-stage-dub",
+ "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx210482-P1VNKbqdJ6Zj.jpg",
+ "banner": "",
+ "synopsis": "In the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the \"Devil's Palm.\" In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide..\n\n(Source: Warner Bros. Japan Anime, Netflix Anime, edited)",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Drama",
+  "Mystery",
+  "Supernatural"
+ ],
+ "score": 0,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 11,
+ "latestEpisode": 4,
+ "episodeNumbers": [
+  2,
+  4
+ ],
+ "updatedAt": "2026-10-17T08:53:41.364Z",
+ "type": "ONA",
+ "season": null,
+ "anilistId": 210482,
+ "country": null,
+ "rawTitle": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd - 3rd STAGE (Dub)",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 2,
+   "streamUrl": "https://megaplay.buzz/stream/ani/210482/2/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx210482-P1VNKbqdJ6Zj.jpg",
+   "referer": "https://www.enma.lol/watch/steel-ball-run-jojo-s-bizarre-adventure-2nd-3rd-stage-210482?ep=2",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/35e54cf5038f9c977d6b95227194eb97/fadb52c90b4b919db6a13f632dec59ff/subtitles/track_0_eng.vtt",
+     "referer": "https://megaplay.buzz/"
+    },
+    {
+     "lang": "id",
+     "url": "https://6a8y6.broforgotsave.online/anime/35e54cf5038f9c977d6b95227194eb97/fadb52c90b4b919db6a13f632dec59ff/subtitles/track_18_ind.vtt",
+     "referer": "https://megaplay.buzz/"
+    },
+    {
+     "lang": "ja",
+     "url": "https://6a8y6.broforgotsave.online/anime/35e54cf5038f9c977d6b95227194eb97/fadb52c90b4b919db6a13f632dec59ff/subtitles/track_20_jpn.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/210482/2/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T08:53:38.709Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://megaplay.buzz/stream/ani/210482/4/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx210482-P1VNKbqdJ6Zj.jpg",
+   "referer": "https://www.enma.lol/watch/steel-ball-run-jojo-s-bizarre-adventure-2nd-3rd-stage-210482?ep=4",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/35e54cf5038f9c977d6b95227194eb97/654798478ff9f51be82142001b8bb521/subtitles/track_0_eng.vtt",
+     "referer": "https://megaplay.buzz/"
+    },
+    {
+     "lang": "id",
+     "url": "https://6a8y6.broforgotsave.online/anime/35e54cf5038f9c977d6b95227194eb97/654798478ff9f51be82142001b8bb521/subtitles/track_17_ind.vtt",
+     "referer": "https://megaplay.buzz/"
+    },
+    {
+     "lang": "ja",
+     "url": "https://6a8y6.broforgotsave.online/anime/35e54cf5038f9c977d6b95227194eb97/654798478ff9f51be82142001b8bb521/subtitles/track_19_jpn.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/210482/4/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T08:53:41.364Z"
+  }
+ ],
+ "_syncHash": "7e960aff1dbc7f39"
+}

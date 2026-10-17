@@ -1,6 +1,6 @@
 {
  "id": "style-of-hiroshi-noharas-lunch",
- "title": "style of hiroshi noharas lunch",
+ "title": "Style of Hiroshi Noharas Lunch",
  "poster": "https://media.kitsu.app/anime/50202/poster_image/large-b0a51e52146b1d81d8d0924b5a8bbe82.jpeg",
  "banner": "https://media.kitsu.app/anime/50202/poster_image/large-b0a51e52146b1d81d8d0924b5a8bbe82.jpeg",
  "synopsis": "This series follows Hiroshi Nohara's ultimate lunchtime philosophy, as he carefully selects and enjoys his midday meals within the constraints of a limited budget and break time.\n\nBut it's not just about savoring food—Hiroshi delves into cooking trivia, preparation methods, and the everyday dilemmas of a salaryman. From debating whether to treat his juniors to lunch, to finding quick meals between sales meetings, and even venting about his boss, the series is packed with relatable moments for working professionals.\n\n(Source: MAL News)",
@@ -19,6 +19,7 @@
  "type": null,
  "season": "FALL",
  "anilistId": null,
+ "country": null,
  "rawTitle": "style of hiroshi noharas lunch",
  "altTitles": [
   "Nohara Hiroshi: Hiru Meshi no Ryuugi",
@@ -30,17 +31,10 @@
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/vtlxqoldqg/m51arlqlhw/lk9jfy8uaj6fo8/master.m3u8",
    "downloadUrl": "https://zokoanime.video/download/mal/61184/1/sub",
-   "thumbnail": "",
+   "thumbnail": "https://media.kitsu.app/anime/50202/poster_image/large-b0a51e52146b1d81d8d0924b5a8bbe82.jpeg",
    "referer": "https://zokoanime.video/stream/mal/61184/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/vtlxqoldqg/m51arlqlhw/lk9jfy8uaj6fo8/subs/7umlma0izdamrtb4.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:24:31.926Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T06:58:45.969Z"
   },
   {
    "number": 2,
@@ -55,8 +49,7 @@
      "url": "https://hls.dramahot.top/v/scxqicy/vtlxqoldqg/zipnrkachf/80v9ykmfdggt1m/subs/rzlom41ln35myr59.vtt"
     }
    ],
-   "addedAt": "2026-10-13T22:24:41.816Z",
-   "customSubs": []
+   "addedAt": "2026-10-13T22:24:41.816Z"
   },
   {
    "number": 3,
@@ -71,9 +64,8 @@
      "url": "https://hls.dramahot.top/v/scxqicy/vtlxqoldqg/v9obgsep9e/58dfa4q56iwmlk/subs/9avbylb1pwlqsor0.vtt"
     }
    ],
-   "addedAt": "2026-10-13T22:24:51.364Z",
-   "customSubs": []
+   "addedAt": "2026-10-13T22:24:51.364Z"
   }
  ],
- "_syncHash": "d6ed6683b59924da"
+ "_syncHash": "8c1f4e36d5fa701e"
 }

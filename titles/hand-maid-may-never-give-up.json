@@ -1,6 +1,6 @@
 {
  "id": "hand-maid-may-never-give-up",
- "title": "hand maid may never give up",
+ "title": "Hand Maid May Never Give Up",
  "poster": "https://shikimori.one/system/animes/original/318.jpg?1711952647",
  "banner": "https://shikimori.one/system/animes/original/318.jpg?1711952647",
  "synopsis": "",
@@ -13,10 +13,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:41:44.550Z",
+ "updatedAt": "2026-10-16T13:21:08.987Z",
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "hand maid may never give up",
  "altTitles": [],
  "studio": null,
@@ -25,7 +26,7 @@
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/5jippyu2f7/7xsscvoojq/6s3illjrjczd10/master.m3u8",
    "downloadUrl": null,
-   "thumbnail": "",
+   "thumbnail": "https://shikimori.one/system/animes/original/318.jpg?1711952647",
    "referer": "https://zokoanime.video/stream/mal/2217/1/sub",
    "subtitles": [
     {
@@ -34,9 +35,8 @@
      "url": "https://hls.dramahot.top/v/scxqicy/5jippyu2f7/7xsscvoojq/6s3illjrjczd10/subs/0tfrefemmycpy2bg.vtt"
     }
    ],
-   "addedAt": "2026-10-14T02:19:21.826Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T13:21:08.987Z"
   }
  ],
- "_syncHash": "89d0dd9840523260"
+ "_syncHash": "fbd40b2c2b17b5b3"
 }

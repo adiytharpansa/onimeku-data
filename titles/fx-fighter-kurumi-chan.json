@@ -1,0 +1,62 @@
+{
+ "id": "fx-fighter-kurumi-chan",
+ "title": "FX Fighter Kurumi-chan",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206401-8cAebkI0i8BA.png",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/206401-Nsf3QKwKxDra.jpg",
+ "synopsis": "University student Kurumi Fukuga has finally fulfilled her long-held desire of starting foreign exchange (FX) trading, motivated by recouping the 20 million yen her late mother lost in trading. \"I'll easily make it back,\" she thought, but the world she enters can become heaven or hell in an instant. Unrealized losses, loss-cutting, unstoppable fluctuations… but she still wants to buy, sell and make money! With fellow FX addicts Mochiko, Mebuki and Yasuko along for the ride, the market heats up! Joy, despair, joy, despair — this is an endearing, yet slightly risky money game. Can Kurumi and her friends survive this turbulent world?\n\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Drama",
+  "Slice of Life"
+ ],
+ "score": 6.8,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 12,
+ "latestEpisode": 3,
+ "episodeNumbers": [
+  1,
+  2,
+  3
+ ],
+ "updatedAt": "2026-10-16T00:48:26.610Z",
+ "type": "TV",
+ "season": "FALL",
+ "anilistId": 206401,
+ "country": "JP",
+ "rawTitle": "fx fighter kurumi chan",
+ "altTitles": [
+  "FX Senshi Kurumi-chan",
+  "FX戦士くるみちゃん"
+ ],
+ "studio": "Passione",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/bf9560c068acb95a7a35efe1eca3135f/3260ae6b3eb38a36d3ab95ff29dbe0bd/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/09/fx-fighter-kurumi-chan.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/63337/1/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:17:21.541Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/bf9560c068acb95a7a35efe1eca3135f/c22513b0441362f2ad3c4399563f959d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/09/fx-fighter-kurumi-chan.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/63337/2/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:05:03.163Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/bf9560c068acb95a7a35efe1eca3135f/9a822f7e4304f604df47c4f52a8c7cfe/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/09/fx-fighter-kurumi-chan.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/63337/3/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T00:48:26.610Z"
+  }
+ ],
+ "_syncHash": "a09de8acfa36e98b"
+}

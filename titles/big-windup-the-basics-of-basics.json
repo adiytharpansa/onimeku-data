@@ -1,6 +1,6 @@
 {
  "id": "big-windup-the-basics-of-basics",
- "title": "big windup the basics of basics",
+ "title": "Big Windup the Basics of Basics",
  "poster": "https://media.kitsu.app/anime/poster_images/8141/large.jpg",
  "banner": "https://media.kitsu.app/anime/cover_images/8141/large.jpg",
  "synopsis": "One year before the beginning of the story. Kaguyama feels intimidated by Haruna’s presence on the baseball team since he feels that his position as the ace pitcher is threatened. Kaguyama wants to quit, but Haruna talks him out of it after telling Kaguyama about his own past.\n(Source: Wikipedia)",
@@ -20,6 +20,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "big windup the basics of basics",
  "altTitles": [
   "Ookiku Furikabutte Special",
@@ -30,13 +31,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/2losz1my3t/qj3z81u5cj/30y79vbj5zjui4/master.m3u8",
-   "downloadUrl": null,
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/3887/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/8141/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/3887/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-13T22:05:03.845Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:41:59.885Z"
   }
  ],
- "_syncHash": "51f426cbad3a5f33"
+ "_syncHash": "8c51c5472451df9d"
 }

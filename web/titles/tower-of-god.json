@@ -1,6 +1,6 @@
 {
  "id": "tower-of-god",
- "title": "tower of god",
+ "title": "Tower of God",
  "poster": "https://media.kitsu.app/anime/43004/poster_image/large-03a16e6cdf9abafff6642c76454e2903.jpeg",
  "banner": "https://media.kitsu.app/anime/cover_images/43004/large.jpg",
  "synopsis": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours. You can become a god. This is the story of the beginning and the end of Rachel, the girl who climbed the tower so she could see the stars, and Bam, the boy who needed nothing but her.\n\n(Source: Crunchyroll)",
@@ -28,7 +28,7 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/om4rp3czls/nup6b88jip/3zk2gehs5pxw4m/master.m3u8",
-   "downloadUrl": "/download/mal/40221/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/40221/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/43004/poster_image/large-03a16e6cdf9abafff6642c76454e2903.jpeg",
    "referer": "https://zokoanime.video/stream/mal/40221/1/sub",
    "subtitles": [
@@ -78,9 +78,8 @@
      "url": "https://hls.dramahot.top/v/scxqicy/om4rp3czls/nup6b88jip/3zk2gehs5pxw4m/subs/5up6hozuysjzdts1.vtt"
     }
    ],
-   "addedAt": "2026-10-13T22:11:13.159Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:38:25.093Z"
   }
  ],
- "_syncHash": "00198f8a9f7343d0"
+ "_syncHash": "d5fe6ac7b1a7271d"
 }
