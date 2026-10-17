@@ -21,6 +21,7 @@
  "type": "MOVIE",
  "season": "SUMMER",
  "anilistId": 20954,
+ "country": "JP",
  "rawTitle": "a silent voice",
  "altTitles": [
   "Koe no Katachi",
@@ -35,8 +36,8 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-silent-voice.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/50465/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T19:22:26.513Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T19:22:26.513Z"
   }
- ]
+ ],
+ "_syncHash": "4b666f9d442378e3"
 }

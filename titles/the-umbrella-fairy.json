@@ -1,6 +1,6 @@
 {
  "id": "the-umbrella-fairy",
- "title": "the umbrella fairy",
+ "title": "The Umbrella Fairy",
  "poster": "https://lain.bgm.tv/pic/cover/l/19/77/424563_DD5js.jpg",
  "banner": "https://lain.bgm.tv/pic/cover/l/19/77/424563_DD5js.jpg",
  "synopsis": "",
@@ -13,10 +13,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:38:21.080Z",
+ "updatedAt": "2026-10-16T18:34:48.222Z",
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "the umbrella fairy",
  "altTitles": [],
  "studio": null,
@@ -25,7 +26,7 @@
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/zfgfhdt52z/x0y94e4y2g/wjp2s4w39ilrw6/master.m3u8",
    "downloadUrl": null,
-   "thumbnail": "",
+   "thumbnail": "https://lain.bgm.tv/pic/cover/l/19/77/424563_DD5js.jpg",
    "referer": "https://zokoanime.video/stream/mal/59236/1/sub",
    "subtitles": [
     {
@@ -34,9 +35,8 @@
      "url": "https://hls.dramahot.top/v/scxqicy/zfgfhdt52z/x0y94e4y2g/wjp2s4w39ilrw6/subs/6cs4a8ix3fco6zy1.vtt"
     }
    ],
-   "addedAt": "2026-10-14T02:15:44.519Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T18:34:48.222Z"
   }
  ],
- "_syncHash": "9950d781f3c36ba7"
+ "_syncHash": "5e9a38d57615ca46"
 }

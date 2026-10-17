@@ -1,6 +1,6 @@
 {
  "id": "fights-break-sphere-4",
- "title": "fights break sphere 4",
+ "title": "Fights Break Sphere 4",
  "poster": "https://shikimori.one/system/animes/original/44412.jpg?1711948235",
  "banner": "https://shikimori.one/system/animes/original/44412.jpg?1711948235",
  "synopsis": "",
@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "fights break sphere 4",
  "altTitles": [],
  "studio": null,
@@ -24,13 +25,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/gdsad6nxdl/p0sw4fi2fs/8sozedgqa5etzk/master.m3u8",
-   "downloadUrl": null,
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/44412/1/sub",
+   "thumbnail": "https://shikimori.one/system/animes/original/44412.jpg?1711948235",
    "referer": "https://zokoanime.video/stream/mal/44412/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-14T00:25:20.879Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:40:30.363Z"
   }
  ],
- "_syncHash": "70a4f821be661d61"
+ "_syncHash": "4e66fe4b0df74e97"
 }

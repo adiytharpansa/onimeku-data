@@ -1,6 +1,6 @@
 {
  "id": "lupin-the-3rd-the-castle-of-cagliostro",
- "title": "lupin the 3rd the castle of cagliostro",
+ "title": "Lupin the 3rd the Castle of Cagliostro",
  "poster": "https://shikimori.one/system/animes/original/1430.jpg?1711961746",
  "banner": "https://shikimori.one/system/animes/original/1430.jpg?1711961746",
  "synopsis": "",
@@ -13,10 +13,11 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:40:46.067Z",
+ "updatedAt": "2026-10-16T16:23:03.741Z",
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "lupin the 3rd the castle of cagliostro",
  "altTitles": [],
  "studio": null,
@@ -25,7 +26,7 @@
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/s54zz74fq9/eft3hosadd/m80brssw33i0qu/master.m3u8",
    "downloadUrl": "/download/mal/1430/1/sub",
-   "thumbnail": "",
+   "thumbnail": "https://shikimori.one/system/animes/original/1430.jpg?1711961746",
    "referer": "https://zokoanime.video/stream/mal/1430/1/sub",
    "subtitles": [
     {
@@ -139,9 +140,8 @@
      "url": "https://hls.dramahot.top/v/scxqicy/s54zz74fq9/eft3hosadd/m80brssw33i0qu/subs/rukpoiz6vslw77i9.vtt"
     }
    ],
-   "addedAt": "2026-10-14T02:19:36.106Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T16:23:03.741Z"
   }
  ],
- "_syncHash": "413a45d4962309c5"
+ "_syncHash": "0c1ee2f3a288f692"
 }

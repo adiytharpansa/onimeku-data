@@ -24,6 +24,7 @@
  "type": null,
  "season": "WINTER",
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "one piece film strong world",
  "altTitles": [
   "ワンピース　フィルム　ストロングワールド"
@@ -33,13 +34,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/pukyjf9lmt/68q07akbkh/j0281oqwwzek5f/master.m3u8",
-   "downloadUrl": "/download/mal/4155/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/4155/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/poster_images/3492/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/4155/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-14T02:48:02.868Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:44:13.007Z"
   }
  ],
- "_syncHash": "be175a243f2a3d53"
+ "_syncHash": "fabb1057d318cbf1"
 }

@@ -1,0 +1,42 @@
+{
+ "id": "sasaki-and-peeps-season-2",
+ "title": "Sasaki and Peeps Season 2",
+ "poster": "https://lain.bgm.tv/pic/cover/l/fc/aa/486456_XO5B0.jpg",
+ "banner": "",
+ "synopsis": "The second season of Sasaki to Pii-chan.",
+ "genres": [
+  "Comedy",
+  "Fantasy",
+  "Mahou Shoujo"
+ ],
+ "score": 6.8,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 12,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  2
+ ],
+ "updatedAt": "2026-10-17T09:19:58.799Z",
+ "type": "TV",
+ "season": null,
+ "anilistId": 176314,
+ "country": "JP",
+ "rawTitle": "Sasaki and Peeps Season 2",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/25260ae2069ebf5261ab00d0a99fd8f3/d183c95c1cd8c8ff1cffeea5dfb73aa4/master.m3u8?token=MTc5MjIyNDkzOXwyNTI2MGFlMjA2OWViZjUyNjFhYjAwZDBhOTlmZDhmMy9kMTgzYzk1YzFjZDhjOGZmMWNmZmVlYTVkZmI3M2FhNA.QswLKKd8FsZvrafOpy9f-WGS-t7H5MY1gHO-SVygRPw",
+   "downloadUrl": null,
+   "thumbnail": "https://lain.bgm.tv/pic/cover/l/fc/aa/486456_XO5B0.jpg",
+   "referer": "https://megaplay.buzz/",
+   "subtitles": [],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T09:19:58.799Z"
+  }
+ ],
+ "_syncHash": "018cd988891037df"
+}

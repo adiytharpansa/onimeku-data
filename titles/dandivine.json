@@ -1,0 +1,52 @@
+{
+ "id": "dandivine",
+ "title": "Dandivine",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213068-aFSedkY5bQ4m.png",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/213068-EQba2gbIKAy5.jpg",
+ "synopsis": "The story takes place 20 years after the robot Dandivine defeated the mysterious Aposdoll. The world is now in peace. However, toy manufacturer Kasuga, who relied on its toys of merchandise of Dandivine, has fallen into decline. Thus, Kasuga's president Genjuro Shijima prayed for Dandivine's revival, and the Aposdoll suddenly returned. High school student Gekiha Shijima gets an invitation from his uncle Yusaku Kuroiwa, the former main pilot of Dandivine, to pilot the giant robot himself.\n\n\n\n(Source: Anime News Network)",
+ "genres": [
+  "Action",
+  "Mecha"
+ ],
+ "score": 5,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": null,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  1,
+  2
+ ],
+ "updatedAt": "2026-10-16T00:48:24.371Z",
+ "type": "TV",
+ "season": "FALL",
+ "anilistId": 213068,
+ "country": "JP",
+ "rawTitle": "dandivine",
+ "altTitles": [
+  "Juuоu Mujin Dandivine",
+  "獣王武神ダンデヴァイン"
+ ],
+ "studio": "LIDENFILMS",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1217257a72a30a5c916c6a52584d3ad4/a02b9c67f781e65af3e9471503abc4f4/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/10/dandivine.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/64344/1/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T00:48:24.371Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1217257a72a30a5c916c6a52584d3ad4/4078169e8a1571b925a55cacf4bd4a6b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/10/dandivine.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/64344/2/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:05:29.980Z"
+  }
+ ],
+ "_syncHash": "65dface54f7dc711"
+}

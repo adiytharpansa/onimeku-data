@@ -21,7 +21,7 @@
  "type": "ONA",
  "season": null,
  "anilistId": 207534,
- "country": null,
+ "country": "CN",
  "rawTitle": "aliens among immortals",
  "altTitles": [
   "盗妖行"
@@ -35,9 +35,8 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/aliens-among-immortals.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/169570/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:59:54.773Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T21:59:54.773Z"
   }
  ],
- "_syncHash": "3c073a4edd92a945"
+ "_syncHash": "f11c436e0df6b8cc"
 }
