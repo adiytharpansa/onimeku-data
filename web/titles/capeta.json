@@ -1,6 +1,6 @@
 {
  "id": "capeta",
- "title": "capeta",
+ "title": "Capeta",
  "poster": "https://media.kitsu.app/anime/poster_images/355/large.jpg",
  "banner": "https://media.kitsu.app/anime/poster_images/355/large.jpg",
  "synopsis": "Taira Kappeita, or Capeta, was a 4th grader boy. He had lost his mother when he had been very little. Although he pretended to be tough in front of his father, actually he felt lonely. One day, his father brought junk parts home from his workplace and made a racing cart. Soon, they went to a circuit to drive the cart. However, Capeta found that its frame was bent and it could hardly run straight. But, with his technique he managed the cart. Furthermore, he followed soon after the fast cart and he could nearly leave it behind. The driver in the cart was Minamoto Naomi, the champion of the East Japan Junior Cart. Looking at their chase, Naomi's mother, Minamoto Nanako, advised Capeta to take part in the official race.\n(Source: ANN)",
@@ -31,13 +31,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/6mdxtv0kic/qvjcjxkf46/g7n93p902s5fv2/master.m3u8",
-   "downloadUrl": "/download/mal/388/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/388/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/355/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/388/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-13T22:08:18.042Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:42:49.762Z"
   }
  ],
- "_syncHash": "2cf9ea8ad97b917d"
+ "_syncHash": "f63178244275bc1b"
 }

@@ -1,6 +1,6 @@
 {
  "id": "teasing-master-takagi-san",
- "title": "teasing master takagi san",
+ "title": "Teasing Master Takagi San",
  "poster": "https://media.kitsu.app/anime/poster_images/13635/large.jpg",
  "banner": "https://media.kitsu.app/anime/cover_images/13635/large.jpg",
  "synopsis": "Tired of being mercilessly teased by his classmate Takagi, Nishikata has vowed to get her back and successfully tease the girl that's made him blush countless times. After all, if you blush, you lose! But getting vengeance isn't so easy when every attempt blows up in his face. Will Nishikata ever make Takagi blush or will he gain something more fulfilling from his bumbling attempts?\n\n(Source: Funimation)",
@@ -33,49 +33,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/o88ggkc4rx/382nkei6ln/q48l3bz9d8a0z8/master.m3u8",
-   "downloadUrl": "/download/mal/35860/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/35860/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/13635/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/35860/1/sub",
-   "subtitles": [
-    {
-     "label": "Arabic",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/o88ggkc4rx/382nkei6ln/q48l3bz9d8a0z8/subs/pyahjgeiozl2nzys.vtt"
-    },
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/o88ggkc4rx/382nkei6ln/q48l3bz9d8a0z8/subs/7fjcpohhjss26ucy.vtt"
-    },
-    {
-     "label": "French",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/o88ggkc4rx/382nkei6ln/q48l3bz9d8a0z8/subs/gkk12uqfx0036juu.vtt"
-    },
-    {
-     "label": "German",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/o88ggkc4rx/382nkei6ln/q48l3bz9d8a0z8/subs/6ljvz3t1pxdqgdu4.vtt"
-    },
-    {
-     "label": "Italian",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/o88ggkc4rx/382nkei6ln/q48l3bz9d8a0z8/subs/yqw1e53b6o3mamn4.vtt"
-    },
-    {
-     "label": "Spanish",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/o88ggkc4rx/382nkei6ln/q48l3bz9d8a0z8/subs/ydh5ekqajrwc70sa.vtt"
-    },
-    {
-     "label": "Spanish 2",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/o88ggkc4rx/382nkei6ln/q48l3bz9d8a0z8/subs/hsbrkvm0gqn0v4lq.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:05:42.996Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:10.997Z"
   }
  ],
- "_syncHash": "282dcaa487c8d8e2"
+ "_syncHash": "afe60fbd857a8862"
 }

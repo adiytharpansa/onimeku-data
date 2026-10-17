@@ -1,6 +1,6 @@
 {
  "id": "jojos-bizarre-adventure-stone-ocean-part-3",
- "title": "jojos bizarre adventure stone ocean part 3",
+ "title": "Jojos Bizarre Adventure Stone Ocean Part 3",
  "poster": "https://media.kitsu.app/anime/46598/poster_image/large-063b5eaf158a884c75553444994d46bf.jpeg",
  "banner": "https://media.kitsu.app/anime/46598/cover_image/large-00f67c28065d2ae6bb1c619f1a4dc824.jpeg",
  "synopsis": "After finally escaping the confines of Green Dolphin Street Jail, Jolyne Cujoh—alongside her companions Ermes Costello and Emporio Alniño—pursues the villainous priest Enrico Pucci across the state of Florida. Jolyne's allies, Weather Report, and Narciso Anasui, struggle to catch up with her in order to help bring an end to Pucci's plot. As both parties pursue the priest, they must battle against Pucci's band of enemy Stand users.\n\nWhile Jolyne's comrades fight for their lives, Pucci races to the Kennedy Space Center. There he hopes to enact his ultimate goal, one he believes God has entrusted to him. He aims to fulfill the will of the Joestars' blood enemy Dio Brando and—by robbing humanity of free will and making them slaves to fate—to create a world where all humans are blissfully happy.\n\nUnable to rely on the aid of her comatose father Jotaro, Jolyne must weaponize all she has learned in prison to confront Pucci in a climactic battle while the world itself hangs in the balance.\n\n[Written by MAL Rewrite]",
@@ -28,19 +28,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/i1dqbmbi5m/ej45vlgzbt/jm9x2mx3picuf6/master.m3u8",
-   "downloadUrl": "/download/mal/53273/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/53273/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/46598/poster_image/large-063b5eaf158a884c75553444994d46bf.jpeg",
    "referer": "https://zokoanime.video/stream/mal/53273/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/i1dqbmbi5m/ej45vlgzbt/jm9x2mx3picuf6/subs/cqccespd0j6lvana.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:04:57.723Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:56.446Z"
   }
  ],
- "_syncHash": "38c551cf5edb8389"
+ "_syncHash": "bddcaab044fa4a41"
 }

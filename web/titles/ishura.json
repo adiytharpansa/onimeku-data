@@ -1,6 +1,6 @@
 {
  "id": "ishura",
- "title": "ishura",
+ "title": "Ishura",
  "poster": "https://media.kitsu.app/anime/47078/poster_image/large-dcad9806ed41e963d3cf838ec865a906.jpeg",
  "banner": "https://media.kitsu.app/anime/47078/cover_image/large-d817326343dcd10a4efb59c4e17ada66.jpeg",
  "synopsis": "In a world where the Demon King has died, a host of demigods capable of felling him have inherited the world: a master fencer who can figure out how to take out their opponent with a single glance; a lancer so swift they can break the sound barrier; a wyvern rogue who fights with three legendary weapons at once; an all-powerful wizard who can speak thoughts into being; and an angelic assassin who deals instant death. Eager to attain the title of “One True Hero,” these champions each pursue challenges against formidable foes and spark conflicts themselves. The battle to determine the mightiest of the mighty begins.\n\n(Source: Yen Press)",
@@ -13,7 +13,7 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:46:42.729Z",
+ "updatedAt": "2026-10-16T06:39:46.798Z",
  "type": null,
  "season": "WINTER",
  "anilistId": null,
@@ -27,7 +27,7 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/nw1do7vm2t/e6sstgof96/w4q7ftwf85zqn0/master.m3u8",
-   "downloadUrl": "/download/mal/54449/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/54449/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/47078/poster_image/large-dcad9806ed41e963d3cf838ec865a906.jpeg",
    "referer": "https://zokoanime.video/stream/mal/54449/1/sub",
    "subtitles": [
@@ -37,9 +37,8 @@
      "url": "https://hls.dramahot.top/v/scxqicy/nw1do7vm2t/e6sstgof96/w4q7ftwf85zqn0/subs/tiqtn49tmgx3efky.vtt"
     }
    ],
-   "addedAt": "2026-10-13T22:10:29.552Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T06:39:46.798Z"
   }
  ],
- "_syncHash": "51fbb226050a2f98"
+ "_syncHash": "20d41997a89d4019"
 }

@@ -1,6 +1,6 @@
 {
  "id": "wistoria-wand-and-sword",
- "title": "wistoria wand and sword",
+ "title": "Wistoria Wand and Sword",
  "poster": "https://media.kitsu.app/anime/48534/poster_image/large-703abd524d4c595bc05eaf5f3c3e1454.jpeg",
  "banner": "https://media.kitsu.app/anime/48534/cover_image/large-eb6c342c97a4609207dc9d23f08c7be6.jpeg",
  "synopsis": "A hard-working boy named Will enters a magic academy in hopes of becoming a great sorcerer. Unfortunately, there's a fatal flaw in his plan: he lacks the ability to use magic. Amid the cold stares of his classmates and instructors, Will feels discouraged at times, but he presses forward with unwavering determination. He can't use a wand, but he can wield a sword in his battle to reach the top of a magic-dominated world. He just needs to believe in his own unique strengths and remember the promise he made with someone precious to him...\n\n(Source: Crunchyroll)",
@@ -28,19 +28,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/8ftkkgylod/fz2zg5px0h/b3lfft4v44ronl/master.m3u8",
-   "downloadUrl": "/download/mal/58059/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/58059/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/48534/poster_image/large-703abd524d4c595bc05eaf5f3c3e1454.jpeg",
    "referer": "https://zokoanime.video/stream/mal/58059/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/8ftkkgylod/fz2zg5px0h/b3lfft4v44ronl/subs/bmojnf83yyxcsc7f.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:10:18.834Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:05.485Z"
   }
  ],
- "_syncHash": "28b556a6a359aa5f"
+ "_syncHash": "6522f05015b19f93"
 }

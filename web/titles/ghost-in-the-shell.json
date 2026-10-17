@@ -1,0 +1,54 @@
+{
+ "id": "ghost-in-the-shell",
+ "title": "Ghost in the Shell",
+ "poster": "https://media.kitsu.app/anime/25/poster_image/large-a571f1f78eb5147a952e6c333b32a16d.jpeg",
+ "banner": "https://media.kitsu.app/anime/cover_images/25/large.jpg",
+ "synopsis": "2029: A female cybernetic government agent, Major Motoko Kusanagi, and the Internal Bureau of Investigations are hot on the trail of “The Puppet Master,” a mysterious and threatening computer virus capable of infiltrating human hosts. Together with her fellow agents from Section 9, Kusanagi embarks on a high-tech race against time to capture the omnipresent entity.\n\n(Source: Lionsgate Films)",
+ "genres": [
+  "Action",
+  "Sci-Fi",
+  "Police",
+  "Psychological",
+  "Mecha"
+ ],
+ "score": 8.2,
+ "year": 1995,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  1,
+  2
+ ],
+ "updatedAt": "2026-10-15T15:55:55.052Z",
+ "type": "MOVIE",
+ "season": "FALL",
+ "anilistId": null,
+ "country": "JP",
+ "rawTitle": "ghost in the shell",
+ "altTitles": [
+  "GHOST IN THE SHELL（攻殻機動隊）"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ec8ce6abb3e952a85b8551ba726a1227/191918e14de837da0d90f7518ff79298/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/ghost-in-the-shell.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/58169/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:43.841Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://prx-1356-ant-w.vmpx.online/hls2/02/02632/7lqkp4c6kj8i_,n,l,.urlset/master.m3u8?t=xUYNFiaxlAwNMVhV_g4KGevcCYeHe8HSBY1T112Cp2k=&s=1792079754&e=43200&v=&srv=box-1500-u&i=0.4&sp=0&asn=8075",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/ghost-in-the-shell.jpg",
+   "referer": "https://vidmoly.biz/embed-7lqkp4c6kj8i.html",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:55:55.052Z"
+  }
+ ],
+ "_syncHash": "c4b05ad7ed9f8070"
+}

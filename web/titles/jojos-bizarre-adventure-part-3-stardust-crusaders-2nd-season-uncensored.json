@@ -1,6 +1,6 @@
 {
  "id": "jojos-bizarre-adventure-part-3-stardust-crusaders-2nd-season-uncensored",
- "title": "jojos bizarre adventure part 3 stardust crusaders 2nd season uncensored",
+ "title": "Jojos Bizarre Adventure Part 3 Stardust Crusaders 2nd Season Uncensored",
  "poster": "https://shikimori.one/system/animes/original/26055.jpg?1711956303",
  "banner": "https://shikimori.one/system/animes/original/26055.jpg?1711956303",
  "synopsis": "",
@@ -25,54 +25,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/oj3mm35x69/9n740jwaz8/bekbhx44fyadcx/master.m3u8",
-   "downloadUrl": "/download/mal/26055/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/26055/1/sub",
+   "thumbnail": "https://shikimori.one/system/animes/original/26055.jpg?1711956303",
    "referer": "https://zokoanime.video/stream/mal/26055/1/sub",
-   "subtitles": [
-    {
-     "label": "Arabic",
-     "lang": "ar",
-     "url": "https://hls.dramahot.top/v/scxqicy/oj3mm35x69/9n740jwaz8/bekbhx44fyadcx/subs/cjjek39u51jeym9l.vtt"
-    },
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/oj3mm35x69/9n740jwaz8/bekbhx44fyadcx/subs/9k0ovbpnj1wicmme.vtt"
-    },
-    {
-     "label": "French",
-     "lang": "fr",
-     "url": "https://hls.dramahot.top/v/scxqicy/oj3mm35x69/9n740jwaz8/bekbhx44fyadcx/subs/6exgec29yvdwt62j.vtt"
-    },
-    {
-     "label": "German",
-     "lang": "de",
-     "url": "https://hls.dramahot.top/v/scxqicy/oj3mm35x69/9n740jwaz8/bekbhx44fyadcx/subs/8ylnznft4ohk8pkf.vtt"
-    },
-    {
-     "label": "Italian",
-     "lang": "it",
-     "url": "https://hls.dramahot.top/v/scxqicy/oj3mm35x69/9n740jwaz8/bekbhx44fyadcx/subs/nb7jdvb1bx69vocu.vtt"
-    },
-    {
-     "label": "Portuguese (Portuguese - Brazilian)",
-     "lang": "pt",
-     "url": "https://hls.dramahot.top/v/scxqicy/oj3mm35x69/9n740jwaz8/bekbhx44fyadcx/subs/shjj24sddlb6ifsm.vtt"
-    },
-    {
-     "label": "Spanish (- Spanish[ESP])",
-     "lang": "es",
-     "url": "https://hls.dramahot.top/v/scxqicy/oj3mm35x69/9n740jwaz8/bekbhx44fyadcx/subs/yncgzdltgzqrwqz0.vtt"
-    },
-    {
-     "label": "Spanish (- Spanish[LAT])",
-     "lang": "es",
-     "url": "https://hls.dramahot.top/v/scxqicy/oj3mm35x69/9n740jwaz8/bekbhx44fyadcx/subs/ts20c7kndbju5yfg.vtt"
-    }
-   ],
-   "addedAt": "2026-10-14T02:15:33.796Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:44.648Z"
   }
  ],
- "_syncHash": "7cdf53b4452f1b40"
+ "_syncHash": "7f7610773bf6a55d"
 }

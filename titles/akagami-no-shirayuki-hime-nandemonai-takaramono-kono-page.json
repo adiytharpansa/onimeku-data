@@ -1,0 +1,44 @@
+{
+ "id": "akagami-no-shirayuki-hime-nandemonai-takaramono-kono-page",
+ "title": "Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page",
+ "poster": "https://anizone.to/images/anime/62253e13-0cc8-4a53-8a66-cf1962962f3e.jpg",
+ "banner": "",
+ "synopsis": "The OAD will adapt three chapters from the original manga. The OAD is adapting the 41st chapter of the manga where Shirayuki and Zen go on a date in the castle town. The anime is also adapting a special chapter from volume seven — which follows Prince Raji as a child — as well as a special chapter from volume 11 that chronicles how Zen, Mitsuhide, and Kiki first met.\n\n(Source: Anime News Network)",
+ "genres": [],
+ "score": null,
+ "year": 2016,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-17T09:48:55.746Z",
+ "type": "OVA",
+ "season": null,
+ "anilistId": null,
+ "country": "JP",
+ "rawTitle": "Akagami no Shirayuki-hime: Nandemonai Takaramono, Kono Page",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://suzaku.xin-cdn.xyz/8a311ddc-6aaa-4f1d-9c90-9eb39d871b84/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/62253e13-0cc8-4a53-8a66-cf1962962f3e.jpg",
+   "referer": "https://anizone.to/anime/sorzddrx/1",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://suzaku.xin-cdn.xyz/8a311ddc-6aaa-4f1d-9c90-9eb39d871b84/subtitles/0_en.ass",
+     "referer": "https://anizone.to/anime/sorzddrx/1"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T09:48:55.746Z"
+  }
+ ],
+ "_syncHash": "7bd01a920c86412a"
+}

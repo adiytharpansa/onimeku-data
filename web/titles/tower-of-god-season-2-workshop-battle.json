@@ -1,6 +1,6 @@
 {
  "id": "tower-of-god-season-2-workshop-battle",
- "title": "tower of god season 2 workshop battle",
+ "title": "Tower of God Season 2 Workshop Battle",
  "poster": "https://media.kitsu.app/anime/49244/poster_image/large-f27384e2fc73850200e9182bc567cda2.jpeg",
  "banner": "https://media.kitsu.app/anime/49244/cover_image/large-547418ceadb806531365e1efba0a1efa.jpeg",
  "synopsis": "Second part of Tower of God Season 2.",
@@ -13,7 +13,7 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:46:40.886Z",
+ "updatedAt": "2026-10-16T06:41:17.985Z",
  "type": null,
  "season": "FALL",
  "anilistId": null,
@@ -28,7 +28,7 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/v1f6v9kr55/xii2fo9j9z/6f0fte9kb0xbqe/master.m3u8",
-   "downloadUrl": "/download/mal/59989/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/59989/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/49244/poster_image/large-f27384e2fc73850200e9182bc567cda2.jpeg",
    "referer": "https://zokoanime.video/stream/mal/59989/1/sub",
    "subtitles": [
@@ -38,9 +38,22 @@
      "url": "https://hls.dramahot.top/v/scxqicy/v1f6v9kr55/xii2fo9j9z/6f0fte9kb0xbqe/subs/f981vq1unrqhgoro.vtt"
     }
    ],
-   "addedAt": "2026-10-13T22:10:50.785Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T06:41:17.985Z"
   }
  ],
- "_syncHash": "36b5968d78124feb"
+ "variants": [
+  {
+   "id": "tower-of-god-season-2-workshop-battle",
+   "title": "Tower of God Season 2 Workshop Battle",
+   "variantType": "sub",
+   "episodeCount": 1
+  },
+  {
+   "id": "tower-of-god-season-2-workshop-battle-dub",
+   "title": "Tower of God Season 2: Workshop Battle",
+   "variantType": "dub",
+   "episodeCount": 12
+  }
+ ],
+ "_syncHash": "63be2297edf20abf"
 }

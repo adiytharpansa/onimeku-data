@@ -1,6 +1,6 @@
 {
  "id": "mono",
- "title": "mono",
+ "title": "Mono",
  "poster": "https://media.kitsu.app/anime/poster_images/6974/large.jpg",
  "banner": "https://media.kitsu.app/anime/cover_images/6974/large.jpg",
  "synopsis": "Episode 11.5, an OVA bundled with the third volume of the manga. Oreki Houtarou gets a job at a swimming pool.",
@@ -32,13 +32,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/ywy2dijkb4/hsl6vg5skn/5hx8llh81m8f0w/master.m3u8",
-   "downloadUrl": "/download/mal/58492/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/58492/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/poster_images/6974/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/58492/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-13T22:19:25.574Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:46:20.904Z"
   }
  ],
- "_syncHash": "0a4053e513b5068c"
+ "_syncHash": "b7df7b536c6e1a37"
 }

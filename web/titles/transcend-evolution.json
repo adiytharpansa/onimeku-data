@@ -1,6 +1,6 @@
 {
  "id": "transcend-evolution",
- "title": "transcend evolution",
+ "title": "Transcend Evolution",
  "poster": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767696718-9849-1767695782-1883-154589.jpg",
  "banner": "",
  "synopsis": "",
@@ -9,15 +9,20 @@
  "year": null,
  "status": "",
  "totalEpisodes": null,
- "latestEpisode": 5,
+ "latestEpisode": 13,
  "episodeNumbers": [
   1,
   2,
   3,
   4,
-  5
+  5,
+  8,
+  9,
+  10,
+  12,
+  13
  ],
- "updatedAt": "2026-10-15T15:41:09.689Z",
+ "updatedAt": "2026-10-16T07:21:47.440Z",
  "type": null,
  "season": null,
  "anilistId": null,
@@ -33,8 +38,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767696718-9849-1767695782-1883-154589.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/161689/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T02:57:16.438Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T02:57:16.438Z"
   },
   {
    "number": 2,
@@ -43,8 +47,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767696718-9849-1767695782-1883-154589.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/161693/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T18:01:25.943Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T18:01:25.943Z"
   },
   {
    "number": 3,
@@ -53,8 +56,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767696718-9849-1767695782-1883-154589.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/161697/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T19:18:15.241Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T19:18:15.241Z"
   },
   {
    "number": 4,
@@ -63,8 +65,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767696718-9849-1767695782-1883-154589.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/161701/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T19:43:26.029Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T19:43:26.029Z"
   },
   {
    "number": 5,
@@ -73,9 +74,53 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767696718-9849-1767695782-1883-154589.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/162029/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:44:14.087Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:44:14.087Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/84ea0c4404a7d81172e8c82931ab90e0/997b34b79cc0686bdeff27a5f086a602/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767696718-9849-1767695782-1883-154589.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/166441/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T05:31:31.049Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/84ea0c4404a7d81172e8c82931ab90e0/b9c6c9227e6a7743198bdb1279098806/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767696718-9849-1767695782-1883-154589.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/166445/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T05:51:18.130Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/84ea0c4404a7d81172e8c82931ab90e0/8143cfcf494867e0d381bcebf1a4bd76/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767696718-9849-1767695782-1883-154589.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/166449/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T14:42:21.659Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/84ea0c4404a7d81172e8c82931ab90e0/8494edf8dbf387f21ea4f28276ec11bd/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767696718-9849-1767695782-1883-154589.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/167309/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:47.440Z"
+  },
+  {
+   "number": 13,
+   "streamUrl": "https://fetch.nexabloom.top/anime/84ea0c4404a7d81172e8c82931ab90e0/a9bbcf25250fffca988c572da8fa81d5/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767696718-9849-1767695782-1883-154589.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/167313/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:09.689Z"
   }
  ],
- "_syncHash": "c2b47be9bcbcafdc"
+ "_syncHash": "33d3ae4f550e53c3"
 }

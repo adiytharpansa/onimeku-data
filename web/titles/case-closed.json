@@ -1,0 +1,59 @@
+{
+ "id": "case-closed",
+ "title": "Case Closed",
+ "poster": "https://lain.bgm.tv/pic/cover/l/0f/21/2972_bBpub.jpg",
+ "banner": "",
+ "synopsis": "Over the past four and a half decades, the so-called D.B. Cooper skyjacking case has captivated countless armchair detectives - not to mention teams of FBI investigators - hoping to finally crack the nation's only unsolved act of air piracy. Now a California man, who has assembled a team of investigators, thinks he may have finally solved case, which will be detailed in the two-part History Channel special D.B. Cooper: Case Closed? that airs on Sunday and Monday.",
+ "genres": [
+  "Crime",
+  "Mystery"
+ ],
+ "score": 7.8,
+ "year": 2002,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:42:35.505Z",
+ "type": null,
+ "season": "SPRING",
+ "anilistId": null,
+ "country": null,
+ "rawTitle": "case closed",
+ "altTitles": [
+  "名探偵コナン ベイカー街の亡霊",
+  "名侦探柯南 贝克街的亡灵",
+  "Case Closed: The Phantom of Baker Street",
+  "2002年4月20日",
+  "107分钟"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/bc6dc48b743dc5d013b1abaebd2faed2/f53257956571173d1a6eaf59be8f8909/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1760234592-2709-1726319509-1067-75199.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/6223/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:35.505Z"
+  }
+ ],
+ "variants": [
+  {
+   "id": "case-closed",
+   "title": "Case Closed",
+   "variantType": "sub",
+   "episodeCount": 1
+  },
+  {
+   "id": "case-closed-dub",
+   "title": "Case Closed",
+   "variantType": "dub",
+   "episodeCount": 5
+  }
+ ],
+ "_syncHash": "8131237bd0cac859"
+}

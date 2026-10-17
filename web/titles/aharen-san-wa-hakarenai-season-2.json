@@ -5,27 +5,24 @@
  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/179979-1HbnatpG0e4R.jpg",
  "synopsis": "Musim ke-2 dari anime Aharen san wa Hakarenai Tonton Juga: Aharen san wa Hakarenai Season 1 Interwin | Interwin | Interwin | INTERWIN | live sdy | Interwin | in...",
  "genres": [
-  "Fantasy",
-  "Historical",
-  "Romance",
   "Action",
+  "Comedy",
   "Ecchi",
-  "Harem",
-  "Demons",
-  "Supernatural",
-  "Drama",
+  "Fantasy",
   "School",
-  "Seinen",
+  "Shounen",
+  "Adventure",
+  "Drama",
+  "Historical",
+  "Isekai",
+  "Reincarnation",
   "Music",
   "Performing Arts",
-  "Comedy",
   "Gag Humor",
   "Parody",
   "Samurai",
   "Sci-Fi",
-  "Shounen",
-  "Isekai",
-  "Reincarnation",
+  "Supernatural",
   "Gore",
   "Urban Fantasy"
  ],
@@ -37,13 +34,16 @@
  "episodeNumbers": [
   1,
   2,
+  3,
   4,
   6,
+  7,
   8,
   10,
+  11,
   12
  ],
- "updatedAt": "2026-10-16T17:18:47.491Z",
+ "updatedAt": "2026-10-17T11:01:56.959Z",
  "type": "TV",
  "season": "SPRING",
  "anilistId": 179979,
@@ -71,8 +71,20 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2025/04/Aharen-san-wa-Hakarenai-Season-2.jpg",
    "referer": "https://v2.samehadaku.how/aharen-san-wa-hakarenai-season-2-episode-2/",
    "subtitles": [],
-   "addedAt": "2026-10-16T17:18:40.692Z",
-   "customSubs": []
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T09:26:34.095Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dxtEedh4d4AIshmIpSjpbayw22HmuXuFkLWgZcV7SCZaBqjStPJJo5gSpUzaT2oH_vx-Emr5mshSRGqSlQohGcJyEN9EAkvSUs5ZQreqEUHxE_acWaQrqJPVweEwzbtI9fIKTJ1",
+   "downloadUrl": "https://pixeldrain.com/api/file/cAw6AQSU",
+   "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2025/04/Aharen-san-wa-Hakarenai-Season-2.jpg",
+   "referer": "https://v2.samehadaku.how/aharen-san-wa-hakarenai-season-2-episode-3/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T11:01:53.066Z"
   },
   {
    "number": 4,
@@ -81,8 +93,9 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2025/04/Aharen-san-wa-Hakarenai-Season-2.jpg",
    "referer": "https://v2.samehadaku.how/aharen-san-wa-hakarenai-season-2-episode-4/",
    "subtitles": [],
-   "addedAt": "2026-10-16T17:18:42.773Z",
-   "customSubs": []
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T09:26:35.695Z"
   },
   {
    "number": 6,
@@ -91,8 +104,20 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2025/04/Aharen-san-wa-Hakarenai-Season-2.jpg",
    "referer": "https://v2.samehadaku.how/aharen-san-wa-hakarenai-season-2-episode-6/",
    "subtitles": [],
-   "addedAt": "2026-10-16T17:18:43.959Z",
-   "customSubs": []
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T09:26:37.539Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dzUr3ChB4sl_Bvf9lkFFrSJkg6O37pqq3uszNBHjrtR9TZcFIs7AUgUTwin7qfBQ8WO8jmy3cW66Q6sldjF4xAs0j7RIXwAEoTEx3DLfxi98Z0nCcmFBeAODWjVqnfclWItPt3s",
+   "downloadUrl": "https://pixeldrain.com/api/file/X1R2kn7j",
+   "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2025/04/Aharen-san-wa-Hakarenai-Season-2.jpg",
+   "referer": "https://v2.samehadaku.how/aharen-san-wa-hakarenai-season-2-episode-7/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T11:01:55.594Z"
   },
   {
    "number": 8,
@@ -115,6 +140,17 @@
    "customSubs": []
   },
   {
+   "number": 11,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dwj1VOACwVCh2_vsa6_QK-Qzl03OrFMf4nyl7pa37dzzB4Z9jQYZYHOcGbOSl6l6uuI4W5vR2LHuL30AW57tzxE8SyaRSxLDW3Odb5hF4iKFMadXiiAMg3xJz8dcQEvoeg-5LDh",
+   "downloadUrl": "https://pixeldrain.com/api/file/WoUx3TEK",
+   "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2025/04/Aharen-san-wa-Hakarenai-Season-2.jpg",
+   "referer": "https://v2.samehadaku.how/aharen-san-wa-hakarenai-season-2-episode-11/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T11:01:56.959Z"
+  },
+  {
    "number": 12,
    "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dyuRjsA15BoJ0hwq6YzU1oYoj8dgENRpgk_qsiDrrIOGafOpazGkx3bn5B-DV-3UotpIFf3wd5VkMxIvTC0WTPCVVjBB6O_YZ9sphR9e9Bm1JDVY8QVV0bl0lflh_yUM_CF3mQ",
    "downloadUrl": null,
@@ -125,5 +161,19 @@
    "customSubs": []
   }
  ],
- "_syncHash": "f9aef4b88c76a2e3"
+ "variants": [
+  {
+   "id": "aharen-san-wa-hakarenai-season-2",
+   "title": "Aharen san wa Hakarenai Season 2",
+   "variantType": "sub",
+   "episodeCount": 10
+  },
+  {
+   "id": "aharen-san-wa-hakarenai-season-2-dub",
+   "title": "Aharen Is Indecipherable Season 2",
+   "variantType": "dub",
+   "episodeCount": 4
+  }
+ ],
+ "_syncHash": "31df836667e1b5d0"
 }

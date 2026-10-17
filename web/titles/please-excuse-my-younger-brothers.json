@@ -28,13 +28,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/6u6ogggcdh/31ra11c142/im54vahmur3otb/master.m3u8",
-   "downloadUrl": null,
+   "downloadUrl": "https://zokoanime.video/download/mal/63061/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/50797/poster_image/large-aeb7b35ce12860b5fe68e1886150afd0.jpeg",
    "referer": "https://zokoanime.video/stream/mal/63061/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-14T00:28:10.347Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:45:29.010Z"
   }
  ],
- "_syncHash": "7863466897e29180"
+ "_syncHash": "bb605dce56451070"
 }

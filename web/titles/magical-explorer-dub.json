@@ -1,0 +1,68 @@
+{
+ "id": "magical-explorer-dub",
+ "title": "Magical Explorer",
+ "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/47985/poster_image/62a2090f3ebb0e109feba38571716180.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20261017%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20261017T035708Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=b39ffabc85c861ccd2bbb7d76e9a122a63dd37cdd04ccf3107f2ce70f1735615",
+ "banner": "",
+ "synopsis": "Few titles are more revered among horndogs-(ahem) connoisseurs of Japanese erotic video games-than Magical Explorer. One day, our smut-loving hero wakes up to find he has been reincarnated into the body of the game’s dreamboat protagonist! Or rather, his hapless comic-relief best friend, Kousuke Takioto. But with his unparalleled knowledge of Magical Explorer and Kousuke’s unorthodox abilities (a scarf that doubles as a fist?), our hero vows to turn the game’s unluckiest loser into its mightiest heartthrob. In this world, nothing is out of reach when you’ve got the know-how!\n\n\n\n(Source: Yen Press)\n\n\n\nNote: Each episode streamed 1 week early on ABEMA and d anime store. The original TV broadcast started on October 4th, 2026.",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Ecchi",
+  "Fantasy",
+  "Romance"
+ ],
+ "score": 6.8,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 13,
+ "latestEpisode": 3,
+ "episodeNumbers": [
+  1,
+  3
+ ],
+ "updatedAt": "2026-10-17T08:11:44.773Z",
+ "type": "ONA",
+ "season": null,
+ "anilistId": 169581,
+ "country": null,
+ "rawTitle": "Magical Explorer (Dub)",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8b33316019ed213719eb4f22151d08b1/f249dd6d13d5da435d408dee8db17e10/master.m3u8?token=MTc5MjIwOTQ0MHw4YjMzMzE2MDE5ZWQyMTM3MTllYjRmMjIxNTFkMDhiMS9mMjQ5ZGQ2ZDEzZDVkYTQzNWQ0MDhkZWU4ZGIxN2UxMA.1RmHKMgx9ACWcsg2jjIhxfyqU2awQyjCbqHY3LCZkZ4",
+   "downloadUrl": null,
+   "thumbnail": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/47985/poster_image/62a2090f3ebb0e109feba38571716180.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20261017%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20261017T035708Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=b39ffabc85c861ccd2bbb7d76e9a122a63dd37cdd04ccf3107f2ce70f1735615",
+   "referer": "https://megaplay.buzz/",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8b33316019ed213719eb4f22151d08b1/f249dd6d13d5da435d408dee8db17e10/subtitles/track_0_eng.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T08:11:39.563Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8b33316019ed213719eb4f22151d08b1/8ea2c0a33e3e510b1f3bc2308238033a/master.m3u8?token=MTc5MjIwOTQ1OHw4YjMzMzE2MDE5ZWQyMTM3MTllYjRmMjIxNTFkMDhiMS84ZWEyYzBhMzNlM2U1MTBiMWYzYmMyMzA4MjM4MDMzYQ.SFMfQNmtNCCIdjlrSwY-vZvvA_5ekgu3kyZMcz0uuPY",
+   "downloadUrl": null,
+   "thumbnail": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/47985/poster_image/62a2090f3ebb0e109feba38571716180.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20261017%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20261017T035708Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=b39ffabc85c861ccd2bbb7d76e9a122a63dd37cdd04ccf3107f2ce70f1735615",
+   "referer": "https://megaplay.buzz/",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8b33316019ed213719eb4f22151d08b1/8ea2c0a33e3e510b1f3bc2308238033a/subtitles/track_0_eng.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T08:11:44.773Z"
+  }
+ ],
+ "_syncHash": "32abaeea84fa3c04"
+}

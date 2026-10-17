@@ -13,7 +13,7 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:44:42.690Z",
+ "updatedAt": "2026-10-16T07:48:19.866Z",
  "type": null,
  "season": "SPRING",
  "anilistId": null,
@@ -28,7 +28,7 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/ehlpnh7j8u/7b14og4jof/5291vka4jttb70/master.m3u8",
-   "downloadUrl": "/download/mal/56738/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/56738/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/47984/poster_image/large-84f91db4e441c63d0ce40e7e5127cd42.jpeg",
    "referer": "https://zokoanime.video/stream/mal/56738/1/sub",
    "subtitles": [
@@ -38,9 +38,8 @@
      "url": "https://hls.dramahot.top/v/scxqicy/ehlpnh7j8u/7b14og4jof/5291vka4jttb70/subs/6vctiofgkzandyf5.vtt"
     }
    ],
-   "addedAt": "2026-10-14T02:20:22.045Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T07:48:19.866Z"
   }
  ],
- "_syncHash": "66e6b9cf1f9211eb"
+ "_syncHash": "4e53df1a6320065c"
 }

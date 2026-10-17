@@ -1,0 +1,57 @@
+{
+ "id": "blue-lock-episode-nagi",
+ "title": "Blue Lock the Movie -Episode Nagi-",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx163147-yyu5aEoO96Jg.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/163147-V6c9XjfvGE0M.jpg",
+ "synopsis": "My life was full of boredom. Until I met him.\n\n\n\n“That’s a hassle.”  \n\n That was second-year high schooler Nagi Seishirou’s favorite phrase as he lived his dull life. Until Reo Mikage, a classmate who dreamed of winning the World Cup, discovered Nagi’s hidden skill, inspiring him to play soccer and share his outstanding talent. Nagi is pulled into Reo's world of soccer and out of his leisurely lifestyle. What fate awaits this prodigy in BLUE LOCK?: A world he’s never known.\n\n\n\n(Source: Crunchyroll, edited)",
+ "genres": [
+  "Action",
+  "Drama",
+  "Sports"
+ ],
+ "score": 7.3,
+ "year": 2024,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:41:39.401Z",
+ "type": "MOVIE",
+ "season": "SPRING",
+ "anilistId": 163147,
+ "country": "JP",
+ "rawTitle": "blue lock episode nagi",
+ "altTitles": [
+  "Blue Lock: EPISODE Nagi",
+  "ブルーロック -EPISODE 凪-"
+ ],
+ "studio": "8-bit",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3b711f9b6132fbe397bc5ff44c46133a/68c80a2143572d36a91e7753af620e12/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock-episode-nagi.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/128666/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:39.401Z"
+  }
+ ],
+ "variants": [
+  {
+   "id": "blue-lock-episode-nagi",
+   "title": "Blue Lock the Movie -Episode Nagi-",
+   "variantType": "sub",
+   "episodeCount": 1
+  },
+  {
+   "id": "blue-lock-episode-nagi-dub",
+   "title": "Blue Lock the Movie -Episode Nagi-",
+   "variantType": "dub",
+   "episodeCount": 1
+  }
+ ],
+ "_syncHash": "6768787bc0788e16"
+}

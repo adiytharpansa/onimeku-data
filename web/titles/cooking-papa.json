@@ -1,0 +1,41 @@
+{
+ "id": "cooking-papa",
+ "title": "Cooking Papa",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx8123-wJO9M6IqTl4I.png",
+ "banner": "",
+ "synopsis": "The story of Mr. Araiwa and his family. He is a model employee in a large enterprise, but becomes a completely different character at home. He is very keen on cooking and lets pass no occasion to cook delicious dishes for his wife, who is frequently occupied by her work as a journalist, or his young son.\n\n\n(Source: AniDB)",
+ "genres": [
+  "Comedy",
+  "Slice of Life"
+ ],
+ "score": 6.3,
+ "year": 1992,
+ "status": "FINISHED",
+ "totalEpisodes": 151,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:42:58.345Z",
+ "type": "TV",
+ "season": "SPRING",
+ "anilistId": 8123,
+ "country": "JP",
+ "rawTitle": "cooking papa",
+ "altTitles": [
+  "クッキングパパ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/9704a4fc48ae88598dcbdcdf57f3fdef/186eecae47ce476d98b25386e1836a74/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/cooking-papa.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136025/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:58.345Z"
+  }
+ ],
+ "_syncHash": "5dab75076297190c"
+}

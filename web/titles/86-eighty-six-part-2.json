@@ -16,9 +16,17 @@
  "totalEpisodes": 12,
  "latestEpisode": 12,
  "episodeNumbers": [
+  1,
   2,
+  3,
+  4,
+  5,
   6,
+  7,
+  8,
+  9,
   10,
+  11,
   12
  ],
  "updatedAt": "2026-10-16T21:47:46.818Z",
@@ -34,14 +42,49 @@
  "studio": "A-1 Pictures",
  "episodes": [
   {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7a101913ba86716f839a622ab65bdf3d/a5ad0df065b834175073b1d0af414aff/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six-part-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/83401/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T01:00:08.764Z"
+  },
+  {
    "number": 2,
    "streamUrl": "https://fetch.nexabloom.top/anime/7a101913ba86716f839a622ab65bdf3d/91b091a23e3f9bedb7a0c513200f7ed5/master.m3u8",
    "downloadUrl": null,
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six-part-2.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/83402/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T09:47:09.593Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T09:47:09.593Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7a101913ba86716f839a622ab65bdf3d/1d188521fa406d1f981908ef4ad1375c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six-part-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/83682/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:39.987Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7a101913ba86716f839a622ab65bdf3d/a5a1d4a51fb611ff6013bee402bb8ef0/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six-part-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/83791/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:40.887Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7a101913ba86716f839a622ab65bdf3d/37148c84918a774f89ca412d266ad882/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six-part-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/83884/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:42.118Z"
   },
   {
    "number": 6,
@@ -50,8 +93,34 @@
    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131586-JhC0wcBi09EZ.jpg",
    "referer": "https://anv.to/",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:47:42.981Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T21:47:42.981Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7a101913ba86716f839a622ab65bdf3d/6b69708b4cff3a82fd252f664906b4a5/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six-part-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/84086/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:44.050Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7a101913ba86716f839a622ab65bdf3d/a60de29ca112497b3d6e2b5e993e05d8/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six-part-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/84960/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:45.059Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7a101913ba86716f839a622ab65bdf3d/bc8331dfbb440ce7d892003098f19b7b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six-part-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/84961/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:45.853Z"
   },
   {
    "number": 10,
@@ -60,8 +129,16 @@
    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131586-JhC0wcBi09EZ.jpg",
    "referer": "https://anv.to/",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:47:45.098Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T21:47:45.098Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7a101913ba86716f839a622ab65bdf3d/9bba3279aa36e81aa010e54934102cc7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six-part-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/85344/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:24:22.664Z"
   },
   {
    "number": 12,
@@ -70,9 +147,8 @@
    "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx131586-JhC0wcBi09EZ.jpg",
    "referer": "https://anv.to/",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:47:46.818Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T21:47:46.818Z"
   }
  ],
- "_syncHash": "617dd5c7dcd4e478"
+ "_syncHash": "81d76203eeaed2ea"
 }

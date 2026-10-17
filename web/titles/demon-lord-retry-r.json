@@ -1,6 +1,6 @@
 {
  "id": "demon-lord-retry-r",
- "title": "demon lord retry r",
+ "title": "Demon Lord Retry R",
  "poster": "https://media.kitsu.app/anime/47881/poster_image/large-9e5285ccc063339a57c94b29d1e50f8b.jpeg",
  "banner": "https://media.kitsu.app/anime/47881/poster_image/large-9e5285ccc063339a57c94b29d1e50f8b.jpeg",
  "synopsis": "The Demon Lord continues his adventure in this re-vamped series! After encountering the mysterious entity in the lowest level of the Bastille Dungeon, he sets out for Hellion Territory, where Grand Devils vie for domination of the realm. With the addition of a new advisor—the (seemingly) hopeless optimist Akane—the Demon Lord’s army grows even more colorful, and their hijinks even wackier.\n\n(Source: J-Novel Club)",
@@ -28,19 +28,26 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/idq8ad48yj/8lvsloyfrc/37a7fqpchk7ahd/master.m3u8",
-   "downloadUrl": "/download/mal/56400/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/56400/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/47881/poster_image/large-9e5285ccc063339a57c94b29d1e50f8b.jpeg",
    "referer": "https://zokoanime.video/stream/mal/56400/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/idq8ad48yj/8lvsloyfrc/37a7fqpchk7ahd/subs/qka7l9hfier84d62.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:11:02.093Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:08.460Z"
   }
  ],
- "_syncHash": "f721bd2640c47bb3"
+ "variants": [
+  {
+   "id": "demon-lord-retry-r",
+   "title": "Demon Lord Retry R",
+   "variantType": "sub",
+   "episodeCount": 1
+  },
+  {
+   "id": "demon-lord-retry-r-dub",
+   "title": "Demon Lord, Retry! R",
+   "variantType": "dub",
+   "episodeCount": 2
+  }
+ ],
+ "_syncHash": "13ff61e9dc29d123"
 }

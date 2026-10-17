@@ -13,10 +13,11 @@
  "year": 2026,
  "status": "RELEASING",
  "totalEpisodes": null,
- "latestEpisode": 2,
+ "latestEpisode": 3,
  "episodeNumbers": [
   1,
-  2
+  2,
+  3
  ],
  "updatedAt": "2026-10-15T23:46:19.915Z",
  "type": "ONA",
@@ -37,8 +38,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/09/a-wild-last-boss-appeared-season-2.webp",
    "referer": "https://megaplay.buzz/stream/mal/63140/1/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T19:22:27.458Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T19:22:27.458Z"
   },
   {
    "number": 2,
@@ -47,9 +47,17 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/09/a-wild-last-boss-appeared-season-2.webp",
    "referer": "https://megaplay.buzz/stream/mal/63140/2/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T23:46:19.915Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T23:46:19.915Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/d2c40040f2351d9c355630c2b4d44eb3/7097f6c2ad7b895db3ebe79d5b71b30a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/09/a-wild-last-boss-appeared-season-2.webp",
+   "referer": "https://megaplay.buzz/stream/mal/63140/3/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T04:26:02.057Z"
   }
  ],
- "_syncHash": "a2f9842691658df1"
+ "_syncHash": "af2dfe79fa87d3c2"
 }

@@ -12,8 +12,16 @@
  "latestEpisode": 12,
  "episodeNumbers": [
   1,
+  2,
+  3,
   4,
+  5,
   6,
+  7,
+  8,
+  9,
+  10,
+  11,
   12
  ],
  "updatedAt": "2026-10-16T22:11:03.051Z",
@@ -35,8 +43,25 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-journey-through-another-world-raising-kids-while-adventuring-dub.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/125869/dub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T20:31:40.222Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T20:31:40.222Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/44e88d3cdaf008900484f92ba4c6c51b/e0999ecafdfd54d72f1a40c49c7754a8/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-journey-through-another-world-raising-kids-while-adventuring-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/125870/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:37.727Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/44e88d3cdaf008900484f92ba4c6c51b/aa0d77c5001a0f844f4f9fedf1af6ae3/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-journey-through-another-world-raising-kids-while-adventuring-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/126183/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:38.745Z"
   },
   {
    "number": 4,
@@ -45,8 +70,16 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-journey-through-another-world-raising-kids-while-adventuring-dub.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/126524/dub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:10:52.138Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:10:52.138Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/44e88d3cdaf008900484f92ba4c6c51b/721125e6c053f1c34bddbb5f8e9f72e3/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-journey-through-another-world-raising-kids-while-adventuring-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/126752/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:40.567Z"
   },
   {
    "number": 6,
@@ -55,8 +88,52 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-journey-through-another-world-raising-kids-while-adventuring-dub.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/126980/dub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:10:54.706Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:10:54.706Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/44e88d3cdaf008900484f92ba4c6c51b/58eedaec71688d4f875979fad4084db6/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-journey-through-another-world-raising-kids-while-adventuring-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/127131/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:42.398Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/44e88d3cdaf008900484f92ba4c6c51b/1cc87299b8de690eb500c4a3680b014a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-journey-through-another-world-raising-kids-while-adventuring-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/127532/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:51.389Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/44e88d3cdaf008900484f92ba4c6c51b/4f358f23f462ee4380e2e9b031e02b7e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-journey-through-another-world-raising-kids-while-adventuring-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/127699/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:43.948Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/44e88d3cdaf008900484f92ba4c6c51b/8a1c1e9906eebe0c2fad5603c868169e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-journey-through-another-world-raising-kids-while-adventuring-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/127868/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:44.549Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/44e88d3cdaf008900484f92ba4c6c51b/f592a2fd40f171f32b400c668ea17c5b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-journey-through-another-world-raising-kids-while-adventuring-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/127952/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:45.536Z"
   },
   {
    "number": 12,
@@ -65,9 +142,8 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-journey-through-another-world-raising-kids-while-adventuring-dub.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/128136/dub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:11:03.051Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:11:03.051Z"
   }
  ],
- "_syncHash": "d48b1228ed047bcc"
+ "_syncHash": "a1981208689f3bbb"
 }

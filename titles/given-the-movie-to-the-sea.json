@@ -1,6 +1,6 @@
 {
  "id": "given-the-movie-to-the-sea",
- "title": "given the movie to the sea",
+ "title": "Given the Movie to the Sea",
  "poster": "https://shikimori.one/system/animes/original/58222.jpg?1716642456",
  "banner": "https://shikimori.one/system/animes/original/58222.jpg?1716642456",
  "synopsis": "",
@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": "JP",
  "rawTitle": "given the movie to the sea",
  "altTitles": [],
  "studio": null,
@@ -24,19 +25,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/jg2khrsp2w/m3dgtk4pa6/8vxo2rycpzljti/master.m3u8",
-   "downloadUrl": "/download/mal/58222/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/58222/1/sub",
+   "thumbnail": "https://shikimori.one/system/animes/original/58222.jpg?1716642456",
    "referer": "https://zokoanime.video/stream/mal/58222/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/jg2khrsp2w/m3dgtk4pa6/8vxo2rycpzljti/subs/vkt33hccdq1bnzum.vtt"
-    }
-   ],
-   "addedAt": "2026-10-14T00:25:27.253Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:31.715Z"
   }
  ],
- "_syncHash": "bb48f64ba86e6271"
+ "_syncHash": "87b8489df6f673f2"
 }

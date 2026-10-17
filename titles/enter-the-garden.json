@@ -1,0 +1,46 @@
+{
+ "id": "enter-the-garden",
+ "title": "Enter the Garden",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204762-5TGKxC1rY63P.jpg",
+ "banner": "",
+ "synopsis": "Three-part anthology series created by Azuki and Dentsu with creative producer, Gorou Taniguchi.",
+ "genres": [],
+ "score": 5.4,
+ "year": 2024,
+ "status": "RELEASING",
+ "totalEpisodes": 3,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  1,
+  2
+ ],
+ "updatedAt": "2026-10-16T00:48:26.804Z",
+ "type": "ONA",
+ "season": "SPRING",
+ "anilistId": 204762,
+ "country": "JP",
+ "rawTitle": "enter the garden",
+ "altTitles": [],
+ "studio": "Qzil.la",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/f9185e6f4e26bb03bb309a5622fbb45e/cbd313063a7653c01304420631818efd/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/enter-the-garden.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/123791/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T00:48:26.804Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/f9185e6f4e26bb03bb309a5622fbb45e/210c6ee07692e08ad16577a93b256cf8/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/enter-the-garden.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/133698/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:13.416Z"
+  }
+ ],
+ "_syncHash": "c766d914b0876c5e"
+}

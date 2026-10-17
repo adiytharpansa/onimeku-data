@@ -1,0 +1,43 @@
+{
+ "id": "your-name-dub",
+ "title": "Your Name.",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx21519-SUo3ZQuCbYhJ.png",
+ "banner": "",
+ "synopsis": "Mitsuha Miyamizu, a high school girl, yearns to live the life of a boy in the bustling city of Tokyo—a dream that stands in stark contrast to her present life in the countryside. Meanwhile in the city, Taki Tachibana lives a busy life as a high school student while juggling his part-time job and hopes for a future in architecture.\n\nOne day, Mitsuha awakens in a room that is not her own and suddenly finds herself living the dream life in Tokyo—but in Taki's body! Elsewhere, Taki finds himself living Mitsuha's life in the humble countryside. In pursuit of an answer to this strange phenomenon, they begin to search for one another.\n\nKimi no Na wa. revolves around Mitsuha and Taki's actions, which begin to have a dramatic impact on each other's lives, weaving them into a fabric held together by fate and circumstance.\n\n(Source: MAL Rewrite)",
+ "genres": [
+  "Drama",
+  "Romance",
+  "Supernatural"
+ ],
+ "score": 0,
+ "year": 2016,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-17T08:50:16.902Z",
+ "type": "Movie",
+ "season": null,
+ "anilistId": 21519,
+ "country": null,
+ "rawTitle": "Your Name. (Dub)",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://megaplay.buzz/stream/ani/21519/1/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx21519-SUo3ZQuCbYhJ.png",
+   "referer": "https://www.enma.lol/watch/your-name-21519?ep=1",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/21519/1/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T08:50:16.902Z"
+  }
+ ],
+ "_syncHash": "64ce931cbd29971f"
+}

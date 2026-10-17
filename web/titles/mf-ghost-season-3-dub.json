@@ -1,0 +1,129 @@
+{
+ "id": "mf-ghost-season-3-dub",
+ "title": "MF Ghost Season 3",
+ "poster": "https://media.kitsu.app/anime/49441/poster_image/large-34b3a0770951ee5c463e6aa4d3eb9729.jpeg",
+ "banner": "https://media.kitsu.app/anime/49441/cover_image/large-5dc525d12f96ee5022f27d6b3b220467.jpeg",
+ "synopsis": "The third season of MF Ghost.\nNote: Each episode streams 3 days early on Prime Video. The original TV broadcast starts on January 4, 2026.",
+ "genres": [],
+ "score": 7.8,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 10,
+ "episodeNumbers": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "updatedAt": "2026-10-16T07:19:58.639Z",
+ "type": "ONA",
+ "season": "WINTER",
+ "anilistId": null,
+ "country": "JP",
+ "rawTitle": "mf ghost season 3 dub",
+ "altTitles": [
+  "MF Ghost 3rd Season",
+  "MFゴースト 3rd Season"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/650170b55ee391260d8f1ce10d493661/61d7bb22a2259905178ef8be3e9c6146/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1769145326-9436-1769144096-4163-154458.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/161829/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:46:12.245Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/650170b55ee391260d8f1ce10d493661/a11f6eba6118fe19febae4ab95566713/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1769145326-9436-1769144096-4163-154458.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/162325/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:47:13.409Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/650170b55ee391260d8f1ce10d493661/849d4e5fa45d7560b4d38980088575da/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1769145326-9436-1769144096-4163-154458.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/163437/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:42.971Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/650170b55ee391260d8f1ce10d493661/7d9dd252bf3a3b1d5fe5219c330bf69b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1769145326-9436-1769144096-4163-154458.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/164385/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:45.106Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/650170b55ee391260d8f1ce10d493661/6169c929be715ed5cb63c24eba3f6d85/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1769145326-9436-1769144096-4163-154458.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/165005/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:47.223Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/650170b55ee391260d8f1ce10d493661/08dc591aca40deb2c5d6d2c8b2f3e6e9/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1769145326-9436-1769144096-4163-154458.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/165869/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:49.457Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/650170b55ee391260d8f1ce10d493661/81392ca8fcfd101af9ed8d53f43249cf/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1769145326-9436-1769144096-4163-154458.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/166513/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:51.817Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/650170b55ee391260d8f1ce10d493661/00882c66890f89afe184c371077ff88f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1769145326-9436-1769144096-4163-154458.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/166925/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:54.161Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/650170b55ee391260d8f1ce10d493661/fb9b50f6d64ecc0b20b38fe208ac6b3f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1769145326-9436-1769144096-4163-154458.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/167482/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:56.419Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/650170b55ee391260d8f1ce10d493661/aceca2114b29382687016d347781f542/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1769145326-9436-1769144096-4163-154458.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/168043/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:58.639Z"
+  }
+ ],
+ "_syncHash": "6724d77be3184a28"
+}

@@ -40,8 +40,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alya-sometimes-hides-her-feelings-in-russian.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/125794/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T03:50:28.156Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T03:50:28.156Z"
   },
   {
    "number": 4,
@@ -50,8 +49,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alya-sometimes-hides-her-feelings-in-russian.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/126665/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:44.118Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:44.118Z"
   },
   {
    "number": 5,
@@ -60,8 +58,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alya-sometimes-hides-her-feelings-in-russian.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/126840/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:45.266Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:45.266Z"
   },
   {
    "number": 6,
@@ -70,8 +67,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alya-sometimes-hides-her-feelings-in-russian.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/127050/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:46.696Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:46.696Z"
   },
   {
    "number": 7,
@@ -80,8 +76,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alya-sometimes-hides-her-feelings-in-russian.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/127315/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:48.183Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:48.183Z"
   },
   {
    "number": 8,
@@ -90,8 +85,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alya-sometimes-hides-her-feelings-in-russian.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/127573/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:49.564Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:49.564Z"
   },
   {
    "number": 9,
@@ -100,8 +94,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alya-sometimes-hides-her-feelings-in-russian.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/127738/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:50.735Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:50.735Z"
   },
   {
    "number": 11,
@@ -110,8 +103,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alya-sometimes-hides-her-feelings-in-russian.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/128003/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:53.705Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:53.705Z"
   },
   {
    "number": 12,
@@ -120,9 +112,22 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alya-sometimes-hides-her-feelings-in-russian.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/128162/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:57.658Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:57.658Z"
   }
  ],
- "_syncHash": "11a80c1835e1f55b"
+ "variants": [
+  {
+   "id": "alya-sometimes-hides-her-feelings-in-russian",
+   "title": "Alya Sometimes Hides Her Feelings in Russian",
+   "variantType": "sub",
+   "episodeCount": 9
+  },
+  {
+   "id": "alya-sometimes-hides-her-feelings-in-russian-dub",
+   "title": "Alya Sometimes Hides Her Feelings in Russian",
+   "variantType": "dub",
+   "episodeCount": 6
+  }
+ ],
+ "_syncHash": "ee2010966a1d37eb"
 }

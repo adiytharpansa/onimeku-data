@@ -1,0 +1,59 @@
+{
+ "id": "maboroshi",
+ "title": "Maboroshi",
+ "poster": "https://anizone.to/images/anime/8c5cfbbd-887c-49f1-bec2-e5d9cd05d289.jpg",
+ "banner": "",
+ "synopsis": "A factory explosion plunges a small town into a timeless freeze, leaving 14-year-old Masamune and his pals to grapple with a quickly collapsing reality.\n\n(Source: Netflix)",
+ "genres": [
+  "Romance",
+  "Fantasy",
+  "Deity",
+  "Time Travel"
+ ],
+ "score": null,
+ "year": 2023,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-17T09:54:16.442Z",
+ "type": "MOVIE",
+ "season": null,
+ "anilistId": null,
+ "country": "JP",
+ "rawTitle": "Maboroshi",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://seiryuu.vid-cdn.xyz/10f11372-2250-435c-8635-90278d6bac8c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/8c5cfbbd-887c-49f1-bec2-e5d9cd05d289.jpg",
+   "referer": "https://anizone.to/anime/absgpagx/1",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://seiryuu.vid-cdn.xyz/10f11372-2250-435c-8635-90278d6bac8c/subtitles/0_en.srt",
+     "referer": "https://anizone.to/anime/absgpagx/1"
+    },
+    {
+     "lang": "ja",
+     "url": "https://seiryuu.vid-cdn.xyz/10f11372-2250-435c-8635-90278d6bac8c/subtitles/4_ja.srt",
+     "referer": "https://anizone.to/anime/absgpagx/1"
+    },
+    {
+     "lang": "id",
+     "url": "https://seiryuu.vid-cdn.xyz/10f11372-2250-435c-8635-90278d6bac8c/subtitles/25_id.srt",
+     "referer": "https://anizone.to/anime/absgpagx/1"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T09:54:16.442Z"
+  }
+ ],
+ "_syncHash": "8d76455fceee0cc1"
+}

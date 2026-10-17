@@ -1,0 +1,146 @@
+{
+ "id": "lets-play",
+ "title": "Lets Play",
+ "poster": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759421956-8756-Lets-Play.webp",
+ "banner": "",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": null,
+ "status": "",
+ "totalEpisodes": null,
+ "latestEpisode": 12,
+ "episodeNumbers": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "updatedAt": "2026-10-16T07:24:26.860Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "country": null,
+ "rawTitle": "lets play",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5f3045e4478665d73a7f8a89ef4782e/7507ee6b72110fa08ead223aa5ab8f2e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759421956-8756-Lets-Play.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/145445/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:46:03.538Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5f3045e4478665d73a7f8a89ef4782e/df78f2f1a1c0e061910ecc9128c06022/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759421956-8756-Lets-Play.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/145689/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:46:06.974Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5f3045e4478665d73a7f8a89ef4782e/6329436e10f710f8b2328e31010dc0d3/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759421956-8756-Lets-Play.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/145946/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T00:48:25.402Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5f3045e4478665d73a7f8a89ef4782e/728199b7a0c9191c235c457c9e19709b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759421956-8756-Lets-Play.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/146441/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T01:44:47.093Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5f3045e4478665d73a7f8a89ef4782e/7cc6deeff3bdce2c719f93c3f369225d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759421956-8756-Lets-Play.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/148205/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T01:44:48.193Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5f3045e4478665d73a7f8a89ef4782e/e8adc1514201512bbe110afdf7d2bfa2/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759421956-8756-Lets-Play.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/154377/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T02:46:20.602Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5f3045e4478665d73a7f8a89ef4782e/98ec3450fc3d74b398ba3f263426ec3c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759421956-8756-Lets-Play.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/155141/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T04:01:22.425Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5f3045e4478665d73a7f8a89ef4782e/bd990f9f98ba163892c1d00aad96b654/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759421956-8756-Lets-Play.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/156109/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T05:12:26.609Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5f3045e4478665d73a7f8a89ef4782e/4367a6de71891ae62798fa7d20aabc43/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759421956-8756-Lets-Play.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/157157/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T06:16:16.925Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5f3045e4478665d73a7f8a89ef4782e/2ad425ddc367acc05c4c61a552514924/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759421956-8756-Lets-Play.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/158357/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T06:27:13.754Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5f3045e4478665d73a7f8a89ef4782e/cb99e1d7daac541e00ad1ec213fad17c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759421956-8756-Lets-Play.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/159709/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:24:25.338Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5f3045e4478665d73a7f8a89ef4782e/c1b9136a420630b954050be9386a7bc8/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759421956-8756-Lets-Play.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/160389/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:24:26.860Z"
+  }
+ ],
+ "_syncHash": "1245cbf0fae33f69"
+}

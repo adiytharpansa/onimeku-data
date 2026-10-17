@@ -1,0 +1,150 @@
+{
+ "id": "bulletbullet",
+ "title": "Bulletbullet",
+ "poster": "https://gogoanime.or.at/wp-content/uploads/2026/05/bulletbullet.webp",
+ "banner": "",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": null,
+ "status": "",
+ "totalEpisodes": null,
+ "latestEpisode": 12,
+ "episodeNumbers": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  11,
+  12
+ ],
+ "updatedAt": "2026-10-16T06:27:11.968Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "country": null,
+ "rawTitle": "bulletbullet",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/34be90676412d14c80f85809d8e3b97b/054f9be54a0823dc1727d9974938b6ff/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/bulletbullet.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/141898/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:10.400Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/34be90676412d14c80f85809d8e3b97b/a911f44b0c7e4a774b5bc86fba318e70/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/bulletbullet.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/141899/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:12.582Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/34be90676412d14c80f85809d8e3b97b/2bc87b893e16fabccf6e13eba0857432/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/bulletbullet.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/141900/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:58:07.689Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/34be90676412d14c80f85809d8e3b97b/c079fdc638c7a4e0bd2d5da94a680c90/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/bulletbullet.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/141901/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:58:08.683Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/34be90676412d14c80f85809d8e3b97b/a66c185da4cb00f5f87528a1b48bae61/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/bulletbullet.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/141902/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T05:12:23.145Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/34be90676412d14c80f85809d8e3b97b/25f83d5689ab826d138edfb0d67c0973/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/bulletbullet.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/141903/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:58:51.011Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/34be90676412d14c80f85809d8e3b97b/404d79dea76cfab4175f218637e6d69e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/bulletbullet.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/141904/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T06:16:17.528Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/34be90676412d14c80f85809d8e3b97b/25d85c962dabb5006e0ec1de4185f29e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/bulletbullet.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/141905/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T06:16:18.882Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/34be90676412d14c80f85809d8e3b97b/06f7a22cf598bd3e7afc678a17b0d360/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/bulletbullet.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/143591/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T06:27:11.968Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/34be90676412d14c80f85809d8e3b97b/047dd2eb3b04d1722829cc91e9817afa/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/bulletbullet.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/143593/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:58:56.649Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/34be90676412d14c80f85809d8e3b97b/9f9d6e9d086d9b1ae4b648c32d462f99/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/bulletbullet.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/143594/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:58:57.492Z"
+  }
+ ],
+ "variants": [
+  {
+   "id": "bulletbullet",
+   "title": "Bulletbullet",
+   "variantType": "sub",
+   "episodeCount": 11
+  },
+  {
+   "id": "bulletbullet-dub",
+   "title": "Bulletbullet",
+   "variantType": "dub",
+   "episodeCount": 12
+  }
+ ],
+ "_syncHash": "44b0b249ba42af8b"
+}

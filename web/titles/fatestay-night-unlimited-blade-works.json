@@ -1,6 +1,6 @@
 {
  "id": "fatestay-night-unlimited-blade-works",
- "title": "fatestay night unlimited blade works",
+ "title": "Fatestay Night Unlimited Blade Works",
  "poster": "https://media.kitsu.app/anime/poster_images/7882/large.jpg",
  "banner": "https://media.kitsu.app/anime/cover_images/7882/large.jpg",
  "synopsis": "Fuyuki City—a city surrounded by the ocean and the mountains becomes the setting for an age-old ritual. To realize the mythical Holy Grail, which is said to grant any wish from its possessor, seven masters are given seven heroic spirits chosen by the Grail... Each master will enter into a contract with their assigned servants and battle the other masters and servants to the death until only one pair remains… This is the “Holy Grail War.”\n\n(Source: Aniplex of America)",
@@ -32,19 +32,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/jgwyhdtulk/mr6mqyld3b/z1w8zsoq2mxc34/master.m3u8",
-   "downloadUrl": "/download/mal/22297/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/22297/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/7882/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/22297/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/jgwyhdtulk/mr6mqyld3b/z1w8zsoq2mxc34/subs/v48oanav6x39lrvk.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:07:03.857Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:31.825Z"
   }
  ],
- "_syncHash": "1ae2d2a39e90cffa"
+ "_syncHash": "899ae8f6119601de"
 }

@@ -1,0 +1,148 @@
+{
+ "id": "medalist-dub",
+ "title": "Medalist",
+ "poster": "https://media.kitsu.app/anime/47454/poster_image/large-0edb6f8e77c3d7ae8841c2fdcee2fb56.jpeg",
+ "banner": "https://media.kitsu.app/anime/47454/cover_image/large-fe329e3586a2d7563a4c873841b4d367.jpeg",
+ "synopsis": "Tsukasa Akeuraji, a frustrated skater, meets Inori Yuitsuka, a girl who yearns to be a figure skater. Motivated by Inori's obsession on the rink, Tsukasa begins coaching Inori. Inori's talent blossoms, and Tsukasa becomes a brilliant mentor. Together they aim to make her a glorious medalist!\n\n(Source: Hulu)",
+ "genres": [],
+ "score": 8.2,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 13,
+ "episodeNumbers": [
+  1,
+  2,
+  3,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "updatedAt": "2026-10-16T07:22:37.658Z",
+ "type": "TV",
+ "season": "WINTER",
+ "anilistId": null,
+ "country": "JP",
+ "rawTitle": "medalist dub",
+ "altTitles": [
+  "メダリスト"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5079cbc9749b182f10d3127341579d9/7c7b63425f3d7f8856356efeb1002790/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/medalist-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/131396/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:46:10.827Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5079cbc9749b182f10d3127341579d9/c481484572b9e7f8e0e6f11bde4368e7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/medalist-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/131803/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:46:12.064Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5079cbc9749b182f10d3127341579d9/de4367c2433ea6ccb6e5a5698a1aafa2/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/medalist-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/132038/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:24.934Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5079cbc9749b182f10d3127341579d9/1b26ce3a8047715af28b6edef9d032fb/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/medalist-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/132304/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:28.522Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5079cbc9749b182f10d3127341579d9/4a86f71dbb9f10e6c63c2bc003b07e69/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/medalist-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/132572/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:39.798Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5079cbc9749b182f10d3127341579d9/bff63e3fe094ab57df0adbb883660668/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/medalist-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/132979/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:41.934Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5079cbc9749b182f10d3127341579d9/3ae630fe2b0bd2949afc61cac2e94828/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/medalist-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/133388/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:44.095Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5079cbc9749b182f10d3127341579d9/ed6c06406ccf97a8c5c9e1407e2daa78/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/medalist-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/133798/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:46.058Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5079cbc9749b182f10d3127341579d9/c13e334674619e933fd3bde4b299e697/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/medalist-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134530/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:48.136Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5079cbc9749b182f10d3127341579d9/9e647980a13cfed4320ac8612142b1d9/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/medalist-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134993/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:50.009Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5079cbc9749b182f10d3127341579d9/9ab59c31869423ce1607feb2d7e98524/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/medalist-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/135483/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:22:35.750Z"
+  },
+  {
+   "number": 13,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e5079cbc9749b182f10d3127341579d9/efb228df0f5474aa772489e460036f9b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/medalist-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/135940/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:22:37.658Z"
+  }
+ ],
+ "_syncHash": "ee9360d0198ad981"
+}

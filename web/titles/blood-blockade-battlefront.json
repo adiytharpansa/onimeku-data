@@ -1,0 +1,143 @@
+{
+ "id": "blood-blockade-battlefront",
+ "title": "Blood Blockade Battlefront",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20727-jgVnxLCHAKqZ.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/20727-jcGXKLo3lLDP.jpg",
+ "synopsis": "A breach between Earth and the netherworlds has opened up over the city of New York, trapping New Yorkers and creatures from other dimensions in an impenetrable bubble. They've lived together for years, in a world of crazy crime sci-fi sensibilities. Now someone is threatening to sever the bubble, and a group of stylish superhumans is working to keep it from happening.\n\n\n\n(Source: Anime News Network)\n\n\n\nNote: The last episode aired with a runtime of ~46 minutes as opposed to the standard 24 minute long episode.",
+ "genres": [
+  "Action",
+  "Comedy",
+  "Supernatural"
+ ],
+ "score": 7.4,
+ "year": 2015,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 12,
+ "episodeNumbers": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "updatedAt": "2026-10-16T07:20:44.797Z",
+ "type": "TV",
+ "season": "SPRING",
+ "anilistId": 20727,
+ "country": "JP",
+ "rawTitle": "blood blockade battlefront",
+ "altTitles": [
+  "Kekkai Sensen",
+  "血界戦線"
+ ],
+ "studio": "bones",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7c9d0b1f96aebd7b5eca8c3edaa19ebb/62204f312d99879bd20edc602a1ecb76/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758596363-4041-1758595802-4744-142053.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/17590/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:53:43.661Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7c9d0b1f96aebd7b5eca8c3edaa19ebb/b202f767f6a31b3bcdcc2466fc9ae2ae/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758596363-4041-1758595802-4744-142053.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/17591/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:02.777Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7c9d0b1f96aebd7b5eca8c3edaa19ebb/a7e849c74b6bb9aec1cf7718c81b55a0/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758596363-4041-1758595802-4744-142053.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/17592/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:33.562Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7c9d0b1f96aebd7b5eca8c3edaa19ebb/870c2d9cb943c61a747975393d0de269/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758596363-4041-1758595802-4744-142053.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/17593/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:53:45.380Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7c9d0b1f96aebd7b5eca8c3edaa19ebb/b353e46b5dc2dbcaeae46622c8b1305b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758596363-4041-1758595802-4744-142053.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/17594/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:53:46.344Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7c9d0b1f96aebd7b5eca8c3edaa19ebb/8c913df705b80f04e3046d2ac35d8cd4/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758596363-4041-1758595802-4744-142053.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/17595/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:34.979Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7c9d0b1f96aebd7b5eca8c3edaa19ebb/988a272d4d32add51fc6f7ca68945fb6/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758596363-4041-1758595802-4744-142053.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/17597/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:43.604Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7c9d0b1f96aebd7b5eca8c3edaa19ebb/3910992a1ce08d4b56b5419efec2a723/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758596363-4041-1758595802-4744-142053.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/17598/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:44.797Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7c9d0b1f96aebd7b5eca8c3edaa19ebb/9f923a359039d91b70ff40fc54d1b1ef/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758596363-4041-1758595802-4744-142053.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/17599/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:54:30.689Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7c9d0b1f96aebd7b5eca8c3edaa19ebb/6d491254e0e35d6f7075b95c69cc9cc2/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758596363-4041-1758595802-4744-142053.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/17600/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:54:31.550Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7c9d0b1f96aebd7b5eca8c3edaa19ebb/4d501aaafc25d35377c8acca38d2aa94/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758596363-4041-1758595802-4744-142053.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/17601/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:54:32.381Z"
+  }
+ ],
+ "_syncHash": "d8b6d53569c872e4"
+}

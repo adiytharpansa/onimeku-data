@@ -9,14 +9,16 @@
  "year": null,
  "status": "",
  "totalEpisodes": null,
- "latestEpisode": 7,
+ "latestEpisode": 9,
  "episodeNumbers": [
   1,
   2,
   3,
   4,
+  5,
   6,
-  7
+  7,
+  9
  ],
  "updatedAt": "2026-10-16T08:32:26.095Z",
  "type": null,
@@ -34,8 +36,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/once-upon-a-witchs-death-dub.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/136024/dub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T03:48:33.167Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T03:48:33.167Z"
   },
   {
    "number": 2,
@@ -44,8 +45,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/once-upon-a-witchs-death-dub.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/136212/dub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T18:21:33.234Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T18:21:33.234Z"
   },
   {
    "number": 3,
@@ -54,8 +54,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/once-upon-a-witchs-death-dub.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/136436/dub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T18:21:35.650Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T18:21:35.650Z"
   },
   {
    "number": 4,
@@ -64,8 +63,16 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/once-upon-a-witchs-death-dub.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/136620/dub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T23:46:20.235Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T23:46:20.235Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/9fcf121685a67211a2c72753dbdece9a/68eb6ba83276c093666308abad331082/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/once-upon-a-witchs-death-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136806/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T05:51:09.802Z"
   },
   {
    "number": 6,
@@ -74,8 +81,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/once-upon-a-witchs-death-dub.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/137617/dub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T23:50:10.448Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T23:50:10.448Z"
   },
   {
    "number": 7,
@@ -84,9 +90,17 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/once-upon-a-witchs-death-dub.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/137830/dub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T08:32:26.095Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T08:32:26.095Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/9fcf121685a67211a2c72753dbdece9a/b41b6ec8c0618ec5669ddb39f18e0e17/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/once-upon-a-witchs-death-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/138168/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T09:01:19.487Z"
   }
  ],
- "_syncHash": "d890da2141f06e99"
+ "_syncHash": "e1066c319b900ed8"
 }

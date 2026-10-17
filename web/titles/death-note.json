@@ -1,0 +1,418 @@
+{
+ "id": "death-note",
+ "title": "Death Note",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx1535-kUgkcrfOrkUM.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/1535.jpg",
+ "synopsis": "Light Yagami is a genius high school student who is about to learn about life through a book of death. When a bored shinigami, a God of Death, named Ryuk drops a black notepad called a Death Note, Light receives power over life and death with the stroke of a pen. Determined to use this dark gift for the best, Light sets out to rid the world of evil… namely, the people he believes to be evil. Should anyone hold such power?\n\n\n\nThe consequences of Light’s actions will set the world ablaze.\n\n\n\n(Source: VIZ Media)",
+ "genres": [
+  "Mystery",
+  "Psychological",
+  "Supernatural",
+  "Thriller"
+ ],
+ "score": 8.4,
+ "year": 2006,
+ "status": "FINISHED",
+ "totalEpisodes": 37,
+ "latestEpisode": 37,
+ "episodeNumbers": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37
+ ],
+ "updatedAt": "2026-10-16T07:22:40.571Z",
+ "type": "TV",
+ "season": "FALL",
+ "anilistId": 1535,
+ "country": "JP",
+ "rawTitle": "death note",
+ "altTitles": [
+  "DEATH NOTE",
+  "DEATH NOTE"
+ ],
+ "studio": "MADHOUSE",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/a4c39abcf0e3bf1ead6970accd8cc8a7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1464/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:04.764Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/511ea8a2f44b333df86dd4bcbe0142a0/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1465/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:05.423Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/094477622a05d45e4bcfc3d3980a4d96/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1466/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:37.552Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/718bdd279a06f93b3d956604ca341ffe/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1467/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:38.805Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/ecd049998cb7705bd0f5f3a86364af62/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1468/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:40.169Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/e79c0893480e0464cad3588563070263/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1469/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:41.363Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/ac2d13b8bc6f64ac065d7c0c47ab1c2d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1470/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:22.767Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/22eb290a8f6a037372a290149956e025/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1471/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:24.318Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/3de748e31a0d4c15471a63f627030ad1/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1472/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:25.491Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/f24450069bf22c9adf2b27c629584acc/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1473/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:27.097Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/d1e5b4b54b89bd3f5990f634d6fbecb9/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1474/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:28.609Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/5c9929d1f5b92d26dc7acd02472fd5e4/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1475/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:30.107Z"
+  },
+  {
+   "number": 13,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/c192f3ac083d8d0ce23d15afc60a10f7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1476/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:31.565Z"
+  },
+  {
+   "number": 14,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/ea4835375a02e8c863b7e31c27fe88d7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1477/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:32.601Z"
+  },
+  {
+   "number": 15,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/b495a70b6cee48f7d1ccfe8967aae2ce/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1478/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:33.830Z"
+  },
+  {
+   "number": 16,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/ff4b69f69cd3ff7ff34e531a7218e845/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1479/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:19.402Z"
+  },
+  {
+   "number": 17,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/fb764d40e9784081b6c497684527b654/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1480/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:20.551Z"
+  },
+  {
+   "number": 18,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/1763c87d2acae85b53ef3d28153534f6/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1481/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:21.801Z"
+  },
+  {
+   "number": 19,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/41bab04ae79859eb4f4c570e64e4da81/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1482/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:23.192Z"
+  },
+  {
+   "number": 20,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/9a9d1cabbfb8f44f2ef8106950888bb8/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1483/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:24.454Z"
+  },
+  {
+   "number": 21,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/db0d789597ca980b7ff73bb77f86ec46/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1484/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:25.711Z"
+  },
+  {
+   "number": 22,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/993924f85b8f9d7666538c8393090b68/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1485/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:26.913Z"
+  },
+  {
+   "number": 23,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/2707c4b708684cab9467f92efc6b2e3d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1486/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:28.026Z"
+  },
+  {
+   "number": 24,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/b452c11bfc89d73e5aba31d6a9b2e2a8/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1487/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:39.278Z"
+  },
+  {
+   "number": 25,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/bc5b2f542e08a82c5cea93495aa1e2ec/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1488/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:41.018Z"
+  },
+  {
+   "number": 26,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/78785d447c851903c14dd40ce5497d89/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1489/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:42.328Z"
+  },
+  {
+   "number": 27,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/bf05b525d9d554e1ae55e69e9aefd522/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1490/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:43.665Z"
+  },
+  {
+   "number": 28,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/5297b63ab753a5da2918ac65d99bf5b7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1491/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:45.039Z"
+  },
+  {
+   "number": 29,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/beb9ad86d62420b9db21ae445559e27b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1492/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:46.503Z"
+  },
+  {
+   "number": 30,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/a4ae066aa8c1c165425025ebee9eda00/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1493/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:47.633Z"
+  },
+  {
+   "number": 31,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/abe179b466a6816087748e4174d15f5c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1494/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:48.834Z"
+  },
+  {
+   "number": 32,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/12bcf80eb82865e62422c4bcb0f96838/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1495/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:50.004Z"
+  },
+  {
+   "number": 33,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/3d17ccf0ee3dc1e0d097001677484981/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1496/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:22:35.297Z"
+  },
+  {
+   "number": 34,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/db1cb37f85f80fd8cb16eff9485da433/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1497/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:22:37.165Z"
+  },
+  {
+   "number": 35,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/19368adaba019ae7d119206dfa1ffd1d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1498/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:22:38.605Z"
+  },
+  {
+   "number": 36,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/2de53155d8f3e50bb1304ad0974bb13e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1499/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:22:39.540Z"
+  },
+  {
+   "number": 37,
+   "streamUrl": "https://fetch.nexabloom.top/anime/072b030ba126b2f4b2374f342be9ed44/a47917ff55de62c93ed4bb9119eeed40/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/death-note.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/1500/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:22:40.571Z"
+  }
+ ],
+ "variants": [
+  {
+   "id": "death-note",
+   "title": "Death Note",
+   "variantType": "sub",
+   "episodeCount": 37
+  },
+  {
+   "id": "death-note-dub",
+   "title": "Death Note",
+   "variantType": "dub",
+   "episodeCount": 2
+  }
+ ],
+ "_syncHash": "f463b2ef95bbb2c7"
+}

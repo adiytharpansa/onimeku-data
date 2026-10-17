@@ -1,6 +1,6 @@
 {
  "id": "sket-dance",
- "title": "sket dance",
+ "title": "Sket Dance",
  "poster": "https://media.kitsu.app/anime/poster_images/5908/large.jpg",
  "banner": "https://media.kitsu.app/anime/cover_images/5908/large.jpg",
  "synopsis": "At Kaimei High School, the Living Assistance Club (aka the Sket Brigade) was organized to help students with problems big or small. Most of the time, though, they hang out in their club room, bored, with only a few trivial problems floating in every once in a while. In spite of this, they still throw all their energy into solving these worries. \n(Source: Crunchyroll)",
@@ -30,34 +30,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/2xszs6e3sw/kvg8jfl5bl/gddnbhx0xzxmzo/master.m3u8",
-   "downloadUrl": "/download/mal/9863/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/9863/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/5908/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/9863/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/2xszs6e3sw/kvg8jfl5bl/gddnbhx0xzxmzo/subs/5epay5zl9la3rq51.vtt"
-    },
-    {
-     "label": "Portuguese (Portuguese - Brazilian)",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/2xszs6e3sw/kvg8jfl5bl/gddnbhx0xzxmzo/subs/um5ocvj4p2fut64u.vtt"
-    },
-    {
-     "label": "Spanish (Spanish - [ESP])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/2xszs6e3sw/kvg8jfl5bl/gddnbhx0xzxmzo/subs/71gpvwffim5rspps.vtt"
-    },
-    {
-     "label": "Spanish (Spanish - [LAT])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/2xszs6e3sw/kvg8jfl5bl/gddnbhx0xzxmzo/subs/doreerijldf2972w.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:07:31.024Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:35.926Z"
   }
  ],
- "_syncHash": "f8231d7b9c5bcdb9"
+ "_syncHash": "d33675c4e2e80385"
 }

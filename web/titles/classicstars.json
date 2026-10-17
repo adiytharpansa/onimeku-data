@@ -1,6 +1,6 @@
 {
  "id": "classicstars",
- "title": "classicstars",
+ "title": "Classicstars",
  "poster": "https://lain.bgm.tv/pic/cover/l/2e/ee/502036_8KMNA.jpg",
  "banner": "https://lain.bgm.tv/pic/cover/l/2e/ee/502036_8KMNA.jpg",
  "synopsis": "",
@@ -25,19 +25,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/rskku7f9ba/yjwmt2lthf/r44zw6xozhs62u/master.m3u8",
-   "downloadUrl": "/download/mal/59199/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/59199/1/sub",
+   "thumbnail": "https://lain.bgm.tv/pic/cover/l/2e/ee/502036_8KMNA.jpg",
    "referer": "https://zokoanime.video/stream/mal/59199/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/rskku7f9ba/yjwmt2lthf/r44zw6xozhs62u/subs/7omwmekfqbivr6nx.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:13:27.111Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:38:22.417Z"
   }
  ],
- "_syncHash": "f2e9bc2122ceac24"
+ "_syncHash": "9eac94a1c065f574"
 }

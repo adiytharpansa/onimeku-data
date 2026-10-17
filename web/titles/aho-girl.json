@@ -34,7 +34,7 @@
  "type": "TV",
  "season": null,
  "anilistId": null,
- "country": null,
+ "country": "JP",
  "rawTitle": "Aho Girl",
  "altTitles": [],
  "studio": null,
@@ -46,8 +46,7 @@
    "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
    "referer": "https://anizone.to/anime/pxse3tn7/1",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:32:30.563Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T21:32:30.563Z"
   },
   {
    "number": 2,
@@ -56,8 +55,7 @@
    "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
    "referer": "https://anizone.to/anime/pxse3tn7/2",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:26:58.682Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T21:26:58.682Z"
   },
   {
    "number": 3,
@@ -66,8 +64,7 @@
    "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
    "referer": "https://anizone.to/anime/pxse3tn7/3",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:25:14.591Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T21:25:14.591Z"
   },
   {
    "number": 4,
@@ -76,8 +73,7 @@
    "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
    "referer": "https://anizone.to/anime/pxse3tn7/4",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:27:57.730Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T21:27:57.730Z"
   },
   {
    "number": 5,
@@ -86,8 +82,7 @@
    "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
    "referer": "https://anizone.to/anime/pxse3tn7/5",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:24:42.246Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T21:24:42.246Z"
   },
   {
    "number": 6,
@@ -96,8 +91,7 @@
    "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
    "referer": "https://anizone.to/anime/pxse3tn7/6",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:27:01.368Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T21:27:01.368Z"
   },
   {
    "number": 7,
@@ -106,8 +100,7 @@
    "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
    "referer": "https://anizone.to/anime/pxse3tn7/7",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:25:17.690Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T21:25:17.690Z"
   },
   {
    "number": 8,
@@ -116,8 +109,7 @@
    "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
    "referer": "https://anizone.to/anime/pxse3tn7/8",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:28:52.614Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T21:28:52.614Z"
   },
   {
    "number": 9,
@@ -126,8 +118,7 @@
    "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
    "referer": "https://anizone.to/anime/pxse3tn7/9",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:24:45.254Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T21:24:45.254Z"
   },
   {
    "number": 10,
@@ -136,8 +127,7 @@
    "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
    "referer": "https://anizone.to/anime/pxse3tn7/10",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:27:02.813Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T21:27:02.813Z"
   },
   {
    "number": 11,
@@ -146,8 +136,7 @@
    "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
    "referer": "https://anizone.to/anime/pxse3tn7/11",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:25:19.614Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T21:25:19.614Z"
   },
   {
    "number": 12,
@@ -156,9 +145,8 @@
    "thumbnail": "https://anizone.to/images/anime/27fbc9b0-1599-4705-a44d-9106a88bbac3.jpg",
    "referer": "https://anizone.to/anime/pxse3tn7/12",
    "subtitles": [],
-   "addedAt": "2026-10-16T21:28:00.538Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T21:28:00.538Z"
   }
  ],
- "_syncHash": "63079165caf6d85c"
+ "_syncHash": "fa0fe278c0cd45d5"
 }

@@ -35,7 +35,7 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/bzf0jdyznt/edso3rrp1j/vbtd6bzp1los9d/master.m3u8",
-   "downloadUrl": "/download/mal/33354/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/33354/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/poster_images/12237/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/33354/1/sub",
    "subtitles": [
@@ -55,9 +55,8 @@
      "url": "https://hls.dramahot.top/v/scxqicy/bzf0jdyznt/edso3rrp1j/vbtd6bzp1los9d/subs/rontp66katep2229.vtt"
     }
    ],
-   "addedAt": "2026-10-13T22:27:55.796Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:38:32.103Z"
   }
  ],
- "_syncHash": "0df5d32b69a6c3ac"
+ "_syncHash": "45240baec24f520a"
 }

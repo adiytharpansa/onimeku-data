@@ -1,6 +1,6 @@
 {
  "id": "wotakoi-love-is-hard-for-otaku",
- "title": "wotakoi love is hard for otaku",
+ "title": "Wotakoi Love Is Hard For Otaku",
  "poster": "https://media.kitsu.app/anime/13660/poster_image/large-9e3a99b850d16e84e8ceeda6eefb5eb3.jpeg",
  "banner": "https://media.kitsu.app/anime/cover_images/13660/large.jpg",
  "synopsis": "After discovering that they work at the same company, a gaming crazed otaku and a fujoshi reunite for the first time since middle school. After some post-work drinking sessions they begin dating, but will it be a perfect relationship for the two?",
@@ -31,13 +31,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/jlwmvk9x76/gr48avk2b3/6162cv8ic9pwt3/master.m3u8",
-   "downloadUrl": "/download/mal/35968/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/35968/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/13660/poster_image/large-9e3a99b850d16e84e8ceeda6eefb5eb3.jpeg",
    "referer": "https://zokoanime.video/stream/mal/35968/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-13T22:05:46.162Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:42:12.271Z"
   }
  ],
- "_syncHash": "993c6545aeea5e8d"
+ "_syncHash": "c7ebafc27c7d88e4"
 }

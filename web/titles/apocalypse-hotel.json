@@ -1,0 +1,92 @@
+{
+ "id": "apocalypse-hotel",
+ "title": "Apocalypse Hotel",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx180675-YEwsxiMsnyvL.png",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/180675-aZ7hQkNjewa7.jpg",
+ "synopsis": "Following the collapse of civilization, one storied hotel stands among the ruins of Tokyo’s Ginza district. Overrun by nature, this lone hotel continues to defy humanity’s collapse. Current guests: zero. Check-ins scheduled today: zero. Yesterday’s website traffic: zero. Enter with caution in this story of survival and mystery in a world where the memory of humanity begins to fade.\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Comedy",
+  "Sci-Fi",
+  "Slice of Life"
+ ],
+ "score": 8,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 12,
+ "episodeNumbers": [
+  2,
+  6,
+  7,
+  9,
+  11,
+  12
+ ],
+ "updatedAt": "2026-10-15T15:54:33.726Z",
+ "type": "TV",
+ "season": "SPRING",
+ "anilistId": 180675,
+ "country": "JP",
+ "rawTitle": "apocalypse hotel",
+ "altTitles": [
+  "アポカリプスホテル"
+ ],
+ "studio": "CygamesPictures",
+ "episodes": [
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3b7fa12d7dcf324695af9af0f2523e2a/c4b633c2b2edb25d7e35ba51b0071bce/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/apocalypse-hotel.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136439/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:20.065Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3b7fa12d7dcf324695af9af0f2523e2a/34ef822ad2d6c102ff312b947357f616/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/apocalypse-hotel.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/137833/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:53:48.706Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3b7fa12d7dcf324695af9af0f2523e2a/6d0c95cbcb7450b43f5752d95307be48/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/apocalypse-hotel.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/138006/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:54:29.177Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3b7fa12d7dcf324695af9af0f2523e2a/aa9c2a85a813d09426cab6f029bc0122/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/apocalypse-hotel.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/138304/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:54:31.000Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3b7fa12d7dcf324695af9af0f2523e2a/be6edf34befc4f3fee5fb6e2967f0934/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/apocalypse-hotel.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141039/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:54:32.833Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3b7fa12d7dcf324695af9af0f2523e2a/631e086d0888a3c04dc4c0aa04a6b636/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/apocalypse-hotel.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141282/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:54:33.726Z"
+  }
+ ],
+ "_syncHash": "b8bd70fe96e95144"
+}

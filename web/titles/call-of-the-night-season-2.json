@@ -1,0 +1,99 @@
+{
+ "id": "call-of-the-night-season-2",
+ "title": "Call of the Night Season 2",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175914-VsbL90WzuqoM.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175914-K0Hw6bg3Tf5i.jpg",
+ "synopsis": "Kou overcomes his confusion about becoming a vampire and decides to \"like\" Nazuna, while Nazuna resolves to make Kou \"fall in love\" with her. Without understanding what \"love\" even is, the two of them spend their nights together in a frenzy. Meanwhile, Detective Uguisu Anko is closing in with her plot to kill vampires, not just Nazuna. A vampire's weakness is \"anything they were attached to when they were human\" and so they all try to get rid of this weakness before it's too late. But, Nazuna has no memory of her human life. What is Nazuna's hidden past? Why did Anko start killing vampires? And what is the \"secret\" that Nazuna and Anko share? For Kou, Nazuna, Anko, a fun \"late night\" doesn't end here... a new \"night\" begins!\n\n\n\n(Source: HIDIVE)",
+ "genres": [
+  "Comedy",
+  "Psychological",
+  "Romance",
+  "Slice of Life",
+  "Supernatural"
+ ],
+ "score": 8.4,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 12,
+ "episodeNumbers": [
+  1,
+  9,
+  10,
+  11,
+  12
+ ],
+ "updatedAt": "2026-10-16T07:19:37.636Z",
+ "type": "TV",
+ "season": "SUMMER",
+ "anilistId": 175914,
+ "country": "JP",
+ "rawTitle": "call of the night season 2",
+ "altTitles": [
+  "Yofukashi no Uta Season 2",
+  "よふかしのうた Season 2"
+ ],
+ "studio": "LIDENFILMS",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/249aad7654af287ae93b43e41334cbce/f42c674df8cc73b49b0bc0bb4f5e55c6/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1761421120-7476-1757135325-1935-148453.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/144476/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:11.403Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/249aad7654af287ae93b43e41334cbce/6b6b5f5b49326fca99bc83d233740636/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1761421120-7476-1757135325-1935-148453.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/144332/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:35.093Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/249aad7654af287ae93b43e41334cbce/f42c674df8cc73b49b0bc0bb4f5e55c6/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1761421120-7476-1757135325-1935-148453.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/144476/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:36.418Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/249aad7654af287ae93b43e41334cbce/94cd8d880a479c4d2ea2184ca78bdfb8/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1761421120-7476-1757135325-1935-148453.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/144688/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:37.636Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/249aad7654af287ae93b43e41334cbce/de667eb1068baec89071999462a44f7b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1761421120-7476-1757135325-1935-148453.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/144850/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:54:49.883Z"
+  }
+ ],
+ "variants": [
+  {
+   "id": "call-of-the-night-season-2",
+   "title": "Call of the Night Season 2",
+   "variantType": "sub",
+   "episodeCount": 5
+  },
+  {
+   "id": "call-of-the-night-season-2-dub",
+   "title": "Call of the Night Season 2",
+   "variantType": "dub",
+   "episodeCount": 6
+  }
+ ],
+ "_syncHash": "39ba6d3253a637d3"
+}

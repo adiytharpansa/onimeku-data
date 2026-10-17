@@ -1,0 +1,136 @@
+{
+ "id": "kamui-hes-behind-you",
+ "title": "Kamui Hes Behind You",
+ "poster": "https://lain.bgm.tv/pic/cover/l/01/8f/627136_hb0Jd.jpg",
+ "banner": "",
+ "synopsis": "Shizuka is a high school girl who can see ghosts. She works as an assistant to the famous psychic Kamui, who has an unusual method for exorcism.",
+ "genres": [
+  "Comedy",
+  "Anime",
+  "Horror"
+ ],
+ "score": 5.4,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 12,
+ "latestEpisode": 12,
+ "episodeNumbers": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  10,
+  12
+ ],
+ "updatedAt": "2026-10-16T07:21:00.846Z",
+ "type": "TV",
+ "season": "SUMMER",
+ "anilistId": null,
+ "country": null,
+ "rawTitle": "kamui hes behind you",
+ "altTitles": [
+  "うしろの正面カムイさん",
+  "从后面来的神威先生",
+  "正后方的神威",
+  "從後面來的神威先生",
+  "KAMUI ---He's behind you"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3c96b49a01b06c9e7feeba7ef289e093/656733dcf5d2ba9286c446250623ab5a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/07/kamui-hes-behind-you.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/365081/hsub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:45:23.271Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3c96b49a01b06c9e7feeba7ef289e093/a72e35b029a54c36eb12dfda065aebfb/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/07/kamui-hes-behind-you.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/63468/2/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:04:48.737Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3c96b49a01b06c9e7feeba7ef289e093/86362a1c8ef481e683bcc63fbed2ca77/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/07/kamui-hes-behind-you.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/63468/3/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T01:44:44.759Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3c96b49a01b06c9e7feeba7ef289e093/c889e921e71e69ca68745e8537bd10e2/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/07/kamui-hes-behind-you.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/63468/4/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T02:46:15.254Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3c96b49a01b06c9e7feeba7ef289e093/14784ba34e18e528162cbbdcb0cb2164/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/07/kamui-hes-behind-you.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/63468/5/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T04:01:15.691Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3c96b49a01b06c9e7feeba7ef289e093/5d4b70253099a5f45cefd627a98e4cad/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/07/kamui-hes-behind-you.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/63468/6/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T05:12:22.871Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3c96b49a01b06c9e7feeba7ef289e093/4d39e8aee7690ee4a79dafcc08c3ed93/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/07/kamui-hes-behind-you.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/63468/7/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T06:16:17.754Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3c96b49a01b06c9e7feeba7ef289e093/a0315f5b5356b5446ac0d70963cd7949/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/07/kamui-hes-behind-you.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/63468/8/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T06:27:08.186Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3c96b49a01b06c9e7feeba7ef289e093/d86cce660eec8a3f38eca797070b9c75/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/07/kamui-hes-behind-you.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/63468/10/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:50.056Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/3c96b49a01b06c9e7feeba7ef289e093/215ea3de5dd2cd1e90c31d54730f7e8d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/07/kamui-hes-behind-you.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/63468/12/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:00.846Z"
+  }
+ ],
+ "_syncHash": "f94f9e3600c52dc8"
+}

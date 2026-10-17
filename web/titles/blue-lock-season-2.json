@@ -33,11 +33,17 @@
  "latestEpisode": 14,
  "episodeNumbers": [
   2,
+  3,
   4,
+  5,
   6,
+  7,
   8,
+  9,
   10,
+  11,
   12,
+  13,
   14
  ],
  "updatedAt": "2026-10-16T17:51:18.159Z",
@@ -56,8 +62,16 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2024/10/144860l.jpg",
    "referer": "https://v2.samehadaku.how/blue-lock-season-2-episode-2/",
    "subtitles": [],
-   "addedAt": "2026-10-16T17:51:08.124Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T17:51:08.124Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/d9ab9cc1bf456f1db82299d1226553e4/4b1936e57b1c2c7ce0b837f6db30567a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/128683/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:46.704Z"
   },
   {
    "number": 4,
@@ -66,8 +80,16 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2024/10/144860l.jpg",
    "referer": "https://v2.samehadaku.how/blue-lock-season-2-episode-4/",
    "subtitles": [],
-   "addedAt": "2026-10-16T17:51:10.083Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T17:51:10.083Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/d9ab9cc1bf456f1db82299d1226553e4/7c79bedb0308ec19608679fe44360d47/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/128861/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:49.632Z"
   },
   {
    "number": 6,
@@ -76,8 +98,16 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2024/10/144860l.jpg",
    "referer": "https://v2.samehadaku.how/blue-lock-season-2-episode-6/",
    "subtitles": [],
-   "addedAt": "2026-10-16T17:51:12.001Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T17:51:12.001Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/d9ab9cc1bf456f1db82299d1226553e4/7435e049f2f2aa51771c8f5edf110d88/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/129096/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:54:31.741Z"
   },
   {
    "number": 8,
@@ -86,8 +116,16 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2024/10/144860l.jpg",
    "referer": "https://v2.samehadaku.how/blue-lock-season-2-episode-8/",
    "subtitles": [],
-   "addedAt": "2026-10-16T17:51:13.557Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T17:51:13.557Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/d9ab9cc1bf456f1db82299d1226553e4/1fabd3d241a1af00aa7b4fa757db5a25/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/129286/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:22:37.671Z"
   },
   {
    "number": 10,
@@ -96,8 +134,16 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2024/10/144860l.jpg",
    "referer": "https://v2.samehadaku.how/blue-lock-season-2-episode-10/",
    "subtitles": [],
-   "addedAt": "2026-10-16T17:51:15.166Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T17:51:15.166Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/d9ab9cc1bf456f1db82299d1226553e4/750bcf7080a708d4f39146c5b79f3355/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/130433/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:22:40.380Z"
   },
   {
    "number": 12,
@@ -106,8 +152,16 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2024/10/144860l.jpg",
    "referer": "https://v2.samehadaku.how/blue-lock-season-2-episode-12/",
    "subtitles": [],
-   "addedAt": "2026-10-16T17:51:16.817Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T17:51:16.817Z"
+  },
+  {
+   "number": 13,
+   "streamUrl": "https://fetch.nexabloom.top/anime/d9ab9cc1bf456f1db82299d1226553e4/814372396863f8db75f31a4b677cf3c1/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/131099/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:22:42.689Z"
   },
   {
    "number": 14,
@@ -116,9 +170,22 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2024/10/144860l.jpg",
    "referer": "https://v2.samehadaku.how/blue-lock-season-2-episode-14-end/",
    "subtitles": [],
-   "addedAt": "2026-10-16T17:51:18.159Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T17:51:18.159Z"
   }
  ],
- "_syncHash": "730e0f8fa6abe011"
+ "variants": [
+  {
+   "id": "blue-lock-season-2",
+   "title": "Blue Lock Season 2",
+   "variantType": "sub",
+   "episodeCount": 13
+  },
+  {
+   "id": "blue-lock-2nd-season-dub",
+   "title": "BLUE LOCK Season 2",
+   "variantType": "dub",
+   "episodeCount": 2
+  }
+ ],
+ "_syncHash": "c29eba4f75492cd8"
 }

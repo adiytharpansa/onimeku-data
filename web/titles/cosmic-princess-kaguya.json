@@ -1,0 +1,46 @@
+{
+ "id": "cosmic-princess-kaguya",
+ "title": "Cosmic Princess Kaguya!",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx201903-v43gxQKw8Tc8.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/201903-Y20yLk06W45T.jpg",
+ "synopsis": "A tale of otherworldly beauty and celestial secrets unfolds in this new take on Japan’s oldest folktale.\n\n\n\nInspired by The Tale of the Bamboo Cutter, the film reimagines Japan’s oldest folktale with a modern touch by integrating music, fantasy, and contemporary animation.\n\n\n\nSet in the virtual realm of Tsukuyomi, the story unfolds as a live performance marrying original music with Yamashita’s signature style of polished visuals, emotive pacing, and dynamic 3D camerawork to boldly transform this classic tale for a new generation.\n\n\n\n(Source: Netflix, edited)",
+ "genres": [
+  "Action",
+  "Comedy",
+  "Drama",
+  "Fantasy",
+  "Music",
+  "Sci-Fi"
+ ],
+ "score": 8.4,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:42:37.547Z",
+ "type": "ONA",
+ "season": "WINTER",
+ "anilistId": 201903,
+ "country": "JP",
+ "rawTitle": "cosmic princess kaguya",
+ "altTitles": [
+  "Chou Kaguya-hime!",
+  "超かぐや姫！"
+ ],
+ "studio": "Studio Colorido",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/f2832b9c579edcd29fb081fb4dee0406/81328077ca624f0054677ce4a64a0471/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1769096537-2536-1769095335-6366-154878.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/164369/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:37.547Z"
+  }
+ ],
+ "_syncHash": "2ab0024c3dfce9bd"
+}

@@ -12,10 +12,11 @@
  "year": 2024,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 2,
+ "latestEpisode": 3,
  "episodeNumbers": [
   1,
-  2
+  2,
+  3
  ],
  "updatedAt": "2026-10-15T16:05:56.039Z",
  "type": null,
@@ -36,8 +37,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/09/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-3.jpg",
    "referer": "https://megaplay.buzz/stream/mal/60601/1/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-13T21:20:47.396Z",
-   "customSubs": []
+   "addedAt": "2026-10-13T21:20:47.396Z"
   },
   {
    "number": 2,
@@ -46,9 +46,17 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/09/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-3.jpg",
    "referer": "https://megaplay.buzz/stream/mal/60601/2/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-13T20:07:39.077Z",
-   "customSubs": []
+   "addedAt": "2026-10-13T20:07:39.077Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/af057140b8b9b27a9085b0f431955950/5c82f411a211230b3e6f67c0f0dd3314/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/09/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-3.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/60601/3/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:05:56.039Z"
   }
  ],
- "_syncHash": "dcda42d0eb3149a5"
+ "_syncHash": "67d8e9941429a295"
 }

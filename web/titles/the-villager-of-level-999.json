@@ -13,7 +13,7 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:45:32.688Z",
+ "updatedAt": "2026-10-16T07:21:22.537Z",
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
@@ -28,7 +28,7 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/9ld2jvc00k/2xbws2xeab/vo9wodf8ipfg6d/master.m3u8",
-   "downloadUrl": "/download/mal/62322/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/62322/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/50109/poster_image/large-cf23ba84860e907feef14f45fc5cb82d.jpeg",
    "referer": "https://zokoanime.video/stream/mal/62322/1/sub",
    "subtitles": [
@@ -38,9 +38,8 @@
      "url": "https://hls.dramahot.top/v/scxqicy/9ld2jvc00k/2xbws2xeab/vo9wodf8ipfg6d/subs/jxgg21awxhtmyh2w.vtt"
     }
    ],
-   "addedAt": "2026-10-14T00:26:22.153Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T07:21:22.537Z"
   }
  ],
- "_syncHash": "880daf725b6dfea5"
+ "_syncHash": "9c946333e5b1462f"
 }

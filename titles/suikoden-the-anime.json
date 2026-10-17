@@ -1,0 +1,66 @@
+{
+ "id": "suikoden-the-anime",
+ "title": "Suikoden: The Anime",
+ "poster": "https://anizone.to/images/anime/4f793db8-6d33-4859-b217-ace0d654f0b7.jpg",
+ "banner": "",
+ "synopsis": "「曾以为只要拥有那份力量，就能守护一切。」隶属于海兰德王国少年兵部队的少年主角——骊龙，以及他的挚友乔伊。两人曾仰望着同一片星空，也相信着同一个未来。只要这场战争结束，那段熟悉日常一定会再次回到他们身边。然而，这份心愿终究未能实现，两人被卷入由战火的命运漩涡中。无能为力的少年们，获得了无比强大的力量。在108颗星辰格外耀眼的夜空下，他们将无解疑问深藏于心，并依循着各自信念，踏出属于自己的道路。\r\n\r\n\r\n\r\n[简介原文]\r\n「その強さがあれば、すべてを守れると思った。」\r\nデュナン地方北東部に存在し、強力な軍事力を保有するハイランド王国。\r\nその少年兵部隊に所属する少年──主人公・リリュウと親友のジョウイ。\r\n2人は同じ星空を見上げ、同じテントで眠り、同じ未来を信じていた。\r\nこの戦いが終われば、夜が明ければ、またあの日常が戻ってくる。\r\nその思いも虚しく、2人は戦火に導かれた宿命の渦へと飲み込まれていく。\r\n無力な少年たちが手に入れた強大な力。\r\n108 の星が一際輝く夜空の下で、答えの無き問いを胸の内に抱えながら、\r\n少年達は、自らの信念のもとに歩み始める──",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Fantasy"
+ ],
+ "score": 0,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 0,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  1,
+  2
+ ],
+ "updatedAt": "2026-10-17T10:30:28.908Z",
+ "type": "TV",
+ "season": null,
+ "anilistId": null,
+ "country": null,
+ "rawTitle": "Suikoden: The Anime",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://suzaku.xin-cdn.xyz/a8bc5f61-ca8c-44a4-8ebd-aaae40b78b0a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/4f793db8-6d33-4859-b217-ace0d654f0b7.jpg",
+   "referer": "https://anizone.to/anime/0nmjnphm/1",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://suzaku.xin-cdn.xyz/a8bc5f61-ca8c-44a4-8ebd-aaae40b78b0a/subtitles/0_en.srt",
+     "referer": "https://anizone.to/anime/0nmjnphm/1"
+    },
+    {
+     "lang": "id",
+     "url": "https://suzaku.xin-cdn.xyz/a8bc5f61-ca8c-44a4-8ebd-aaae40b78b0a/subtitles/3_id.srt",
+     "referer": "https://anizone.to/anime/0nmjnphm/1"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T10:30:28.908Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://play.echovideo.ru/embed-20/gLKOGDyT7Qhj5zRKCd_v8uASm4IXiDAoGo-Eo_ue9L6SKnq2DpQ9fnTkLce_KrRpnxjmiqLqVW-SqCvIG-EHmoBaYKbAIQAd4WrKecHZ92kjN2HQ53VRzSlVhxhjhVxyHO7zzxU4i2De5W9pS3vRN2GWxH7t0n5Lz3YYoY4j5EOx7iTyttFoqkHc2TijIlEv?v=1?asi=0&autoPlay=0&ao=0",
+   "downloadUrl": null,
+   "thumbnail": "https://static.aniwaves.ru/resources/thumbnails/200x280/100/8c3f1c07dce513023cce38c048beeefd.jpg",
+   "referer": "https://aniwaves.ru/watch/82771/ep-2",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://play.echovideo.ru/embed-20/gLKOGDyT7Qhj5zRKCd_v8uASm4IXiDAoGo-Eo_ue9L6SKnq2DpQ9fnTkLce_KrRpnxjmiqLqVW-SqCvIG-EHmoBaYKbAIQAd4WrKecHZ92kjN2HQ53VRzSlVhxhjhVxyHO7zzxU4i2De5W9pS3vRN2GWxH7t0n5Lz3YYoY4j5EOx7iTyttFoqkHc2TijIlEv?v=1?asi=0&autoPlay=0&ao=0",
+   "addedAt": "2026-10-17T09:32:18.814Z"
+  }
+ ],
+ "_syncHash": "55b0562f0548622c"
+}

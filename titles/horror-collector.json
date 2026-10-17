@@ -1,0 +1,43 @@
+{
+ "id": "horror-collector",
+ "title": "Horror Collector",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b203473-pzyaqV432Qko.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/203473-KCGlCZL2ApjB.jpg",
+ "synopsis": "Urban legends come to life…Everyone’s heard an urban legend before, but few have ever come face-to-face with one. These phenomena are everywhere, existing in the shadows of reality. More and more of them have been appearing in the wake of the faceless kid sighted all over Japan. If you see her or one of the urban legends she brings―pray the boy in the red hood finds you before it’s too late. You won’t stand a chance on your own. But with his help, you may just live to see another day…\n\n\n\n(Source: Yen Press)",
+ "genres": [
+  "Horror",
+  "Mystery",
+  "Supernatural"
+ ],
+ "score": 5,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 12,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T16:04:56.465Z",
+ "type": "TV",
+ "season": "FALL",
+ "anilistId": 203473,
+ "country": "JP",
+ "rawTitle": "horror collector",
+ "altTitles": [
+  "Kyoufu Collector",
+  "恐怖コレクター"
+ ],
+ "studio": "Studio Palette",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8500cd4427ccbc38d536e34f1014924f/7d2c35798d84d4b2601fac8f9382a21a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/10/horror-collector.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/63053/1/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:04:56.465Z"
+  }
+ ],
+ "_syncHash": "2ea0b8ecaae9891c"
+}

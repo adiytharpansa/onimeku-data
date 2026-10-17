@@ -1,6 +1,6 @@
 {
  "id": "overlord-iv",
- "title": "overlord iv",
+ "title": "Overlord iv",
  "poster": "https://media.kitsu.app/anime/44529/poster_image/large-d0683b94779e1ca0078b0dfde25443d7.jpeg",
  "banner": "https://media.kitsu.app/anime/44529/cover_image/large-f71fc621735eeb86343179dbe0c866dc.jpeg",
  "synopsis": "The fourth season of Overlord.",
@@ -27,13 +27,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/k43622ayqp/s9deb60bsq/n0lw3c9npq8o1a/master.m3u8",
-   "downloadUrl": "/download/mal/48895/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/48895/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/44529/poster_image/large-d0683b94779e1ca0078b0dfde25443d7.jpeg",
    "referer": "https://zokoanime.video/stream/mal/48895/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-13T22:05:35.109Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:42:09.702Z"
   }
  ],
- "_syncHash": "80e160a121bfe5ab"
+ "_syncHash": "ecf9d4f07188fda7"
 }

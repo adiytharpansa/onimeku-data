@@ -11,11 +11,15 @@
  "year": 2026,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 10,
+ "latestEpisode": 12,
  "episodeNumbers": [
   1,
   2,
-  10
+  3,
+  8,
+  10,
+  11,
+  12
  ],
  "updatedAt": "2026-10-16T22:10:59.406Z",
  "type": "TV",
@@ -35,8 +39,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/akane-banashi.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/169747/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:10:46.875Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:10:46.875Z"
   },
   {
    "number": 2,
@@ -45,8 +48,25 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/akane-banashi.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/170362/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T14:45:48.837Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T14:45:48.837Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a4ddab7e3c43d76cfff0dc4189a5df2a/e9e8cf1f24a089ce7f228fbd3ea43dba/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/akane-banashi.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/170905/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:38.572Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a4ddab7e3c43d76cfff0dc4189a5df2a/06a328f40b1c3d54e3caa467c7971de9/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/akane-banashi.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/62164/8/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:41.358Z"
   },
   {
    "number": 10,
@@ -55,9 +75,26 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/akane-banashi.jpg",
    "referer": "https://megaplay.buzz/stream/mal/62164/10/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:10:59.406Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:10:59.406Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a4ddab7e3c43d76cfff0dc4189a5df2a/36217a2481041e258752b6634ac22b8a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/akane-banashi.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/62164/11/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:05:33.537Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://prx-1350-ant-d.vmpx.online/hls2/04/02527/dvu3b3u3hddt_,n,l,.urlset/master.m3u8?t=5gl7U-YkRGmqDiEHAHfWFS89aebiqX-LrdXOaGssxTk=&s=1792078883&e=43200&v=&srv=box-1396-t10&i=0.4&sp=0&asn=8075",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/akane-banashi.jpg",
+   "referer": "https://vidmoly.biz/embed-dvu3b3u3hddt.html",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:23.963Z"
   }
  ],
- "_syncHash": "1deccbc0819dc12f"
+ "_syncHash": "4409e73749879879"
 }

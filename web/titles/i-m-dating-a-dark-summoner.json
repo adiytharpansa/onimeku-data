@@ -1,0 +1,48 @@
+{
+ "id": "i-m-dating-a-dark-summoner",
+ "title": "I`m Dating a Dark Summoner",
+ "poster": "https://anizone.to/images/anime/420bbf37-bba2-4c3b-9ac1-3ecc2718bcdb.jpg",
+ "banner": "",
+ "synopsis": "クソ真面目な神官・ロニのパーティーに新しく加入してきたのは、\r\n悪魔の力を使う美しきダークサモナーの。\r\n\r\n聖と邪、人間と亜人。\r\n反発しあい犬猿の仲にあると思われた2人だったが、\r\nパーティー加入初日に朝チュンしてしまい…！？\r\n\r\n秘密の関係を抱えたまま、クセの強いパーティーメンバーと、\r\n召喚悪魔インプたちと共に旅は続く！\r\n\r\n背徳とときめきが交錯する。\r\n\r\n亜人女子×神官男子の\r\nファンタジー・ケンカップルラブコメ、開幕！",
+ "genres": [
+  "Manga",
+  "Seinen",
+  "Ecchi"
+ ],
+ "score": null,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-17T10:18:52.846Z",
+ "type": "TV",
+ "season": null,
+ "anilistId": null,
+ "country": "JP",
+ "rawTitle": "I`m Dating a Dark Summoner",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://suzaku.xin-cdn.xyz/d2374d95-ad9d-4ad2-9fa4-184bde4d300f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/420bbf37-bba2-4c3b-9ac1-3ecc2718bcdb.jpg",
+   "referer": "https://anizone.to/anime/8gjsqbwh/1",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://suzaku.xin-cdn.xyz/d2374d95-ad9d-4ad2-9fa4-184bde4d300f/subtitles/0_en.srt",
+     "referer": "https://anizone.to/anime/8gjsqbwh/1"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T10:18:52.846Z"
+  }
+ ],
+ "_syncHash": "5cb66eb6c45c777f"
+}

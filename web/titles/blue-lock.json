@@ -1,0 +1,227 @@
+{
+ "id": "blue-lock",
+ "title": "Blue Lock",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-U8naszP96vzC.png",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/137822-oevspckMGLuY.jpg",
+ "synopsis": "Japan’s desire for World Cup glory leads the Japanese Football Association to launch a new rigorous training program to find the national team’s next striker. Three hundred high school players are pitted against each other for the position, but only one will come out on top. Who among them will be the striker to usher in a new era of Japanese soccer?\n\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Action",
+  "Drama",
+  "Sports"
+ ],
+ "score": 7.9,
+ "year": 2022,
+ "status": "FINISHED",
+ "totalEpisodes": 24,
+ "latestEpisode": 24,
+ "episodeNumbers": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  8,
+  10,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24
+ ],
+ "updatedAt": "2026-10-16T07:20:54.227Z",
+ "type": "TV",
+ "season": "FALL",
+ "anilistId": 137822,
+ "country": "JP",
+ "rawTitle": "blue lock",
+ "altTitles": [
+  "Blue Lock",
+  "ブルーロック"
+ ],
+ "studio": "8-bit",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/521a3912cefd7ce0f0d8748910e742db/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/94538/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:05.854Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/aa099e04a34399971137fd5d86b47539/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/94687/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:06.885Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/76ef32060f2ef2764a732ec15bf91d3a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/94815/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:58:06.145Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/6937c9b117137e614e1ef1bec5a2d2f6/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/94951/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:58:07.170Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/922d2a17310bf5ca26b36db78810c230/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/95192/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:58:08.200Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/a0690807596664f99aa287e227220cce/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/95297/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:58:09.168Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/f364fc4eb65516055833597fcd3065aa/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/95751/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:58:50.924Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/63c7b0e87b47110a1990c038c2bb279a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/96085/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:58:52.740Z"
+  },
+  {
+   "number": 15,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/fd6d98c9d04732322b8788585d5ba73b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/97526/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:58:57.522Z"
+  },
+  {
+   "number": 16,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/25da52bf1873054886093099d38b099d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/97614/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:41.191Z"
+  },
+  {
+   "number": 17,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/47520c877e1c6a7715db15852e79ac6b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/97944/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:42.310Z"
+  },
+  {
+   "number": 18,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/6e57c5748a84e41423f9b52fbed1f568/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/98223/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:46.565Z"
+  },
+  {
+   "number": 19,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/837af32657158af930974c6993fbe31b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/98518/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:47.587Z"
+  },
+  {
+   "number": 20,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/ec260938efc757ed67a9b16cf8936a09/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/98715/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:49.027Z"
+  },
+  {
+   "number": 21,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/b6425670fe40f16f65754c1125b7ded7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/99044/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:50.052Z"
+  },
+  {
+   "number": 22,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/ab4180266c9f58812cf4e5bd8afe9d01/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/99276/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:51.222Z"
+  },
+  {
+   "number": 23,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/5cdfcdfcc5c070658f6eb3bea9d17224/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/99523/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:53.114Z"
+  },
+  {
+   "number": 24,
+   "streamUrl": "https://fetch.nexabloom.top/anime/964bc1c4246b6a9d8afaa820e8fdc519/e4489b094dee12372a2acadc53810bbd/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/blue-lock.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/99720/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:54.227Z"
+  }
+ ],
+ "variants": [
+  {
+   "id": "blue-lock",
+   "title": "Blue Lock",
+   "variantType": "sub",
+   "episodeCount": 18
+  },
+  {
+   "id": "blue-lock-dub",
+   "title": "Blue Lock",
+   "variantType": "dub",
+   "episodeCount": 7
+  }
+ ],
+ "_syncHash": "5741dbcd0467fb0f"
+}

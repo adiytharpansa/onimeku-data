@@ -13,10 +13,15 @@
  "year": null,
  "status": "FINISHED",
  "totalEpisodes": 7,
- "latestEpisode": 2,
+ "latestEpisode": 7,
  "episodeNumbers": [
   1,
-  2
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
  ],
  "updatedAt": "2026-10-16T22:10:49.748Z",
  "type": "ONA",
@@ -36,8 +41,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alien-collections.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/141756/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T15:36:18.888Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T15:36:18.888Z"
   },
   {
    "number": 2,
@@ -46,9 +50,53 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alien-collections.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/141762/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:10:49.748Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:10:49.748Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/80cb49db30e21273c9acaf03212060f8/edcfde023e72bc930f987afad473c041/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alien-collections.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/143123/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:48.430Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/80cb49db30e21273c9acaf03212060f8/259dc8baeeddd93da51864e502c32b00/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alien-collections.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/143126/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:49.550Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/80cb49db30e21273c9acaf03212060f8/7b08290dce6d3da4f09b95a1e8668782/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alien-collections.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/143210/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:22:35.752Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/80cb49db30e21273c9acaf03212060f8/a8d493a64e13e4f21d005ccb86dbfc50/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alien-collections.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/143388/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:55.372Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/80cb49db30e21273c9acaf03212060f8/4dbf997c0b37155f3f28bfcc5d09c64c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/alien-collections.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/143724/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:56.923Z"
   }
  ],
- "_syncHash": "fb1a1cef5c95c8b0"
+ "_syncHash": "cc516a464f58a657"
 }

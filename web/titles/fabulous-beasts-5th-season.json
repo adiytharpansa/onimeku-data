@@ -1,0 +1,133 @@
+{
+ "id": "fabulous-beasts-5th-season",
+ "title": "Fabulous Beasts 5",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b204394-kwMsvF7s2bN8.png",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204394-EranZeYrUVDj.jpg",
+ "synopsis": "The fifth season of You Shou Yan.",
+ "genres": [
+  "Comedy",
+  "Fantasy",
+  "Slice of Life"
+ ],
+ "score": 6.4,
+ "year": null,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 10,
+ "episodeNumbers": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "updatedAt": "2026-10-16T07:21:22.822Z",
+ "type": "ONA",
+ "season": null,
+ "anilistId": 204394,
+ "country": "CN",
+ "rawTitle": "fabulous beasts 5th season",
+ "altTitles": [
+  "You Shou Yan 5",
+  "有兽焉 第五季"
+ ],
+ "studio": "FENZ",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/94a63c28036769847b9597e0dd7abb1c/570176ed63f653a51ad5ee2731158427/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/fabulous-beasts-5th-season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/166969/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:11.681Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/94a63c28036769847b9597e0dd7abb1c/114a6d5d7e3d0d6509aa3307110bd3b9/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/fabulous-beasts-5th-season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/166973/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:14.188Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/94a63c28036769847b9597e0dd7abb1c/720712eceb877a666b21bda3e9003586/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/fabulous-beasts-5th-season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/167541/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:28.183Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/94a63c28036769847b9597e0dd7abb1c/5dcfe7745f086d67ad1c32c0a31101e5/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/fabulous-beasts-5th-season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/168367/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:29.694Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/94a63c28036769847b9597e0dd7abb1c/e6cbb174164a1b993949163ca5737c02/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/fabulous-beasts-5th-season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/168574/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:30.904Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/94a63c28036769847b9597e0dd7abb1c/bf41d9fa8b33946fa995e7c6934c0d30/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/fabulous-beasts-5th-season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/168928/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:32.958Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/94a63c28036769847b9597e0dd7abb1c/8dbeb948384f1fe2cee03bd4992c4d1f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/fabulous-beasts-5th-season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/169603/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:14.901Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/94a63c28036769847b9597e0dd7abb1c/c3add7aadddfe7bc2f500d58c85f4b11/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/fabulous-beasts-5th-season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/169828/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:20.235Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/94a63c28036769847b9597e0dd7abb1c/3f5b7ae3a0f812e32a443913cf04395f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/fabulous-beasts-5th-season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/170437/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:21.697Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/94a63c28036769847b9597e0dd7abb1c/2d4132e9d78ced4710ec3d1f86c70a66/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/fabulous-beasts-5th-season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/170962/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:22.822Z"
+  }
+ ],
+ "_syncHash": "4d4120a4da83d654"
+}

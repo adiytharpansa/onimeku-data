@@ -1,0 +1,52 @@
+{
+ "id": "mob-psycho-100-dub",
+ "title": "Mob Psycho 100",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx21507-6YUSbh2m0N1p.jpg",
+ "banner": "",
+ "synopsis": "The story revolves around \"Mob,\" a boy who will explode if his emotional capacity reaches 100%. This boy with psychic powers earned his nickname \"Mob\" because he does not stand out among other people. He keeps his psychic powers bottled up so he can live normally, but if his emotional level reaches 100, something will overwhelm his entire body.\n\n(Source: Anime News Network)",
+ "genres": [
+  "Action",
+  "Comedy",
+  "Drama",
+  "Psychological",
+  "Slice of Life",
+  "Supernatural"
+ ],
+ "score": 0,
+ "year": 2016,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 11,
+ "episodeNumbers": [
+  11
+ ],
+ "updatedAt": "2026-10-17T08:18:38.098Z",
+ "type": "TV",
+ "season": null,
+ "anilistId": 21507,
+ "country": null,
+ "rawTitle": "Mob Psycho 100 (Dub)",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 11,
+   "streamUrl": "https://megaplay.buzz/stream/ani/21507/11/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx21507-6YUSbh2m0N1p.jpg",
+   "referer": "https://www.enma.lol/watch/mob-psycho-100-21507?ep=11",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/38b3eff8baf56627478ec76a704e9b52/27456874ccc92ab03aca40309d132315/subtitles/eng-0.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/21507/11/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T08:18:38.098Z"
+  }
+ ],
+ "_syncHash": "766475c0c521e6ee"
+}

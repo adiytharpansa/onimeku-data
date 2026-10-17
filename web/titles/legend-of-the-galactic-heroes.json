@@ -1,6 +1,6 @@
 {
  "id": "legend-of-the-galactic-heroes",
- "title": "legend of the galactic heroes",
+ "title": "Legend of the Galactic Heroes",
  "poster": "https://media.kitsu.app/anime/poster_images/727/large.jpg",
  "banner": "https://media.kitsu.app/anime/cover_images/727/large.jpg",
  "synopsis": "For 150 years the galaxy has been locked in an interstellar war between the Galactic Empire and the Free Planets Alliance, fighting battles with thousands of spaceships and millions of soldiers on both sides. The crumbling Goldenbaum dynasty rules the Empire while the Alliance is in an increasingly dysfunctional democratic state.\n\nTwo new commanders enter the stage: Imperial Admiral Reinhard von Lohengramm and the FPA's Yang Wen-Li. Reinhard is a talented minor aristocrat given a high station—and a powerful grudge—after the Kaiser took his older sister as a concubine. Wen-Li originally joined the military only to fund his university education, but has become a brilliant though reluctant leader. Each begins to attract a circle of similarly gifted soldiers, generals and thinkers around him, and in time the rivalry between these two very different men will shatter the existing stalemate. As they deal with superiors and subordinates, maneuver through personal and political problems, plot strategies and fight battles, both will bend the course of events to their will and, in turn, be tested and changed by the greatest war in human history!\n\nLegend of the Galactic Heroes is a vast, sentimental and thoughtful military space opera. This 110-episode OVA is the central part of the franchise, and the other connected titles are supplements to it.",
@@ -34,19 +34,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/hi6rt84z69/eqbcaey3bm/63xezqyd9loirj/master.m3u8",
-   "downloadUrl": "/download/mal/820/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/820/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/727/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/820/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/hi6rt84z69/eqbcaey3bm/63xezqyd9loirj/subs/6g57y7gtth0y949g.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:10:07.366Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:03.973Z"
   }
  ],
- "_syncHash": "fb3605645dff9590"
+ "_syncHash": "d02145dca5c332b5"
 }

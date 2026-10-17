@@ -9,9 +9,12 @@
  "year": 2025,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 1,
+ "latestEpisode": 11,
  "episodeNumbers": [
-  1
+  1,
+  6,
+  7,
+  11
  ],
  "updatedAt": "2026-10-15T15:41:10.707Z",
  "type": null,
@@ -32,9 +35,35 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1760601196-8554-1759928664-1185-Wandance.webp",
    "referer": "https://megaplay.buzz/stream/s-2/145686/dub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T02:53:55.119Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T02:53:55.119Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/dbc52e4cacdf6537676c04fbcfca8941/f56709d8b35942eb17eb0165afd95e47/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1760601196-8554-1759928664-1185-Wandance.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/155133/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:01.106Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/dbc52e4cacdf6537676c04fbcfca8941/9dd2df42ffab28bcd73f66a1da2f7d50/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1760601196-8554-1759928664-1185-Wandance.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/156101/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:02.287Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/dbc52e4cacdf6537676c04fbcfca8941/0815cbecbfa9869fb5d5428ea02b8bd1/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1760601196-8554-1759928664-1185-Wandance.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/160377/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:10.707Z"
   }
  ],
- "_syncHash": "3e4392ca2fb4496e"
+ "_syncHash": "23b687946ec54732"
 }

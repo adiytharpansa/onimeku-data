@@ -12,13 +12,19 @@
  "latestEpisode": 12,
  "episodeNumbers": [
   1,
+  2,
+  3,
+  4,
   5,
   6,
   7,
   8,
+  9,
+  10,
+  11,
   12
  ],
- "updatedAt": "2026-10-15T15:40:44.070Z",
+ "updatedAt": "2026-10-16T07:20:31.808Z",
  "type": "TV",
  "season": "WINTER",
  "anilistId": null,
@@ -37,8 +43,34 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767801127-5215-1767792366-4036-152396.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/162253/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T18:01:26.307Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T18:01:26.307Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a829b6def307bd357011e57e5d6a635d/faf2ab928c62e04ce5ee3828655d4772/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767801127-5215-1767792366-4036-152396.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/163297/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:23.605Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a829b6def307bd357011e57e5d6a635d/9391b58e0bfdfa46bd25a576abeab377/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767801127-5215-1767792366-4036-152396.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/164149/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:25.508Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a829b6def307bd357011e57e5d6a635d/892480c422ab2bd7f791e7e07660a011/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767801127-5215-1767792366-4036-152396.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/164913/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:27.123Z"
   },
   {
    "number": 5,
@@ -47,8 +79,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767801127-5215-1767792366-4036-152396.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/165829/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:47.804Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:47.804Z"
   },
   {
    "number": 6,
@@ -57,8 +88,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767801127-5215-1767792366-4036-152396.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/166409/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:49.795Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:49.795Z"
   },
   {
    "number": 7,
@@ -67,8 +97,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767801127-5215-1767792366-4036-152396.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/166889/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:51.715Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:51.715Z"
   },
   {
    "number": 8,
@@ -77,8 +106,34 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767801127-5215-1767792366-4036-152396.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/167429/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:53.966Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:53.966Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a829b6def307bd357011e57e5d6a635d/8361872cd82d4e621cafbe82d9b8d333/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767801127-5215-1767792366-4036-152396.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/167860/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:28.502Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a829b6def307bd357011e57e5d6a635d/e15e92ac6c95c10fd267f429c0c03d2a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767801127-5215-1767792366-4036-152396.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/168469/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:30.092Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a829b6def307bd357011e57e5d6a635d/b3ec56567b9642a4e204c7550970e5cc/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767801127-5215-1767792366-4036-152396.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/168841/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:31.808Z"
   },
   {
    "number": 12,
@@ -87,9 +142,8 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767801127-5215-1767792366-4036-152396.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/168856/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T15:40:44.070Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:40:44.070Z"
   }
  ],
- "_syncHash": "c2c13ac53e06bb93"
+ "_syncHash": "638c98886d253e44"
 }

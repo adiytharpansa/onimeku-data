@@ -1,0 +1,59 @@
+{
+ "id": "demon-slayer-kimetsu-no-yaiba-infinity-castle",
+ "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178788-zm3gtpB9TpRt.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/178788-tSHb5MiaNBNL.jpg",
+ "synopsis": "Tanjiro Kamado – a boy who joined an organization dedicated to hunting down demons called the Demon Slayer Corps after his younger sister Nezuko was turned into a demon.\n\n\n\nWhile growing stronger and deepening his friendships and bonds with fellow corps members, Tanjiro has battled many demons with his comrades – Zenitsu Agatsuma and Inosuke Hashibira. Along the way, his journey has led him to fight alongside the Demon Slayer Corps’ highest-ranking swordsmen, the Hashira, including Flame Hashira Kyojuro Rengoku aboard the Mugen Train, Sound Hashira Tengen Uzui within the Entertainment District, as well as Mist Hashira Muichiro Tokito and Love Hashira Mitsuri Kanroji at the Swordsmith Village.\n\n\n\nAs the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming battle against the demons, Muzan Kibutsuji appears at the Ubuyashiki Mansion. With the head of the Demon Corps in danger, Tanjiro and the Hashira rush to the headquarters but are plunged into a deep descent to a mysterious space by the hands of Muzan Kibutsuji.\n\n\n\nThe destination of where Tanjiro and Demon Slayer Corps have fallen is the demons’ stronghold – the Infinity Castle. And so, the battleground is set as the final battle between the Demon Slayer Corps and the demons ignites.\n\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Drama",
+  "Fantasy",
+  "Supernatural"
+ ],
+ "score": 8.6,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:42:36.049Z",
+ "type": "MOVIE",
+ "season": "SUMMER",
+ "anilistId": 178788,
+ "country": "JP",
+ "rawTitle": "demon slayer kimetsu no yaiba infinity castle",
+ "altTitles": [
+  "Kimetsu no Yaiba: Mugenjou-hen Movie 1 - Akaza Sairai",
+  "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来"
+ ],
+ "studio": "ufotable",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/4cc2cd5e838a33b83d63b21537556145/f5b009cb24b3e03002ffc61d7d3eb9a2/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/demon-slayer-kimetsu-no-yaiba-infinity-castle.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/142018/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:36.049Z"
+  }
+ ],
+ "variants": [
+  {
+   "id": "demon-slayer-kimetsu-no-yaiba-infinity-castle",
+   "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+   "variantType": "sub",
+   "episodeCount": 1
+  },
+  {
+   "id": "demon-slayer-kimetsu-no-yaiba-infinity-castle-dub",
+   "title": "Demon Slayer: Kimetsu no Yaiba - Infinity Castle - Part 1: Akaza Returns",
+   "variantType": "dub",
+   "episodeCount": 1
+  }
+ ],
+ "_syncHash": "384ff842c3b9d85f"
+}

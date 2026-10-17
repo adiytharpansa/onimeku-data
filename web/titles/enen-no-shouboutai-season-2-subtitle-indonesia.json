@@ -15,22 +15,28 @@
  "year": 2020,
  "status": "FINISHED",
  "totalEpisodes": 24,
- "latestEpisode": 23,
+ "latestEpisode": 24,
  "episodeNumbers": [
   1,
   3,
+  4,
   5,
   7,
+  8,
   9,
   11,
+  12,
   13,
   15,
+  16,
   17,
   19,
+  20,
   21,
-  23
+  23,
+  24
  ],
- "updatedAt": "2026-10-16T16:48:55.852Z",
+ "updatedAt": "2026-10-17T10:58:00.052Z",
  "type": null,
  "season": null,
  "anilistId": null,
@@ -60,6 +66,17 @@
    "customSubs": []
   },
   {
+   "number": 4,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dwipXOC9x14RPchujbkq9yzulaMMR6RqHe3gVL8ObCOYnG9SnEeNAI4gmoc8Hx3h2fpcu-8xlZO0mKUFoyropoidyAFMNDHaM5zT2YIHnUG3QLWEJf1WH8TMr4vhSC755D9CaWS",
+   "downloadUrl": null,
+   "thumbnail": "https://i1.wp.com/s2.anime-kuindo.com/wp-content/uploads/2025/04/1745728741-8567-107657.jpg",
+   "referer": "https://s2.anime-kuindo.com/enen-no-shouboutai-season-2-episode-4/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T10:57:52.317Z"
+  },
+  {
    "number": 5,
    "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dwfhE6OC5JZkAsIf_Gj8XUM5LHMkGyvoexnG_p8XPj731iguF-0hDLZmFM1kg2kDap9B_QhHqSmuEfaFrbOrZzCBJoZVidpx3pyqDacH2Tk01XxXfd3J5jkQgjsLNeqYVvOMITL",
    "downloadUrl": null,
@@ -78,6 +95,17 @@
    "subtitles": [],
    "addedAt": "2026-10-16T16:48:46.940Z",
    "customSubs": []
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dwn25m4PmtWqck85bh5lnXaPhg1QDM7gVtPRaOsiXFW1QD-zHEN0a65v2MqYwGaVkt-vjYNdGTFGpoKpTKSknpJatI-q89HmSB11eG6XkeSosSI69IxFHFtGLjIalD0wUroP_U",
+   "downloadUrl": null,
+   "thumbnail": "https://i1.wp.com/s2.anime-kuindo.com/wp-content/uploads/2025/04/1745728741-8567-107657.jpg",
+   "referer": "https://s2.anime-kuindo.com/enen-no-shouboutai-season-2-episode-8/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T10:57:53.934Z"
   },
   {
    "number": 9,
@@ -100,6 +128,17 @@
    "customSubs": []
   },
   {
+   "number": 12,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dwz9cNbb7Lkim_sY-2M_M97sG37VQqES_ev6jWNmvfAESfa8db5ONz1H1qFbXwjMokIQiES6xzzb2salIjxrl49RwNP0sqJ2x62n5xSEiaSrJQ9xcWdobDimVRvCFUzzxulizG1",
+   "downloadUrl": null,
+   "thumbnail": "https://i1.wp.com/s2.anime-kuindo.com/wp-content/uploads/2025/04/1745728741-8567-107657.jpg",
+   "referer": "https://s2.anime-kuindo.com/enen-no-shouboutai-season-2-episode-12/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T10:57:55.504Z"
+  },
+  {
    "number": 13,
    "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dw51xKhBdCqjBEs8ZsyhZiHPxa3SVmRI4mJnYmPFPN3l_AJ8b8OpBxOBGHS4s8aGJRjTxYa8u5w-sg_KrhzCTHID2etXZJ5fywrtTcJdH6j77llX6CSBZd0igU_2b3jSlaxWrry",
    "downloadUrl": null,
@@ -118,6 +157,17 @@
    "subtitles": [],
    "addedAt": "2026-10-16T16:48:51.489Z",
    "customSubs": []
+  },
+  {
+   "number": 16,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dxdONl5gp8cUM5sNwLM6tccdMkOTaPOhRGWpd5a1OM2r26wBrLdxlb57CvRO9RhJHMnKhLaKp106Ua1z6kMKIDv6naDCGK3UF2B3BUHjCnef6S7K6-WB9cJG5Os3P_YBwqJMg",
+   "downloadUrl": null,
+   "thumbnail": "https://i1.wp.com/s2.anime-kuindo.com/wp-content/uploads/2025/04/1745728741-8567-107657.jpg",
+   "referer": "https://s2.anime-kuindo.com/enen-no-shouboutai-season-2-episode-16/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T10:57:56.993Z"
   },
   {
    "number": 17,
@@ -140,6 +190,17 @@
    "customSubs": []
   },
   {
+   "number": 20,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dx6KgyRDSWWNUCS1wfi5AbUOlLCTQVtLlAsdIci0QVABfgQdXnevmQOlLFgVEbMn209eLBYWaw25_fh3QoIV5gSlxsZlTR1vD15htwbqhUTgdqRg3wxt8iuuwoRBo0nrQZQLPtM",
+   "downloadUrl": null,
+   "thumbnail": "https://i1.wp.com/s2.anime-kuindo.com/wp-content/uploads/2025/04/1745728741-8567-107657.jpg",
+   "referer": "https://s2.anime-kuindo.com/enen-no-shouboutai-season-2-episode-20/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T10:57:58.512Z"
+  },
+  {
    "number": 21,
    "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dwnbZn3xpKh5LtUFsl7YONmUBHMQyjdO38YvAyZXmcllkEDzh_OFqIwwpXIeIZ2fWA7Vtw4ciQJsVbrpXj3BBZ-OhEKyJD5M1_BPT1o4kWKmolkYKoBEqWITXasA0hkC2agmxo",
    "downloadUrl": null,
@@ -158,7 +219,18 @@
    "subtitles": [],
    "addedAt": "2026-10-16T16:48:55.852Z",
    "customSubs": []
+  },
+  {
+   "number": 24,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dxT7IeHp30d8a_hu6Qxc8wwViYlLv-ysdSvFs-t8F1dds-u6DwXMnX3wOEdSLPf5gt3FNVKtfkPx9wWJtb4OeiZ36Rij4_7Np-Bpkq_Vt4YdoTv2GiOTT7UZQK6HFFMyA2iNqyQ",
+   "downloadUrl": null,
+   "thumbnail": "https://i1.wp.com/s2.anime-kuindo.com/wp-content/uploads/2025/04/1745728741-8567-107657.jpg",
+   "referer": "https://s2.anime-kuindo.com/enen-no-shouboutai-season-2-episode-24/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T10:58:00.052Z"
   }
  ],
- "_syncHash": "0a55c915d1867f6f"
+ "_syncHash": "5cf1abab4058806d"
 }

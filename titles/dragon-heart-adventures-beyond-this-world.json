@@ -1,0 +1,41 @@
+{
+ "id": "dragon-heart-adventures-beyond-this-world",
+ "title": "Dragon Heart: Reikai Tanbouki",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx186935-WPDw5KNiCSGb.png",
+ "banner": "",
+ "synopsis": "",
+ "genres": [
+  "Fantasy",
+  "Supernatural"
+ ],
+ "score": null,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:43:08.748Z",
+ "type": "MOVIE",
+ "season": "SPRING",
+ "anilistId": 186935,
+ "country": "JP",
+ "rawTitle": "dragon heart adventures beyond this world",
+ "altTitles": [
+  "ドラゴン・ハート―霊界探訪記―"
+ ],
+ "studio": "HS PICTURES",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/c747496ce40dc4e41d7028334dab7739/a9df8a868a3dfb43d9b175a244c4f115/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/04/dragon-heart-adventures-beyond-this-world.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/168721/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:08.748Z"
+  }
+ ],
+ "_syncHash": "2e1c328a50c8c3a6"
+}

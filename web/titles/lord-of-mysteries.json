@@ -1,6 +1,6 @@
 {
  "id": "lord-of-mysteries",
- "title": "lord of mysteries",
+ "title": "Lord of Mysteries",
  "poster": "https://media.kitsu.app/anime/48233/poster_image/large-8f347612e210dded1f605c158ce0d407.jpeg",
  "banner": "https://media.kitsu.app/anime/48233/cover_image/large-a0c90c77456f1114ff4eb6f989d70b21.jpeg",
  "synopsis": "In a Victorian world of steam, dreadnoughts, and occult horrors, Zhou Mingrui awakens as Klein Moretti. He walks a razor’s edge between light and darkness, entangled with warring Churches. This is the legend of unlimited potential…and unspeakable danger.\n\n(Source: Crunchyroll)",
@@ -25,13 +25,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/dxx5opsi7w/kazw4ih5i5/qek161uk8xiyr9/master.m3u8",
-   "downloadUrl": "/download/mal/49818/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/49818/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/48233/poster_image/large-8f347612e210dded1f605c158ce0d407.jpeg",
    "referer": "https://zokoanime.video/stream/mal/49818/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-13T22:18:42.369Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:46:26.309Z"
   }
  ],
- "_syncHash": "9342c00359c35460"
+ "_syncHash": "162f1dc6dc40bd3c"
 }

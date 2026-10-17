@@ -1,0 +1,63 @@
+{
+ "id": "let-this-grieving-soul-retire",
+ "title": "Let This Grieving Soul Retire",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx175019-8lLRmHID5fMd.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/175019-D36g2OEKdAnU.jpg",
+ "synopsis": "Six childhood friends make a vow one day to become treasure hunters, and eventually grow to be the strongest heroes in the world. During his first quest, Krai Andrey realizes he isn’t cut out for the job. Even so, his friends make him their leader. Underpowered in the face of great expectations, Krai embarks on a reluctant hero’s tale of glory, headaches, and wanting to retire early.\n\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Action",
+  "Comedy",
+  "Fantasy"
+ ],
+ "score": 6.9,
+ "year": 2024,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 13,
+ "episodeNumbers": [
+  1,
+  12,
+  13
+ ],
+ "updatedAt": "2026-10-15T15:57:33.981Z",
+ "type": "TV",
+ "season": "FALL",
+ "anilistId": 175019,
+ "country": "JP",
+ "rawTitle": "let this grieving soul retire",
+ "altTitles": [
+  "Nageki no Bourei wa Intai Shitai",
+  "嘆きの亡霊は引退したい"
+ ],
+ "studio": "Zero-G",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/aa768fe5e5cf9cfd7ef3e584264107d8/e30a3859f4403924e194e2f12e14524f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759590116-6467-1759570679-4454-Let-This-Grieving-Soul-Retire-Cour-2.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/130443/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:45:58.701Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/aa768fe5e5cf9cfd7ef3e584264107d8/e30a3859f4403924e194e2f12e14524f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759590116-6467-1759570679-4454-Let-This-Grieving-Soul-Retire-Cour-2.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/130443/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:57:33.252Z"
+  },
+  {
+   "number": 13,
+   "streamUrl": "https://fetch.nexabloom.top/anime/aa768fe5e5cf9cfd7ef3e584264107d8/8fcbfb5d7d183282d3833a7b3492084b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1759590116-6467-1759570679-4454-Let-This-Grieving-Soul-Retire-Cour-2.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/130779/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:57:33.981Z"
+  }
+ ],
+ "_syncHash": "04a4a9c236eaa797"
+}

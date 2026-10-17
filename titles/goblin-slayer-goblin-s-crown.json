@@ -1,0 +1,54 @@
+{
+ "id": "goblin-slayer-goblin-s-crown",
+ "title": "Goblin Slayer: Goblin`s Crown",
+ "poster": "https://anizone.to/images/anime/8becf410-f214-4fcb-9ef0-232bf2b52c5c.jpg",
+ "banner": "",
+ "synopsis": "“Please find any information on the Noble Fencer that disappeared after leaving to slay some goblins.”\n\nGoblin Slayer and his party head up to the snowy mountains in the north after receiving that request from the Sword Maiden. A small village gets attacked, they encounter a mysterious chapel, and something about how these goblins are acting bothers the Goblin slayer.\n\n“I’m going to take back everything that I’ve lost!”",
+ "genres": [
+  "Novel",
+  "Elf",
+  "Magic",
+  "Violence",
+  "Fantasy",
+  "Seinen",
+  "Action",
+  "Dark Fantasy",
+  "Goblin"
+ ],
+ "score": null,
+ "year": 2020,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-17T10:39:59.349Z",
+ "type": "MOVIE",
+ "season": null,
+ "anilistId": null,
+ "country": null,
+ "rawTitle": "Goblin Slayer: Goblin`s Crown",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://seiryuu.vid-cdn.xyz/a1fa3bd1-d1cb-42d8-9ee1-63a7190d41d0/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/8becf410-f214-4fcb-9ef0-232bf2b52c5c.jpg",
+   "referer": "https://anizone.to/anime/wurfwxra/1",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://seiryuu.vid-cdn.xyz/a1fa3bd1-d1cb-42d8-9ee1-63a7190d41d0/subtitles/0_en.ass",
+     "referer": "https://anizone.to/anime/wurfwxra/1"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T10:39:59.349Z"
+  }
+ ],
+ "_syncHash": "209dde0bef1105d4"
+}

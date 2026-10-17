@@ -11,9 +11,14 @@
  "year": 2025,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 2,
+ "latestEpisode": 12,
  "episodeNumbers": [
-  2
+  1,
+  2,
+  3,
+  5,
+  6,
+  12
  ],
  "updatedAt": "2026-10-15T18:16:26.721Z",
  "type": "TV_SHORT",
@@ -28,15 +33,59 @@
  "studio": "Dai Nippon Printing",
  "episodes": [
   {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/84d2f3b46b8baf9d28b497f803e7f46d/118e775e61d79458933b504dbf8222d3/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/0-years-old-child-starting-dash-story-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/131825/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T06:54:44.313Z"
+  },
+  {
    "number": 2,
    "streamUrl": "https://fetch.nexabloom.top/anime/84d2f3b46b8baf9d28b497f803e7f46d/816a6302e8c8413565dde7c6e2d994a7/master.m3u8",
    "downloadUrl": null,
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/0-years-old-child-starting-dash-story-season-2.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/131879/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T18:16:26.721Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T18:16:26.721Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/84d2f3b46b8baf9d28b497f803e7f46d/e974d8c780e9b0bc9e4f8696fc9e3e40/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/0-years-old-child-starting-dash-story-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/132059/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:40.901Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/84d2f3b46b8baf9d28b497f803e7f46d/2c8096a4fd0790174350116613ca088c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/0-years-old-child-starting-dash-story-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/132363/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:44.174Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/84d2f3b46b8baf9d28b497f803e7f46d/f52c7650b0625ba98840cd96b2b39c35/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/0-years-old-child-starting-dash-story-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/132747/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:45.614Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/84d2f3b46b8baf9d28b497f803e7f46d/e5b7ad804d6980f04e17a1307698a099/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/0-years-old-child-starting-dash-story-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/135581/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:10.491Z"
   }
  ],
- "_syncHash": "9b7c630dcc033dd9"
+ "_syncHash": "2b7c7f41a1e46999"
 }

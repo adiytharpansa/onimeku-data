@@ -1,6 +1,6 @@
 {
  "id": "little-busters-refrain",
- "title": "little busters refrain",
+ "title": "Little Busters Refrain",
  "poster": "https://media.kitsu.app/anime/poster_images/7704/large.jpg",
  "banner": "https://media.kitsu.app/anime/cover_images/7704/large.jpg",
  "synopsis": "Riki and his friends have been managing to form a complete team for the Little Busters baseball team and after overcoming some of its new members' internal conflicts, Riki and Rin slowly approach the \"secret of this world.\"\nWill they be ready for the truth? In this world devoid of logic, something has started to move and soon will come the time when the lives of the Little Busters will change forever.\n(Source: Koi-nya, edited)",
@@ -35,19 +35,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/06wshaczdk/5nkgd1twt8/cjj5mqnmhz3gu5/master.m3u8",
-   "downloadUrl": "/download/mal/18195/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/18195/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/7704/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/18195/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/06wshaczdk/5nkgd1twt8/cjj5mqnmhz3gu5/subs/1uggg71rk0felqti.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:06:40.479Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:25.616Z"
   }
  ],
- "_syncHash": "5de6ac4fdf22096e"
+ "_syncHash": "8e491a7fc775a4a1"
 }

@@ -1,6 +1,6 @@
 {
  "id": "grisaia-phantom-trigger",
- "title": "grisaia phantom trigger",
+ "title": "Grisaia Phantom Trigger",
  "poster": "https://media.kitsu.app/anime/poster_images/13685/large.jpg",
  "banner": "https://media.kitsu.app/anime/poster_images/13685/large.jpg",
  "synopsis": "Following the Heath Oslo incident, the existence of the US-Japanese anti-terror organization CIRS has become a matter of public knowledge. CIRS has been rebuilt from the ground up, and its most covert functions spun off to a new agency: SORD (Social Ops, Research &amp; Development).\n\nThe goal of SORD is to train a new generation of operatives to defend the country against future threats. To that end, the organization has established a series of schools up and down the country. Mihama Academy, more-or-less left to rot after its abrupt closure, has been given new purpose as one such 'specialist training school'.\n\nThis new incarnation of Mihama Academy is home to a diverse group of students, who every day work to polish their unusual skills - sometimes on the job. Mihama now entrusts the misfit girls who attend it with guns and live ammunition. Paying their own safety no heed, these students are again and again plunged into dangerous extrajudicial missions - all for the good of the realm.\n\n(Source: Official page)",
@@ -16,7 +16,7 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:46:45.512Z",
+ "updatedAt": "2026-10-16T06:36:09.155Z",
  "type": null,
  "season": "SPRING",
  "anilistId": null,
@@ -30,7 +30,7 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/4eyzqx39ie/k8k1r41olc/5p9mzem0gn1fae/master.m3u8",
-   "downloadUrl": "/download/mal/51119/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/51119/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/poster_images/13685/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/51119/1/sub",
    "subtitles": [
@@ -80,9 +80,8 @@
      "url": "https://hls.dramahot.top/v/scxqicy/4eyzqx39ie/k8k1r41olc/5p9mzem0gn1fae/subs/3k21qkj3qkqlg73d.vtt"
     }
    ],
-   "addedAt": "2026-10-13T22:09:32.882Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T06:36:09.155Z"
   }
  ],
- "_syncHash": "369fff6757649679"
+ "_syncHash": "90ee376b65059dc9"
 }

@@ -1,0 +1,44 @@
+{
+ "id": "momentary-lily-special",
+ "title": "Momentary Lily Special",
+ "poster": "https://media.kitsu.app/anime/49813/poster_image/large-9ad2ee00341f0bf1181fca699d1c5ab3.jpeg",
+ "banner": "",
+ "synopsis": "Episode 14 aired following the final episode on AT-X, later included with the Blu-ray/DVD release.",
+ "genres": [],
+ "score": 4.3,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:47:13.574Z",
+ "type": "SPECIAL",
+ "season": "SPRING",
+ "anilistId": null,
+ "country": null,
+ "rawTitle": "momentary lily special",
+ "altTitles": [
+  "Momentary Lily: Tsudzuite iku Kappou, Kappou!",
+  "もめんたりー・リリィ 続いていく割烹、割烹!",
+  "もめんたりー・リリィ",
+  "刹那之花",
+  "MOMENTARY LILY",
+  "14",
+  "2025年1月2日"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a0f15903fa20c9b96994cea76d690fab/e7d22733a2811410926d52e2178e4b65/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/momentary-lily-special.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/135955/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:47:13.574Z"
+  }
+ ],
+ "_syncHash": "ed64f9565045708c"
+}

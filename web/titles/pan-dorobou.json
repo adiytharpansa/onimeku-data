@@ -1,0 +1,41 @@
+{
+ "id": "pan-dorobou",
+ "title": "Pan Dorobou",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx194207-7n4M6jOwLdcF.jpg",
+ "banner": "",
+ "synopsis": "Kadokawa announced on June 9th, 2025 that Keiko Shibata's Pan Dorobou (Bread Thief) picture book will have an anime adaptation. The announcement did not reveal the anime's format. The picture books center on a piece of bread that also steals bread from bakeries in the city.\n(Source: Anime News Network)",
+ "genres": [
+  "Comedy"
+ ],
+ "score": 0,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 0,
+ "latestEpisode": 3,
+ "episodeNumbers": [
+  3
+ ],
+ "updatedAt": "2026-10-17T08:53:20.830Z",
+ "type": "TV",
+ "season": null,
+ "anilistId": 194207,
+ "country": "JP",
+ "rawTitle": "Pan Dorobou",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 3,
+   "streamUrl": "https://megaplay.buzz/stream/ani/194207/3/sub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx194207-7n4M6jOwLdcF.jpg",
+   "referer": "https://www.enma.lol/watch/pan-dorobou-194207?ep=3",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/194207/3/sub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T08:53:20.830Z"
+  }
+ ],
+ "_syncHash": "71e161aadc98db68"
+}

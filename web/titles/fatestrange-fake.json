@@ -1,6 +1,6 @@
 {
  "id": "fatestrange-fake",
- "title": "fatestrange fake",
+ "title": "Fatestrange Fake",
  "poster": "https://shikimori.one/system/animes/original/55830.jpg?1712137805",
  "banner": "https://shikimori.one/system/animes/original/55830.jpg?1712137805",
  "synopsis": "",
@@ -25,19 +25,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/datymhkki2/c3ympy7i9i/uf3x0ri6vp3v8g/master.m3u8",
-   "downloadUrl": "/download/mal/55830/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/55830/1/sub",
+   "thumbnail": "https://shikimori.one/system/animes/original/55830.jpg?1712137805",
    "referer": "https://zokoanime.video/stream/mal/55830/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/datymhkki2/c3ympy7i9i/uf3x0ri6vp3v8g/subs/j0b7hriqrzdy2cwe.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:12:32.048Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:26.084Z"
   }
  ],
- "_syncHash": "d22698c5b2abf972"
+ "_syncHash": "8355d4b70034afc3"
 }

@@ -1,0 +1,42 @@
+{
+ "id": "evangelion-30th-anniversary-special",
+ "title": "Evangelion 30th Anniversary Special Screening",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx204270-6uMH5dFbyQPw.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/204270-jOPuFBm48K8s.jpg",
+ "synopsis": "A new short animation for the Evangelion series that debuted at the “EVANGELION:30+；30th ANNIVERSARY OF EVANGELION”  fes. in Yokohama Arena.",
+ "genres": [
+  "Comedy",
+  "Psychological"
+ ],
+ "score": 7.8,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:43:49.643Z",
+ "type": "SPECIAL",
+ "season": "WINTER",
+ "anilistId": 204270,
+ "country": "JP",
+ "rawTitle": "evangelion 30th anniversary special",
+ "altTitles": [
+  "Evangelion: Housou 30 Shuunen Kinen Tokubetsu Kougyou",
+  "エヴァンゲリオン放送30周年記念特別興行"
+ ],
+ "studio": "Studio Khara",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/adb84616a2a89f3546abff75421dc557/f2532f670592d572a7697b55a97b0017/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/evangelion-30th-anniversary-special.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/168190/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:49.643Z"
+  }
+ ],
+ "_syncHash": "07c06e29206f16a8"
+}

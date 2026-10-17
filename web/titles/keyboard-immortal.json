@@ -1,0 +1,42 @@
+{
+ "id": "keyboard-immortal",
+ "title": "Lu Di Jian Xian",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx181834-h74RmcZl5E85.png",
+ "banner": "",
+ "synopsis": "The top of the immortals, proud of the world, as long as my ancestor An is there, there is the sky. There are three million sword immortals in the world, and they must bow their heads when they meet me. As a sword immortal, I should suppress all enemies in the world. Who claims to be invincible, who claims to be undefeated?\n\n\n\n(Source: iQIYI)",
+ "genres": [
+  "Action",
+  "Comedy",
+  "Fantasy"
+ ],
+ "score": null,
+ "year": null,
+ "status": "FINISHED",
+ "totalEpisodes": 150,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:45:25.476Z",
+ "type": "ONA",
+ "season": null,
+ "anilistId": 181834,
+ "country": "CN",
+ "rawTitle": "keyboard immortal",
+ "altTitles": [
+  "陆地键仙"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1fa45560203c0ddd8267bfbd029d49c3/f65bb75f34ecf32d10169a80857daa07/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/keyboard-immortal.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136548/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:45:25.476Z"
+  }
+ ],
+ "_syncHash": "2d50fbdff8e23a3a"
+}

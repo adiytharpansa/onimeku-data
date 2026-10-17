@@ -1,6 +1,6 @@
 {
  "id": "ergo-proxy",
- "title": "ergo proxy",
+ "title": "Ergo Proxy",
  "poster": "https://media.kitsu.app/anime/705/poster_image/large-42da3a56d45a62e45bda5e1febfd31d3.jpeg",
  "banner": "https://media.kitsu.app/anime/cover_images/705/large.jpg",
  "synopsis": "Thousands of years after Earth's atmosphere was destroyed, adventure blooms in the strangest of places. The domed city of Romdo is supposed to be perfect, but Re-l Mayer, a young female inspector from the Civilian Intelligence Office, knows better. In this place where humans and robots coexist, she receives a strange message: something is awakening!\n\n(Source: Funimation)",
@@ -31,13 +31,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/iorf89zydq/znovrc5j2p/i3kspuz5k69zge/master.m3u8",
-   "downloadUrl": "/download/mal/790/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/790/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/705/poster_image/large-42da3a56d45a62e45bda5e1febfd31d3.jpeg",
    "referer": "https://zokoanime.video/stream/mal/790/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-13T22:06:34.978Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:42:23.481Z"
   }
  ],
- "_syncHash": "07cb6f3303415f4b"
+ "_syncHash": "9fe4c46e0984f18e"
 }

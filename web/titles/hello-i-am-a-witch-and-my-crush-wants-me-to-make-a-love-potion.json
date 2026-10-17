@@ -1,0 +1,52 @@
+{
+ "id": "hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion",
+ "title": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx207191-VgkIzfH92WoZ.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/207191-xYgpkCDnXc5m.jpg",
+ "synopsis": "“Make me a love potion.”\n\n\n\nAnd with that single sentence, the Good Witch of the Lake’s secret crush on the dashing Sir Harij ends in heartbreak. Still, when he promises to help her gather the ingredients, Rose is thrilled at the chance to gaze upon a man she’d normally never get to interact with. She learns to brace her pounding heart for their usual stilted conversations…but what is she to do when he inexplicably shows up at her doorstep with bread and a jar of apple butter?\n\n\n\n(Source: Yen Press)",
+ "genres": [
+  "Fantasy",
+  "Romance"
+ ],
+ "score": 7.1,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 12,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  1,
+  2
+ ],
+ "updatedAt": "2026-10-15T16:18:21.794Z",
+ "type": "TV",
+ "season": "FALL",
+ "anilistId": 207191,
+ "country": "JP",
+ "rawTitle": "hello i am a witch and my crush wants me to make a love potion",
+ "altTitles": [
+  "Doumo, Suki na Hito ni Horegusuri wo Irai Sareta Majo desu.",
+  "どうも、好きな人に惚れ薬を依頼された魔女です。"
+ ],
+ "studio": "diomedéa",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/f9a31c4724b11c55035ad8ad8b3ab900/d025b05c9ce7aae92f692845720f1de0/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/10/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/63409/1/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:18:21.794Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/f9a31c4724b11c55035ad8ad8b3ab900/6e3953c38293cc6d81052af0dc562cd8/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/10/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/63409/2/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:03:43.343Z"
+  }
+ ],
+ "_syncHash": "e63fa0d5692285df"
+}

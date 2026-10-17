@@ -1,6 +1,6 @@
 {
  "id": "beyond-twilight",
- "title": "beyond twilight",
+ "title": "Beyond Twilight",
  "poster": "https://lain.bgm.tv/pic/cover/l/00/fe/627137_j1SHJ.jpg",
  "banner": "https://lain.bgm.tv/pic/cover/l/00/fe/627137_j1SHJ.jpg",
  "synopsis": "",
@@ -25,19 +25,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/q0sfu3rupn/6fjhgtrmbz/fwwwpifmoa3fuk/master.m3u8",
-   "downloadUrl": "/download/mal/63469/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/63469/1/sub",
+   "thumbnail": "https://lain.bgm.tv/pic/cover/l/00/fe/627137_j1SHJ.jpg",
    "referer": "https://zokoanime.video/stream/mal/63469/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/q0sfu3rupn/6fjhgtrmbz/fwwwpifmoa3fuk/subs/ef8xtcio6tj6brf3.vtt"
-    }
-   ],
-   "addedAt": "2026-10-14T00:23:18.615Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:38:01.048Z"
   }
  ],
- "_syncHash": "5f76b9271e1d8800"
+ "_syncHash": "25417df826d8f53e"
 }

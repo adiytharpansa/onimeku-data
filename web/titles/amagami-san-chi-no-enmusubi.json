@@ -5,23 +5,22 @@
  "banner": "",
  "synopsis": "Uryuu Kamihate mengalami awal hidup yang sulit, tetapi ia berencana untuk melupakan semuanya dengan mencapai mimpinya—masuk ke sekolah kedokteran. Namun, ketika...",
  "genres": [
-  "Action",
-  "Fantasy",
-  "Romance",
-  "School",
   "Adventure",
+  "Fantasy",
+  "Isekai",
+  "Reincarnation",
+  "Action",
   "Comedy",
+  "Sci-Fi",
   "Drama",
-  "Shounen",
   "Music",
   "Performing Arts",
+  "School",
   "Gag Humor",
   "Historical",
   "Parody",
   "Samurai",
-  "Sci-Fi",
-  "Isekai",
-  "Reincarnation",
+  "Shounen",
   "Supernatural",
   "Gore",
   "Urban Fantasy"
@@ -30,16 +29,18 @@
  "year": 2024,
  "status": "FINISHED",
  "totalEpisodes": 24,
- "latestEpisode": 10,
+ "latestEpisode": 19,
  "episodeNumbers": [
   1,
   2,
   4,
   6,
   8,
-  10
+  10,
+  17,
+  19
  ],
- "updatedAt": "2026-10-16T17:25:02.184Z",
+ "updatedAt": "2026-10-17T11:06:36.361Z",
  "type": null,
  "season": null,
  "anilistId": null,
@@ -107,7 +108,29 @@
    "subtitles": [],
    "addedAt": "2026-10-16T17:25:02.184Z",
    "customSubs": []
+  },
+  {
+   "number": 17,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dygvgw04GxKkFt4udieg-CMRO1IVRZBFL9JWkmEafx1rZUtVAhtS7nmED-g0BFXEmDMerLpoCoOiExf4gbYvRPixTVIx9wJdpMp6-S-_0z_Gsi4JuHVM4YWrtSu2FGSCOCTAv42",
+   "downloadUrl": null,
+   "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2024/10/143586l.jpg",
+   "referer": "https://v2.samehadaku.how/amagami-san-chi-no-enmusubi-episode-17/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T11:06:34.636Z"
+  },
+  {
+   "number": 19,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dy7WWrz1ADaaIkdsRWsj-7HT7pfK2IsGePCA5QhhToLIXUEm_rBKykepqHn1uMQiVd9COg-m0EYn5SYVO3D0ru-Xu0N9uEP-rE7sSzMcJ7FaESch1DIJOuffL6eRntlfiQacNft",
+   "downloadUrl": null,
+   "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2024/10/143586l.jpg",
+   "referer": "https://v2.samehadaku.how/amagami-san-chi-no-enmusubi-episode-19/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T11:06:36.361Z"
   }
  ],
- "_syncHash": "04c80d164ba504d5"
+ "_syncHash": "78ab580647c6481e"
 }

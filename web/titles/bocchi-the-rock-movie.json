@@ -1,0 +1,53 @@
+{
+ "id": "bocchi-the-rock-movie",
+ "title": "BOCCHI THE ROCK! Recap Part 1",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx165253-nAwyrMZm4jBA.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/165253-jcWVeZEnL2dq.jpg",
+ "synopsis": "Compilation film of Bocchi the Rock! featuring new animation intro footage. The first of the Bocchi compilation movie duology.",
+ "genres": [
+  "Comedy",
+  "Music",
+  "Slice of Life"
+ ],
+ "score": 8.3,
+ "year": 2024,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  1,
+  2
+ ],
+ "updatedAt": "2026-10-15T15:41:53.562Z",
+ "type": "MOVIE",
+ "season": "SPRING",
+ "anilistId": 165253,
+ "country": "JP",
+ "rawTitle": "bocchi the rock movie",
+ "altTitles": [
+  "Bocchi the Rock! Re:",
+  "ぼっち・ざ・ろっく！Re:"
+ ],
+ "studio": "CloverWorks",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/28e2ec06c30bf13443769498502ed048/7971e1dc0cd79f92b080704ae57b1658/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/bocchi-the-rock-movie.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/132884/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:52.632Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/28e2ec06c30bf13443769498502ed048/43a9c2a509d2a87319a025e73b09286d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/bocchi-the-rock-movie.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/132885/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:53.562Z"
+  }
+ ],
+ "_syncHash": "abb6a1ecf4cfb9a3"
+}

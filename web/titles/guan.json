@@ -1,0 +1,62 @@
+{
+ "id": "guan",
+ "title": "GuAn",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx206273-pqQ1tDkDILJi.jpg",
+ "banner": "",
+ "synopsis": "In the darkest moment of Celestial Realm, the crippled youth Gu An seized the power of an ancient god amid life-or-death peril. Wielding infinite spiritual energy and a mortal blade, he destroyed evildoers, avenged deep grudges, and struck down the heavens.\n\n(Source: Youku)",
+ "genres": [
+  "Action",
+  "Fantasy"
+ ],
+ "score": null,
+ "year": null,
+ "status": "RELEASING",
+ "totalEpisodes": 26,
+ "latestEpisode": 3,
+ "episodeNumbers": [
+  1,
+  2,
+  3
+ ],
+ "updatedAt": "2026-10-16T00:48:26.650Z",
+ "type": "ONA",
+ "season": null,
+ "anilistId": 206273,
+ "country": "CN",
+ "rawTitle": "guan",
+ "altTitles": [
+  "Yi Zhan Cangqiong",
+  "一斩苍穹"
+ ],
+ "studio": "Shenman Entertainment",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/37685966e0369d2fe4da555420c2e929/4853aaf189c36fd1bb2cec57b49e557f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/08/guan.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/62789/1/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T00:48:26.650Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/37685966e0369d2fe4da555420c2e929/a0519daea6fd6187af7854e645703ff5/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/08/guan.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/62789/2/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:17:37.659Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/37685966e0369d2fe4da555420c2e929/00e9f34e0743ffd2725e664be8203a48/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/08/guan.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/62789/3/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:04:25.562Z"
+  }
+ ],
+ "_syncHash": "1a508beb4302683e"
+}

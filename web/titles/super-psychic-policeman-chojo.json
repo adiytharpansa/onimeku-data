@@ -1,0 +1,44 @@
+{
+ "id": "super-psychic-policeman-chojo",
+ "title": "Super Psychic Policeman Chojo",
+ "poster": "https://anizone.to/images/anime/3273979c-af60-41c2-b79f-53ac9aef7ef9.jpg",
+ "banner": "",
+ "synopsis": "The three Himote sisters, Tokiyo, Kinami, and Kokoro, are living in what they've dubbed the \"Himote House\" in Nakano, Tokyo. Sharing the house with them are their former classmates, Tae and Minamo, and a cat named Enishi. These five unique girls live a boisterous life at the Himote House, spending their days trying to figure out how to get guys to like them. What's more, the five of them, and the cat, all have a mysterious power...\n\n(Source: Crunchyroll)",
+ "genres": [],
+ "score": null,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-17T10:09:18.266Z",
+ "type": "TV",
+ "season": null,
+ "anilistId": null,
+ "country": "JP",
+ "rawTitle": "Super Psychic Policeman Chojo",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://suzaku.xin-cdn.xyz/0d111ce8-767b-4f43-950a-691a209fa33e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/3273979c-af60-41c2-b79f-53ac9aef7ef9.jpg",
+   "referer": "https://anizone.to/anime/x4u6h37x/1",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://suzaku.xin-cdn.xyz/0d111ce8-767b-4f43-950a-691a209fa33e/subtitles/0_en.ass",
+     "referer": "https://anizone.to/anime/x4u6h37x/1"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T10:09:18.266Z"
+  }
+ ],
+ "_syncHash": "905f4f348b810f03"
+}

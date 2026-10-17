@@ -1,6 +1,6 @@
 {
  "id": "86-eighty-six",
- "title": "86 EIGHTY-SIX",
+ "title": "86 Eighty-Six",
  "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116589-KawXHB6sApFt.jpg",
  "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/116589-SqwYWzaZCdD5.jpg",
  "synopsis": "Called “Juggernaut,” these are the unmanned combat drones developed by the Republic of San Magnolia in answer to the attacks by the autonomous unmanned drones of the neighboring Empire of Giad, the “Legion”. But they’re only unmanned in name. In reality, they are piloted by the Eighty-sixers—those considered to be less than human and treated as mere tools.\n\n\n\nDetermined to achieve his own mysterious ends, Shin, the captain of Spearhead Squadron, which is comprised of Eighty-sixers, continues to fight a hopeless war on a battlefield where only death awaits him.\n\n\n\n(Source: Crunchyroll)",
@@ -41,8 +41,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/64558/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T14:16:36.670Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T14:16:36.670Z"
   },
   {
    "number": 2,
@@ -51,8 +50,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/64561/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T07:46:37.431Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T07:46:37.431Z"
   },
   {
    "number": 8,
@@ -61,8 +59,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/72713/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T07:46:42.272Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T07:46:42.272Z"
   },
   {
    "number": 10,
@@ -71,8 +68,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/74099/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T07:46:44.129Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T07:46:44.129Z"
   },
   {
    "number": 11,
@@ -81,9 +77,22 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/86-eighty-six.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/75748/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T07:46:45.073Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T07:46:45.073Z"
   }
  ],
- "_syncHash": "0ac34d3598200f43"
+ "variants": [
+  {
+   "id": "86-eighty-six",
+   "title": "86 Eighty-Six",
+   "variantType": "sub",
+   "episodeCount": 5
+  },
+  {
+   "id": "86-eighty-six-dub",
+   "title": "86 Eighty Six",
+   "variantType": "dub",
+   "episodeCount": 11
+  }
+ ],
+ "_syncHash": "2c9c671d1c26c8d9"
 }

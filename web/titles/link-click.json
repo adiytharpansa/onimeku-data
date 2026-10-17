@@ -1,6 +1,6 @@
 {
  "id": "link-click",
- "title": "LINK CLICK",
+ "title": "Link Click",
  "poster": "https://media.kitsu.app/anime/44503/poster_image/large-c06d4a2f405fef346c2b2793f42d2359.jpeg",
  "banner": "https://media.kitsu.app/anime/44503/cover_image/large-3bcdc8301fe454b46a1fda8b27ae21ee.jpeg",
  "synopsis": "In a modern metropolis there is a small store called \"Time Photo Studio.\" Although only a few customers come to visit, it's actually run by Cheng Xiaoshi and Lu Guang, two men with special powers. They cooperate and use their super powers to enter the photos in order to fulfill the client's request. However, things always get out of their control...\n\n(Source: Bilibili Official YouTube Channel)",
@@ -25,7 +25,7 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/xga2ujggj4/1ugjmhz6c9/ehjir8ucta8wl3/master.m3u8",
-   "downloadUrl": "/download/mal/44074/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/44074/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/44503/poster_image/large-c06d4a2f405fef346c2b2793f42d2359.jpeg",
    "referer": "https://zokoanime.video/stream/mal/44074/1/sub",
    "subtitles": [
@@ -35,9 +35,8 @@
      "url": "https://hls.dramahot.top/v/scxqicy/xga2ujggj4/1ugjmhz6c9/ehjir8ucta8wl3/subs/ezxr11irv5qz5869.vtt"
     }
    ],
-   "addedAt": "2026-10-14T00:23:04.889Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:39:06.102Z"
   }
  ],
- "_syncHash": "ac2de4bf7caa0353"
+ "_syncHash": "4d4e3b2f29d4badc"
 }

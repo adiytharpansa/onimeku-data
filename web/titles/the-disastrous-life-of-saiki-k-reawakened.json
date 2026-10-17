@@ -1,6 +1,6 @@
 {
  "id": "the-disastrous-life-of-saiki-k-reawakened",
- "title": "the disastrous life of saiki k reawakened",
+ "title": "The Disastrous Life of Saiki K Reawakened",
  "poster": "https://media.kitsu.app/anime/poster_images/42623/large.jpg",
  "banner": "https://media.kitsu.app/anime/poster_images/42623/large.jpg",
  "synopsis": "Being an esper seems cool on TV, but in Saiki Kusuo's life as a normal teenager it's a real drag. The hit comedy manga returns in a new anime series!\n\n(Source: Netflix)\n\nNote: The first 5 episodes take place between Season 2 and the Final Arc. The last continues the story from the Final Arc.",
@@ -28,19 +28,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/5b3yo53qr0/11856xx2ac/dkfc1z8355k5r0/master.m3u8",
-   "downloadUrl": "/download/mal/40542/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/40542/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/42623/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/40542/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/5b3yo53qr0/11856xx2ac/dkfc1z8355k5r0/subs/eiebh9a2vuz7ei4g.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:08:59.551Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:59.315Z"
   }
  ],
- "_syncHash": "07641183213bc0a1"
+ "_syncHash": "486909b14433b689"
 }

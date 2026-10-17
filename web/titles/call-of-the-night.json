@@ -1,0 +1,95 @@
+{
+ "id": "call-of-the-night",
+ "title": "Call of the Night",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx141391-M3ZgUKTPENUk.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/141391-JErChZ8G3b49.jpg",
+ "synopsis": "Wracked by insomnia and wanderlust, Kou Yamori is driven onto the moonlit streets every night in an aimless search for something he can’t seem to name. His nightly ritual is marked by purposeless introspection — until he meets Nazuna, who might just be a vampire! Kou’s new companion could offer him dark gifts and a vampire’s immortality. But there are conditions that must be met before Kou can sink his teeth into vampirism, and he’ll have to discover just how far he’s willing to go to satisfy his desires before he can heed the Call of the Night!\n\n\n\n(Source: Sentai Filmworks)",
+ "genres": [
+  "Comedy",
+  "Psychological",
+  "Romance",
+  "Slice of Life",
+  "Supernatural"
+ ],
+ "score": 7.9,
+ "year": 2022,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 13,
+ "episodeNumbers": [
+  1,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "updatedAt": "2026-10-16T07:20:20.847Z",
+ "type": "TV",
+ "season": "SUMMER",
+ "anilistId": 141391,
+ "country": "JP",
+ "rawTitle": "call of the night",
+ "altTitles": [
+  "Yofukashi no Uta",
+  "よふかしのうた"
+ ],
+ "studio": "LIDENFILMS",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a4396f61160d9bfa1ea9114dacd37247/bf03f6c767a7ff1887347280efb6c769/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1761421120-7476-1757135325-1935-148453.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/93893/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:44.287Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a4396f61160d9bfa1ea9114dacd37247/535e1a2af6905c812cdd2fb68a958069/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1761421120-7476-1757135325-1935-148453.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/93776/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:54:40.899Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a4396f61160d9bfa1ea9114dacd37247/bf03f6c767a7ff1887347280efb6c769/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1761421120-7476-1757135325-1935-148453.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/93893/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:20.847Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a4396f61160d9bfa1ea9114dacd37247/4224684ad4296ef96cd7038b03e48bf1/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1761421120-7476-1757135325-1935-148453.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/94004/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:54:43.153Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a4396f61160d9bfa1ea9114dacd37247/96ec99b499af28b2472646c0ff3f51ee/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1761421120-7476-1757135325-1935-148453.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/94233/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:54:44.406Z"
+  },
+  {
+   "number": 13,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a4396f61160d9bfa1ea9114dacd37247/6535a1a8017f6a3404364c64afe207bc/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/10/1761421120-7476-1757135325-1935-148453.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/94337/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:54:45.811Z"
+  }
+ ],
+ "_syncHash": "0270e27ff41fcf01"
+}

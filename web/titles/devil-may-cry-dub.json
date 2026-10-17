@@ -1,0 +1,53 @@
+{
+ "id": "devil-may-cry-dub",
+ "title": "Devil May Cry: The Animated Series",
+ "poster": "https://media.kitsu.app/anime/poster_images/1547/large.jpg",
+ "banner": "https://media.kitsu.app/anime/cover_images/1547/large.jpg",
+ "synopsis": "Cursed to live as both monster and man, Dante must spend his life fighting the demonic forces of darkness. Brandishing his sword, Rebellion, and his always-loaded guns, Ebony and Ivory, Dante is more than happy to send the demons back to hell—especially when there's money to be made. The wildly popular video game is now a series, and this time, there's no sympathy for the devil.\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Action",
+  "Fantasy",
+  "Demons"
+ ],
+ "score": 6.7,
+ "year": 2007,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 8,
+ "episodeNumbers": [
+  2,
+  8
+ ],
+ "updatedAt": "2026-10-15T15:55:44.113Z",
+ "type": "TV",
+ "season": "SUMMER",
+ "anilistId": null,
+ "country": null,
+ "rawTitle": "devil may cry dub",
+ "altTitles": [
+  "Devil May Cry",
+  "デビル メイ クライ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e72f549e59cd75ee9cf71230947471d8/acbc01ded2300c72a2acf41c463f60ab/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/devil-may-cry.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136138/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:45.664Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/e72f549e59cd75ee9cf71230947471d8/a1ac187eed26c7cad7bd53242d532e7d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/devil-may-cry.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136144/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:55:44.113Z"
+  }
+ ],
+ "_syncHash": "8205e6ed95af4f7c"
+}

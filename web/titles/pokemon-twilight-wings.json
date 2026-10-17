@@ -13,7 +13,7 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:45:48.260Z",
+ "updatedAt": "2026-10-16T07:11:23.094Z",
  "type": null,
  "season": "WINTER",
  "anilistId": null,
@@ -28,7 +28,7 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/kr9h7im6dq/u7cnzo0s2c/39l0u528155amm/master.m3u8",
-   "downloadUrl": "/download/mal/40861/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/40861/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/42869/poster_image/large-c7accd1360459f3eea3bd605ed5af9de.jpeg",
    "referer": "https://zokoanime.video/stream/mal/40861/1/sub",
    "subtitles": [
@@ -38,9 +38,8 @@
      "url": "https://hls.dramahot.top/v/scxqicy/kr9h7im6dq/u7cnzo0s2c/39l0u528155amm/subs/m334evk7l7jgt1t1.vtt"
     }
    ],
-   "addedAt": "2026-10-14T00:19:56.440Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T07:11:23.094Z"
   }
  ],
- "_syncHash": "02f6f01a26e7245a"
+ "_syncHash": "106a4bfc7b92a29f"
 }

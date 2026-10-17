@@ -1,0 +1,41 @@
+{
+ "id": "portrait-of-the-red",
+ "title": "Portrait of the Red",
+ "poster": "https://anizone.to/images/anime/9eb0f122-8fc8-41f9-bdad-1daf58205f9c.jpg",
+ "banner": "",
+ "synopsis": "A recap of Gundam, Gundam Z, Gundam ZZ, and Char's Counterattack as experienced by Char Aznable, as well as a precursor to Gundam Unicorn. \nOriginally a live event consisting of a public recitation done by Char's voice actor with simultaneous screenings of the anime, the DVD version fades to and from the recitation and the anime. ",
+ "genres": [
+  "Military",
+  "Mecha"
+ ],
+ "score": null,
+ "year": 2010,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-17T09:51:04.153Z",
+ "type": "SPECIAL",
+ "season": null,
+ "anilistId": null,
+ "country": "JP",
+ "rawTitle": "Portrait of the Red",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://suzaku.xin-cdn.xyz/ab8df42c-4c53-474c-87ad-d802239583f6/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/9eb0f122-8fc8-41f9-bdad-1daf58205f9c.jpg",
+   "referer": "https://anizone.to/anime/mawwzs7n/1",
+   "subtitles": [],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T09:51:04.153Z"
+  }
+ ],
+ "_syncHash": "6376a9abf029f59c"
+}

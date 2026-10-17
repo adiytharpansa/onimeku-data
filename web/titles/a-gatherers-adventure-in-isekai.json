@@ -45,8 +45,7 @@
      "url": "https://hls.dramahot.top/v/scxqicy/dw5sbp0o0u/zk8op0ivd2/f4dg28zm5da07o/subs/o4oaheok69ikp0vf.vtt"
     }
    ],
-   "addedAt": "2026-10-15T13:14:16.914Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T13:14:16.914Z"
   },
   {
    "number": 2,
@@ -61,8 +60,7 @@
      "url": "https://hls.dramahot.top/v/scxqicy/dw5sbp0o0u/kegrtl458g/bz965a06u6qp5j/subs/3cfzwrcgw9rdioag.vtt"
     }
    ],
-   "addedAt": "2026-10-13T22:17:28.748Z",
-   "customSubs": []
+   "addedAt": "2026-10-13T22:17:28.748Z"
   },
   {
    "number": 3,
@@ -77,9 +75,22 @@
      "url": "https://hls.dramahot.top/v/scxqicy/dw5sbp0o0u/m05x6yhrnc/z3ywp7y3bdc2h0/subs/8ddghykve3ggjc9k.vtt"
     }
    ],
-   "addedAt": "2026-10-13T22:17:39.000Z",
-   "customSubs": []
+   "addedAt": "2026-10-13T22:17:39.000Z"
   }
  ],
- "_syncHash": "99f574fe863c9d34"
+ "variants": [
+  {
+   "id": "a-gatherers-adventure-in-isekai",
+   "title": "A Gatherer's Adventure in Isekai",
+   "variantType": "sub",
+   "episodeCount": 3
+  },
+  {
+   "id": "a-gatherers-adventure-in-isekai-dub",
+   "title": "A Gatherers Adventure in Isekai",
+   "variantType": "dub",
+   "episodeCount": 12
+  }
+ ],
+ "_syncHash": "088526d748597cb6"
 }

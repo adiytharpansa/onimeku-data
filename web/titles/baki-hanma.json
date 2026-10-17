@@ -1,0 +1,66 @@
+{
+ "id": "baki-hanma",
+ "title": "Baki Hanma",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124195-5Z1JSrRlbMRe.jpg",
+ "banner": "",
+ "synopsis": "To gain the skills he needs to surpass his powerful father, Baki enters Arizona State Prison to take on the notorious inmate known as Mr. Unchained.\n\n\n\n(Source: Netflix)",
+ "genres": [
+  "Action",
+  "Sports"
+ ],
+ "score": 7.6,
+ "year": 2021,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 12,
+ "episodeNumbers": [
+  2,
+  12
+ ],
+ "updatedAt": "2026-10-15T15:54:35.862Z",
+ "type": "ONA",
+ "season": "FALL",
+ "anilistId": 124195,
+ "country": "JP",
+ "rawTitle": "baki hanma",
+ "altTitles": [
+  "Hanma Baki",
+  "範馬刃牙"
+ ],
+ "studio": "TMS Entertainment",
+ "episodes": [
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/67f19fd0431cac0ac7f8ea986bbf8b9b/5cd8f4b0bbfe0465b572626562be9ff6/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/baki-hanma.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/83365/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:56.898Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/67f19fd0431cac0ac7f8ea986bbf8b9b/1cc4ed603935cfe961e58a3b47ff1b5e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/baki-hanma.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/83375/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:54:35.862Z"
+  }
+ ],
+ "variants": [
+  {
+   "id": "baki-hanma",
+   "title": "Baki Hanma",
+   "variantType": "sub",
+   "episodeCount": 2
+  },
+  {
+   "id": "baki-hanma-dub",
+   "title": "Baki Hanma: Son of Ogre",
+   "variantType": "dub",
+   "episodeCount": 3
+  }
+ ],
+ "_syncHash": "b32cc3ef7d4f2908"
+}

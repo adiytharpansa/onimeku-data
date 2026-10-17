@@ -1,6 +1,6 @@
 {
  "id": "durarara-x2-ketsu",
- "title": "durarara x2 ketsu",
+ "title": "Durarara X2 Ketsu",
  "poster": "https://media.kitsu.app/anime/poster_images/9725/large.jpg",
  "banner": "https://media.kitsu.app/anime/cover_images/9725/large.jpg",
  "synopsis": "As Mikado Ryuugamine continues to purge the Dollars from within in accordance with his warped sense of justice, Masaomi Kida hopes to bring his friend back to his senses by bringing the Yellow Scarves together once more. Little do they know that a far more dominant force is about to enter their struggle for power, one that their friend Anri Sonohara is all too familiar with.\nMeanwhile, the group that has gathered at Shinra Kishitani's apartment realizes that they are on the brink of something life-changing, an event that will throw Ikebukuro into a spiral of confusion. Their anxiety is realized when reports of Celty's head being found in public start to appear all over the news as Kasane Kujiragi begins to make her move.\nGone are the brief periods of tranquility as the current turmoil sets the stage for one final performance in this thrilling conclusion to the story of Ikebukuro's finest.\n[Written by MAL Rewrite]",
@@ -31,114 +31,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/master.m3u8",
-   "downloadUrl": "/download/mal/27833/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/27833/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/9725/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/27833/1/sub",
-   "subtitles": [
-    {
-     "label": "Arabic (Arabic - [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/23wb3gr7b1p7bjqq.vtt"
-    },
-    {
-     "label": "Chinese (Chinese - (Simplified) [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/vb6o4noc6obwxhhj.vtt"
-    },
-    {
-     "label": "Chinese (Chinese - (Traditional) [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/65b3aczzgymygy37.vtt"
-    },
-    {
-     "label": "Danish (Danish - [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/g7ljpi0n3ihu1qn5.vtt"
-    },
-    {
-     "label": "Dutch (Dutch - [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/ecuhp41h10fuvsff.vtt"
-    },
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/bknbb39c4knljdnq.vtt"
-    },
-    {
-     "label": "English 2",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/roik8txooq5gk128.vtt"
-    },
-    {
-     "label": "Finnish (Finnish - [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/p77kydehqmlo3rql.vtt"
-    },
-    {
-     "label": "French (French - [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/dwc5txsu34hn8oxg.vtt"
-    },
-    {
-     "label": "Greek (Greek - [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/iuz7wvckd5ttwieh.vtt"
-    },
-    {
-     "label": "Hebrew (Hebrew - [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/9oopegixugo51jzz.vtt"
-    },
-    {
-     "label": "Italian (Italian - [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/whtnl2rcnq2efsuu.vtt"
-    },
-    {
-     "label": "Norwegian (Norwegian - [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/ugazzknnfynk9vmj.vtt"
-    },
-    {
-     "label": "Polish (Polish - [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/lo8c5oyexh2qxht2.vtt"
-    },
-    {
-     "label": "Portuguese (Portuguese - [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/0lka4llisj0w473m.vtt"
-    },
-    {
-     "label": "Romanian (Romanian - [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/evi5fy6knqaidjfb.vtt"
-    },
-    {
-     "label": "Spanish (- Castilian [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/p2v0r0nh2zdl9kil.vtt"
-    },
-    {
-     "label": "Swedish (Swedish - [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/86gsqfyt30allrwi.vtt"
-    },
-    {
-     "label": "Thai (Thai - [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/1bvasyluuja4n89h.vtt"
-    },
-    {
-     "label": "Turkish (Turkish - [Full])",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/e5gg8exbpc/tqjblpeee4/bc1zawp5xk2n20/subs/yxhb039yuvhvser4.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:06:05.878Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:18.067Z"
   }
  ],
- "_syncHash": "037503c3524c35f1"
+ "_syncHash": "195fa2036133e246"
 }

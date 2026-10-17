@@ -1,0 +1,56 @@
+{
+ "id": "chou-den-ei-ban-sd-gundam-sangokuden-brave-battle-warriors",
+ "title": "Chou Den`ei Ban SD Gundam Sangokuden: Brave Battle Warriors",
+ "poster": "https://anizone.to/images/anime/a32e39ac-ff8d-4305-bbd2-ad13024d7779.jpg",
+ "banner": "",
+ "synopsis": "A Romance of the Three Kingdoms retelling using SD Gundams.",
+ "genres": [
+  "New",
+  "Shounen",
+  "Science Fiction",
+  "Action",
+  "Adventure",
+  "Swordplay",
+  "Martial Arts",
+  "Android",
+  "Mecha",
+  "Samurai",
+  "Short Movie"
+ ],
+ "score": null,
+ "year": 2010,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-17T10:06:04.217Z",
+ "type": "MOVIE",
+ "season": null,
+ "anilistId": null,
+ "country": null,
+ "rawTitle": "Chou Den`ei Ban SD Gundam Sangokuden: Brave Battle Warriors",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://suzaku.xin-cdn.xyz/f1b561bd-5433-4f6d-9a0d-995d7ba03b0a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/a32e39ac-ff8d-4305-bbd2-ad13024d7779.jpg",
+   "referer": "https://anizone.to/anime/4lc7tn4x/1",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://suzaku.xin-cdn.xyz/f1b561bd-5433-4f6d-9a0d-995d7ba03b0a/subtitles/0_en.ass",
+     "referer": "https://anizone.to/anime/4lc7tn4x/1"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T10:06:04.217Z"
+  }
+ ],
+ "_syncHash": "2bff251242deaaea"
+}

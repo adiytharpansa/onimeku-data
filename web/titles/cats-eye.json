@@ -154,9 +154,22 @@
      "url": "https://hls.dramahot.top/v/scxqicy/yzg4rqr2z1/vbo668lv9u/hhey7mc8uko8gg/subs/0eahiu30b832b2sz.vtt"
     }
    ],
-   "addedAt": "2026-10-16T22:10:44.211Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:10:44.211Z"
   }
  ],
- "_syncHash": "63e60fdfd27d75dd"
+ "variants": [
+  {
+   "id": "cats-eye",
+   "title": "Cat's Eye (2025)",
+   "variantType": "sub",
+   "episodeCount": 1
+  },
+  {
+   "id": "cats-eye-dub",
+   "title": "Cats Eye",
+   "variantType": "dub",
+   "episodeCount": 7
+  }
+ ],
+ "_syncHash": "159e81eb34d96f9f"
 }

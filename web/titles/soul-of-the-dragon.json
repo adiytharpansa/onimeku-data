@@ -1,6 +1,6 @@
 {
  "id": "soul-of-the-dragon",
- "title": "soul of the dragon",
+ "title": "Soul of the Dragon",
  "poster": "https://media.kitsu.app/anime/50486/poster_image/large-c40dc859943eb352c5b6822012cfa153.jpeg",
  "banner": "https://media.kitsu.app/anime/50486/poster_image/large-c40dc859943eb352c5b6822012cfa153.jpeg",
  "synopsis": "For millennia, the ancient and mysterious Dragon Clan has thrived on the Central Continent. Yet the struggle between the Light and Dark Souls of the Divine Realm drags the dragons into conflict. The clan is torn apart by brutal civil strife, facing the threat of extinction. In this desperate hour, Ao Xue, the long-absent prince of the East Sea, returns with formidable power, determined to save the Dragon Clan from peril.\n\n(Source: WeTV)",
@@ -25,13 +25,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/plaic120j0/fas97dw62m/crkhzdp4tv9qkh/master.m3u8",
-   "downloadUrl": null,
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/63006/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/50486/poster_image/large-c40dc859943eb352c5b6822012cfa153.jpeg",
    "referer": "https://zokoanime.video/stream/mal/63006/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-13T22:07:31.496Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:42:37.356Z"
   }
  ],
- "_syncHash": "f730d57acb9882b3"
+ "_syncHash": "a41e010412f925a4"
 }

@@ -1,0 +1,50 @@
+{
+ "id": "elegy-for-the-henchmen-fist-of-the-north-star-part-2",
+ "title": "Hokuto no Ken: Kenou-gun Zako-tachi no Banka Part 2",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx213506-vr9kwJjMvXV8.jpg",
+ "banner": "",
+ "synopsis": "",
+ "genres": [
+  "Comedy"
+ ],
+ "score": null,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": null,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  1,
+  2
+ ],
+ "updatedAt": "2026-10-16T07:22:43.639Z",
+ "type": "TV_SHORT",
+ "season": "SUMMER",
+ "anilistId": 213506,
+ "country": "JP",
+ "rawTitle": "elegy for the henchmen fist of the north star part 2",
+ "altTitles": [
+  "北斗の拳 拳王軍ザコたちの挽歌 第2クール"
+ ],
+ "studio": "Doraku",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1104eb2213fe05ad89a42cf780dc15f8/01e503caec8c689f4a70fa721ce3eb34/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/08/elegy-for-the-henchmen-fist-of-the-north-star-part-2.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/64378/1/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:22:42.216Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1104eb2213fe05ad89a42cf780dc15f8/4ce825a3dae3ceb435f0747ec285f6a9/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/08/elegy-for-the-henchmen-fist-of-the-north-star-part-2.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/64378/2/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:22:43.639Z"
+  }
+ ],
+ "_syncHash": "0b5fc50424131f7f"
+}

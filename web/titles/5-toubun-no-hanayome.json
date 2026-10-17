@@ -5,26 +5,26 @@
  "banner": "",
  "synopsis": "Musim kedua dari Anime Go-toubun no Hanayome",
  "genres": [
+  "Comedy",
+  "Ecchi",
+  "Harem",
+  "Otaku Culture",
   "Action",
   "Fantasy",
-  "Comedy",
-  "Mythology",
-  "Romantic Subtext",
-  "Ecchi",
+  "Mystery",
+  "Adventure",
+  "Isekai",
+  "Reincarnation",
   "Drama",
-  "School",
-  "Seinen",
-  "Visual Arts",
   "Music",
   "Performing Arts",
+  "School",
   "Gag Humor",
   "Historical",
   "Parody",
   "Samurai",
   "Sci-Fi",
   "Shounen",
-  "Isekai",
-  "Reincarnation",
   "Supernatural",
   "Gore",
   "Urban Fantasy"
@@ -35,14 +35,16 @@
  "totalEpisodes": 12,
  "latestEpisode": 12,
  "episodeNumbers": [
+  1,
   2,
+  3,
   4,
   6,
   8,
   10,
   12
  ],
- "updatedAt": "2026-10-16T17:16:13.158Z",
+ "updatedAt": "2026-10-17T10:58:37.881Z",
  "type": null,
  "season": null,
  "anilistId": null,
@@ -52,6 +54,17 @@
  "studio": null,
  "episodes": [
   {
+   "number": 1,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dxqKLLI-ncUa_mSVRhEbBesmVl_HzjhzVQJDtcvB5vKa5_LLBiPpmKgy7VT0LULTgR8DIwMZCSSPEclUKV2thcts0GISbxJZk4PC3oIKvGGIKPMSQhHDJx2KO1z0qobOxoGwUw",
+   "downloadUrl": null,
+   "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2021/01/109514.jpg",
+   "referer": "https://v2.samehadaku.how/go-toubun-no-hanayome-season-2-episode-1/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T10:58:35.852Z"
+  },
+  {
    "number": 2,
    "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dxbnfM2ZN3w34p50OgfmEM_AWFQ5AVavqg-B7QctaRE358dRXzCa-RD1pord5GAJ08ATfDLR52ihcRCiZ7Rt8CNDKzWaIZGQXkItdk_M6i1_cA5SHjmjaV2YF1vmXld_ZFGq8ki",
    "downloadUrl": null,
@@ -60,6 +73,17 @@
    "subtitles": [],
    "addedAt": "2026-10-16T17:16:05.067Z",
    "customSubs": []
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dyLirAvai6sXa0FkIbzgMrpzAmiOwtiys1fno3lkHiQC3Vwdx2ROcs3mgyJi86IF6h29yhI4r1-WphTeLnzwv6KJNx2MJPyCzOBjV8PsfJxEjj46PukcwWJloCUKg4BNbuhamXc",
+   "downloadUrl": null,
+   "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2021/01/109514.jpg",
+   "referer": "https://v2.samehadaku.how/go-toubun-no-hanayome-season-2-episode-3/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T10:58:37.881Z"
   },
   {
    "number": 4,
@@ -112,5 +136,5 @@
    "customSubs": []
   }
  ],
- "_syncHash": "66a28b88e5a5df5b"
+ "_syncHash": "5ef70ca320179394"
 }

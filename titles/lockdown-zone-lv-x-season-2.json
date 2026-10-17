@@ -1,0 +1,94 @@
+{
+ "id": "lockdown-zone-lv-x-season-2",
+ "title": "Lockdown Zone: Lv. X Sequel",
+ "poster": "https://media.kitsu.app/anime/49283/poster_image/large-7e42170eb8cee63d56a62ca3a0758ba4.jpeg",
+ "banner": "",
+ "synopsis": "Sequel to Kankin Kuiki Level X.",
+ "genres": [],
+ "score": 5.3,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 6,
+ "latestEpisode": 6,
+ "episodeNumbers": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "updatedAt": "2026-10-16T07:20:03.705Z",
+ "type": "ONA",
+ "season": "WINTER",
+ "anilistId": null,
+ "country": null,
+ "rawTitle": "lockdown zone lv x season 2",
+ "altTitles": [
+  "Kankin Kuiki Level X 2nd Season",
+  "監禁区域レベルX 続編",
+  "監禁区域レベルX 第2期",
+  "监禁区域LevelX 第二季",
+  "Kankin Kuiki Level X Season 2",
+  "Lockdown Zone: Lv. X Season 2",
+  "6"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/08382dcaf2fd60627832891d11dd0bf0/4379c1e0078d97057fd84af7c67516f7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/lockdown-zone-lv-x-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/135627/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:46:02.601Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/08382dcaf2fd60627832891d11dd0bf0/20112fe111553b924714d27ad500341b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/lockdown-zone-lv-x-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/135628/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:46:05.694Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/08382dcaf2fd60627832891d11dd0bf0/5cf75291b065e0acd6fe9614f212b4c8/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/lockdown-zone-lv-x-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/135629/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:59.931Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/08382dcaf2fd60627832891d11dd0bf0/5e36d71861f4f1fac520af0127f37335/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/lockdown-zone-lv-x-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/135630/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:01.146Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/08382dcaf2fd60627832891d11dd0bf0/cd244cd34d07f79b2aa5ca9b0f2b5d90/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/lockdown-zone-lv-x-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/135631/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:02.512Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/08382dcaf2fd60627832891d11dd0bf0/896d294b64b4e6c6d1c9028279b5da47/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/lockdown-zone-lv-x-season-2.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/135632/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:03.705Z"
+  }
+ ],
+ "_syncHash": "d293a3685dcef4a3"
+}

@@ -1,0 +1,69 @@
+{
+ "id": "detectives-these-days-are-crazy",
+ "title": "Detectives These Days Are Crazy!",
+ "poster": "https://media.kitsu.app/anime/49146/poster_image/large-e25f68a35c80bbd40ed5ede6c2588e39.jpeg",
+ "banner": "",
+ "synopsis": "Nagumo Keiichirou was a genius high-school detective. No case was complex enough for him. But what happens to genius detectives when they get older?\n\nNow 35, with bad hips, running a failing detective agency with no cases to solve and struggling to pay the rent, he's at a dead end.\n\nIn comes a high school girl in his office who says she wants to work with him. With her help, will the out-of-touch, old-fashioned Nagumo get back the fire of his youth?",
+ "genres": [],
+ "score": 7.3,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 12,
+ "episodeNumbers": [
+  1,
+  4,
+  5,
+  12
+ ],
+ "updatedAt": "2026-10-15T15:57:29.151Z",
+ "type": "TV",
+ "season": "SUMMER",
+ "anilistId": null,
+ "country": "JP",
+ "rawTitle": "detectives these days are crazy",
+ "altTitles": [
+  "Mattaku Saikin no Tantei to Kitara",
+  "まったく最近の探偵ときたら"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/9d72602ab51415fbc2fad50252666445/cb79d70043e64cf61a1b1e57a2ed34ba/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/detectives-these-days-are-crazy.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141525/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:44:09.776Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/9d72602ab51415fbc2fad50252666445/f9ead4616eb634b85c9e65ef38e1a863/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/detectives-these-days-are-crazy.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/142635/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:56:03.742Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/9d72602ab51415fbc2fad50252666445/ea705d2d49a04b008fbceb5c6a6de1a6/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/detectives-these-days-are-crazy.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/142768/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:56:42.091Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/9d72602ab51415fbc2fad50252666445/4518c038b3cb8627699663cce9711c52/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/detectives-these-days-are-crazy.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/144765/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:57:29.151Z"
+  }
+ ],
+ "_syncHash": "c35361f17d6cc5a7"
+}

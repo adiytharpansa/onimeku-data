@@ -1,0 +1,206 @@
+{
+ "id": "bking",
+ "title": "Bking",
+ "poster": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+ "banner": "",
+ "synopsis": "",
+ "genres": [],
+ "score": null,
+ "year": null,
+ "status": "",
+ "totalEpisodes": null,
+ "latestEpisode": 18,
+ "episodeNumbers": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "updatedAt": "2026-10-16T07:21:06.358Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "country": null,
+ "rawTitle": "bking",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/1fe625fd9a22d1308977e99e12de308d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/167647/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:02.858Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/6f80957f813b70664a494d66413051aa/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/167650/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:05.060Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/23b584952562480b6c0bd64798d2514f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/167653/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:56:15.144Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/4baec8bf145c1dd4ff4326c9410b5208/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/168181/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:56:17.205Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/5c2e7ae5f4fad234bbcdb83c9e986669/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/168604/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:56:18.454Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/088d7ec1283a9b3764fa4994cfe57d7a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/168955/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T06:16:25.539Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/f11d53ed0f8f3eb0d1118b4e343eba83/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/169255/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:56:22.091Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/f08ede3d8bf57ebc86092a7bd426a616/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/169714/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:56:23.304Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/29ce60b503f490114b6aefa9d1748498/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/170326/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:56:26.160Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/7be27803a35f544d75745577dc0266a9/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/170884/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:56:27.383Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/0db8897b8d0ef7f4e3fc41b4ef012008/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/60587/11/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:18:11.049Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/f4927f88f3a8b04f24d71115ed3e1c4a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/60587/12/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T06:27:15.422Z"
+  },
+  {
+   "number": 13,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/ae60acb26ca23d8a9fcd9d3873436838/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/60587/13/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:18:12.528Z"
+  },
+  {
+   "number": 14,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/b57f7bd340fe91ac5ae09e59d2df87d7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/60587/14/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:18:13.823Z"
+  },
+  {
+   "number": 15,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/8cdc59ccf02d7af561817e2d8dd1ccd0/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/60587/15/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:18:16.429Z"
+  },
+  {
+   "number": 16,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/365d383cd2ff0331141a881a60f178f4/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/60587/16/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:02.490Z"
+  },
+  {
+   "number": 17,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/df8a654b540a0a05094f65c9ec689643/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/60587/17/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T16:03:54.152Z"
+  },
+  {
+   "number": 18,
+   "streamUrl": "https://fetch.nexabloom.top/anime/519edc8db508d1c088f793f2c3647e6f/e88fa97cf320874d825a63807b6ef647/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/bking.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/60587/18/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:21:06.358Z"
+  }
+ ],
+ "_syncHash": "bfca1ba8a7c1fed3"
+}

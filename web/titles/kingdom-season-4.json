@@ -1,6 +1,6 @@
 {
  "id": "kingdom-season-4",
- "title": "kingdom season 4",
+ "title": "Kingdom Season 4",
  "poster": "https://media.kitsu.app/anime/45324/poster_image/large-402f8a8ec8e496490eb6ed039b732da7.jpeg",
  "banner": "https://media.kitsu.app/anime/45324/poster_image/large-402f8a8ec8e496490eb6ed039b732da7.jpeg",
  "synopsis": "The fourth season of Kingdom.",
@@ -27,19 +27,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/43k9h96usb/z9vgurzlaa/3bhpxjwywnb25a/master.m3u8",
-   "downloadUrl": "/download/mal/50160/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/50160/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/45324/poster_image/large-402f8a8ec8e496490eb6ed039b732da7.jpeg",
    "referer": "https://zokoanime.video/stream/mal/50160/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/43k9h96usb/z9vgurzlaa/3bhpxjwywnb25a/subs/yp7e57vj805vqy4b.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:08:25.265Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:51.110Z"
   }
  ],
- "_syncHash": "3f754f16333c682e"
+ "_syncHash": "65bc46a4f0de9fbc"
 }

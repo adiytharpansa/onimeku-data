@@ -1,0 +1,88 @@
+{
+ "id": "steel-ball-run-jojo-s-bizarre-adventure-2nd-stage-dub",
+ "title": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE",
+ "poster": "https://media.kitsu.app/anime/49847/poster_image/13dff3d4f34cfdc6da98888b56aa33ff.png",
+ "banner": "",
+ "synopsis": "The second race stage of JoJo no Kimyou na Bouken: Steel Ball Run.\n\n\n\nIn the 2nd STAGE, a desert crossing spanning roughly 750 miles- the land that Johnny Joestar and Gyro Zeppeli must challenge, is home to the area that is feared as the \"Devil's Palm.\" In 1875, a threat lurking in said desert wiped out a cavalry of 26 people, eliciting fear from the local native people. As ominous incidents begin to unfold, they are forced to realize that this race is far more than a mere competition. The two press forward, where countless hidden motives collide. \n\n\n\n(Source: Warner Bros. Japan Anime, Netflix Anime, edited)",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Drama",
+  "Mystery",
+  "Supernatural"
+ ],
+ "score": 0,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 11,
+ "latestEpisode": 4,
+ "episodeNumbers": [
+  2,
+  4
+ ],
+ "updatedAt": "2026-10-17T08:16:36.695Z",
+ "type": "ONA",
+ "season": null,
+ "anilistId": 210482,
+ "country": null,
+ "rawTitle": "STEEL BALL RUN JoJo's Bizarre Adventure 2nd STAGE (Dub)",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/35e54cf5038f9c977d6b95227194eb97/fadb52c90b4b919db6a13f632dec59ff/master.m3u8?token=MTc5MjIyNTA1NXwzNWU1NGNmNTAzOGY5Yzk3N2Q2Yjk1MjI3MTk0ZWI5Ny9mYWRiNTJjOTBiNGI5MTlkYjZhMTNmNjMyZGVjNTlmZg.X4JN2F-Xa4qBHATgVU4MCzDaiBwNYvrYGceqqaCG6nw",
+   "downloadUrl": null,
+   "thumbnail": "https://media.kitsu.app/anime/49847/poster_image/13dff3d4f34cfdc6da98888b56aa33ff.png",
+   "referer": "https://megaplay.buzz/",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/35e54cf5038f9c977d6b95227194eb97/fadb52c90b4b919db6a13f632dec59ff/subtitles/track_0_eng.vtt",
+     "referer": "https://megaplay.buzz/"
+    },
+    {
+     "lang": "id",
+     "url": "https://6a8y6.broforgotsave.online/anime/35e54cf5038f9c977d6b95227194eb97/fadb52c90b4b919db6a13f632dec59ff/subtitles/track_18_ind.vtt",
+     "referer": "https://megaplay.buzz/"
+    },
+    {
+     "lang": "ja",
+     "url": "https://6a8y6.broforgotsave.online/anime/35e54cf5038f9c977d6b95227194eb97/fadb52c90b4b919db6a13f632dec59ff/subtitles/track_20_jpn.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T08:16:33.287Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/35e54cf5038f9c977d6b95227194eb97/654798478ff9f51be82142001b8bb521/master.m3u8?token=MTc5MjIyNTA1N3wzNWU1NGNmNTAzOGY5Yzk3N2Q2Yjk1MjI3MTk0ZWI5Ny82NTQ3OTg0NzhmZjlmNTFiZTgyMTQyMDAxYjhiYjUyMQ._4Gb1cMYoRoYFz_W0uarDVPfQpHM6rKoYr_mA_7KcXg",
+   "downloadUrl": null,
+   "thumbnail": "https://media.kitsu.app/anime/49847/poster_image/13dff3d4f34cfdc6da98888b56aa33ff.png",
+   "referer": "https://megaplay.buzz/",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/35e54cf5038f9c977d6b95227194eb97/654798478ff9f51be82142001b8bb521/subtitles/track_0_eng.vtt",
+     "referer": "https://megaplay.buzz/"
+    },
+    {
+     "lang": "id",
+     "url": "https://6a8y6.broforgotsave.online/anime/35e54cf5038f9c977d6b95227194eb97/654798478ff9f51be82142001b8bb521/subtitles/track_17_ind.vtt",
+     "referer": "https://megaplay.buzz/"
+    },
+    {
+     "lang": "ja",
+     "url": "https://6a8y6.broforgotsave.online/anime/35e54cf5038f9c977d6b95227194eb97/654798478ff9f51be82142001b8bb521/subtitles/track_19_jpn.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T08:16:36.695Z"
+  }
+ ],
+ "_syncHash": "d3feb1a5e20a98b2"
+}

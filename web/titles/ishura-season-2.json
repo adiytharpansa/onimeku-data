@@ -1,6 +1,6 @@
 {
  "id": "ishura-season-2",
- "title": "ishura season 2",
+ "title": "Ishura Season 2",
  "poster": "https://media.kitsu.app/anime/48635/poster_image/large-b438736bef069fe2511bf4ec64905afe.jpeg",
  "banner": "https://media.kitsu.app/anime/48635/cover_image/large-9152f1fb5874ca774adf359f0ccc136e.jpeg",
  "synopsis": "The second season of ISHURA.",
@@ -13,7 +13,7 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:46:44.169Z",
+ "updatedAt": "2026-10-16T06:38:10.563Z",
  "type": null,
  "season": "WINTER",
  "anilistId": null,
@@ -28,7 +28,7 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/dhsqi9d0da/l6u9xbq3sx/kfnxp98vna2zfo/master.m3u8",
-   "downloadUrl": "/download/mal/58484/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/58484/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/48635/poster_image/large-b438736bef069fe2511bf4ec64905afe.jpeg",
    "referer": "https://zokoanime.video/stream/mal/58484/1/sub",
    "subtitles": [
@@ -38,9 +38,22 @@
      "url": "https://hls.dramahot.top/v/scxqicy/dhsqi9d0da/l6u9xbq3sx/kfnxp98vna2zfo/subs/qd2y4uf6yetd1h3m.vtt"
     }
    ],
-   "addedAt": "2026-10-13T22:09:55.555Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T06:38:10.563Z"
   }
  ],
- "_syncHash": "e44ec8c693bd8fa0"
+ "variants": [
+  {
+   "id": "ishura-season-2",
+   "title": "Ishura Season 2",
+   "variantType": "sub",
+   "episodeCount": 1
+  },
+  {
+   "id": "ishura-2nd-season-dub",
+   "title": "Ishura Season 2",
+   "variantType": "dub",
+   "episodeCount": 2
+  }
+ ],
+ "_syncHash": "7d5586d5c7d39f72"
 }

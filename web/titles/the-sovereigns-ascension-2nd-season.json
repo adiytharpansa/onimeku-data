@@ -9,12 +9,89 @@
  "year": null,
  "status": "",
  "totalEpisodes": null,
- "latestEpisode": 5,
+ "latestEpisode": 108,
  "episodeNumbers": [
   1,
   2,
+  3,
   4,
-  5
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  33,
+  35,
+  39,
+  41,
+  43,
+  47,
+  48,
+  49,
+  50,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  59,
+  60,
+  61,
+  62,
+  63,
+  65,
+  66,
+  68,
+  69,
+  72,
+  73,
+  74,
+  75,
+  77,
+  78,
+  79,
+  80,
+  81,
+  82,
+  83,
+  84,
+  85,
+  86,
+  87,
+  88,
+  89,
+  90,
+  91,
+  92,
+  93,
+  94,
+  95,
+  96,
+  97,
+  100,
+  101,
+  102,
+  103,
+  104,
+  105,
+  106,
+  107,
+  108
  ],
  "updatedAt": "2026-10-16T08:32:25.767Z",
  "type": null,
@@ -32,8 +109,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/134355/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T02:56:37.115Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T02:56:37.115Z"
   },
   {
    "number": 2,
@@ -42,8 +118,16 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/134356/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T02:56:56.446Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T02:56:56.446Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/6acdf7cc27e170835d0b45dabece5ae6/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134357/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T04:26:01.935Z"
   },
   {
    "number": 4,
@@ -52,8 +136,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/134358/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T18:21:35.446Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T18:21:35.446Z"
   },
   {
    "number": 5,
@@ -62,9 +145,692 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/134359/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T08:32:25.767Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T08:32:25.767Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/8be14626e24fcf377036d76f8fcac8c8/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134360/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T03:31:20.344Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/993d193d9934751151837c6f9398d1b0/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134361/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T04:24:29.312Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/e7ff761bda3434d77e0b807cb83886e4/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134362/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T04:26:03.135Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/a0fbd80cea9ad9475e8d90cdfe3580f6/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134363/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T05:31:33.147Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/74f811455759bef036509f7fe5f7baeb/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134364/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T05:51:10.567Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/69a3b0dfaf94fa8dc9c14b31ca0bcadb/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134365/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T09:01:18.595Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/82158092ef34ff62ee8c3168f5cb9ccc/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134366/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:01:21.918Z"
+  },
+  {
+   "number": 13,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/5939179f51e1d941e53deed46dee11f4/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134367/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T09:17:29.338Z"
+  },
+  {
+   "number": 14,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/a8658417fd9b3967907395985531a667/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134368/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T10:31:20.360Z"
+  },
+  {
+   "number": 15,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/947a27bb749fd4ec6902211d59207f9c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134369/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T10:43:27.331Z"
+  },
+  {
+   "number": 16,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/708cd8d0e99d73005655ee007566a606/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134370/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T11:46:13.350Z"
+  },
+  {
+   "number": 17,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/f5a18addfc1ec82829d42046bd8f9e12/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134371/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T13:01:19.434Z"
+  },
+  {
+   "number": 18,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/627295224996c5196b84de79ae369439/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134372/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T14:14:32.079Z"
+  },
+  {
+   "number": 19,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/a3bf59ac2a7fad9cfa61465a14f7f066/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134373/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T14:42:23.797Z"
+  },
+  {
+   "number": 20,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/b0cac17ff058b76eca502a777ae3e7d5/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134374/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:22:29.184Z"
+  },
+  {
+   "number": 21,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/914bc5a0b2f97978cf01626cdb49df8e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134375/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:25:43.948Z"
+  },
+  {
+   "number": 22,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/f31b714d38ed859b1b080b91d8cac974/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134376/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T06:16:18.067Z"
+  },
+  {
+   "number": 23,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/ab2860d7fbcf0a45c37d61eb328ece2a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134377/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T06:27:12.294Z"
+  },
+  {
+   "number": 33,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/3e398544c0aff88c63e622c7166fdcb1/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134387/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:54.328Z"
+  },
+  {
+   "number": 35,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/4bc698fce67fcfdbf0f4ce01aeb5204e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134389/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:58.416Z"
+  },
+  {
+   "number": 39,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/1f3cc5caca88dba57058663e20a05d6b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134393/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:05.275Z"
+  },
+  {
+   "number": 41,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/e9c7dd24ca4d19635eab6c42702eb6b3/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134395/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:08.278Z"
+  },
+  {
+   "number": 43,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/82500669e675471817a2388681966736/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134397/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:11.592Z"
+  },
+  {
+   "number": 47,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/7d17357c0c88c8c16faac1a80acf30c7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134401/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:18.050Z"
+  },
+  {
+   "number": 48,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/219c34134acb3c89153df77b8f8d2013/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134402/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:19.580Z"
+  },
+  {
+   "number": 49,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/d11db48f5e4b8f8f197436988e78dc4a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134403/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:21.193Z"
+  },
+  {
+   "number": 50,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/2e01b2cb297d9299d5cc45d05bb6af18/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134404/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:22.846Z"
+  },
+  {
+   "number": 52,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/794d3a833c5f46779dc29afc4e0747ed/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134406/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:26.091Z"
+  },
+  {
+   "number": 53,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/66394e338389ccab1323397d8535f63d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134407/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:27.684Z"
+  },
+  {
+   "number": 54,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/f04951a486905361faab0c1ede394f35/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134408/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:28.822Z"
+  },
+  {
+   "number": 55,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/14b1b4a1ecad73c37270c853ea5f17be/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134409/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:30.603Z"
+  },
+  {
+   "number": 56,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/8a5849c2c51a889430988b8a2ea3665a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134410/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:32.169Z"
+  },
+  {
+   "number": 57,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/1830097907eefe784f505d4f4db588c5/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/134411/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:33.993Z"
+  },
+  {
+   "number": 59,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/fd1bf225815c11fe83273c59018d6c8f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/135411/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:37.431Z"
+  },
+  {
+   "number": 60,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/02b830a44f4433f7171b6c1241484e13/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/135412/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:39.062Z"
+  },
+  {
+   "number": 61,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/57663e739352e4fc0a120ddd3f93ee7a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/135413/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:40.580Z"
+  },
+  {
+   "number": 62,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/02610c9fe2a8200645f44dc831229cf9/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/135414/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:42.112Z"
+  },
+  {
+   "number": 63,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/8e41b71a7ba557d31021180661c9f42d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/135751/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:43.757Z"
+  },
+  {
+   "number": 65,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/a606a06b77e32238fa1442a2417ec3c6/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136241/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:46.700Z"
+  },
+  {
+   "number": 66,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/0e57dd85c98840c937b02036464c56ac/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136242/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:48.199Z"
+  },
+  {
+   "number": 68,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/b9c23d1a7387593a691e4178a0ee0b2d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136244/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:51.389Z"
+  },
+  {
+   "number": 69,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/253bac433da4285f03ee93c655643aa9/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136397/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:52.986Z"
+  },
+  {
+   "number": 72,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/0b2f5b5d31bc7de0daad64196100de71/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136684/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:58.306Z"
+  },
+  {
+   "number": 73,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/c3060f6af4de8c0471ab8da48e1b6bc2/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136801/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:59.847Z"
+  },
+  {
+   "number": 74,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/3bf23705ba17f25d270a364ea52c0ed9/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136873/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:01.508Z"
+  },
+  {
+   "number": 75,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/aab5a03dab4f3f96c4910252b10beaca/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/137612/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:03.225Z"
+  },
+  {
+   "number": 77,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/39113f6d2805cedef9687fb1a30b314c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/137865/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:07.142Z"
+  },
+  {
+   "number": 78,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/6293058a2442cc4ebcc19dde25a4d5d0/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/137866/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:08.664Z"
+  },
+  {
+   "number": 79,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/0db500bd3e8e50b9cfb149453d4493d5/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/138010/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:10.158Z"
+  },
+  {
+   "number": 80,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/6b09ebb6139e8c10dde642103ca48027/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/138011/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:11.646Z"
+  },
+  {
+   "number": 81,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/8ddf1c60ef2d936689b521b265bf6b3c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/138165/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:13.546Z"
+  },
+  {
+   "number": 82,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/3bbd3a12cd888013df74f503b0a786dd/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/138262/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:15.374Z"
+  },
+  {
+   "number": 83,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/b8110349417601296ee948b518c0eb6a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/138263/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:16.686Z"
+  },
+  {
+   "number": 84,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/0a4de8d18a59cbd46ef1acfa9d1868a7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/138461/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:18.315Z"
+  },
+  {
+   "number": 85,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/6b619f47781efb9f8b1f9cd7dcef3b3f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/138462/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:20.114Z"
+  },
+  {
+   "number": 86,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/ece02b19f999a9c617aafda381234017/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/138652/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:21.901Z"
+  },
+  {
+   "number": 87,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/279f6312f948536ed33b0d6312b415bd/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141092/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:23.388Z"
+  },
+  {
+   "number": 88,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/53f5c8a01a4989fd6aa41cd6b0d09cf7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141093/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:25.063Z"
+  },
+  {
+   "number": 89,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/93324654d0892ab3a77cac04713d9444/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141218/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:26.694Z"
+  },
+  {
+   "number": 90,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/c447087ffd7f5b87af7f193a64afb139/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141310/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:28.216Z"
+  },
+  {
+   "number": 91,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/617108a521493b609e88caaef72c646d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141514/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:30.081Z"
+  },
+  {
+   "number": 92,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/55dd0f0cbc78f16a61792eea614dd05c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141697/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:31.733Z"
+  },
+  {
+   "number": 93,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/5775d6133b6fd674e026c006135451ff/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141698/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:33.291Z"
+  },
+  {
+   "number": 94,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/ee0b103e823c7c033ca89d79be0d02c9/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141819/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:35.358Z"
+  },
+  {
+   "number": 95,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/ca59ffe2fd3c168c25ce11dc59a7805b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141820/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:37.152Z"
+  },
+  {
+   "number": 96,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/4ee1df5a338e3a5acc82a6c35338c119/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141937/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:38.755Z"
+  },
+  {
+   "number": 97,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/82c83d95dc1cff420d7d65225d36de59/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/142118/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:40.375Z"
+  },
+  {
+   "number": 100,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/dd9d835517482a92ff6a214d842a9ef4/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/142959/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:45.468Z"
+  },
+  {
+   "number": 101,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/54064b8c920fdc9c011554f22a4819dd/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/143105/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:47.055Z"
+  },
+  {
+   "number": 102,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/9888a4cf557fdf5e6ba3d989f93d4a83/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/143203/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:48.790Z"
+  },
+  {
+   "number": 103,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/1023615fb8ace05c745dd03e426fb383/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/143384/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:50.058Z"
+  },
+  {
+   "number": 104,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/cdfb3e4885afbd40a4a101e686a7a966/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/143746/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:51.802Z"
+  },
+  {
+   "number": 105,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/e29fd175f8db1d822fd6ebc085bcf30a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/143925/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:53.366Z"
+  },
+  {
+   "number": 106,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/b700f956a697f6182e1c7c98c941a27d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/143926/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:55.002Z"
+  },
+  {
+   "number": 107,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/02dd4284e0be3aafd2f9b78c1b4461da/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/144208/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:56.529Z"
+  },
+  {
+   "number": 108,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ef7cd9c4e808d55127903f646681c50a/f13300dc2390b9f6a2d4618029b21df2/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759223808-6812-The-Sovereigns-Ascension-2nd-Season.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/144355/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:58.059Z"
   }
  ],
- "_syncHash": "f1d2cbef7dba0cf6"
+ "_syncHash": "896440166c02e857"
 }

@@ -1,0 +1,44 @@
+{
+ "id": "bang-dream-yumemita",
+ "title": "BanG Dream! YUME∞MITA",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx198376-sc5qcFv0RSH9.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/198376-1b4DxjIUwMIY.jpg",
+ "synopsis": "Suddenly thrown together, a group of girls are now debuting as the virtual band, Mugendai Mewtype. They’ve got talent and personality, but no clue how to perform as one. Can they survive, let alone make it to the top in this unforgiving music world?\n\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Comedy",
+  "Drama",
+  "Music",
+  "Slice of Life"
+ ],
+ "score": 7.5,
+ "year": 2026,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  2
+ ],
+ "updatedAt": "2026-10-15T15:40:56.569Z",
+ "type": "TV",
+ "season": "SUMMER",
+ "anilistId": 198376,
+ "country": "JP",
+ "rawTitle": "bang dream yumemita",
+ "altTitles": [
+  "BanG Dream! Yume∞Mita",
+  "バンドリ！ ゆめ∞みた"
+ ],
+ "studio": "NICHICALINE",
+ "episodes": [
+  {
+   "number": 2,
+   "streamUrl": "https://prx-1566-ant-r.vmpx.online/hls2/03/02585/w2x9qzcbp4ik_n/master.m3u8?t=eGt0v3nTG-wVDD4mhElK8i4Uor6_TVOOmS0-q1eKG88=&s=1792078856&e=43200&v=&srv=box-c-o-l-9&i=0.4&sp=0&asn=8075",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/07/bang-dream-yumemita.jpg",
+   "referer": "https://vidmoly.biz/embed-w2x9qzcbp4ik.html",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:56.569Z"
+  }
+ ],
+ "_syncHash": "aebbc210e1c5c938"
+}

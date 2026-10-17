@@ -1,7 +1,7 @@
 {
  "id": "oh-boy-was-i-wrong-about-her",
  "title": "Oh Boy, Was I Wrong About Her",
- "poster": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/47988/poster_image/713e94bfca3c8ddb61ab7568bf22e01a.jpg",
+ "poster": "https://cdn.jsdelivr.net/gh/adiytharpansa/onimeku-data@f768bfb508688ea5c32c5475f920ff7dac5fca6d/web/posters/oh-boy-was-i-wrong-about-her.jpg",
  "banner": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/47988/poster_image/713e94bfca3c8ddb61ab7568bf22e01a.jpg",
  "synopsis": "I met my childhood friend again, and she had become a beautiful and innocent girl.\n\n\"It's been a while, Hayato.\"\n\"Haruki, is it?\"\n\nIn the past, I used to play in the mud with my childhood friend in the countryside, and when I saw him again, there was no trace of the bratty young man I thought he was back then. Only in front of Hayato, she threw away the coat she was wearing and reacted in the same crass way she did back then. The distance between you and me has not changed.\n\n(Source: Shousetsuka ni Narou, translated)",
  "genres": [],
@@ -13,7 +13,7 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:39:34.295Z",
+ "updatedAt": "2026-10-17T09:26:05.866Z",
  "type": null,
  "season": "SUMMER",
  "anilistId": null,
@@ -28,89 +28,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/dsj0e6hyju/x5hdk3474n/lrc7mom9e7r41m/master.m3u8",
-   "downloadUrl": "/download/mal/56735/1/sub",
-   "thumbnail": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/47988/poster_image/713e94bfca3c8ddb61ab7568bf22e01a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20261014%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20261014T023738Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=b2ae39e01b2ec62a9a165204af4db115530ebb8065b4f56f3e0a851df15c7f31",
-   "referer": "https://zokoanime.video/stream/mal/56735/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/dsj0e6hyju/x5hdk3474n/lrc7mom9e7r41m/subs/qrw6ntlfky4kpgpp.vtt"
-    },
-    {
-     "label": "Arabic",
-     "lang": "ar",
-     "url": "https://hls.dramahot.top/v/scxqicy/dsj0e6hyju/x5hdk3474n/lrc7mom9e7r41m/subs/xuamefjf5li1smn3.vtt"
-    },
-    {
-     "label": "Chinese (Simplified)",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/dsj0e6hyju/x5hdk3474n/lrc7mom9e7r41m/subs/oojrx5b06dliwhik.vtt"
-    },
-    {
-     "label": "Chinese (Traditional)",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/dsj0e6hyju/x5hdk3474n/lrc7mom9e7r41m/subs/176itgyrq5qqj0te.vtt"
-    },
-    {
-     "label": "French",
-     "lang": "fr",
-     "url": "https://hls.dramahot.top/v/scxqicy/dsj0e6hyju/x5hdk3474n/lrc7mom9e7r41m/subs/wcmlxnv36t339uk0.vtt"
-    },
-    {
-     "label": "German",
-     "lang": "de",
-     "url": "https://hls.dramahot.top/v/scxqicy/dsj0e6hyju/x5hdk3474n/lrc7mom9e7r41m/subs/zlp69j76s99cwfyx.vtt"
-    },
-    {
-     "label": "Indonesian",
-     "lang": "id",
-     "url": "https://hls.dramahot.top/v/scxqicy/dsj0e6hyju/x5hdk3474n/lrc7mom9e7r41m/subs/fexu96p30030ohea.vtt"
-    },
-    {
-     "label": "Italian",
-     "lang": "it",
-     "url": "https://hls.dramahot.top/v/scxqicy/dsj0e6hyju/x5hdk3474n/lrc7mom9e7r41m/subs/mjal98iclioh2y09.vtt"
-    },
-    {
-     "label": "Malay",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/dsj0e6hyju/x5hdk3474n/lrc7mom9e7r41m/subs/mnvlxlxiavgc4wwm.vtt"
-    },
-    {
-     "label": "Portuguese (Brazil)",
-     "lang": "pt",
-     "url": "https://hls.dramahot.top/v/scxqicy/dsj0e6hyju/x5hdk3474n/lrc7mom9e7r41m/subs/rt2vqek62f5zx880.vtt"
-    },
-    {
-     "label": "Russian",
-     "lang": "ru",
-     "url": "https://hls.dramahot.top/v/scxqicy/dsj0e6hyju/x5hdk3474n/lrc7mom9e7r41m/subs/uaew7bwm0zzmtsxh.vtt"
-    },
-    {
-     "label": "Spanish (Latin America)",
-     "lang": "es",
-     "url": "https://hls.dramahot.top/v/scxqicy/dsj0e6hyju/x5hdk3474n/lrc7mom9e7r41m/subs/1ak1q0ib3gplp63a.vtt"
-    },
-    {
-     "label": "Spanish (Spain)",
-     "lang": "es",
-     "url": "https://hls.dramahot.top/v/scxqicy/dsj0e6hyju/x5hdk3474n/lrc7mom9e7r41m/subs/z6ig01wpartwgc05.vtt"
-    },
-    {
-     "label": "Thai",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/dsj0e6hyju/x5hdk3474n/lrc7mom9e7r41m/subs/s02vrx9b9tz99uus.vtt"
-    },
-    {
-     "label": "Vietnamese",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/dsj0e6hyju/x5hdk3474n/lrc7mom9e7r41m/subs/213wxc1nxkwge8jb.vtt"
-    }
-   ],
-   "addedAt": "2026-10-14T02:37:42.065Z",
-   "customSubs": []
+   "downloadUrl": "https://zokoanime.video/download/mal/56735/1/sub",
+   "thumbnail": "https://cdn.jsdelivr.net/gh/adiytharpansa/onimeku-data@f768bfb508688ea5c32c5475f920ff7dac5fca6d/web/posters/oh-boy-was-i-wrong-about-her.jpg",
+   "referer": "",
+   "subtitles": [],
+   "addedAt": "2026-10-17T09:26:05.866Z"
   }
  ],
- "_syncHash": "9792654f1d161af5"
+ "_syncHash": "683ae145246ff610"
 }

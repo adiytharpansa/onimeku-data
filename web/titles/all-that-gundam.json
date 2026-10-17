@@ -1,0 +1,45 @@
+{
+ "id": "all-that-gundam",
+ "title": "All That Gundam",
+ "poster": "https://anizone.to/images/anime/33ec6708-b78b-43e6-858b-538e9f120c2d.gif",
+ "banner": "",
+ "synopsis": "Animated video created just for a 1989 event that featured all the major mobile suit robots from the first 10 years of the Gundam anime franchise.\n(Source: ANN)",
+ "genres": [
+  "New",
+  "Science Fiction",
+  "Action",
+  "Mecha",
+  "Piloted Robot",
+  "Short Movie"
+ ],
+ "score": null,
+ "year": null,
+ "status": "RELEASING",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-17T09:56:27.292Z",
+ "type": null,
+ "season": null,
+ "anilistId": null,
+ "country": "JP",
+ "rawTitle": "All That Gundam",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://suzaku.xin-cdn.xyz/0ddf446d-9e7a-443f-9a76-ebb2da2a99c7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/33ec6708-b78b-43e6-858b-538e9f120c2d.gif",
+   "referer": "https://anizone.to/anime/9zp3xvuy/1",
+   "subtitles": [],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T09:56:27.292Z"
+  }
+ ],
+ "_syncHash": "0ec67e4f3c365034"
+}

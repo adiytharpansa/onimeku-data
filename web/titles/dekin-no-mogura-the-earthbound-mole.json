@@ -1,0 +1,73 @@
+{
+ "id": "dekin-no-mogura-the-earthbound-mole",
+ "title": "Dekin no Mogura: The Earthbound Mole",
+ "poster": "https://media.kitsu.app/anime/49357/poster_image/large-7edcbaabc3f7b4bbbf7d97c9e3b504cf.jpeg",
+ "banner": "",
+ "synopsis": "\"I won't die 'cause I was banned from the afterlife.\"\n\nA shady self-proclaimed hermit named Momoyuki Mogura, AKA: Mogura, is banned from the afterlife due to an incident. Now he collects spirit possessed will-o'-wisps in his lantern, hoping to make a comeback.\n\nIt seems that those who encounter him begin to see peculiar things.\n\n(Source: Crunchyroll)",
+ "genres": [],
+ "score": 7.1,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 12,
+ "latestEpisode": 12,
+ "episodeNumbers": [
+  1,
+  11,
+  12
+ ],
+ "updatedAt": "2026-10-15T15:56:14.735Z",
+ "type": "TV",
+ "season": "SUMMER",
+ "anilistId": null,
+ "country": "JP",
+ "rawTitle": "dekin no mogura the earthbound mole",
+ "altTitles": [
+  "Dekin no Mogura",
+  "出禁のモグラ"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/cbe6735b8115b47966a4f19ff02e26b3/ecaabbd2509b32ef0a004845c934b380/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/dekin-no-mogura-the-earthbound-mole-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/144535/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:01.118Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/cbe6735b8115b47966a4f19ff02e26b3/38827c9ce4a06923df68721dcb5169a0/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/dekin-no-mogura-the-earthbound-mole-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/144737/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:56:13.714Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/cbe6735b8115b47966a4f19ff02e26b3/a8331e358f72d213f5fba953c1da07be/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/dekin-no-mogura-the-earthbound-mole-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/144939/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:56:14.735Z"
+  }
+ ],
+ "variants": [
+  {
+   "id": "dekin-no-mogura-the-earthbound-mole",
+   "title": "Dekin no Mogura: The Earthbound Mole",
+   "variantType": "sub",
+   "episodeCount": 3
+  },
+  {
+   "id": "dekin-no-mogura-the-earthbound-mole-dub",
+   "title": "Dekin no Mogura: The Earthbound Mole",
+   "variantType": "dub",
+   "episodeCount": 2
+  }
+ ],
+ "_syncHash": "547e14fea0d8482f"
+}

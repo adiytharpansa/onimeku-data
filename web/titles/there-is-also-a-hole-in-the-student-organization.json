@@ -1,6 +1,6 @@
 {
  "id": "there-is-also-a-hole-in-the-student-organization",
- "title": "there is also a hole in the student organization",
+ "title": "There Is Also a Hole in the Student Organization",
  "poster": "https://lain.bgm.tv/pic/cover/l/17/c7/554779_oPitO.jpg",
  "banner": "https://lain.bgm.tv/pic/cover/l/17/c7/554779_oPitO.jpg",
  "synopsis": "",
@@ -25,13 +25,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/8exytlzdm3/pj4s016g7x/u1itgtavtnuml4/master.m3u8",
-   "downloadUrl": null,
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/61578/1/sub",
+   "thumbnail": "https://lain.bgm.tv/pic/cover/l/17/c7/554779_oPitO.jpg",
    "referer": "https://zokoanime.video/stream/mal/61578/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-14T02:45:16.960Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:38:19.647Z"
   }
  ],
- "_syncHash": "0f08dce029c0f225"
+ "_syncHash": "2c360be387bd5a79"
 }

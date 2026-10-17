@@ -1,6 +1,6 @@
 {
  "id": "the-exiled-heavy-knight-knows-how-to-game-the-system",
- "title": "the exiled heavy knight knows how to game the system",
+ "title": "The Exiled Heavy Knight Knows How to Game the System",
  "poster": "https://lain.bgm.tv/pic/cover/l/03/45/383631_HHiIM.jpg",
  "banner": "https://lain.bgm.tv/pic/cover/l/03/45/383631_HHiIM.jpg",
  "synopsis": "",
@@ -25,19 +25,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/5dzj8kor6m/pgdqcabd66/k2mvk040h15etm/master.m3u8",
-   "downloadUrl": "/download/mal/59741/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/59741/1/sub",
+   "thumbnail": "https://lain.bgm.tv/pic/cover/l/03/45/383631_HHiIM.jpg",
    "referer": "https://zokoanime.video/stream/mal/59741/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/5dzj8kor6m/pgdqcabd66/k2mvk040h15etm/subs/21p2f3fsy3h7blvp.vtt"
-    }
-   ],
-   "addedAt": "2026-10-14T00:27:27.728Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:38:09.240Z"
   }
  ],
- "_syncHash": "7765d5e25c0bc2e2"
+ "_syncHash": "53875b975eba678c"
 }

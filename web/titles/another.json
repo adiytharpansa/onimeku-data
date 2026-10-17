@@ -6,14 +6,17 @@
  "synopsis": "Di kelas 3-3 SMP Yomiyama Utara, siswa pindahan Kouichi Sakakibara kembali ke sekolah setelah mengambil cuti sakit selama bulan pertama sekolah. Di antara teman...",
  "genres": [
   "Action",
-  "Comedy",
-  "Shounen",
   "Adventure",
   "Fantasy",
-  "Mecha",
+  "Comedy",
   "Sci-Fi",
+  "Shounen",
+  "Adult Cast",
+  "Organized Crime",
   "Seinen",
   "Drama",
+  "Isekai",
+  "Psychological",
   "Music",
   "Performing Arts",
   "School",
@@ -21,7 +24,6 @@
   "Historical",
   "Parody",
   "Samurai",
-  "Isekai",
   "Reincarnation",
   "Supernatural",
   "Gore",
@@ -40,7 +42,7 @@
   10,
   12
  ],
- "updatedAt": "2026-10-16T16:59:57.328Z",
+ "updatedAt": "2026-10-17T09:08:51.151Z",
  "type": null,
  "season": null,
  "anilistId": null,
@@ -56,8 +58,9 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2024/08/75509.jpg",
    "referer": "https://v2.samehadaku.how/another-episode-2/",
    "subtitles": [],
-   "addedAt": "2026-10-16T16:59:49.762Z",
-   "customSubs": []
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T09:08:38.664Z"
   },
   {
    "number": 4,
@@ -66,8 +69,9 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2024/08/75509.jpg",
    "referer": "https://v2.samehadaku.how/another-episode-4/",
    "subtitles": [],
-   "addedAt": "2026-10-16T16:59:51.617Z",
-   "customSubs": []
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T09:08:41.196Z"
   },
   {
    "number": 6,
@@ -76,8 +80,9 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2024/08/75509.jpg",
    "referer": "https://v2.samehadaku.how/another-episode-6/",
    "subtitles": [],
-   "addedAt": "2026-10-16T16:59:52.900Z",
-   "customSubs": []
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T09:08:43.179Z"
   },
   {
    "number": 8,
@@ -86,8 +91,9 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2024/08/75509.jpg",
    "referer": "https://v2.samehadaku.how/another-episode-8/",
    "subtitles": [],
-   "addedAt": "2026-10-16T16:59:54.417Z",
-   "customSubs": []
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T09:08:46.283Z"
   },
   {
    "number": 10,
@@ -96,8 +102,9 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2024/08/75509.jpg",
    "referer": "https://v2.samehadaku.how/another-episode-10/",
    "subtitles": [],
-   "addedAt": "2026-10-16T16:59:55.868Z",
-   "customSubs": []
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T09:08:48.969Z"
   },
   {
    "number": 12,
@@ -106,9 +113,10 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2024/08/75509.jpg",
    "referer": "https://v2.samehadaku.how/another-episode-12/",
    "subtitles": [],
-   "addedAt": "2026-10-16T16:59:57.328Z",
-   "customSubs": []
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T09:08:51.151Z"
   }
  ],
- "_syncHash": "d69429ff60fd2492"
+ "_syncHash": "1079aab5c7fbf7d1"
 }

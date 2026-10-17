@@ -1,0 +1,44 @@
+{
+ "id": "my-girlfriend-is-shobitch-oad",
+ "title": "My Girlfriend Is Shobitch OAD",
+ "poster": "https://anizone.to/images/anime/ff48de3f-1a82-444e-b045-e9cc3fb9707c.jpg",
+ "banner": "",
+ "synopsis": "After Shinozaki Haruka confesses to the Class Rep, Kousaka Akiho, he comes to find that the perfect class representative might be a little bit harder to handle than he previously thought!\n\n(Source: MAL News)",
+ "genres": [],
+ "score": null,
+ "year": 2018,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-17T10:02:48.341Z",
+ "type": "OVA",
+ "season": null,
+ "anilistId": null,
+ "country": null,
+ "rawTitle": "My Girlfriend Is Shobitch OAD",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://seiryuu.vid-cdn.xyz/11e7f684-e8ec-4b29-a7fc-cd9263beb03b/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/ff48de3f-1a82-444e-b045-e9cc3fb9707c.jpg",
+   "referer": "https://anizone.to/anime/wqcbq7yo/1",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://seiryuu.vid-cdn.xyz/11e7f684-e8ec-4b29-a7fc-cd9263beb03b/subtitles/0_en.ass",
+     "referer": "https://anizone.to/anime/wqcbq7yo/1"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T10:02:48.341Z"
+  }
+ ],
+ "_syncHash": "5232ab6dbdfc8b40"
+}

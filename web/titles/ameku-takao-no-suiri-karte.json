@@ -5,40 +5,49 @@
  "banner": "",
  "synopsis": "Bagian Pengawasan Diagnosa Patologi Rumah Sakit Ten'iaki menangani kasus-kasus yang sulit ditangani oleh para dokter lain. Kasus-kasus tersebut meliputi hal-hal...",
  "genres": [
-  "Action",
-  "Fantasy",
-  "Adventure",
   "Comedy",
-  "Shounen",
+  "Romance",
   "School",
+  "Shounen",
+  "Action",
   "Drama",
+  "Gore",
+  "Military",
+  "Harem",
+  "Fantasy",
+  "Historical",
+  "Mystery",
   "Music",
   "Performing Arts",
   "Gag Humor",
-  "Historical",
   "Parody",
   "Samurai",
   "Sci-Fi",
   "Isekai",
   "Reincarnation",
   "Supernatural",
-  "Gore",
   "Urban Fantasy"
  ],
  "score": null,
  "year": 2025,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 11,
+ "latestEpisode": 12,
  "episodeNumbers": [
   1,
+  2,
   3,
+  4,
   5,
+  6,
   7,
+  8,
   9,
-  11
+  10,
+  11,
+  12
  ],
- "updatedAt": "2026-10-16T16:58:28.890Z",
+ "updatedAt": "2026-10-17T09:08:35.878Z",
  "type": null,
  "season": null,
  "anilistId": null,
@@ -54,8 +63,20 @@
    "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2025/01/bx176642-lgDtPlodCMRm.jpg",
    "referer": "https://v2.samehadaku.how/ameku-takao-no-suiri-karte-episode-1/",
    "subtitles": [],
-   "addedAt": "2026-10-16T16:58:22.888Z",
-   "customSubs": []
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T09:08:19.932Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dzNzbOj0WHJc04-zeISGDsZXmCeer8dPB62hjsLYHb_H3IQlCB8VY2T6GGBkL2rKva5FclsIsHKyjm-f2884_Nc_PYTlHvYgfbcNOEjYr91L_z4eUajoG-Mn91VqL2XdvScVcAc",
+   "downloadUrl": "https://pixeldrain.com/api/file/Cw5PY5oy",
+   "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2025/01/bx176642-lgDtPlodCMRm.jpg",
+   "referer": "https://v2.samehadaku.how/ameku-takao-no-suiri-karte-episode-2/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T09:08:23.415Z"
   },
   {
    "number": 3,
@@ -68,6 +89,17 @@
    "customSubs": []
   },
   {
+   "number": 4,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dwPAbaC0zWgxa0ELa4FKmH1z34bvSzdP_FTLuBpbqREighL3KTNVF7njTkbmim-6XKx85SRYw3rXJ8q4O1eOXhU3RBjYsjS5wOEx3j_LqSBPDXA02fI08t1s6Iy3cgyDWAoEEH5",
+   "downloadUrl": "https://pixeldrain.com/api/file/8JzF4Ro2",
+   "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2025/01/bx176642-lgDtPlodCMRm.jpg",
+   "referer": "https://v2.samehadaku.how/ameku-takao-no-suiri-karte-episode-4/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T09:08:26.316Z"
+  },
+  {
    "number": 5,
    "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dwTCqVqM1UVYgvkOlx79aS_J0orkq-26zvqiuWJJOCqastLevqi1VJ6QD2dmq6odKTx-vUqMHKWNbq7TcFjbwIHeZ9dxu-z_LWJZ6_ENjcWz90J9AzXGkBpdz1gLAa79xYpNyvp",
    "downloadUrl": "https://pixeldrain.com/api/file/y4LJJ2ns",
@@ -76,6 +108,17 @@
    "subtitles": [],
    "addedAt": "2026-10-16T16:58:26.034Z",
    "customSubs": []
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dzSx3zwQ9Yuo7G0EksUX5qtQWOkALSZKcNAEmPkt2BqU4Rye60ZozljKC5g40uIw29dXrT8OBxRFufQslQq0wQb5qfstwsTjXjf3PSGKHTlH2GHnqJXzBlrHG1gvGwKtuKEuQ",
+   "downloadUrl": "https://pixeldrain.com/api/file/s7fHoikW",
+   "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2025/01/bx176642-lgDtPlodCMRm.jpg",
+   "referer": "https://v2.samehadaku.how/ameku-takao-no-suiri-karte-episode-6/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T09:08:28.429Z"
   },
   {
    "number": 7,
@@ -88,6 +131,17 @@
    "customSubs": []
   },
   {
+   "number": 8,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dy8pkwCdLAwDcNiXWVhrcKwQL1rAPUiITZawHSvECJ-J7jTsQQUURSjwvl4TTvSK_VximVuT99ILXlKYvDfcFshAHzs_vXb0BiANAYDwkCQvHgNZYWZs_5rsHzTaxbavT81hu0",
+   "downloadUrl": "https://pixeldrain.com/api/file/3EkNYhqM",
+   "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2025/01/bx176642-lgDtPlodCMRm.jpg",
+   "referer": "https://v2.samehadaku.how/ameku-takao-no-suiri-karte-episode-8/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T09:08:30.552Z"
+  },
+  {
    "number": 9,
    "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dxPyOAS9clvG8bv6wKtdso_IvDsnFrXZ3ojJXMUa8IQ8KokAsMOmsJY_jMEzOAZj4zYhxJ8zdBwYuz_7vEKvVailtfGwIjwAID72-kYoZp9-i6O6r-KLBVMsRltEaip6kCJlwhx",
    "downloadUrl": "https://pixeldrain.com/api/file/JPLqE7vF",
@@ -98,6 +152,17 @@
    "customSubs": []
   },
   {
+   "number": 10,
+   "streamUrl": "https://www.blogger.com/video.g?token==AD6v5dyetLblPCavyNtgSoOiHk_bNEDo3VEL4QeZwZrlosF98c05iq0MVbSq8bkRKIij6U1ju_BI75kH_iNTpeGe7ByX9Tr1AZEV3R3BIzx29G0tA2zQEw_Sl6EDvlFcev5LY9qi",
+   "downloadUrl": "https://pixeldrain.com/api/file/qjmBYeBY",
+   "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2025/01/bx176642-lgDtPlodCMRm.jpg",
+   "referer": "https://v2.samehadaku.how/ameku-takao-no-suiri-karte-episode-10/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T09:08:33.579Z"
+  },
+  {
    "number": 11,
    "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dw6dHDLP0KIjZSlInI_Lx4NkKtlAJ_MAetr0vk_bhaOj7NS2unAybkXoA_TEtFSP4kYx7KuBFdFaD8sobNl1LpFlp2O2FaSuN6If1dess5vbZY5wr8uqhXqrnZ4b6q_XJjNqYY",
    "downloadUrl": "https://pixeldrain.com/api/file/3MkFnJfJ",
@@ -106,7 +171,18 @@
    "subtitles": [],
    "addedAt": "2026-10-16T16:58:28.890Z",
    "customSubs": []
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://www.blogger.com/video.g?token=AD6v5dxyvuw2crYp4QheOhoatgKx2Z3PPRKAQ6dvZmnZDePWRrYX_zu61dn63PfG1MoDY2cy9LStIffUC2IcAIggTk9nJqULldMlwfFV-cHYLfVbtjdmzyObQ2nv4oSpnqB14PSt5JU",
+   "downloadUrl": "https://pixeldrain.com/api/file/FEjfdr99",
+   "thumbnail": "https://v2.samehadaku.how/wp-content/uploads/2025/01/bx176642-lgDtPlodCMRm.jpg",
+   "referer": "https://v2.samehadaku.how/ameku-takao-no-suiri-karte-episode-12-end/",
+   "subtitles": [],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "addedAt": "2026-10-17T09:08:35.878Z"
   }
  ],
- "_syncHash": "b5a3f6945f87e937"
+ "_syncHash": "5e89a7c4541de5bd"
 }

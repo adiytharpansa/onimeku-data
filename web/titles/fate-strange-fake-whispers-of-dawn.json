@@ -1,0 +1,44 @@
+{
+ "id": "fate-strange-fake-whispers-of-dawn",
+ "title": "Fate/strange Fake -Whispers of Dawn-",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx154966-eQRCmSrCh96j.png",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/154966-xIvcAtzwOZk6.jpg",
+ "synopsis": "Years after the Fifth Holy Grail War in Japan, strange reports surface of one appearing in America. Attracting new Mages and Servants, the question is raised about the relic’s authenticity. As the city of Snowfield is turned into a bloody battleground, specific details seem wrong. Is it possible someone is manipulating this twisted little play, and if so, does this mean the true Holy Grail exists?\n\n\n\n\n(Source: Crunchyroll)\n\n\n\nNote: Special premiere occurred in Los Angeles at Anime Expo before the Japanese television premiere on July 2, 2023.",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Fantasy",
+  "Mystery",
+  "Supernatural"
+ ],
+ "score": 8.1,
+ "year": 2023,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  2
+ ],
+ "updatedAt": "2026-10-15T15:43:51.980Z",
+ "type": "SPECIAL",
+ "season": "SUMMER",
+ "anilistId": 154966,
+ "country": "JP",
+ "rawTitle": "fate strange fake whispers of dawn",
+ "altTitles": [
+  "Fate/strange Fake: Whispers of Dawn"
+ ],
+ "studio": "A-1 Pictures",
+ "episodes": [
+  {
+   "number": 2,
+   "streamUrl": "https://prx-1350-ant-d.vmpx.online/hls2/02/02162/fey7nmgrvdgd_,n,l,.urlset/master.m3u8?t=h7dXUDWFdKrUDpC_nAqWp3XBs03BIKy6cezghy90KgA=&s=1792079031&e=43200&v=&srv=box-c-o-l-10-g&i=0.4&sp=0&asn=8075",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1767459014-9171-1767458177-9806-136619.jpg",
+   "referer": "https://vidmoly.net/embed-fey7nmgrvdgd.html",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:51.980Z"
+  }
+ ],
+ "_syncHash": "bedaf90e77483568"
+}

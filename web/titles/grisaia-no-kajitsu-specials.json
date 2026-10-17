@@ -1,6 +1,6 @@
 {
  "id": "grisaia-no-kajitsu-specials",
- "title": "grisaia no kajitsu specials",
+ "title": "Grisaia no Kajitsu Specials",
  "poster": "https://media.kitsu.app/anime/poster_images/10150/large.jpg",
  "banner": "https://media.kitsu.app/anime/cover_images/10150/large.jpg",
  "synopsis": "Short specials added to Blu-ray/DVD volumes.",
@@ -30,13 +30,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/v0eribfu4q/gp5yiovi7d/ib5wddbfll37zy/master.m3u8",
-   "downloadUrl": "/download/mal/29101/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/29101/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/10150/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/29101/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-13T22:06:59.321Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:42:30.517Z"
   }
  ],
- "_syncHash": "7c5e5f9400d02003"
+ "_syncHash": "25cf03fe5fd725ec"
 }

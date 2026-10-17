@@ -28,7 +28,7 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/ji91mesb66/djp49zmdty/jcptd40x9atwjl/master.m3u8",
-   "downloadUrl": "/download/mal/49926/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/49926/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/45249/poster_image/large-178aab3e16cd06c2022873d93b90ae63.jpeg",
    "referer": "https://zokoanime.video/stream/mal/49926/1/sub",
    "subtitles": [
@@ -53,9 +53,22 @@
      "url": "https://hls.dramahot.top/v/scxqicy/ji91mesb66/djp49zmdty/jcptd40x9atwjl/subs/z42nmr4m8ym08zdj.vtt"
     }
    ],
-   "addedAt": "2026-10-14T02:41:20.656Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:40:55.141Z"
   }
  ],
- "_syncHash": "01c2dbcf41419057"
+ "variants": [
+  {
+   "id": "demon-slayer-kimetsu-no-yaiba-mugen-train-arc",
+   "title": "Demon Slayer: Kimetsu no Yaiba - Mugen Train Arc",
+   "variantType": "sub",
+   "episodeCount": 1
+  },
+  {
+   "id": "demon-slayer-kimetsu-no-yaiba-mugen-train-arc-dub",
+   "title": "Demon Slayer: Kimetsu no Yaiba - Mugen Train Arc",
+   "variantType": "dub",
+   "episodeCount": 3
+  }
+ ],
+ "_syncHash": "360bc9ec5b9cd367"
 }

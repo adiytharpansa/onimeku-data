@@ -9,12 +9,16 @@
  "year": 2024,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 11,
+ "latestEpisode": 12,
  "episodeNumbers": [
   1,
   2,
   4,
-  11
+  5,
+  6,
+  10,
+  11,
+  12
  ],
  "updatedAt": "2026-10-16T22:11:06.808Z",
  "type": "TV",
@@ -35,8 +39,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-nobodys-way-up-to-an-exploration-hero.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/125847/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T22:30:50.775Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T22:30:50.775Z"
   },
   {
    "number": 2,
@@ -45,8 +48,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-nobodys-way-up-to-an-exploration-hero.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/125849/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T21:36:35.725Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T21:36:35.725Z"
   },
   {
    "number": 4,
@@ -55,8 +57,34 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-nobodys-way-up-to-an-exploration-hero.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/126484/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:11:06.808Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:11:06.808Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/5c3b44401b674811b5e8088e1a24e7a5/66c10211157eee6989fdd9316891bb48/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-nobodys-way-up-to-an-exploration-hero.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/126732/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:39.000Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/5c3b44401b674811b5e8088e1a24e7a5/3e9dddc65b6f27f83b79d16e8bbf9259/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-nobodys-way-up-to-an-exploration-hero.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/126961/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:39.745Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/5c3b44401b674811b5e8088e1a24e7a5/3da93baff2769c08f68662dc40a3efcf/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-nobodys-way-up-to-an-exploration-hero.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/127844/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:44.112Z"
   },
   {
    "number": 11,
@@ -65,9 +93,17 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-nobodys-way-up-to-an-exploration-hero.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/127926/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T22:31:09.939Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T22:31:09.939Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/5c3b44401b674811b5e8088e1a24e7a5/c588c0a5a83a58be5927439fe8af8a18/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/a-nobodys-way-up-to-an-exploration-hero.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/128097/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:42.809Z"
   }
  ],
- "_syncHash": "2bc83a107dfa0ae1"
+ "_syncHash": "038aa9aa8ed10460"
 }

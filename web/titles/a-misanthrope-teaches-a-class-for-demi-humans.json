@@ -15,13 +15,19 @@
  "year": 2026,
  "status": "FINISHED",
  "totalEpisodes": 13,
- "latestEpisode": 7,
+ "latestEpisode": 13,
  "episodeNumbers": [
+  1,
   2,
   3,
   5,
   6,
-  7
+  7,
+  8,
+  9,
+  11,
+  12,
+  13
  ],
  "updatedAt": "2026-10-16T22:11:02.019Z",
  "type": "TV",
@@ -36,14 +42,22 @@
  "studio": "Asread",
  "episodes": [
   {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/d9976f1c2c0c972d1cee0c3647cbd194/31b14fab02a1a96830b449508cd45fdd/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1768061301-2123-1768023819-5362-A-Misanthrope-Teaches-a-Class-for-Demi-Humans.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/162497/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:37.526Z"
+  },
+  {
    "number": 2,
    "streamUrl": "https://fetch.nexabloom.top/anime/d9976f1c2c0c972d1cee0c3647cbd194/a38af9d620a928bf0cc5882df7a31230/master.m3u8",
    "downloadUrl": null,
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1768061301-2123-1768023819-5362-A-Misanthrope-Teaches-a-Class-for-Demi-Humans.webp",
    "referer": "https://megaplay.buzz/stream/s-2/163613/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T18:16:28.032Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T18:16:28.032Z"
   },
   {
    "number": 3,
@@ -52,8 +66,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1768061301-2123-1768023819-5362-A-Misanthrope-Teaches-a-Class-for-Demi-Humans.webp",
    "referer": "https://megaplay.buzz/stream/s-2/164545/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:10:53.150Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:10:53.150Z"
   },
   {
    "number": 5,
@@ -62,8 +75,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1768061301-2123-1768023819-5362-A-Misanthrope-Teaches-a-Class-for-Demi-Humans.webp",
    "referer": "https://megaplay.buzz/stream/s-2/166073/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:10:56.401Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:10:56.401Z"
   },
   {
    "number": 6,
@@ -72,8 +84,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1768061301-2123-1768023819-5362-A-Misanthrope-Teaches-a-Class-for-Demi-Humans.webp",
    "referer": "https://megaplay.buzz/stream/s-2/166665/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:10:58.178Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:10:58.178Z"
   },
   {
    "number": 7,
@@ -82,9 +93,67 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1768061301-2123-1768023819-5362-A-Misanthrope-Teaches-a-Class-for-Demi-Humans.webp",
    "referer": "https://megaplay.buzz/stream/s-2/167041/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:11:02.019Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:11:02.019Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/d9976f1c2c0c972d1cee0c3647cbd194/43724ee934bef2366ba137967f1988c3/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1768061301-2123-1768023819-5362-A-Misanthrope-Teaches-a-Class-for-Demi-Humans.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/167698/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:42.611Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/d9976f1c2c0c972d1cee0c3647cbd194/9968c8177f954edef73b992cd874cd09/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1768061301-2123-1768023819-5362-A-Misanthrope-Teaches-a-Class-for-Demi-Humans.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/168265/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:44.134Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/d9976f1c2c0c972d1cee0c3647cbd194/e020f40b022cd1a9493e8110b8e1fa8a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1768061301-2123-1768023819-5362-A-Misanthrope-Teaches-a-Class-for-Demi-Humans.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/169039/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:24:23.553Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/d9976f1c2c0c972d1cee0c3647cbd194/808cd1021802feda8a42e1b36e3da90a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1768061301-2123-1768023819-5362-A-Misanthrope-Teaches-a-Class-for-Demi-Humans.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/169276/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:39.817Z"
+  },
+  {
+   "number": 13,
+   "streamUrl": "https://fetch.nexabloom.top/anime/d9976f1c2c0c972d1cee0c3647cbd194/acc8155c2c1f846183244e1c8fb545de/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/01/1768061301-2123-1768023819-5362-A-Misanthrope-Teaches-a-Class-for-Demi-Humans.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/169750/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:40.941Z"
   }
  ],
- "_syncHash": "34d8ea1ced876e85"
+ "variants": [
+  {
+   "id": "a-misanthrope-teaches-a-class-for-demi-humans",
+   "title": "A Misanthrope Teaches a Class for Demi-Humans",
+   "variantType": "sub",
+   "episodeCount": 11
+  },
+  {
+   "id": "a-misanthrope-teaches-a-class-for-demi-humans-dub",
+   "title": "A Misanthrope Teaches a Class for Demi-Humans",
+   "variantType": "dub",
+   "episodeCount": 4
+  }
+ ],
+ "_syncHash": "7feb5e3d3b39712c"
 }

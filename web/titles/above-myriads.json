@@ -18,8 +18,11 @@
   1,
   2,
   3,
+  4,
+  5,
   6,
   7,
+  8,
   9
  ],
  "updatedAt": "2026-10-16T22:11:02.584Z",
@@ -41,8 +44,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/06/above-myriads.jpg",
    "referer": "https://megaplay.buzz/stream/mal/61642/1/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T22:39:38.599Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T22:39:38.599Z"
   },
   {
    "number": 2,
@@ -51,8 +53,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/06/above-myriads.jpg",
    "referer": "https://megaplay.buzz/stream/mal/61642/2/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:10:49.755Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:10:49.755Z"
   },
   {
    "number": 3,
@@ -61,8 +62,25 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/06/above-myriads.jpg",
    "referer": "https://megaplay.buzz/stream/mal/61642/3/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:10:51.072Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:10:51.072Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/156444ebc2d8ac646a1d887b0d2a7f31/ff636875f34f109a0c8807b0d0221a8f/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/06/above-myriads.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/61642/4/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:38.692Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/156444ebc2d8ac646a1d887b0d2a7f31/16d3d287e8495c4c13c766d79dd9cdc4/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/06/above-myriads.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/61642/5/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:23:34.857Z"
   },
   {
    "number": 6,
@@ -71,8 +89,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/06/above-myriads.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/867060/hsub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:10:58.776Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:10:58.776Z"
   },
   {
    "number": 7,
@@ -81,8 +98,16 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/06/above-myriads.jpg",
    "referer": "https://megaplay.buzz/stream/mal/61642/7/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:11:00.007Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:11:00.007Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/156444ebc2d8ac646a1d887b0d2a7f31/67c8b4b4c54db0cf9f1e2d648325b553/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/06/above-myriads.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/61642/8/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:41.783Z"
   },
   {
    "number": 9,
@@ -91,9 +116,8 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/06/above-myriads.jpg",
    "referer": "https://megaplay.buzz/stream/mal/61642/9/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:11:02.584Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:11:02.584Z"
   }
  ],
- "_syncHash": "279d157aa31195d9"
+ "_syncHash": "d8c567b3476bb764"
 }

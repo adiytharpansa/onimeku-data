@@ -1,6 +1,6 @@
 {
  "id": "marriagetoxin",
- "title": "MARRIAGETOXIN",
+ "title": "Marriagetoxin",
  "poster": "https://media.kitsu.app/anime/50218/poster_image/large-56ea2b0a4517d18a7b00d458324ad615.jpeg",
  "banner": "https://media.kitsu.app/anime/50218/cover_image/large-0a0a6af07392e06eec1193a946b412ea.jpeg",
  "synopsis": "For centuries, the deadly arts have been perfected by Masters, and Five Great Families hold the greatest power and influence. Hikaru Gero, an heir to the Gero family, lives in the underworld as an elite assassin. When his sister is pressured to produce an heir, Hikaru asks Mei Kinosaki, a brilliant marriage swindler, to find him a bride. The most challenging mission of his life begins!\n\n(Source: Crunchyroll)",
@@ -13,7 +13,7 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T15:45:53.614Z",
+ "updatedAt": "2026-10-16T07:06:07.870Z",
  "type": null,
  "season": "SPRING",
  "anilistId": null,
@@ -27,7 +27,7 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/30aj0midcc/dfpqdpvj4i/i7ho7ds9ve4qxb/master.m3u8",
-   "downloadUrl": "/download/mal/62601/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/62601/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/50218/poster_image/large-56ea2b0a4517d18a7b00d458324ad615.jpeg",
    "referer": "https://zokoanime.video/stream/mal/62601/1/sub",
    "subtitles": [
@@ -37,9 +37,8 @@
      "url": "https://hls.dramahot.top/v/scxqicy/30aj0midcc/dfpqdpvj4i/i7ho7ds9ve4qxb/subs/5b1t7sloh0fq28b2.vtt"
     }
    ],
-   "addedAt": "2026-10-14T00:17:55.323Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T07:06:07.870Z"
   }
  ],
- "_syncHash": "4370a8b39c32f6ac"
+ "_syncHash": "d40f89196ada5af8"
 }

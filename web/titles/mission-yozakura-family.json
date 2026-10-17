@@ -1,6 +1,6 @@
 {
  "id": "mission-yozakura-family",
- "title": "mission yozakura family",
+ "title": "Mission Yozakura Family",
  "poster": "https://media.kitsu.app/anime/46869/poster_image/large-2387b561d9afebe2d646de3b2cff35af.jpeg",
  "banner": "https://media.kitsu.app/anime/46869/cover_image/large-e9abaa3a33888f72391050690835163d.jpeg",
  "synopsis": "A family far from ordinary?! High schooler Taiyo Asano, the 'Ultimate Introvert', lost his family in a tragic accident. The only one he could speak to is his childhood friend, Mutsumi Yozakura who harbors a wild secret as the heir to a spy lineage. Her brother, Kyoichiro, a skilled spy, targets Taiyo. To save themselves, Taiyo agrees to marry Mutsumi and join the Yozakura family, embarking on an unprecedented mission!\n\n(Source: Hulu)",
@@ -28,29 +28,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/wfwxv3fx1j/qtanjageh7/sgnt77uhxec4ns/master.m3u8",
-   "downloadUrl": "/download/mal/53865/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/53865/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/46869/poster_image/large-2387b561d9afebe2d646de3b2cff35af.jpeg",
    "referer": "https://zokoanime.video/stream/mal/53865/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/wfwxv3fx1j/qtanjageh7/sgnt77uhxec4ns/subs/6j2wbbx8l1ahi6as.vtt"
-    },
-    {
-     "label": "German",
-     "lang": "de",
-     "url": "https://hls.dramahot.top/v/scxqicy/wfwxv3fx1j/qtanjageh7/sgnt77uhxec4ns/subs/8lgrh4zpbxz96yok.vtt"
-    },
-    {
-     "label": "French (- European)",
-     "lang": "fr",
-     "url": "https://hls.dramahot.top/v/scxqicy/wfwxv3fx1j/qtanjageh7/sgnt77uhxec4ns/subs/09four0rmmmgay6m.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:10:39.411Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:43:06.808Z"
   }
  ],
- "_syncHash": "6169eb330d32af78"
+ "_syncHash": "f3a64e2c097d05fc"
 }

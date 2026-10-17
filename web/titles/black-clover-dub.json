@@ -1,0 +1,1482 @@
+{
+ "id": "black-clover-dub",
+ "title": "Black Clover",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+ "banner": "https://media.kitsu.app/anime/cover_images/13209/large.jpg",
+ "synopsis": "In a world where magic is everything, Asta and Yuno are both found abandoned at a church on the same day. While Yuno is gifted with exceptional magical powers, Asta is the only one in this world without any. At the age of fifteen, both receive grimoires, magic books that amplify their holder’s magic. Asta’s is a rare Grimoire of Anti-Magic that negates and repels his opponent’s spells. Being opposite but good rivals, Yuno and Asta are ready for the hardest of challenges to achieve their common dream: to be the Wizard King. Giving up is never an option!\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Comedy",
+  "Fantasy"
+ ],
+ "score": 0,
+ "year": 2017,
+ "status": "FINISHED",
+ "totalEpisodes": 170,
+ "latestEpisode": 165,
+ "episodeNumbers": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  15,
+  17,
+  19,
+  21,
+  23,
+  24,
+  25,
+  27,
+  28,
+  29,
+  31,
+  32,
+  33,
+  34,
+  35,
+  37,
+  39,
+  41,
+  43,
+  44,
+  45,
+  46,
+  47,
+  49,
+  51,
+  52,
+  53,
+  55,
+  57,
+  59,
+  61,
+  63,
+  64,
+  65,
+  67,
+  68,
+  69,
+  71,
+  72,
+  73,
+  75,
+  77,
+  79,
+  81,
+  83,
+  85,
+  87,
+  89,
+  91,
+  93,
+  95,
+  97,
+  99,
+  101,
+  104,
+  105,
+  106,
+  107,
+  108,
+  133,
+  135,
+  136,
+  143,
+  145,
+  150,
+  151,
+  152,
+  165
+ ],
+ "updatedAt": "2026-10-17T09:17:49.798Z",
+ "type": "TV",
+ "season": "FALL",
+ "anilistId": 97940,
+ "country": "JP",
+ "rawTitle": "black clover dub",
+ "altTitles": [
+  "ブラッククローバー"
+ ],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/1/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=1",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/3e5c8509c6ed8fc1054c95567dc1c40b/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/1/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:06.357Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/2/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=2",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/46300b8331f55fd6ac068bb6a17ccc50/subtitles/eng-1.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/2/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:08:56.472Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/3/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=3",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/eb4840844ebe3d5c29d2bf823456a09b/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/3/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:12.769Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/4/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=4",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/f65a586ae9c38ccf189a118fb42b399a/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/4/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:08:58.910Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/5/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=5",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/79c3d90c843863a4438bf9cb2cb1981f/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/5/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:15.282Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/6/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=6",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/0e1ad3dc4a4f5f175597eee2f8e07d1f/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/6/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:09:01.349Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/7/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=7",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/ca452611ada5b58499e29aa8e66f94b3/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/7/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:17.779Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/8/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=8",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/b8b14176f8cd32e5da1a0a8a985bcb9a/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/8/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:09:03.402Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/9/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=9",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/b5333958ea0dadd448036385d8a9915e/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/9/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:20.448Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/10/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=10",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/0723aeb702dfe70db5642e7c27e7fa4f/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/10/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:09:05.427Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/11/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=11",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/36abdbc0033e2be0a80e0a99f74650f5/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/11/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:24.411Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/12/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=12",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/924535db48e9f19d2f645e94f8533e93/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/12/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:09:07.406Z"
+  },
+  {
+   "number": 13,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/13/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=13",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/d39cad228907b584a1da04015f0ea56c/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/13/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:26.942Z"
+  },
+  {
+   "number": 15,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/15/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=15",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/b963764665ea69be47a5e89cbbd00c3b/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/15/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:29.284Z"
+  },
+  {
+   "number": 17,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/17/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=17",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/ca6477ede187de464a20a6f3dc525172/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/17/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:31.607Z"
+  },
+  {
+   "number": 19,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/19/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=19",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/b27bbf90c53d1d57d66d6d92254c46a3/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/19/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:34.140Z"
+  },
+  {
+   "number": 21,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/21/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=21",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/4c2c0479fcf5210dfb265032e9a92c62/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/21/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:37.495Z"
+  },
+  {
+   "number": 23,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/23/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=23",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/69c1e58433dac98fd4c461af8ab6864e/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/23/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:39.674Z"
+  },
+  {
+   "number": 24,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8208974663db80265e9bfe7b222dcb18/7b2472fe5f96a337fb949688a5746732/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/black-clover-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/27400/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:56:00.567Z"
+  },
+  {
+   "number": 25,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/25/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=25",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/08bd26eed6736e291d7de74adb2cb895/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/25/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:41.924Z"
+  },
+  {
+   "number": 27,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/27/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=27",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/ddc34c43c157dfbbfb774af2ae49116a/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/27/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:46.173Z"
+  },
+  {
+   "number": 28,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8208974663db80265e9bfe7b222dcb18/cd3cb00df92a993463dd724806f4c8bd/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/black-clover-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/27404/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:56:03.999Z"
+  },
+  {
+   "number": 29,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/29/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=29",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/d58c4340cf4c96daf69f7407ad675ad2/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/29/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:48.571Z"
+  },
+  {
+   "number": 31,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/31/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=31",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/c40b86d5920e3aa19cf18c2921a39708/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/31/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:50.899Z"
+  },
+  {
+   "number": 32,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8208974663db80265e9bfe7b222dcb18/605b287afdc1ce199e8427d793ae09f0/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/black-clover-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/27408/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:56:42.141Z"
+  },
+  {
+   "number": 33,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/33/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=33",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/7d1950f2bee5f3d8d7eec830dfca23cf/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/33/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:53.423Z"
+  },
+  {
+   "number": 34,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8208974663db80265e9bfe7b222dcb18/f246bff4ea9e4ff80663bbacad4cddd2/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/black-clover-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/27410/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:56:43.829Z"
+  },
+  {
+   "number": 35,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/35/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=35",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/6572d170988710f0ed0d57a22a06f920/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/35/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:55.903Z"
+  },
+  {
+   "number": 37,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/37/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=37",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/5aa24534a0a078d4306640d73e3bbcdd/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/37/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:13:57.962Z"
+  },
+  {
+   "number": 39,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/39/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=39",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/28109791a91e74fd3356353675bf7cc0/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/39/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:00.230Z"
+  },
+  {
+   "number": 41,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/41/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=41",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/2e070de57c88ec7d60cbbcd3ebd84759/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/41/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:02.683Z"
+  },
+  {
+   "number": 43,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/43/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=43",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/02dd06c6aad6591ef98058d3256027c2/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/43/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:04.876Z"
+  },
+  {
+   "number": 44,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8208974663db80265e9bfe7b222dcb18/46f439df93bc0786f512a33706d363e4/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/black-clover-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/27420/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:57:31.559Z"
+  },
+  {
+   "number": 45,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/45/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=45",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/bd2d938a4cdb8474f6c6d1af05a0bf12/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/45/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:07.271Z"
+  },
+  {
+   "number": 46,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8208974663db80265e9bfe7b222dcb18/5820aac10fcc349c1550fd859535f3ae/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/black-clover-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/27422/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:57:33.456Z"
+  },
+  {
+   "number": 47,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/47/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=47",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/5e04f2ac972dd6094c7172eb4c103bc8/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/47/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:12.923Z"
+  },
+  {
+   "number": 49,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/49/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=49",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/07abfe4b21fa8cd4c934039b622329a8/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/49/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:15.593Z"
+  },
+  {
+   "number": 51,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/51/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=51",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/d31a802fdc6d1170480f5f587dd4c3db/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/51/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:17.247Z"
+  },
+  {
+   "number": 52,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8208974663db80265e9bfe7b222dcb18/82ecd0e5aebbddef525fa3be0cff5c44/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/black-clover-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/27428/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:57:47.987Z"
+  },
+  {
+   "number": 53,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/53/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=53",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/ec7f4beebd29c0a15fe6aa8e56f4c524/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/53/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:18.888Z"
+  },
+  {
+   "number": 55,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/55/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=55",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/a1abf2fbd35ebeadb5b7da6f710e219e/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/55/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:20.688Z"
+  },
+  {
+   "number": 57,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/57/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=57",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/bf85246f33c36c5c374728bf601189dc/subtitles/ai_eng_3.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/57/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:22.514Z"
+  },
+  {
+   "number": 59,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/59/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=59",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/b2fafecfea5c6f9cfcff8f650626ec0d/subtitles/ai_eng_3.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/59/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:24.427Z"
+  },
+  {
+   "number": 61,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/61/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=61",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/18bf39e34d801a43237ee90834bc7462/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/61/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:26.321Z"
+  },
+  {
+   "number": 63,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/63/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=63",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/30f576344a3030b15fe9dd53fdfdde56/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/63/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:28.064Z"
+  },
+  {
+   "number": 64,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8208974663db80265e9bfe7b222dcb18/2f1d8cb2a2483e7afe2ebe1aef0b78f5/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/black-clover-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/27440/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:58:12.876Z"
+  },
+  {
+   "number": 65,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/65/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=65",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/3b64b0ee5b8b092a7192912720462df2/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/65/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:29.667Z"
+  },
+  {
+   "number": 67,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/67/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=67",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/4e9dfe941cfba98ebb7db863caa55ced/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/67/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:31.436Z"
+  },
+  {
+   "number": 68,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8208974663db80265e9bfe7b222dcb18/9cf30216d1f4144551d9d3e21e66c3ab/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/black-clover-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/27444/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:58:16.014Z"
+  },
+  {
+   "number": 69,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/69/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=69",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/f71053c9a203668ba9143dcdb26bc771/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/69/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:33.342Z"
+  },
+  {
+   "number": 71,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/71/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=71",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/32606af6f268bb77a076e025ca66d731/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/71/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:34.845Z"
+  },
+  {
+   "number": 72,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8208974663db80265e9bfe7b222dcb18/ecfb39953b9a57fb329e5c48f757d722/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/black-clover-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/27448/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:58:29.145Z"
+  },
+  {
+   "number": 73,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/73/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=73",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/b5d83b07fae56746103fdcbf25cee783/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/73/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:36.675Z"
+  },
+  {
+   "number": 75,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/75/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=75",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/72ef332d348b9114e66de22e0f25e516/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/75/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:38.254Z"
+  },
+  {
+   "number": 77,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/77/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=77",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/583b6f1cf8da0251137f0d6b7ba3d8c3/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/77/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:39.840Z"
+  },
+  {
+   "number": 79,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/79/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=79",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/b164a352691c804037d8f5a317ae693f/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/79/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:41.456Z"
+  },
+  {
+   "number": 81,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/81/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=81",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/7e21bbcc522bad80c1d7179fa483fd9f/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/81/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:45.947Z"
+  },
+  {
+   "number": 83,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/83/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=83",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/12e26a80721deb7d89629f4f99ac6b78/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/83/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:47.851Z"
+  },
+  {
+   "number": 85,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/85/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=85",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/ce99dc5b688b44220b2e62b391af5efb/subtitles/ai_eng_3.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/85/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:49.421Z"
+  },
+  {
+   "number": 87,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/87/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=87",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/c70b1cbdd771a8b1623f7b90337ac02f/subtitles/ai_eng_3.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/87/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:51.097Z"
+  },
+  {
+   "number": 89,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/89/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=89",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/c0a8be16795ba59b27a2b8d6f0caf8fe/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/89/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:52.851Z"
+  },
+  {
+   "number": 91,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/91/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=91",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/63f6cfc4eb48c755df87517b2ee56b2d/subtitles/eng-3.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/91/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:54.426Z"
+  },
+  {
+   "number": 93,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/93/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=93",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/bc8daff04627a47c031d02a4b29c93c3/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/93/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:56.198Z"
+  },
+  {
+   "number": 95,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/95/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=95",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/56daa5cec81152742fa3903d68140dda/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/95/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:14:58.757Z"
+  },
+  {
+   "number": 97,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/97/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=97",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/5178f7e7f713d419a5f5cd83b7eb2325/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/97/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:15:00.504Z"
+  },
+  {
+   "number": 99,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/99/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=99",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/2be1dc36ba85af58f5f79a74a5518a31/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/99/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:15:02.293Z"
+  },
+  {
+   "number": 101,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/101/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=101",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/371e227187eeeccae45491600b927eed/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/101/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:15:04.017Z"
+  },
+  {
+   "number": 104,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/104/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=104",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/5f96cb8565d210b4060f8392434085ce/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/104/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:15:17.875Z"
+  },
+  {
+   "number": 105,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/105/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=105",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/5d0c14a38936d450f39c84766957a949/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/105/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:15:21.242Z"
+  },
+  {
+   "number": 106,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/106/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=106",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/c567b80d33f411a6202d7e6609b4a63f/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/106/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:15:25.146Z"
+  },
+  {
+   "number": 107,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/107/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=107",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/f852bfda88829572e455528dc1159675/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/107/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:15:31.396Z"
+  },
+  {
+   "number": 108,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/108/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=108",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/31b4a2f52e04de8c43c83e502c5fb1c7/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/108/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:15:35.715Z"
+  },
+  {
+   "number": 133,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/133/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=133",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/41440b4ff36937cf1155794a91d70bb7/subtitles/ai_eng_3.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/133/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:16:37.104Z"
+  },
+  {
+   "number": 135,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/135/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=135",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/00dd96ba505dfe98f346fa931ae3a57b/subtitles/ai_eng_3.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/135/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:16:41.287Z"
+  },
+  {
+   "number": 136,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/136/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=136",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/fe04e5ba1a80c3d02fdf2ad6975dd80d/subtitles/ai_eng_3.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/136/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:16:43.077Z"
+  },
+  {
+   "number": 143,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/143/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=143",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/0023e6877cf1ffe451161dd5740bd753/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/143/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:16:57.151Z"
+  },
+  {
+   "number": 145,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/145/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=145",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/843758cfd9a15ca9a6fafd05be0d739d/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/145/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:17:02.343Z"
+  },
+  {
+   "number": 150,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/150/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=150",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/b42b054754f498dda2508487f7693a36/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/150/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:17:13.755Z"
+  },
+  {
+   "number": 151,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/151/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=151",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/743294294e729a662a9536afbad11cc7/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/151/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:17:15.630Z"
+  },
+  {
+   "number": 152,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/152/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=152",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/d5a5a51498862cbcc5f3223192eea408/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/152/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:17:18.577Z"
+  },
+  {
+   "number": 165,
+   "streamUrl": "https://megaplay.buzz/stream/ani/97940/165/dub?s=tcdn&k=1",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx97940-fyh8o7gNbha0.png",
+   "referer": "https://www.enma.lol/watch/black-clover-97940?ep=165",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/8208974663db80265e9bfe7b222dcb18/95d32b44f12f0d138e844d73c2a0ce0a/subtitles/eng-2.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/ani/97940/165/dub?s=tcdn&k=1",
+   "addedAt": "2026-10-17T09:17:49.798Z"
+  }
+ ],
+ "_syncHash": "20c54c16c1a3a573"
+}

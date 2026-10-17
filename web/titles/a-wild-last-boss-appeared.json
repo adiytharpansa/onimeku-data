@@ -13,11 +13,16 @@
  "year": 2025,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 3,
+ "latestEpisode": 12,
  "episodeNumbers": [
   1,
   2,
-  3
+  3,
+  4,
+  7,
+  10,
+  11,
+  12
  ],
  "updatedAt": "2026-10-16T22:11:02.510Z",
  "type": "ONA",
@@ -38,8 +43,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759229806-5108-1758817021-4261-A-Wild-Last-Boss-Appeared.webp",
    "referer": "https://megaplay.buzz/stream/s-2/145273/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T08:31:24.968Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T08:31:24.968Z"
   },
   {
    "number": 2,
@@ -48,8 +52,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759229806-5108-1758817021-4261-A-Wild-Last-Boss-Appeared.webp",
    "referer": "https://megaplay.buzz/stream/s-2/145525/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T08:31:26.559Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T08:31:26.559Z"
   },
   {
    "number": 3,
@@ -58,9 +61,53 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759229806-5108-1758817021-4261-A-Wild-Last-Boss-Appeared.webp",
    "referer": "https://megaplay.buzz/stream/s-2/145845/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:11:02.510Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:11:02.510Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ff8d98d68afd8c8ce87d338b8b44c84c/abd921a9000efde9d8678ce917fc7d17/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759229806-5108-1758817021-4261-A-Wild-Last-Boss-Appeared.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/146134/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:51.969Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ff8d98d68afd8c8ce87d338b8b44c84c/9b785c5a1d51b9f78a9115e0cb2ff880/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759229806-5108-1758817021-4261-A-Wild-Last-Boss-Appeared.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/154833/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:57.187Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ff8d98d68afd8c8ce87d338b8b44c84c/25a34958338e45e5a3873e2431b8fce4/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759229806-5108-1758817021-4261-A-Wild-Last-Boss-Appeared.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/157857/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:02.169Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ff8d98d68afd8c8ce87d338b8b44c84c/d74666e77c3c791c5f8c5eaa203ddb0e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759229806-5108-1758817021-4261-A-Wild-Last-Boss-Appeared.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/159201/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:04.153Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/ff8d98d68afd8c8ce87d338b8b44c84c/f7e399677079ff841964336964f0fc71/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1759229806-5108-1758817021-4261-A-Wild-Last-Boss-Appeared.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/160061/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:05.065Z"
   }
  ],
- "_syncHash": "8d4316231a922400"
+ "_syncHash": "ae8da7a15f1f3da4"
 }

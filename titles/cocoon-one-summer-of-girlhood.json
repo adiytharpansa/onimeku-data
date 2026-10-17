@@ -1,0 +1,41 @@
+{
+ "id": "cocoon-one-summer-of-girlhood",
+ "title": "cocoon – One Summer of Girlhood",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx166527-7Co2vkxgVzT8.png",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/166527-Q9QuJWib2o1Q.jpg",
+ "synopsis": "San and Mayu are two schoolgirls living in Okinawa during the closing months of the Pacific War. Together with their classmates, the two friends are drafted into the war effort as nurses for wounded soldiers. When ordered to die for their country, the remaining members of the group escape only to face the harsh environment of a tropical paradise that has become a hellish battlefield.",
+ "genres": [
+  "Drama"
+ ],
+ "score": 7.4,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:42:56.745Z",
+ "type": "SPECIAL",
+ "season": "SPRING",
+ "anilistId": 166527,
+ "country": "JP",
+ "rawTitle": "cocoon one summer of girlhood",
+ "altTitles": [
+  "cocoon: Aru Natsu no Shoujo-tachi Yori",
+  "cocoon ～ある夏の少女たちより～"
+ ],
+ "studio": "Sasayuri",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/edee3c1ee23afccf1eac8adb51da1032/ee28c9fbca0358e231445db87a377a23/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/cocoon-one-summer-of-girlhood.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/136149/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:56.745Z"
+  }
+ ],
+ "_syncHash": "beec2df719dae710"
+}

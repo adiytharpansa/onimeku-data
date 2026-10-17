@@ -19,13 +19,16 @@
   3,
   4,
   5,
+  6,
   7,
   8,
   9,
   10,
+  11,
+  12,
   13
  ],
- "updatedAt": "2026-10-15T15:41:25.621Z",
+ "updatedAt": "2026-10-16T07:20:54.721Z",
  "type": "TV",
  "season": "SUMMER",
  "anilistId": 156395,
@@ -44,8 +47,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758897557-2742-1751617756-7077-A-Bouquet-for-an-Ugly-Girl.webp",
    "referer": "https://megaplay.buzz/stream/s-2/141625/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T14:16:23.605Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T14:16:23.605Z"
   },
   {
    "number": 2,
@@ -54,8 +56,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758897557-2742-1751617756-7077-A-Bouquet-for-an-Ugly-Girl.webp",
    "referer": "https://megaplay.buzz/stream/s-2/141768/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:41.159Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:41.159Z"
   },
   {
    "number": 3,
@@ -64,8 +65,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758897557-2742-1751617756-7077-A-Bouquet-for-an-Ugly-Girl.webp",
    "referer": "https://megaplay.buzz/stream/s-2/141963/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T15:41:22.206Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:41:22.206Z"
   },
   {
    "number": 4,
@@ -74,8 +74,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758897557-2742-1751617756-7077-A-Bouquet-for-an-Ugly-Girl.webp",
    "referer": "https://megaplay.buzz/stream/s-2/142851/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:45.931Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:45.931Z"
   },
   {
    "number": 5,
@@ -84,8 +83,16 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758897557-2742-1751617756-7077-A-Bouquet-for-an-Ugly-Girl.webp",
    "referer": "https://megaplay.buzz/stream/s-2/143078/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:48.015Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:48.015Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/03190309cbcd7161a426abd4782bdcd2/9f1a038ed05dc93e1dfa1cd7570ceb36/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758897557-2742-1751617756-7077-A-Bouquet-for-an-Ugly-Girl.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/143358/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:51.463Z"
   },
   {
    "number": 7,
@@ -94,8 +101,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758897557-2742-1751617756-7077-A-Bouquet-for-an-Ugly-Girl.webp",
    "referer": "https://megaplay.buzz/stream/s-2/143787/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:52.527Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:52.527Z"
   },
   {
    "number": 8,
@@ -104,8 +110,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758897557-2742-1751617756-7077-A-Bouquet-for-an-Ugly-Girl.webp",
    "referer": "https://megaplay.buzz/stream/s-2/143987/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:54.629Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:54.629Z"
   },
   {
    "number": 9,
@@ -114,8 +119,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758897557-2742-1751617756-7077-A-Bouquet-for-an-Ugly-Girl.webp",
    "referer": "https://megaplay.buzz/stream/s-2/144331/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:56.475Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:56.475Z"
   },
   {
    "number": 10,
@@ -124,8 +128,25 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758897557-2742-1751617756-7077-A-Bouquet-for-an-Ugly-Girl.webp",
    "referer": "https://megaplay.buzz/stream/s-2/144475/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T22:25:58.698Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T22:25:58.698Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/03190309cbcd7161a426abd4782bdcd2/5100b2dd5cfd25740cc0c6cbade91610/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758897557-2742-1751617756-7077-A-Bouquet-for-an-Ugly-Girl.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/144689/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:52.756Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/03190309cbcd7161a426abd4782bdcd2/9c60b4f2e638a16eef9686e41569f8a7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758897557-2742-1751617756-7077-A-Bouquet-for-an-Ugly-Girl.webp",
+   "referer": "https://megaplay.buzz/stream/s-2/144852/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:54.721Z"
   },
   {
    "number": 13,
@@ -134,9 +155,8 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2025/09/1758897557-2742-1751617756-7077-A-Bouquet-for-an-Ugly-Girl.webp",
    "referer": "https://megaplay.buzz/stream/s-2/145164/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T15:41:25.621Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:41:25.621Z"
   }
  ],
- "_syncHash": "ad0bba03282e4872"
+ "_syncHash": "f4402545bc294405"
 }

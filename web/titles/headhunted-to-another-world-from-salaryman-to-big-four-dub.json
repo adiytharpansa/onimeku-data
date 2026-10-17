@@ -9,11 +9,16 @@
  "year": 2025,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 9,
+ "latestEpisode": 10,
  "episodeNumbers": [
   1,
+  4,
+  5,
+  6,
   7,
-  9
+  8,
+  9,
+  10
  ],
  "updatedAt": "2026-10-15T22:31:08.054Z",
  "type": null,
@@ -34,8 +39,34 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/headhunted-to-another-world-from-salaryman-to-big-four-dub.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/131272/dub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T03:00:45.643Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T03:00:45.643Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a87bbbbe08344d9c9fd3f6d86bb7cc88/cb118dd9619470c5c8f4393badf53de5/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/headhunted-to-another-world-from-salaryman-to-big-four-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/132063/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:39.365Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a87bbbbe08344d9c9fd3f6d86bb7cc88/b9dd36195b15dc6bdebba975576aa76c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/headhunted-to-another-world-from-salaryman-to-big-four-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/132242/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:40.249Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a87bbbbe08344d9c9fd3f6d86bb7cc88/372fd5905bb74239ca2aaaad669b7382/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/headhunted-to-another-world-from-salaryman-to-big-four-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/132357/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:41.064Z"
   },
   {
    "number": 7,
@@ -44,8 +75,16 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/headhunted-to-another-world-from-salaryman-to-big-four-dub.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/132630/dub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T22:31:01.705Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T22:31:01.705Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a87bbbbe08344d9c9fd3f6d86bb7cc88/b369bf16e694028d91825e2b95bef246/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/headhunted-to-another-world-from-salaryman-to-big-four-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/133023/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:43.021Z"
   },
   {
    "number": 9,
@@ -54,9 +93,17 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/headhunted-to-another-world-from-salaryman-to-big-four-dub.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/133416/dub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T22:31:08.054Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T22:31:08.054Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/a87bbbbe08344d9c9fd3f6d86bb7cc88/eb212a99cab27f2255a270c9cc47e7c7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/headhunted-to-another-world-from-salaryman-to-big-four-dub.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/133910/dub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:44.741Z"
   }
  ],
- "_syncHash": "6b831d23f4eb8873"
+ "_syncHash": "b36bdd72a33abb44"
 }

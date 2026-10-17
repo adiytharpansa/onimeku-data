@@ -17,7 +17,10 @@
  "episodeNumbers": [
   1,
   4,
+  9,
   10,
+  11,
+  12,
   13,
   14
  ],
@@ -40,8 +43,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/agents-of-the-four-seasons-dance-of-spring.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/169285/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T23:46:20.996Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T23:46:20.996Z"
   },
   {
    "number": 4,
@@ -50,8 +52,16 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/agents-of-the-four-seasons-dance-of-spring.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/170920/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:10:51.793Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:10:51.793Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/5c64db62424a286a59daa6913b170a67/301584aa0e4ff995584dc8b5bfbfc603/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/agents-of-the-four-seasons-dance-of-spring.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/61443/9/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:58.349Z"
   },
   {
    "number": 10,
@@ -60,8 +70,25 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/agents-of-the-four-seasons-dance-of-spring.jpg",
    "referer": "https://megaplay.buzz/stream/mal/61443/10/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:10:55.530Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:10:55.530Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/5c64db62424a286a59daa6913b170a67/4072f004ebbf4b4df9268b9157d5d17c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/agents-of-the-four-seasons-dance-of-spring.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/61443/11/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:43.788Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/5c64db62424a286a59daa6913b170a67/3cc7852ff36f8f532d45dd9d59632b59/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/agents-of-the-four-seasons-dance-of-spring.jpg",
+   "referer": "https://megaplay.buzz/stream/mal/61443/12/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:01.792Z"
   },
   {
    "number": 13,
@@ -70,8 +97,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/agents-of-the-four-seasons-dance-of-spring.jpg",
    "referer": "https://vidmoly.biz/embed-vos0tt0aegky.html",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:10:59.901Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:10:59.901Z"
   },
   {
    "number": 14,
@@ -80,9 +106,8 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/03/agents-of-the-four-seasons-dance-of-spring.jpg",
    "referer": "https://megaplay.buzz/stream/mal/61443/14/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:11:01.419Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:11:01.419Z"
   }
  ],
- "_syncHash": "313b441473517d2e"
+ "_syncHash": "fb91d20d31aedc68"
 }

@@ -1,6 +1,6 @@
 {
  "id": "igano-kabamaru",
- "title": "igano kabamaru",
+ "title": "Igano Kabamaru",
  "poster": "https://media.kitsu.app/anime/poster_images/2522/large.jpg",
  "banner": "https://media.kitsu.app/anime/poster_images/2522/large.jpg",
  "synopsis": "After the death of Saizou, Kabamaru's horribly strict grandfather and Iga ninja teacher (sensei), an old lady, Ran Ookubo, claims that she received a letter from him asking her to take care of his grandson. So Kabamaru runs off with Lady Ookubo to the big city Tokyo to gorge on yakisoba, ramen, chow mein, and attend a regular school—which turns out to have weird quirks of its own. \n(Source: ANN)",
@@ -33,13 +33,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/miyjhlxryr/18bdxz8fnb/rxp0iqkcaiubao/master.m3u8",
-   "downloadUrl": null,
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/2762/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/2522/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/2762/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-13T22:07:35.218Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:42:39.854Z"
   }
  ],
- "_syncHash": "4aee9b5555f2cc2a"
+ "_syncHash": "84fcc51b9cca7604"
 }

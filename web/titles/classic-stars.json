@@ -1,0 +1,161 @@
+{
+ "id": "classic-stars",
+ "title": "Classic★Stars",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx178825-F4StA5BbfN9H.png",
+ "banner": "",
+ "synopsis": "At Gloria Private Academy, where stars are born, Beethoven was a fighter, until music chose him. In the prestigious music department, students who match the talent of legendary musicians inherit their gifts and names. Trading his gloves for melodies, he steps into a world where notes hit harder than fists, determined to win the ultimate competition.\n\n \n\n(Source: Crunchyroll)",
+ "genres": [
+  "Music"
+ ],
+ "score": 5,
+ "year": 2025,
+ "status": "FINISHED",
+ "totalEpisodes": 13,
+ "latestEpisode": 13,
+ "episodeNumbers": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "updatedAt": "2026-10-16T07:20:29.287Z",
+ "type": "TV",
+ "season": "SPRING",
+ "anilistId": 178825,
+ "country": "JP",
+ "rawTitle": "classic stars",
+ "altTitles": [
+  "CLASSIC★STARS",
+  "クラシック★スターズ"
+ ],
+ "studio": "Platinum Vision",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8b1ecbd9589c577ad109bea50b84d195/2a056a04dc49ca146d1df89f1d8eea8a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/classic-stars.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136177/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:37.200Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8b1ecbd9589c577ad109bea50b84d195/fb38353cf5b25f5208a9af9f89b10a74/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/classic-stars.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136346/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:38.027Z"
+  },
+  {
+   "number": 3,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8b1ecbd9589c577ad109bea50b84d195/63bd889018e5bb80406b0d7a71377833/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/classic-stars.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136578/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:33.492Z"
+  },
+  {
+   "number": 4,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8b1ecbd9589c577ad109bea50b84d195/982a126d92dd6686095d79a201fdf9ad/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/classic-stars.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136756/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:35.562Z"
+  },
+  {
+   "number": 5,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8b1ecbd9589c577ad109bea50b84d195/548e0caa50dd1968f1bc04abcfb2027e/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/classic-stars.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/136916/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:37.009Z"
+  },
+  {
+   "number": 6,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8b1ecbd9589c577ad109bea50b84d195/63acff338fc4185c35d67c2b78082f9d/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/classic-stars.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/137768/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:38.654Z"
+  },
+  {
+   "number": 7,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8b1ecbd9589c577ad109bea50b84d195/b0bae7b4c7ef39b5d3a8e244d3bff633/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/classic-stars.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/137959/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:40.829Z"
+  },
+  {
+   "number": 8,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8b1ecbd9589c577ad109bea50b84d195/ef68c9087322c08de50b090734453639/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/classic-stars.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/138068/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:19:42.250Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8b1ecbd9589c577ad109bea50b84d195/437118c29eb5920f80462be3d5658765/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/classic-stars.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/138254/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:22.762Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8b1ecbd9589c577ad109bea50b84d195/32e0495b4949f66dee81cdfcb588fdc5/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/classic-stars.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/138383/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:24.791Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8b1ecbd9589c577ad109bea50b84d195/19ee5566605d20664bf8825169cae277/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/classic-stars.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/140978/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:26.274Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8b1ecbd9589c577ad109bea50b84d195/155b2dbbb4a03070408876d900803bf7/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/classic-stars.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141179/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:27.740Z"
+  },
+  {
+   "number": 13,
+   "streamUrl": "https://fetch.nexabloom.top/anime/8b1ecbd9589c577ad109bea50b84d195/2485057b7a40f515d8cb7828d05b0ad1/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/classic-stars.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/141417/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-16T07:20:29.287Z"
+  }
+ ],
+ "_syncHash": "9637b494daed0f81"
+}

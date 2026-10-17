@@ -1,6 +1,6 @@
 {
  "id": "honey-lemon-soda",
- "title": "honey lemon soda",
+ "title": "Honey Lemon Soda",
  "poster": "https://media.kitsu.app/anime/48587/poster_image/large-8f203935dc1c69fe4c81ab23beea8e42.jpeg",
  "banner": "https://media.kitsu.app/anime/48587/cover_image/large-d24ca3ae330769b07b4c7f05c5188b77.jpeg",
  "synopsis": "After middle school, with its bullying and nicknames, Uka Ishimori is excited for a fresh start at Hachimitsu High School. Kai Miura, a cool and uninhibited boy, sits next to her in class. Uka remembers she met Kai in middle school and with a single word, he had convinced her to attend Hachimitsu. Though he’s popular, Kai supports Uka in her efforts to fit in with her new classmates.\n\n(Source: Crunchyroll)",
@@ -13,7 +13,7 @@
  "episodeNumbers": [
   1
  ],
- "updatedAt": "2026-10-15T16:40:40.543Z",
+ "updatedAt": "2026-10-16T05:39:38.836Z",
  "type": null,
  "season": "WINTER",
  "anilistId": null,
@@ -27,7 +27,7 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/dxikge8m41/ivkaiv0uhn/rhwmsxxf89tu12/master.m3u8",
-   "downloadUrl": "/download/mal/58271/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/58271/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/48587/poster_image/large-8f203935dc1c69fe4c81ab23beea8e42.jpeg",
    "referer": "https://zokoanime.video/stream/mal/58271/1/sub",
    "subtitles": [
@@ -37,9 +37,8 @@
      "url": "https://hls.dramahot.top/v/scxqicy/dxikge8m41/ivkaiv0uhn/rhwmsxxf89tu12/subs/tyz2o64uydnysoa9.vtt"
     }
    ],
-   "addedAt": "2026-10-13T22:09:10.103Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T05:39:38.836Z"
   }
  ],
- "_syncHash": "54a705f3452b63ec"
+ "_syncHash": "c61a33d22b3da969"
 }

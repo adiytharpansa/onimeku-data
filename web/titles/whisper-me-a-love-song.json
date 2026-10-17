@@ -9,10 +9,13 @@
  "year": 2024,
  "status": "FINISHED",
  "totalEpisodes": 12,
- "latestEpisode": 7,
+ "latestEpisode": 11,
  "episodeNumbers": [
   1,
-  7
+  7,
+  9,
+  10,
+  11
  ],
  "updatedAt": "2026-10-16T22:11:07.404Z",
  "type": null,
@@ -33,8 +36,7 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/whisper-me-a-love-song.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/123348/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T03:49:11.828Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T03:49:11.828Z"
   },
   {
    "number": 7,
@@ -43,9 +45,35 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/whisper-me-a-love-song.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/124550/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-16T22:11:07.404Z",
-   "customSubs": []
+   "addedAt": "2026-10-16T22:11:07.404Z"
+  },
+  {
+   "number": 9,
+   "streamUrl": "https://fetch.nexabloom.top/anime/b37d4650ab6bcd16657b72b343cb9595/abc067bfbb5648c4a336de6935682604/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/whisper-me-a-love-song.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/124924/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:33.264Z"
+  },
+  {
+   "number": 10,
+   "streamUrl": "https://fetch.nexabloom.top/anime/b37d4650ab6bcd16657b72b343cb9595/ef47f71a49303d42792c9ccfac04a143/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/whisper-me-a-love-song.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/125724/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:34.178Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/b37d4650ab6bcd16657b72b343cb9595/fdc97a7cd982082b206a46e95b46374a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/whisper-me-a-love-song.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/131104/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:35.160Z"
   }
  ],
- "_syncHash": "e7da4008a072f96b"
+ "_syncHash": "eadf339e80530f03"
 }
