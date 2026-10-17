@@ -1,6 +1,6 @@
 {
  "id": "back-as-immortal-lord",
- "title": "back as immortal lord",
+ "title": "Back As Immortal Lord",
  "poster": "https://lain.bgm.tv/pic/cover/l/1f/69/20924_aloW2.jpg",
  "banner": "https://lain.bgm.tv/pic/cover/l/1f/69/20924_aloW2.jpg",
  "synopsis": "",
@@ -25,13 +25,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/u2h4zvm3wm/w529ks7k11/szthxh892ekw4f/master.m3u8",
-   "downloadUrl": null,
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/60583/1/sub",
+   "thumbnail": "https://lain.bgm.tv/pic/cover/l/1f/69/20924_aloW2.jpg",
    "referer": "https://zokoanime.video/stream/mal/60583/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-13T22:06:29.509Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:38:05.238Z"
   }
  ],
- "_syncHash": "84e205fa72537605"
+ "_syncHash": "c8905eb52299c833"
 }

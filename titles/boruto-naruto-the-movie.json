@@ -1,0 +1,43 @@
+{
+ "id": "boruto-naruto-the-movie",
+ "title": "Boruto: Naruto the Movie",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21220-3cWAUtR1Ih5h.jpg",
+ "banner": "https://s4.anilist.co/file/anilistcdn/media/anime/banner/21220-tdeNPd6YFzIo.jpg",
+ "synopsis": "Boruto is the son of Naruto who completely rejects his father. Behind this, he has feelings of wanting to surpass Naruto, who is respected as a hero. He ends up meeting his father's friend Sasuke, and requests to become... his apprentice!? The curtain rises on the story of the new generation written by Masashi Kishimoto!\n\n\n\n(Source: Anime News Network)",
+ "genres": [
+  "Action",
+  "Adventure",
+  "Comedy"
+ ],
+ "score": 7,
+ "year": 2015,
+ "status": "FINISHED",
+ "totalEpisodes": 1,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-15T15:41:52.875Z",
+ "type": "MOVIE",
+ "season": "SUMMER",
+ "anilistId": 21220,
+ "country": "JP",
+ "rawTitle": "boruto naruto the movie",
+ "altTitles": [
+  "BORUTO: NARUTO THE MOVIE",
+  "BORUTO -NARUTO THE MOVIE-"
+ ],
+ "studio": "Studio Pierrot",
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/7f53f8c6c730af6aeb52e66eb74d8507/fc73fd110aec75f49280be5525eb8296/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/boruto-naruto-the-movie.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/57947/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:52.875Z"
+  }
+ ],
+ "_syncHash": "09500350d61cf253"
+}

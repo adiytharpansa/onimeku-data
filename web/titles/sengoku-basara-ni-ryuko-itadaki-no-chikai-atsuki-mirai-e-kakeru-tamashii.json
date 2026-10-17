@@ -1,6 +1,6 @@
 {
  "id": "sengoku-basara-ni-ryuko-itadaki-no-chikai-atsuki-mirai-e-kakeru-tamashii",
- "title": "sengoku basara ni ryuko itadaki no chikai atsuki mirai e kakeru tamashii",
+ "title": "Sengoku Basara ni Ryuko Itadaki no Chikai Atsuki Mirai e Kakeru Tamashii",
  "poster": "https://shikimori.one/system/animes/original/10483.jpg?1711972446",
  "banner": "https://shikimori.one/system/animes/original/10483.jpg?1711972446",
  "synopsis": "",
@@ -25,24 +25,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/ymzh71wsop/gdufd4jadk/5nhuma8e3mqnst/master.m3u8",
-   "downloadUrl": "/download/mal/10483/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/10483/1/sub",
+   "thumbnail": "https://shikimori.one/system/animes/original/10483.jpg?1711972446",
    "referer": "https://zokoanime.video/stream/mal/10483/1/sub",
-   "subtitles": [
-    {
-     "label": "English 2",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/ymzh71wsop/gdufd4jadk/5nhuma8e3mqnst/subs/e03bc2m5kiunhjtt.vtt"
-    },
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/ymzh71wsop/gdufd4jadk/5nhuma8e3mqnst/subs/a1zz4pnq7xyl1kd6.vtt"
-    }
-   ],
-   "addedAt": "2026-10-14T00:14:03.935Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:33.447Z"
   }
  ],
- "_syncHash": "50d34ee264c19c95"
+ "_syncHash": "47ceaa58322ab6c3"
 }

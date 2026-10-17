@@ -1,6 +1,6 @@
 {
  "id": "azumanga-daioh-the-animation",
- "title": "azumanga daioh the animation",
+ "title": "Azumanga Daioh the Animation",
  "poster": "https://media.kitsu.app/anime/poster_images/47/large.jpg",
  "banner": "https://media.kitsu.app/anime/cover_images/47/large.jpg",
  "synopsis": "Chiyo Mihama begins her high school career as one of the strangest students in her freshman class—a tiny, 10-year-old academic prodigy with a fondness for plush dolls and homemade cooking. But her homeroom teacher, Yukari Tanizaki, is the kind of person who would hijack a student's bike to avoid being late, so \"strange\" is a relative word.\nThere certainly isn't a shortage of peculiar girls in Yukari-sensei's homeroom class. Accompanying Chiyo are students like Tomo Takino, an energetic tomboy with more enthusiasm than brains; Koyomi Mizuhara, Tomo's best friend whose temper has a fuse shorter than Chiyo; and Sakaki, a tall, athletic beauty whose intimidating looks hide a gentle personality and a painful obsession with cats. In addition, transfer student Ayumu Kasuga, a girl with her head stuck in the clouds, fits right in with the rest of the girls—and she has a few interesting theories about Chiyo's pigtails!\nTogether, this lovable group of girls experience the ups and downs of school life, their many adventures filled with constant laughter, surreal absurdity, and occasionally even touching commentary on the bittersweet, temporal nature of high school.\n[Written by MAL Rewrite]",
@@ -33,13 +33,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/yhxzuj9dj9/x9qjrnyuvx/izf0d6u4xfsjkh/master.m3u8",
-   "downloadUrl": "/download/mal/66/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/66/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/47/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/66/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-13T22:05:53.529Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:42:13.583Z"
   }
  ],
- "_syncHash": "45032436c8d05ce9"
+ "_syncHash": "14bcd44069922a3e"
 }

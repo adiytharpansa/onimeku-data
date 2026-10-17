@@ -1,0 +1,75 @@
+{
+ "id": "firefly-wedding",
+ "title": "Firefly Wedding",
+ "poster": "https://lain.bgm.tv/pic/cover/l/5c/04/621108_guUyJ.jpg",
+ "banner": "",
+ "synopsis": "On the surface, Satoko has it all—she’s beautiful, the daughter of a nobleman, and at a prime age for marriage. Unfortunately, she is also quite ill and only has a short time left to live. Before she can secure a marriage that will redeem her worth in her family’s eyes, she finds herself the target of the mysterious assassin Shinpei, and her plans are put in jeopardy. In order to save herself, she makes a desperate proposal—of marriage! When it comes to love, however, Shinpei takes “until death do we part” seriously.\n\n\n\n(Source: VIZ Media)",
+ "genres": [
+  "Drama",
+  "Romance"
+ ],
+ "score": 7.5,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 12,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  1,
+  2
+ ],
+ "updatedAt": "2026-10-17T11:11:01.113Z",
+ "type": "TV",
+ "season": null,
+ "anilistId": 205909,
+ "country": null,
+ "rawTitle": "Firefly Wedding",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://fetch.nexabloom.top/anime/70f8fce29186a5ede9371feb0dc51a8e/f1c282e6e9f52d2f67583e0cc3152287/master.m3u8?token=MTc5MjIzNTQ0Nnw3MGY4ZmNlMjkxODZhNWVkZTkzNzFmZWIwZGM1MWE4ZS9mMWMyODJlNmU5ZjUyZDJmNjc1ODNlMGNjMzE1MjI4Nw.2OSV0DY6ObY0VucNI6-2fnwoTd0Xr-mKGdBFC-TrwLs",
+   "downloadUrl": null,
+   "thumbnail": "https://lain.bgm.tv/pic/cover/l/5c/04/621108_guUyJ.jpg",
+   "referer": "https://megaplay.buzz/",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/70f8fce29186a5ede9371feb0dc51a8e/f1c282e6e9f52d2f67583e0cc3152287/subtitles/track_0_eng.vtt",
+     "referer": "https://megaplay.buzz/"
+    },
+    {
+     "lang": "ja",
+     "url": "https://6a8y6.broforgotsave.online/anime/70f8fce29186a5ede9371feb0dc51a8e/f1c282e6e9f52d2f67583e0cc3152287/subtitles/track_1_jpn.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T11:10:56.239Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/70f8fce29186a5ede9371feb0dc51a8e/ff16b0a98b01def0349b5b8d7788d65f/master.m3u8?token=MTc5MjIzNTQ3MHw3MGY4ZmNlMjkxODZhNWVkZTkzNzFmZWIwZGM1MWE4ZS9mZjE2YjBhOThiMDFkZWYwMzQ5YjViOGQ3Nzg4ZDY1Zg.eKZ2F0Vvh3_B5X2A5RSrlJmW1YMbCYKNbZOZWgJ0W-4",
+   "downloadUrl": null,
+   "thumbnail": "https://lain.bgm.tv/pic/cover/l/5c/04/621108_guUyJ.jpg",
+   "referer": "https://megaplay.buzz/",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/70f8fce29186a5ede9371feb0dc51a8e/ff16b0a98b01def0349b5b8d7788d65f/subtitles/track_0_eng.vtt",
+     "referer": "https://megaplay.buzz/"
+    },
+    {
+     "lang": "ja",
+     "url": "https://6a8y6.broforgotsave.online/anime/70f8fce29186a5ede9371feb0dc51a8e/ff16b0a98b01def0349b5b8d7788d65f/subtitles/track_1_jpn.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T11:11:01.113Z"
+  }
+ ],
+ "_syncHash": "3b928c7a595c4035"
+}

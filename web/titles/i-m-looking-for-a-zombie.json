@@ -1,0 +1,49 @@
+{
+ "id": "i-m-looking-for-a-zombie",
+ "title": "#I`m Looking for a Zombie",
+ "poster": "https://anizone.to/images/anime/826d1913-b82d-48f3-ba69-6e95bd6bdc2f.jpg",
+ "banner": "",
+ "synopsis": "《猫和老鼠》（Tom and Jerry）剧场短片系列第139集，也是查克·琼斯制作的第12集。\r\n\r\n汤姆和杰瑞的追逐战从楼房进行到街道，最后进入了百货商场，商场里的遥控消防车玩具、保龄球、乒乓球、门球棒等等都先后卷入了他们的争斗……\r\n\r\n标题是百老汇音乐剧《踟蹰而行》（Shuffle Along）中歌曲《我为哈里狂》（I'm Just Wild About Harry）的谐音双关语。查克·琼斯在1959年为\"Merrie Melodies\"系列制作的短片\"Wild About Hurry\"就已经用过类似的双关语。",
+ "genres": [
+  "Violence",
+  "Fantasy",
+  "Dark Fantasy",
+  "Contemporary Fantasy"
+ ],
+ "score": null,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": null,
+ "latestEpisode": 1,
+ "episodeNumbers": [
+  1
+ ],
+ "updatedAt": "2026-10-17T10:58:40.064Z",
+ "type": "TV",
+ "season": null,
+ "anilistId": null,
+ "country": "JP",
+ "rawTitle": "#I`m Looking for a Zombie",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 1,
+   "streamUrl": "https://suzaku.xin-cdn.xyz/e6609924-9474-4112-827d-916bd8fd9adf/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://anizone.to/images/anime/826d1913-b82d-48f3-ba69-6e95bd6bdc2f.jpg",
+   "referer": "https://anizone.to/anime/t6uuoikm/1",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://suzaku.xin-cdn.xyz/e6609924-9474-4112-827d-916bd8fd9adf/subtitles/0_en.ass",
+     "referer": "https://anizone.to/anime/t6uuoikm/1"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T10:58:40.064Z"
+  }
+ ],
+ "_syncHash": "98d299de7f3a06dd"
+}

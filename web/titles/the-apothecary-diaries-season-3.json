@@ -1,0 +1,58 @@
+{
+ "id": "the-apothecary-diaries-season-3",
+ "title": "The Apothecary Diaries Season 3",
+ "poster": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx195516-MJpUZlOberqH.jpg",
+ "banner": "",
+ "synopsis": "In the aftermath of the Shi Clan’s rebellion, things have finally settled down, and Maomao has returned to her old life as a pharmacist in the pleasure district.\n\n\n\nOne day, triggered by a breakfast served at the Verdigris House, Maomao senses an anomaly and begins investigating its true nature.\n\n\n\nMeanwhile, Jinshi, who has revealed his true identity as the Imperial brother and begun to face his heavy responsibilities, is deeply troubled by the final message left by Loulan: a warning of an impending \"disaster that will strike the nation.\"\n\n\n\nTo make matters worse, rumors of a mysterious shrine maiden who deceives the people begin to spread, casting a dark shadow over the country of Li once again.\n\n\n\nFrom the depths of the inner court to the city streets, and across foreign borders—the world grows wider, and the stakes even higher for Maomao and Jinshi.\n\n\n\n(Source: Crunchyroll)",
+ "genres": [
+  "Drama",
+  "Mystery"
+ ],
+ "score": 8.5,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 12,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  2
+ ],
+ "updatedAt": "2026-10-17T11:10:12.352Z",
+ "type": "TV",
+ "season": null,
+ "anilistId": 195516,
+ "country": "JP",
+ "rawTitle": "The Apothecary Diaries Season 3",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 2,
+   "streamUrl": "https://megaplay.buzz/stream/s-2/305458/sub?s=tcdn",
+   "downloadUrl": null,
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/extraLarge/bx195516-MJpUZlOberqH.jpg",
+   "referer": "https://anikage.cc/anime/watch/Z78KNV8HKq?ep=2",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/352f4a49c53bcbc7b40f1bbc934a7071/80e78e704cb0d9041e111aa843dd6bd1/subtitles/track_0_eng.vtt",
+     "referer": "https://megaplay.buzz/"
+    },
+    {
+     "lang": "id",
+     "url": "https://6a8y6.broforgotsave.online/anime/352f4a49c53bcbc7b40f1bbc934a7071/80e78e704cb0d9041e111aa843dd6bd1/subtitles/track_2_ind.vtt",
+     "referer": "https://megaplay.buzz/"
+    },
+    {
+     "lang": "ja",
+     "url": "https://6a8y6.broforgotsave.online/anime/352f4a49c53bcbc7b40f1bbc934a7071/80e78e704cb0d9041e111aa843dd6bd1/subtitles/track_3_jpn.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "embed",
+   "playable": "embed",
+   "embedUrl": "https://megaplay.buzz/stream/s-2/305458/sub?s=tcdn",
+   "addedAt": "2026-10-17T11:10:12.352Z"
+  }
+ ],
+ "_syncHash": "15d089d6f995f479"
+}

@@ -1,6 +1,6 @@
 {
  "id": "the-frontier-lord-begins-with-zero-subjects",
- "title": "the frontier lord begins with zero subjects",
+ "title": "The Frontier Lord Begins With Zero Subjects",
  "poster": "https://lain.bgm.tv/pic/cover/l/a2/a1/571895_0KwUw.jpg",
  "banner": "https://lain.bgm.tv/pic/cover/l/a2/a1/571895_0KwUw.jpg",
  "synopsis": "",
@@ -25,13 +25,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/bkzo21zfhy/toa2hgkkn4/gv23dastmxnjf8/master.m3u8",
-   "downloadUrl": "/download/mal/62078/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/62078/1/sub",
+   "thumbnail": "https://lain.bgm.tv/pic/cover/l/a2/a1/571895_0KwUw.jpg",
    "referer": "https://zokoanime.video/stream/mal/62078/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-14T00:27:56.179Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:38:12.831Z"
   }
  ],
- "_syncHash": "8ae3968807f9771b"
+ "_syncHash": "3374276ebfa97c34"
 }

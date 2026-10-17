@@ -1,6 +1,6 @@
 {
  "id": "skip-beat",
- "title": "skip beat",
+ "title": "Skip Beat",
  "poster": "https://media.kitsu.app/anime/poster_images/3761/large.jpg",
  "banner": "https://media.kitsu.app/anime/cover_images/3761/large.jpg",
  "synopsis": "Bright, diligent, and yet naïve 16-year-old Kyouko Mogami works hard to support the career and dreams of her childhood friend, crush, and rising pop icon, Shoutarou Fuwa. Toiling endlessly at burger joints and tea ceremonies, the innocent Kyouko remains unaware that day in day out, all her tireless efforts have been taken for granted, until, one day, she finds out that her beloved Shou sees her as nothing but a free servant. Shocked, heartbroken and enraged, she vows to take revenge on the rookie star by entering the ruthless world of entertainment herself. As she steps into this new life, Kyouko will face new challenges as well as people who will push her out of her comfort zone.\nBased on the best-selling shoujo manga by Yoshiki Nakamura, Skip Beat showcases the growth of a young woman who slowly unlearns how to work herself to the bone for the satisfaction of others and takes her future into her own hands instead.\n[Written by MAL Rewrite]",
@@ -31,19 +31,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/ivxeqztgns/8y420lfkgl/jnvolfaxvwe4ey/master.m3u8",
-   "downloadUrl": "/download/mal/4722/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/4722/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/poster_images/3761/large.jpg",
    "referer": "https://zokoanime.video/stream/mal/4722/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/ivxeqztgns/8y420lfkgl/jnvolfaxvwe4ey/subs/4fnfrbjvk7botde5.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:04:45.055Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:53.734Z"
   }
  ],
- "_syncHash": "a3e283d1e89ea804"
+ "_syncHash": "c0cee03f6a18ead6"
 }

@@ -1,6 +1,6 @@
 {
  "id": "teasing-master-takagi-san-3",
- "title": "teasing master takagi san 3",
+ "title": "Teasing Master Takagi San 3",
  "poster": "https://media.kitsu.app/anime/45022/poster_image/large-6c1fb34c409a3965dd1fd79c7a4f4435.jpeg",
  "banner": "https://media.kitsu.app/anime/45022/cover_image/large-2a3d9e3e8305074aa81a0be102f75b3f.jpeg",
  "synopsis": "The third season of Karakai Jouzu no Takagi-san.",
@@ -28,19 +28,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/pj50yenqj8/dj2annach6/lq0panx4m0a1r6/master.m3u8",
-   "downloadUrl": "/download/mal/49721/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/49721/1/sub",
+   "thumbnail": "https://media.kitsu.app/anime/45022/poster_image/large-6c1fb34c409a3965dd1fd79c7a4f4435.jpeg",
    "referer": "https://zokoanime.video/stream/mal/49721/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/pj50yenqj8/dj2annach6/lq0panx4m0a1r6/subs/tasrmq2mcoqt23l1.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:05:31.625Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:42:08.222Z"
   }
  ],
- "_syncHash": "46e8985bf988725e"
+ "_syncHash": "f7b24ec37819548f"
 }

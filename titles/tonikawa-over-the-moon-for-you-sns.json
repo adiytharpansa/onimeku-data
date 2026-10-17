@@ -21,6 +21,7 @@
  "type": "OVA",
  "season": "SUMMER",
  "anilistId": 127371,
+ "country": "JP",
  "rawTitle": "tonikawa over the moon for you sns",
  "altTitles": [
   "Tonikaku Kawaii: SNS",
@@ -31,8 +32,8 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/k434oev0kb/kl0m5i35m3/2u0mhbx6cb8n5t/master.m3u8",
-   "downloadUrl": "/download/mal/44931/1/sub",
-   "thumbnail": "https://media.kitsu.app/anime/43034/poster_image/large-72d15f29589aa9c8cfce350943668fe7.jpeg",
+   "downloadUrl": "https://zokoanime.video/download/mal/44931/1/sub",
+   "thumbnail": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127371-sQvD9sILl7Lc.jpg",
    "referer": "https://zokoanime.video/stream/mal/44931/1/sub",
    "subtitles": [
     {
@@ -41,9 +42,8 @@
      "url": "https://hls.dramahot.top/v/scxqicy/k434oev0kb/kl0m5i35m3/2u0mhbx6cb8n5t/subs/ih0yageusi951lgf.vtt"
     }
    ],
-   "addedAt": "2026-10-13T22:25:58.248Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:43:43.820Z"
   }
  ],
- "_syncHash": "41207ebcce3f5074"
+ "_syncHash": "2ea2844568bea277"
 }

@@ -1,0 +1,58 @@
+{
+ "id": "ranma1-2-2024-season-3-dub",
+ "title": "Ranma1/2 (2024) Season 3",
+ "poster": "https://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
+ "banner": "",
+ "synopsis": "The third season of Ranma 1/2 (2024).",
+ "genres": [
+  "Action",
+  "Comedy",
+  "Romance"
+ ],
+ "score": 7.7,
+ "year": 2026,
+ "status": "RELEASING",
+ "totalEpisodes": 0,
+ "latestEpisode": 2,
+ "episodeNumbers": [
+  2
+ ],
+ "updatedAt": "2026-10-17T08:51:23.033Z",
+ "type": "TV",
+ "season": null,
+ "anilistId": 209872,
+ "country": null,
+ "rawTitle": "Ranma1/2 (2024) Season 3 (Dub)",
+ "altTitles": [],
+ "studio": null,
+ "episodes": [
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/d64a2a16520922c28e3804df012c503e/9c2bc30aa515b53b273be7384625c251/master.m3u8?token=MTc5MjIwOTc0OXxkNjRhMmExNjUyMDkyMmMyOGUzODA0ZGYwMTJjNTAzZS85YzJiYzMwYWE1MTViNTNiMjczYmU3Mzg0NjI1YzI1MQ.XqSeAU7-GXf1SxN0iYXjPO1V-O8jtd3MxS4YppByN5g",
+   "downloadUrl": null,
+   "thumbnail": "https://lain.bgm.tv/pic/cover/l/7a/49/637802_YVTam.jpg",
+   "referer": "https://megaplay.buzz/",
+   "subtitles": [
+    {
+     "lang": "en",
+     "url": "https://6a8y6.broforgotsave.online/anime/d64a2a16520922c28e3804df012c503e/9c2bc30aa515b53b273be7384625c251/subtitles/track_0_eng.vtt",
+     "referer": "https://megaplay.buzz/"
+    },
+    {
+     "lang": "id",
+     "url": "https://6a8y6.broforgotsave.online/anime/d64a2a16520922c28e3804df012c503e/9c2bc30aa515b53b273be7384625c251/subtitles/track_20_ind.vtt",
+     "referer": "https://megaplay.buzz/"
+    },
+    {
+     "lang": "ja",
+     "url": "https://6a8y6.broforgotsave.online/anime/d64a2a16520922c28e3804df012c503e/9c2bc30aa515b53b273be7384625c251/subtitles/track_22_jpn.vtt",
+     "referer": "https://megaplay.buzz/"
+    }
+   ],
+   "mediaKind": "hls",
+   "playable": "direct",
+   "addedAt": "2026-10-17T08:51:23.033Z"
+  }
+ ],
+ "_syncHash": "c7b3050c8d475c3c"
+}

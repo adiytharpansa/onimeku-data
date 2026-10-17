@@ -12,10 +12,23 @@
  "year": 2016,
  "status": "FINISHED",
  "totalEpisodes": 1,
- "latestEpisode": 9,
+ "latestEpisode": 25,
  "episodeNumbers": [
   1,
-  9
+  2,
+  9,
+  11,
+  12,
+  15,
+  16,
+  17,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25
  ],
  "updatedAt": "2026-10-15T22:31:06.841Z",
  "type": null,
@@ -36,8 +49,16 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/51514/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-14T03:51:45.398Z",
-   "customSubs": []
+   "addedAt": "2026-10-14T03:51:45.398Z"
+  },
+  {
+   "number": 2,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1471a8e08c604e589e04339b320deeb8/91fb573fe9abbb6e3a083752a2cc083c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/51515/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T07:46:45.775Z"
   },
   {
    "number": 9,
@@ -46,9 +67,116 @@
    "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
    "referer": "https://megaplay.buzz/stream/s-2/51522/sub?autostart=true",
    "subtitles": [],
-   "addedAt": "2026-10-15T22:31:06.841Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T22:31:06.841Z"
+  },
+  {
+   "number": 11,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1471a8e08c604e589e04339b320deeb8/402adcdb48a297484d58cc925ae0134c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/51524/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:35.621Z"
+  },
+  {
+   "number": 12,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1471a8e08c604e589e04339b320deeb8/246530875c6f8a96cd61243583469011/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/51525/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:36.245Z"
+  },
+  {
+   "number": 15,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1471a8e08c604e589e04339b320deeb8/464f9d295a153ea1cf1d7c7bd7ecf5ae/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/54572/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:24.091Z"
+  },
+  {
+   "number": 16,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1471a8e08c604e589e04339b320deeb8/0ab99a8cdce269ddf7725eb48da8794a/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/54573/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:24.953Z"
+  },
+  {
+   "number": 17,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1471a8e08c604e589e04339b320deeb8/313d938796ff192117c33b6b3ffb2162/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/54574/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:25.727Z"
+  },
+  {
+   "number": 19,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1471a8e08c604e589e04339b320deeb8/c1db7774c46d59d7dcc0d8d7a3449e5c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/54576/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:27.515Z"
+  },
+  {
+   "number": 20,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1471a8e08c604e589e04339b320deeb8/6fcdd693e2ad76d74847e8ed577de832/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/54577/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:28.401Z"
+  },
+  {
+   "number": 21,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1471a8e08c604e589e04339b320deeb8/723588e7e108ec4cc99a779090a6dfea/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/54578/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:29.215Z"
+  },
+  {
+   "number": 22,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1471a8e08c604e589e04339b320deeb8/3923249982e9e830159d5f3c33e4d6d4/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/54579/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:30.959Z"
+  },
+  {
+   "number": 23,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1471a8e08c604e589e04339b320deeb8/a76bc3c45a5b273659869d167fd01d0c/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/54580/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:31.786Z"
+  },
+  {
+   "number": 24,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1471a8e08c604e589e04339b320deeb8/ee32b76c227af2af7b0600689b87fd33/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/55294/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:32.740Z"
+  },
+  {
+   "number": 25,
+   "streamUrl": "https://fetch.nexabloom.top/anime/1471a8e08c604e589e04339b320deeb8/9f2484419a25af262e7fb9d3c6acb3a9/master.m3u8",
+   "downloadUrl": null,
+   "thumbnail": "https://gogoanime.or.at/wp-content/uploads/2026/05/mr-osomatsu-3.jpg",
+   "referer": "https://megaplay.buzz/stream/s-2/55709/sub?autostart=true",
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:41:33.737Z"
   }
  ],
- "_syncHash": "9ade759072948dd8"
+ "_syncHash": "904ff2883429f073"
 }
