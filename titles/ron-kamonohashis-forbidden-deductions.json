@@ -1,6 +1,6 @@
 {
  "id": "ron-kamonohashis-forbidden-deductions",
- "title": "ron kamonohashis forbidden deductions",
+ "title": "Ron Kamonohashis Forbidden Deductions",
  "poster": "https://shikimori.one/system/animes/original/53879.jpg?1710729552",
  "banner": "https://shikimori.one/system/animes/original/53879.jpg?1710729552",
  "synopsis": "",
@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "ron kamonohashis forbidden deductions",
  "altTitles": [],
  "studio": null,
@@ -24,19 +25,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/b2ig6h6uoo/2dce4zjx7r/iyrqmsomgvyvos/master.m3u8",
-   "downloadUrl": "/download/mal/53879/1/sub",
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/53879/1/sub",
+   "thumbnail": "https://shikimori.one/system/animes/original/53879.jpg?1710729552",
    "referer": "https://zokoanime.video/stream/mal/53879/1/sub",
-   "subtitles": [
-    {
-     "label": "English",
-     "lang": "en",
-     "url": "https://hls.dramahot.top/v/scxqicy/b2ig6h6uoo/2dce4zjx7r/iyrqmsomgvyvos/subs/f7xs9iwu0gse98jg.vtt"
-    }
-   ],
-   "addedAt": "2026-10-13T22:12:10.051Z",
-   "customSubs": []
+   "subtitles": [],
+   "addedAt": "2026-10-15T15:40:23.307Z"
   }
  ],
- "_syncHash": "51b258e8e90b56ed"
+ "_syncHash": "d0ea56eed65a8ca6"
 }

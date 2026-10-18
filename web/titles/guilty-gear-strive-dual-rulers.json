@@ -1,6 +1,6 @@
 {
  "id": "guilty-gear-strive-dual-rulers",
- "title": "guilty gear strive dual rulers",
+ "title": "Guilty Gear Strive Dual Rulers",
  "poster": "https://media.kitsu.app/anime/48952/poster_image/large-eac22bc957c20d6ba563e08b276dfbac.jpeg",
  "banner": "https://media.kitsu.app/anime/48952/cover_image/large-9479a1af00b3b32a0262137e7a12e97b.jpeg",
  "synopsis": "Sin Kiske, the forbidden child of a human and a magically crafted biological weapon called a Gear, lives in a world where magic has replaced science, and scars from the Gear rebellion remain. Attending his parents’ taboo-breaking wedding, he encounters a mysterious girl with a deep hatred for Gears, and their fateful meeting threatens to upend the world once again. \n\n(Source: Crunchyroll)",
@@ -28,7 +28,7 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/icrlwjs0c4/7bobbkxkns/82id0w4hr5g8gx/master.m3u8",
-   "downloadUrl": "/download/mal/59070/1/sub",
+   "downloadUrl": "https://zokoanime.video/download/mal/59070/1/sub",
    "thumbnail": "https://media.kitsu.app/anime/48952/poster_image/large-eac22bc957c20d6ba563e08b276dfbac.jpeg",
    "referer": "https://zokoanime.video/stream/mal/59070/1/sub",
    "subtitles": [
@@ -38,9 +38,8 @@
      "url": "https://hls.dramahot.top/v/scxqicy/icrlwjs0c4/7bobbkxkns/82id0w4hr5g8gx/subs/go6pjoo6ivbw0k9o.vtt"
     }
    ],
-   "addedAt": "2026-10-13T22:08:14.015Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:38:23.730Z"
   }
  ],
- "_syncHash": "489302e631d73d32"
+ "_syncHash": "f9fc89975fe6a6e7"
 }

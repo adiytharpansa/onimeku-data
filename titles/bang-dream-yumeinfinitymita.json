@@ -1,6 +1,6 @@
 {
  "id": "bang-dream-yumeinfinitymita",
- "title": "bang dream yumeinfinitymita",
+ "title": "Bang Dream Yumeinfinitymita",
  "poster": "https://shikimori.one/system/animes/original/33573.jpg?1711943459",
  "banner": "https://shikimori.one/system/animes/original/33573.jpg?1711943459",
  "synopsis": "",
@@ -17,6 +17,7 @@
  "type": null,
  "season": null,
  "anilistId": null,
+ "country": null,
  "rawTitle": "bang dream yumeinfinitymita",
  "altTitles": [],
  "studio": null,
@@ -24,13 +25,12 @@
   {
    "number": 1,
    "streamUrl": "https://hls.dramahot.top/p/scxqicy/85s8ou8gre/1e2nb25fnz/3sli83p6tkshpr/master.m3u8",
-   "downloadUrl": null,
-   "thumbnail": "",
+   "downloadUrl": "https://zokoanime.video/download/mal/62430/1/sub",
+   "thumbnail": "https://shikimori.one/system/animes/original/33573.jpg?1711943459",
    "referer": "https://zokoanime.video/stream/mal/62430/1/sub",
    "subtitles": [],
-   "addedAt": "2026-10-14T00:27:14.937Z",
-   "customSubs": []
+   "addedAt": "2026-10-15T15:41:36.228Z"
   }
  ],
- "_syncHash": "124b48e1066cb1ba"
+ "_syncHash": "9d96416d586929b5"
 }
