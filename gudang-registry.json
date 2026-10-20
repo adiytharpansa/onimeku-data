@@ -1,0 +1,98 @@
+{
+ "versi": 1,
+ "diperbarui": "2026-10-20T19:02:29.753Z",
+ "repoAktif": "gd-01",
+ "petaSlug": {
+  "chainsaw-man": 127230
+ },
+ "judul": {
+  "127230": {
+   "anilistId": 127230,
+   "slug": "chainsaw-man",
+   "judul": "Chainsaw Man",
+   "repo": "gd-01",
+   "status": "BELUM LENGKAP",
+   "episode": {
+    "1": {
+     "nomor": 1,
+     "kelas": "utama",
+     "status": "tersalin",
+     "repo": "gd-01",
+     "commit": "ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1",
+     "pathMaster": "127230/1/master.m3u8",
+     "subtitle": {
+      "en": {
+       "asal": "sumber"
+      },
+      "id": {
+       "asal": "server-bersama"
+      }
+     },
+     "pintu": {
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/master.m3u8",
+      "pages": "https://adiytharpansa.github.io/gd-01/127230/1/master.m3u8",
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/master.m3u8"
+     },
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/master.m3u8",
+     "unduhan": {
+      "downloadable": true,
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/master.m3u8",
+      "tangga": {
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/q480/q480.m3u8"
+      }
+     },
+     "durasiDetik": 1435,
+     "warm_state": "inti"
+    },
+    "2": {
+     "nomor": 2,
+     "kelas": "utama",
+     "status": "tersalin",
+     "repo": "gd-01",
+     "commit": "5a090deda87a8665a73ffe8557ffb2e8974244a6",
+     "pathMaster": "127230/2/master.m3u8",
+     "subtitle": {
+      "en": {
+       "asal": "sumber"
+      },
+      "id": {
+       "asal": "terjemahan"
+      }
+     },
+     "pintu": {
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/master.m3u8",
+      "pages": "https://adiytharpansa.github.io/gd-01/127230/2/master.m3u8",
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/master.m3u8"
+     },
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/master.m3u8",
+     "unduhan": {
+      "downloadable": true,
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/master.m3u8",
+      "tangga": {
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/q480/q480.m3u8"
+      }
+     },
+     "durasiDetik": 1435,
+     "warm_state": "inti"
+    },
+    "3": {
+     "nomor": 3,
+     "kelas": "utama",
+     "status": "gagal"
+    }
+   }
+  }
+ }
+}
