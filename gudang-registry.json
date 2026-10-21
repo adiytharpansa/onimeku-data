@@ -1,6 +1,6 @@
 {
  "versi": 1,
- "diperbarui": "2026-10-21T12:41:39.323Z",
+ "diperbarui": "2026-10-21T13:44:13.876Z",
  "repoAktif": "gd-02",
  "repo": {
   "gd-01": {
@@ -8854,14 +8854,14 @@
      "kelas": "utama",
      "status": "gagal",
      "alasan": "HTTP 403 untuk https://my-anime-app.adiyth-arpansa.workers.dev/api/proxy?u=https%3A%2F%2Ffetch.nexabloom.",
-     "pada": "2026-10-21T12:21:27.125Z"
+     "pada": "2026-10-21T13:42:52.103Z"
     },
     "3": {
      "nomor": 3,
      "kelas": "utama",
      "status": "gagal",
      "alasan": "HTTP 403 untuk https://my-anime-app.adiyth-arpansa.workers.dev/api/proxy?u=https%3A%2F%2Ffetch.nexabloom.",
-     "pada": "2026-10-21T12:22:34.782Z"
+     "pada": "2026-10-21T13:44:13.806Z"
     },
     "4": {
      "nomor": 4,
@@ -139949,7 +139949,49 @@
      "kelas": "utama",
      "status": "gagal",
      "alasan": "HTTP 403 untuk https://my-anime-app.adiyth-arpansa.workers.dev/api/proxy?u=https%3A%2F%2Ffetch.nexabloom.",
-     "pada": "2026-10-21T10:33:12.848Z"
+     "pada": "2026-10-21T12:55:10.539Z"
+    },
+    "3": {
+     "nomor": 3,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "HTTP 403 untuk https://my-anime-app.adiyth-arpansa.workers.dev/api/proxy?u=https%3A%2F%2Ffetch.nexabloom.",
+     "pada": "2026-10-21T13:15:31.963Z"
+    },
+    "4": {
+     "nomor": 4,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "HTTP 403 untuk https://my-anime-app.adiyth-arpansa.workers.dev/api/proxy?u=https%3A%2F%2Ffetch.nexabloom.",
+     "pada": "2026-10-21T13:15:32.082Z"
+    },
+    "5": {
+     "nomor": 5,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "HTTP 403 untuk https://my-anime-app.adiyth-arpansa.workers.dev/api/proxy?u=https%3A%2F%2Ffetch.nexabloom.",
+     "pada": "2026-10-21T13:15:32.148Z"
+    },
+    "6": {
+     "nomor": 6,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "HTTP 403 untuk https://my-anime-app.adiyth-arpansa.workers.dev/api/proxy?u=https%3A%2F%2Ffetch.nexabloom.",
+     "pada": "2026-10-21T13:16:19.825Z"
+    },
+    "7": {
+     "nomor": 7,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "HTTP 403 untuk https://my-anime-app.adiyth-arpansa.workers.dev/api/proxy?u=https%3A%2F%2Ffetch.nexabloom.",
+     "pada": "2026-10-21T13:26:29.596Z"
+    },
+    "8": {
+     "nomor": 8,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "HTTP 403 untuk https://my-anime-app.adiyth-arpansa.workers.dev/api/proxy?u=https%3A%2F%2Ffetch.nexabloom.",
+     "pada": "2026-10-21T13:35:22.789Z"
     }
    },
    "poster": {
@@ -140007,6 +140049,6 @@
   "ok": true,
   "login": "adiytharpansa",
   "status": 200,
-  "pada": "2026-10-21T12:18:17.667Z"
+  "pada": "2026-10-21T13:39:32.772Z"
  }
 }
