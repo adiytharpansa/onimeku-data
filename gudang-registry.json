@@ -1,6 +1,6 @@
 {
  "versi": 1,
- "diperbarui": "2026-10-21T17:45:12.202Z",
+ "diperbarui": "2026-10-21T18:28:14.468Z",
  "repoAktif": "gd-02",
  "repo": {
   "gd-01": {
@@ -140063,7 +140063,7 @@
      "kelas": "utama",
      "status": "gagal",
      "alasan": "HTTP 403 untuk https://my-anime-app.adiyth-arpansa.workers.dev/api/proxy?u=https%3A%2F%2Ffetch.nexabloom.",
-     "pada": "2026-10-21T16:21:25.179Z"
+     "pada": "2026-10-21T18:28:14.423Z"
     }
    },
    "poster": {
