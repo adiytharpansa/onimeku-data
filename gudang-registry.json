@@ -1,6 +1,6 @@
 {
  "versi": 1,
- "diperbarui": "2026-10-21T15:43:39.844Z",
+ "diperbarui": "2026-10-21T16:21:25.226Z",
  "repoAktif": "gd-02",
  "repo": {
   "gd-01": {
@@ -15,7 +15,8 @@
  "petaSlug": {
   "chainsaw-man": 127230,
   "attack-on-titan-season-3-part-2": 104578,
-  "bleach-thousand-year-blood-war-the-calamity": 185874
+  "bleach-thousand-year-blood-war-the-calamity": 185874,
+  "one-piece-fan-letter": 182469
  },
  "kejadian": [
   {
@@ -139934,6 +139935,93 @@
     }
    },
    "asetCommit": "2a29bba19214aaa8f99569a4fcae34e2bebbaeba"
+  },
+  "182469": {
+   "anilistId": 182469,
+   "slug": "one-piece-fan-letter",
+   "judul": "One Piece Fan Letter",
+   "repo": "gd-02",
+   "commitTerakhir": null,
+   "status": "BELUM LENGKAP",
+   "totalByte": 0,
+   "episode": {
+    "1": {
+     "nomor": 1,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "HTTP 403 untuk https://my-anime-app.adiyth-arpansa.workers.dev/api/proxy?u=https%3A%2F%2Ffetch.nexabloom.",
+     "pada": "2026-10-21T16:21:25.179Z"
+    }
+   },
+   "poster": {
+    "path": "182469/poster.jpg",
+    "repo": "gd-02",
+    "commit": "a0684667b8de0759001be1539d538f2405e0d9b5",
+    "byte": 69373,
+    "md5": "e0c0a7d109f88d0f95c090801959291a",
+    "lebar": 460,
+    "tinggi": 650,
+    "sumber": "kitsu",
+    "pintu": {
+     "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@a0684667b8de0759001be1539d538f2405e0d9b5/182469/poster.jpg",
+     "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a0684667b8de0759001be1539d538f2405e0d9b5/182469/poster.jpg",
+     "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@a0684667b8de0759001be1539d538f2405e0d9b5/182469/poster.jpg",
+     "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@a0684667b8de0759001be1539d538f2405e0d9b5/182469/poster.jpg",
+     "pages": "https://adiytharpansa.github.io/gd-02/182469/poster.jpg",
+     "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/a0684667b8de0759001be1539d538f2405e0d9b5/182469/poster.jpg",
+     "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/a0684667b8de0759001be1539d538f2405e0d9b5/182469/poster.jpg"
+    },
+    "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@a0684667b8de0759001be1539d538f2405e0d9b5/182469/poster.jpg"
+   },
+   "poster_status": "ada",
+   "banner": {
+    "path": "182469/banner.jpg",
+    "repo": "gd-02",
+    "commit": "a0684667b8de0759001be1539d538f2405e0d9b5",
+    "byte": 163635,
+    "md5": "49e6c37e391dc466da16c7bf28886030",
+    "lebar": 1920,
+    "tinggi": 568,
+    "sumber": "kitsu",
+    "pintu": {
+     "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@a0684667b8de0759001be1539d538f2405e0d9b5/182469/banner.jpg",
+     "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a0684667b8de0759001be1539d538f2405e0d9b5/182469/banner.jpg",
+     "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@a0684667b8de0759001be1539d538f2405e0d9b5/182469/banner.jpg",
+     "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@a0684667b8de0759001be1539d538f2405e0d9b5/182469/banner.jpg",
+     "pages": "https://adiytharpansa.github.io/gd-02/182469/banner.jpg",
+     "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/a0684667b8de0759001be1539d538f2405e0d9b5/182469/banner.jpg",
+     "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/a0684667b8de0759001be1539d538f2405e0d9b5/182469/banner.jpg"
+    },
+    "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@a0684667b8de0759001be1539d538f2405e0d9b5/182469/banner.jpg"
+   },
+   "meta": {
+    "path": "182469/meta.json",
+    "repo": "gd-02",
+    "commit": "a0684667b8de0759001be1539d538f2405e0d9b5",
+    "byte": 1036,
+    "md5": "385ef1dfa0ec3dc7b9b4138920132e9f",
+    "pintu": {
+     "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@a0684667b8de0759001be1539d538f2405e0d9b5/182469/meta.json",
+     "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a0684667b8de0759001be1539d538f2405e0d9b5/182469/meta.json",
+     "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@a0684667b8de0759001be1539d538f2405e0d9b5/182469/meta.json",
+     "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@a0684667b8de0759001be1539d538f2405e0d9b5/182469/meta.json",
+     "pages": "https://adiytharpansa.github.io/gd-02/182469/meta.json",
+     "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/a0684667b8de0759001be1539d538f2405e0d9b5/182469/meta.json",
+     "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/a0684667b8de0759001be1539d538f2405e0d9b5/182469/meta.json"
+    },
+    "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@a0684667b8de0759001be1539d538f2405e0d9b5/182469/meta.json",
+    "ringkasan": {
+     "judulUtama": "One Piece Fan Letter",
+     "skor": 8.9,
+     "tahun": 2024,
+     "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+     ]
+    }
+   },
+   "asetCommit": "a0684667b8de0759001be1539d538f2405e0d9b5"
   },
   "185874": {
    "anilistId": 185874,
