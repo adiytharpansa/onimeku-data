@@ -1,6 +1,6 @@
 {
  "versi": 1,
- "diperbarui": "2026-10-22T02:12:23.133Z",
+ "diperbarui": "2026-10-22T02:34:59.301Z",
  "repoAktif": "gd-02",
  "repo": {
   "gd-01": {
@@ -44,9 +44,17 @@
    "judul": "A Silent Voice",
    "repo": "gd-02",
    "commitTerakhir": null,
-   "status": "PROSES",
+   "status": "BELUM LENGKAP",
    "totalByte": 0,
-   "episode": {},
+   "episode": {
+    "1": {
+     "nomor": 1,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "HTTP 403 untuk https://my-anime-app.adiyth-arpansa.workers.dev/api/proxy?u=https%3A%2F%2Ffetch.nexabloom.",
+     "pada": "2026-10-22T02:34:59.255Z"
+    }
+   },
    "poster": {
     "path": "20954/poster.jpg",
     "repo": "gd-02",
