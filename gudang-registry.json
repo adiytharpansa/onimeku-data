@@ -1,6 +1,6 @@
 {
  "versi": 1,
- "diperbarui": "2026-10-22T02:46:37.507Z",
+ "diperbarui": "2026-10-22T03:31:58.457Z",
  "repoAktif": "gd-02",
  "repo": {
   "gd-01": {
@@ -132,7 +132,7 @@
    "slug": "attack-on-titan-season-3-part-2",
    "judul": "Attack on Titan Season 3 Part 2",
    "repo": "gd-02",
-   "commitTerakhir": "5de5eeeafc3da40ce12d3bab6015638a3da3d222",
+   "commitTerakhir": "df414d51a5e518ed556fc7f4a30dde7e86908fbc",
    "status": "BELUM LENGKAP",
    "totalByte": 8433863168,
    "episode": {
@@ -141,7 +141,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-01",
-     "commit": "943c7afe5b70a7e492bb2d47cb5d2a158546ef33",
+     "commit": "538005490f8a0bac253d790f87513c675c031239",
      "pathMaster": "104578/1/master.m3u8",
      "totalByte": 1068944953,
      "subtitle": {
@@ -161,24 +161,24 @@
      },
      "durasiAcuanDetik": 1380,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@943c7afe5b70a7e492bb2d47cb5d2a158546ef33/104578/1/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@943c7afe5b70a7e492bb2d47cb5d2a158546ef33/104578/1/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@943c7afe5b70a7e492bb2d47cb5d2a158546ef33/104578/1/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@943c7afe5b70a7e492bb2d47cb5d2a158546ef33/104578/1/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@538005490f8a0bac253d790f87513c675c031239/104578/1/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@538005490f8a0bac253d790f87513c675c031239/104578/1/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@538005490f8a0bac253d790f87513c675c031239/104578/1/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@538005490f8a0bac253d790f87513c675c031239/104578/1/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-01/104578/1/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/943c7afe5b70a7e492bb2d47cb5d2a158546ef33/104578/1/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/943c7afe5b70a7e492bb2d47cb5d2a158546ef33/104578/1/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/538005490f8a0bac253d790f87513c675c031239/104578/1/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/538005490f8a0bac253d790f87513c675c031239/104578/1/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@943c7afe5b70a7e492bb2d47cb5d2a158546ef33/104578/1/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@538005490f8a0bac253d790f87513c675c031239/104578/1/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@943c7afe5b70a7e492bb2d47cb5d2a158546ef33/104578/1/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@943c7afe5b70a7e492bb2d47cb5d2a158546ef33/104578/1/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@943c7afe5b70a7e492bb2d47cb5d2a158546ef33/104578/1/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@538005490f8a0bac253d790f87513c675c031239/104578/1/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@538005490f8a0bac253d790f87513c675c031239/104578/1/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@538005490f8a0bac253d790f87513c675c031239/104578/1/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@943c7afe5b70a7e492bb2d47cb5d2a158546ef33/104578/1/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@538005490f8a0bac253d790f87513c675c031239/104578/1/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "fc1fdf2a45fc3c53b3083b634b7362ce",
@@ -8953,7 +8953,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-02",
-     "commit": "5de5eeeafc3da40ce12d3bab6015638a3da3d222",
+     "commit": "505bb474ec58feebdfd1a35546401a1b29ae39ad",
      "pathMaster": "104578/2/master.m3u8",
      "totalByte": 944656015,
      "subtitle": {
@@ -8973,24 +8973,24 @@
      },
      "durasiAcuanDetik": 1380,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@5de5eeeafc3da40ce12d3bab6015638a3da3d222/104578/2/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@5de5eeeafc3da40ce12d3bab6015638a3da3d222/104578/2/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@5de5eeeafc3da40ce12d3bab6015638a3da3d222/104578/2/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@5de5eeeafc3da40ce12d3bab6015638a3da3d222/104578/2/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@505bb474ec58feebdfd1a35546401a1b29ae39ad/104578/2/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@505bb474ec58feebdfd1a35546401a1b29ae39ad/104578/2/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@505bb474ec58feebdfd1a35546401a1b29ae39ad/104578/2/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@505bb474ec58feebdfd1a35546401a1b29ae39ad/104578/2/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-02/104578/2/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/5de5eeeafc3da40ce12d3bab6015638a3da3d222/104578/2/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/5de5eeeafc3da40ce12d3bab6015638a3da3d222/104578/2/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/505bb474ec58feebdfd1a35546401a1b29ae39ad/104578/2/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/505bb474ec58feebdfd1a35546401a1b29ae39ad/104578/2/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@5de5eeeafc3da40ce12d3bab6015638a3da3d222/104578/2/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@505bb474ec58feebdfd1a35546401a1b29ae39ad/104578/2/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@5de5eeeafc3da40ce12d3bab6015638a3da3d222/104578/2/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@5de5eeeafc3da40ce12d3bab6015638a3da3d222/104578/2/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@5de5eeeafc3da40ce12d3bab6015638a3da3d222/104578/2/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@505bb474ec58feebdfd1a35546401a1b29ae39ad/104578/2/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@505bb474ec58feebdfd1a35546401a1b29ae39ad/104578/2/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@505bb474ec58feebdfd1a35546401a1b29ae39ad/104578/2/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@5de5eeeafc3da40ce12d3bab6015638a3da3d222/104578/2/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@505bb474ec58feebdfd1a35546401a1b29ae39ad/104578/2/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "adb74a0650adf56fd552b26ad1cb4c47",
@@ -17790,7 +17790,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-02",
-     "commit": "0b119cca34a3ad65c2cc7a560f42b2eaaba14393",
+     "commit": "c2040c6250ce544998c2192ec64020087ebefab2",
      "pathMaster": "104578/4/master.m3u8",
      "totalByte": 845949203,
      "subtitle": {
@@ -17810,24 +17810,24 @@
      },
      "durasiAcuanDetik": 1380,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@0b119cca34a3ad65c2cc7a560f42b2eaaba14393/104578/4/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@0b119cca34a3ad65c2cc7a560f42b2eaaba14393/104578/4/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@0b119cca34a3ad65c2cc7a560f42b2eaaba14393/104578/4/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@0b119cca34a3ad65c2cc7a560f42b2eaaba14393/104578/4/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@c2040c6250ce544998c2192ec64020087ebefab2/104578/4/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@c2040c6250ce544998c2192ec64020087ebefab2/104578/4/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@c2040c6250ce544998c2192ec64020087ebefab2/104578/4/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@c2040c6250ce544998c2192ec64020087ebefab2/104578/4/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-02/104578/4/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/0b119cca34a3ad65c2cc7a560f42b2eaaba14393/104578/4/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/0b119cca34a3ad65c2cc7a560f42b2eaaba14393/104578/4/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/c2040c6250ce544998c2192ec64020087ebefab2/104578/4/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/c2040c6250ce544998c2192ec64020087ebefab2/104578/4/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@0b119cca34a3ad65c2cc7a560f42b2eaaba14393/104578/4/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@c2040c6250ce544998c2192ec64020087ebefab2/104578/4/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@0b119cca34a3ad65c2cc7a560f42b2eaaba14393/104578/4/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@0b119cca34a3ad65c2cc7a560f42b2eaaba14393/104578/4/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@0b119cca34a3ad65c2cc7a560f42b2eaaba14393/104578/4/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@c2040c6250ce544998c2192ec64020087ebefab2/104578/4/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@c2040c6250ce544998c2192ec64020087ebefab2/104578/4/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@c2040c6250ce544998c2192ec64020087ebefab2/104578/4/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@0b119cca34a3ad65c2cc7a560f42b2eaaba14393/104578/4/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@c2040c6250ce544998c2192ec64020087ebefab2/104578/4/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "ee86a04db275262ce93f3e00ae2eec45",
@@ -22195,7 +22195,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-02",
-     "commit": "ef2f7365110bbfa6acf1db811bebc0499b384a5f",
+     "commit": "517392821c8e937f0c0e393c97cbaa7c9a7a36ad",
      "pathMaster": "104578/5/master.m3u8",
      "totalByte": 1049570400,
      "subtitle": {
@@ -22215,24 +22215,24 @@
      },
      "durasiAcuanDetik": 1380,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@ef2f7365110bbfa6acf1db811bebc0499b384a5f/104578/5/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@ef2f7365110bbfa6acf1db811bebc0499b384a5f/104578/5/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@ef2f7365110bbfa6acf1db811bebc0499b384a5f/104578/5/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@ef2f7365110bbfa6acf1db811bebc0499b384a5f/104578/5/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@517392821c8e937f0c0e393c97cbaa7c9a7a36ad/104578/5/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@517392821c8e937f0c0e393c97cbaa7c9a7a36ad/104578/5/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@517392821c8e937f0c0e393c97cbaa7c9a7a36ad/104578/5/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@517392821c8e937f0c0e393c97cbaa7c9a7a36ad/104578/5/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-02/104578/5/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/ef2f7365110bbfa6acf1db811bebc0499b384a5f/104578/5/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/ef2f7365110bbfa6acf1db811bebc0499b384a5f/104578/5/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/517392821c8e937f0c0e393c97cbaa7c9a7a36ad/104578/5/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/517392821c8e937f0c0e393c97cbaa7c9a7a36ad/104578/5/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@ef2f7365110bbfa6acf1db811bebc0499b384a5f/104578/5/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@517392821c8e937f0c0e393c97cbaa7c9a7a36ad/104578/5/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@ef2f7365110bbfa6acf1db811bebc0499b384a5f/104578/5/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@ef2f7365110bbfa6acf1db811bebc0499b384a5f/104578/5/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@ef2f7365110bbfa6acf1db811bebc0499b384a5f/104578/5/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@517392821c8e937f0c0e393c97cbaa7c9a7a36ad/104578/5/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@517392821c8e937f0c0e393c97cbaa7c9a7a36ad/104578/5/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@517392821c8e937f0c0e393c97cbaa7c9a7a36ad/104578/5/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@ef2f7365110bbfa6acf1db811bebc0499b384a5f/104578/5/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@517392821c8e937f0c0e393c97cbaa7c9a7a36ad/104578/5/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "0494e113a7a5888262e2e9675301d7ce",
@@ -26609,7 +26609,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-02",
-     "commit": "3967a46d0ff1e579b667fc4fb5adea99f3d88498",
+     "commit": "93391964e076ee9b3d074a2f0731d8bb522e4b53",
      "pathMaster": "104578/6/master.m3u8",
      "totalByte": 958114104,
      "subtitle": {
@@ -26629,24 +26629,24 @@
      },
      "durasiAcuanDetik": 1380,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@3967a46d0ff1e579b667fc4fb5adea99f3d88498/104578/6/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@3967a46d0ff1e579b667fc4fb5adea99f3d88498/104578/6/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@3967a46d0ff1e579b667fc4fb5adea99f3d88498/104578/6/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@3967a46d0ff1e579b667fc4fb5adea99f3d88498/104578/6/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@93391964e076ee9b3d074a2f0731d8bb522e4b53/104578/6/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@93391964e076ee9b3d074a2f0731d8bb522e4b53/104578/6/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@93391964e076ee9b3d074a2f0731d8bb522e4b53/104578/6/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@93391964e076ee9b3d074a2f0731d8bb522e4b53/104578/6/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-02/104578/6/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/3967a46d0ff1e579b667fc4fb5adea99f3d88498/104578/6/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/3967a46d0ff1e579b667fc4fb5adea99f3d88498/104578/6/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/93391964e076ee9b3d074a2f0731d8bb522e4b53/104578/6/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/93391964e076ee9b3d074a2f0731d8bb522e4b53/104578/6/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@3967a46d0ff1e579b667fc4fb5adea99f3d88498/104578/6/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@93391964e076ee9b3d074a2f0731d8bb522e4b53/104578/6/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@3967a46d0ff1e579b667fc4fb5adea99f3d88498/104578/6/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@3967a46d0ff1e579b667fc4fb5adea99f3d88498/104578/6/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@3967a46d0ff1e579b667fc4fb5adea99f3d88498/104578/6/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@93391964e076ee9b3d074a2f0731d8bb522e4b53/104578/6/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@93391964e076ee9b3d074a2f0731d8bb522e4b53/104578/6/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@93391964e076ee9b3d074a2f0731d8bb522e4b53/104578/6/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@3967a46d0ff1e579b667fc4fb5adea99f3d88498/104578/6/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@93391964e076ee9b3d074a2f0731d8bb522e4b53/104578/6/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "99002597fa3ef7d8d788a7cac57d730c",
@@ -30991,7 +30991,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-02",
-     "commit": "f764bd41022a2d0aa56128f657499917b76f38e5",
+     "commit": "7ae99a234602011031eac639f5e5fe345334984d",
      "pathMaster": "104578/7/master.m3u8",
      "totalByte": 876120376,
      "subtitle": {
@@ -31011,24 +31011,24 @@
      },
      "durasiAcuanDetik": 1380,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@f764bd41022a2d0aa56128f657499917b76f38e5/104578/7/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@f764bd41022a2d0aa56128f657499917b76f38e5/104578/7/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@f764bd41022a2d0aa56128f657499917b76f38e5/104578/7/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@f764bd41022a2d0aa56128f657499917b76f38e5/104578/7/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@7ae99a234602011031eac639f5e5fe345334984d/104578/7/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@7ae99a234602011031eac639f5e5fe345334984d/104578/7/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@7ae99a234602011031eac639f5e5fe345334984d/104578/7/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@7ae99a234602011031eac639f5e5fe345334984d/104578/7/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-02/104578/7/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/f764bd41022a2d0aa56128f657499917b76f38e5/104578/7/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/f764bd41022a2d0aa56128f657499917b76f38e5/104578/7/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/7ae99a234602011031eac639f5e5fe345334984d/104578/7/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/7ae99a234602011031eac639f5e5fe345334984d/104578/7/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@f764bd41022a2d0aa56128f657499917b76f38e5/104578/7/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@7ae99a234602011031eac639f5e5fe345334984d/104578/7/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@f764bd41022a2d0aa56128f657499917b76f38e5/104578/7/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@f764bd41022a2d0aa56128f657499917b76f38e5/104578/7/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@f764bd41022a2d0aa56128f657499917b76f38e5/104578/7/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@7ae99a234602011031eac639f5e5fe345334984d/104578/7/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@7ae99a234602011031eac639f5e5fe345334984d/104578/7/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@7ae99a234602011031eac639f5e5fe345334984d/104578/7/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@f764bd41022a2d0aa56128f657499917b76f38e5/104578/7/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@7ae99a234602011031eac639f5e5fe345334984d/104578/7/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "213b8c62c6acbf0a1e60241a535c636e",
@@ -35345,7 +35345,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-02",
-     "commit": "0fe68e30a02ee34fe19f21787e2d25020f59f972",
+     "commit": "cd21b7c3b41c08bb09711ad17151eea56e8eeef7",
      "pathMaster": "104578/8/master.m3u8",
      "totalByte": 924304540,
      "subtitle": {
@@ -35365,24 +35365,24 @@
      },
      "durasiAcuanDetik": 1380,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@0fe68e30a02ee34fe19f21787e2d25020f59f972/104578/8/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@0fe68e30a02ee34fe19f21787e2d25020f59f972/104578/8/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@0fe68e30a02ee34fe19f21787e2d25020f59f972/104578/8/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@0fe68e30a02ee34fe19f21787e2d25020f59f972/104578/8/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@cd21b7c3b41c08bb09711ad17151eea56e8eeef7/104578/8/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@cd21b7c3b41c08bb09711ad17151eea56e8eeef7/104578/8/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@cd21b7c3b41c08bb09711ad17151eea56e8eeef7/104578/8/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@cd21b7c3b41c08bb09711ad17151eea56e8eeef7/104578/8/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-02/104578/8/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/0fe68e30a02ee34fe19f21787e2d25020f59f972/104578/8/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/0fe68e30a02ee34fe19f21787e2d25020f59f972/104578/8/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/cd21b7c3b41c08bb09711ad17151eea56e8eeef7/104578/8/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/cd21b7c3b41c08bb09711ad17151eea56e8eeef7/104578/8/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@0fe68e30a02ee34fe19f21787e2d25020f59f972/104578/8/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@cd21b7c3b41c08bb09711ad17151eea56e8eeef7/104578/8/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@0fe68e30a02ee34fe19f21787e2d25020f59f972/104578/8/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@0fe68e30a02ee34fe19f21787e2d25020f59f972/104578/8/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@0fe68e30a02ee34fe19f21787e2d25020f59f972/104578/8/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@cd21b7c3b41c08bb09711ad17151eea56e8eeef7/104578/8/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@cd21b7c3b41c08bb09711ad17151eea56e8eeef7/104578/8/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@cd21b7c3b41c08bb09711ad17151eea56e8eeef7/104578/8/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@0fe68e30a02ee34fe19f21787e2d25020f59f972/104578/8/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@cd21b7c3b41c08bb09711ad17151eea56e8eeef7/104578/8/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "e5bfcbee2d2f7f11c554ecd6c800d683",
@@ -39647,7 +39647,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-02",
-     "commit": "1df6a4990d42d9eada6fb0bd72776d3d748d94d2",
+     "commit": "a13fdedd9abcad54518cedde337df14b603f7b0b",
      "pathMaster": "104578/9/master.m3u8",
      "totalByte": 787830568,
      "subtitle": {
@@ -39667,24 +39667,24 @@
      },
      "durasiAcuanDetik": 1380,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@1df6a4990d42d9eada6fb0bd72776d3d748d94d2/104578/9/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@1df6a4990d42d9eada6fb0bd72776d3d748d94d2/104578/9/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@1df6a4990d42d9eada6fb0bd72776d3d748d94d2/104578/9/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@1df6a4990d42d9eada6fb0bd72776d3d748d94d2/104578/9/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@a13fdedd9abcad54518cedde337df14b603f7b0b/104578/9/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a13fdedd9abcad54518cedde337df14b603f7b0b/104578/9/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@a13fdedd9abcad54518cedde337df14b603f7b0b/104578/9/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@a13fdedd9abcad54518cedde337df14b603f7b0b/104578/9/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-02/104578/9/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/1df6a4990d42d9eada6fb0bd72776d3d748d94d2/104578/9/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/1df6a4990d42d9eada6fb0bd72776d3d748d94d2/104578/9/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/a13fdedd9abcad54518cedde337df14b603f7b0b/104578/9/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/a13fdedd9abcad54518cedde337df14b603f7b0b/104578/9/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@1df6a4990d42d9eada6fb0bd72776d3d748d94d2/104578/9/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a13fdedd9abcad54518cedde337df14b603f7b0b/104578/9/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@1df6a4990d42d9eada6fb0bd72776d3d748d94d2/104578/9/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@1df6a4990d42d9eada6fb0bd72776d3d748d94d2/104578/9/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@1df6a4990d42d9eada6fb0bd72776d3d748d94d2/104578/9/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a13fdedd9abcad54518cedde337df14b603f7b0b/104578/9/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a13fdedd9abcad54518cedde337df14b603f7b0b/104578/9/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a13fdedd9abcad54518cedde337df14b603f7b0b/104578/9/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@1df6a4990d42d9eada6fb0bd72776d3d748d94d2/104578/9/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@a13fdedd9abcad54518cedde337df14b603f7b0b/104578/9/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "77c7d4f0c57154727665d14ec6eee7ba",
@@ -44000,7 +44000,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-02",
-     "commit": "dfc4cd79cbf20a99c831e78843d82cc34abc08a0",
+     "commit": "df414d51a5e518ed556fc7f4a30dde7e86908fbc",
      "pathMaster": "104578/10/master.m3u8",
      "totalByte": 978373009,
      "subtitle": {
@@ -44020,24 +44020,24 @@
      },
      "durasiAcuanDetik": 1380,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@dfc4cd79cbf20a99c831e78843d82cc34abc08a0/104578/10/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@dfc4cd79cbf20a99c831e78843d82cc34abc08a0/104578/10/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@dfc4cd79cbf20a99c831e78843d82cc34abc08a0/104578/10/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@dfc4cd79cbf20a99c831e78843d82cc34abc08a0/104578/10/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@df414d51a5e518ed556fc7f4a30dde7e86908fbc/104578/10/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@df414d51a5e518ed556fc7f4a30dde7e86908fbc/104578/10/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@df414d51a5e518ed556fc7f4a30dde7e86908fbc/104578/10/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@df414d51a5e518ed556fc7f4a30dde7e86908fbc/104578/10/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-02/104578/10/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/dfc4cd79cbf20a99c831e78843d82cc34abc08a0/104578/10/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/dfc4cd79cbf20a99c831e78843d82cc34abc08a0/104578/10/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/df414d51a5e518ed556fc7f4a30dde7e86908fbc/104578/10/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/df414d51a5e518ed556fc7f4a30dde7e86908fbc/104578/10/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@dfc4cd79cbf20a99c831e78843d82cc34abc08a0/104578/10/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@df414d51a5e518ed556fc7f4a30dde7e86908fbc/104578/10/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@dfc4cd79cbf20a99c831e78843d82cc34abc08a0/104578/10/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@dfc4cd79cbf20a99c831e78843d82cc34abc08a0/104578/10/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@dfc4cd79cbf20a99c831e78843d82cc34abc08a0/104578/10/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@df414d51a5e518ed556fc7f4a30dde7e86908fbc/104578/10/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@df414d51a5e518ed556fc7f4a30dde7e86908fbc/104578/10/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@df414d51a5e518ed556fc7f4a30dde7e86908fbc/104578/10/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@dfc4cd79cbf20a99c831e78843d82cc34abc08a0/104578/10/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@df414d51a5e518ed556fc7f4a30dde7e86908fbc/104578/10/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "433502511d85c9afc0f855bb1711cbe7",
@@ -48454,7 +48454,7 @@
    "slug": "chainsaw-man",
    "judul": "Chainsaw Man",
    "repo": "gd-01",
-   "commitTerakhir": "ede2d230f5e891c5665692648627a40a50d6495d",
+   "commitTerakhir": "f484dc8d1584af5daf09ca46c72c206326bf3687",
    "status": "LENGKAP",
    "totalByte": 9237499283,
    "episode": {
@@ -48463,7 +48463,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-01",
-     "commit": "ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1",
+     "commit": "3a5939f0a1792872b882c7393a13670006b09b01",
      "pathMaster": "127230/1/master.m3u8",
      "totalByte": 685526075,
      "subtitle": {
@@ -53109,24 +53109,24 @@
      },
      "durasiAcuanDetik": 1500,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@3a5939f0a1792872b882c7393a13670006b09b01/127230/1/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@3a5939f0a1792872b882c7393a13670006b09b01/127230/1/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@3a5939f0a1792872b882c7393a13670006b09b01/127230/1/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@3a5939f0a1792872b882c7393a13670006b09b01/127230/1/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-01/127230/1/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/3a5939f0a1792872b882c7393a13670006b09b01/127230/1/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/3a5939f0a1792872b882c7393a13670006b09b01/127230/1/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@3a5939f0a1792872b882c7393a13670006b09b01/127230/1/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@3a5939f0a1792872b882c7393a13670006b09b01/127230/1/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@3a5939f0a1792872b882c7393a13670006b09b01/127230/1/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@3a5939f0a1792872b882c7393a13670006b09b01/127230/1/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@ecedc6227946713ba0c913ab4bbd2c8fe63b0ba1/127230/1/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@3a5939f0a1792872b882c7393a13670006b09b01/127230/1/master.m3u8",
      "dub": {
       "status": "tersalin",
       "repo": "gd-01",
@@ -57769,7 +57769,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-01",
-     "commit": "5a090deda87a8665a73ffe8557ffb2e8974244a6",
+     "commit": "d5fd2bbc68111a2dc74cee975aa286cec8d7c154",
      "pathMaster": "127230/2/master.m3u8",
      "totalByte": 591277482,
      "subtitle": {
@@ -57789,24 +57789,24 @@
      },
      "durasiAcuanDetik": 1500,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@d5fd2bbc68111a2dc74cee975aa286cec8d7c154/127230/2/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@d5fd2bbc68111a2dc74cee975aa286cec8d7c154/127230/2/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@d5fd2bbc68111a2dc74cee975aa286cec8d7c154/127230/2/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@d5fd2bbc68111a2dc74cee975aa286cec8d7c154/127230/2/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-01/127230/2/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/d5fd2bbc68111a2dc74cee975aa286cec8d7c154/127230/2/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/d5fd2bbc68111a2dc74cee975aa286cec8d7c154/127230/2/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@d5fd2bbc68111a2dc74cee975aa286cec8d7c154/127230/2/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@d5fd2bbc68111a2dc74cee975aa286cec8d7c154/127230/2/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@d5fd2bbc68111a2dc74cee975aa286cec8d7c154/127230/2/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@d5fd2bbc68111a2dc74cee975aa286cec8d7c154/127230/2/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@5a090deda87a8665a73ffe8557ffb2e8974244a6/127230/2/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@d5fd2bbc68111a2dc74cee975aa286cec8d7c154/127230/2/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "1799fa8e7a1f147ece3c7a2c2be29c39",
@@ -66540,7 +66540,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-01",
-     "commit": "675a28b185293b4da569691143ec84edcc126671",
+     "commit": "f56198f4aebaad9d00eb5501d41caf9e5b73cfaa",
      "pathMaster": "127230/3/master.m3u8",
      "totalByte": 871895838,
      "subtitle": {
@@ -66560,24 +66560,24 @@
      },
      "durasiAcuanDetik": 1500,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@675a28b185293b4da569691143ec84edcc126671/127230/3/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@675a28b185293b4da569691143ec84edcc126671/127230/3/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@675a28b185293b4da569691143ec84edcc126671/127230/3/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@675a28b185293b4da569691143ec84edcc126671/127230/3/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@f56198f4aebaad9d00eb5501d41caf9e5b73cfaa/127230/3/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@f56198f4aebaad9d00eb5501d41caf9e5b73cfaa/127230/3/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@f56198f4aebaad9d00eb5501d41caf9e5b73cfaa/127230/3/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@f56198f4aebaad9d00eb5501d41caf9e5b73cfaa/127230/3/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-01/127230/3/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/675a28b185293b4da569691143ec84edcc126671/127230/3/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/675a28b185293b4da569691143ec84edcc126671/127230/3/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/f56198f4aebaad9d00eb5501d41caf9e5b73cfaa/127230/3/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/f56198f4aebaad9d00eb5501d41caf9e5b73cfaa/127230/3/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@675a28b185293b4da569691143ec84edcc126671/127230/3/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@f56198f4aebaad9d00eb5501d41caf9e5b73cfaa/127230/3/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@675a28b185293b4da569691143ec84edcc126671/127230/3/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@675a28b185293b4da569691143ec84edcc126671/127230/3/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@675a28b185293b4da569691143ec84edcc126671/127230/3/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@f56198f4aebaad9d00eb5501d41caf9e5b73cfaa/127230/3/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@f56198f4aebaad9d00eb5501d41caf9e5b73cfaa/127230/3/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@f56198f4aebaad9d00eb5501d41caf9e5b73cfaa/127230/3/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@675a28b185293b4da569691143ec84edcc126671/127230/3/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@f56198f4aebaad9d00eb5501d41caf9e5b73cfaa/127230/3/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "0ff2f3a24dc5b210ea9c71cb3ad5a473",
@@ -75311,7 +75311,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-01",
-     "commit": "be615cd9667151e21065e8ed49f63e4a4d89e9d2",
+     "commit": "acbf7ed440033c03947c32f2061157e6ad21d4dd",
      "pathMaster": "127230/4/master.m3u8",
      "totalByte": 882279884,
      "subtitle": {
@@ -75331,24 +75331,24 @@
      },
      "durasiAcuanDetik": 1500,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@be615cd9667151e21065e8ed49f63e4a4d89e9d2/127230/4/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@be615cd9667151e21065e8ed49f63e4a4d89e9d2/127230/4/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@be615cd9667151e21065e8ed49f63e4a4d89e9d2/127230/4/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@be615cd9667151e21065e8ed49f63e4a4d89e9d2/127230/4/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@acbf7ed440033c03947c32f2061157e6ad21d4dd/127230/4/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@acbf7ed440033c03947c32f2061157e6ad21d4dd/127230/4/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@acbf7ed440033c03947c32f2061157e6ad21d4dd/127230/4/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@acbf7ed440033c03947c32f2061157e6ad21d4dd/127230/4/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-01/127230/4/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/be615cd9667151e21065e8ed49f63e4a4d89e9d2/127230/4/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/be615cd9667151e21065e8ed49f63e4a4d89e9d2/127230/4/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/acbf7ed440033c03947c32f2061157e6ad21d4dd/127230/4/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/acbf7ed440033c03947c32f2061157e6ad21d4dd/127230/4/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@be615cd9667151e21065e8ed49f63e4a4d89e9d2/127230/4/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@acbf7ed440033c03947c32f2061157e6ad21d4dd/127230/4/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@be615cd9667151e21065e8ed49f63e4a4d89e9d2/127230/4/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@be615cd9667151e21065e8ed49f63e4a4d89e9d2/127230/4/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@be615cd9667151e21065e8ed49f63e4a4d89e9d2/127230/4/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@acbf7ed440033c03947c32f2061157e6ad21d4dd/127230/4/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@acbf7ed440033c03947c32f2061157e6ad21d4dd/127230/4/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@acbf7ed440033c03947c32f2061157e6ad21d4dd/127230/4/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@be615cd9667151e21065e8ed49f63e4a4d89e9d2/127230/4/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@acbf7ed440033c03947c32f2061157e6ad21d4dd/127230/4/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "afa6a6b640da782194378c63f045bd0a",
@@ -84082,7 +84082,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-01",
-     "commit": "dc94dd38fcfef0463ea7ca999323eac1c3932dbd",
+     "commit": "1455d98b2a9b2a2a564b417f8ecec6c676e26866",
      "pathMaster": "127230/5/master.m3u8",
      "totalByte": 556817473,
      "subtitle": {
@@ -84102,24 +84102,24 @@
      },
      "durasiAcuanDetik": 1500,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@dc94dd38fcfef0463ea7ca999323eac1c3932dbd/127230/5/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@dc94dd38fcfef0463ea7ca999323eac1c3932dbd/127230/5/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@dc94dd38fcfef0463ea7ca999323eac1c3932dbd/127230/5/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@dc94dd38fcfef0463ea7ca999323eac1c3932dbd/127230/5/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@1455d98b2a9b2a2a564b417f8ecec6c676e26866/127230/5/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@1455d98b2a9b2a2a564b417f8ecec6c676e26866/127230/5/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@1455d98b2a9b2a2a564b417f8ecec6c676e26866/127230/5/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@1455d98b2a9b2a2a564b417f8ecec6c676e26866/127230/5/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-01/127230/5/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/dc94dd38fcfef0463ea7ca999323eac1c3932dbd/127230/5/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/dc94dd38fcfef0463ea7ca999323eac1c3932dbd/127230/5/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/1455d98b2a9b2a2a564b417f8ecec6c676e26866/127230/5/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/1455d98b2a9b2a2a564b417f8ecec6c676e26866/127230/5/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@dc94dd38fcfef0463ea7ca999323eac1c3932dbd/127230/5/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@1455d98b2a9b2a2a564b417f8ecec6c676e26866/127230/5/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@dc94dd38fcfef0463ea7ca999323eac1c3932dbd/127230/5/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@dc94dd38fcfef0463ea7ca999323eac1c3932dbd/127230/5/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@dc94dd38fcfef0463ea7ca999323eac1c3932dbd/127230/5/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@1455d98b2a9b2a2a564b417f8ecec6c676e26866/127230/5/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@1455d98b2a9b2a2a564b417f8ecec6c676e26866/127230/5/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@1455d98b2a9b2a2a564b417f8ecec6c676e26866/127230/5/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@dc94dd38fcfef0463ea7ca999323eac1c3932dbd/127230/5/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@1455d98b2a9b2a2a564b417f8ecec6c676e26866/127230/5/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "00c122b5a247fd2c3b706e1e22f06832",
@@ -91325,7 +91325,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-01",
-     "commit": "379a562cd45478a7e41372d8b4198ecbd27b69bc",
+     "commit": "0bcfb8d3ccc7568c6d7c96a8009da4e258194ffc",
      "pathMaster": "127230/6/master.m3u8",
      "totalByte": 815538797,
      "subtitle": {
@@ -91345,24 +91345,24 @@
      },
      "durasiAcuanDetik": 1500,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@379a562cd45478a7e41372d8b4198ecbd27b69bc/127230/6/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@379a562cd45478a7e41372d8b4198ecbd27b69bc/127230/6/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@379a562cd45478a7e41372d8b4198ecbd27b69bc/127230/6/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@379a562cd45478a7e41372d8b4198ecbd27b69bc/127230/6/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@0bcfb8d3ccc7568c6d7c96a8009da4e258194ffc/127230/6/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@0bcfb8d3ccc7568c6d7c96a8009da4e258194ffc/127230/6/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@0bcfb8d3ccc7568c6d7c96a8009da4e258194ffc/127230/6/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@0bcfb8d3ccc7568c6d7c96a8009da4e258194ffc/127230/6/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-01/127230/6/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/379a562cd45478a7e41372d8b4198ecbd27b69bc/127230/6/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/379a562cd45478a7e41372d8b4198ecbd27b69bc/127230/6/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/0bcfb8d3ccc7568c6d7c96a8009da4e258194ffc/127230/6/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/0bcfb8d3ccc7568c6d7c96a8009da4e258194ffc/127230/6/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@379a562cd45478a7e41372d8b4198ecbd27b69bc/127230/6/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@0bcfb8d3ccc7568c6d7c96a8009da4e258194ffc/127230/6/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@379a562cd45478a7e41372d8b4198ecbd27b69bc/127230/6/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@379a562cd45478a7e41372d8b4198ecbd27b69bc/127230/6/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@379a562cd45478a7e41372d8b4198ecbd27b69bc/127230/6/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@0bcfb8d3ccc7568c6d7c96a8009da4e258194ffc/127230/6/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@0bcfb8d3ccc7568c6d7c96a8009da4e258194ffc/127230/6/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@0bcfb8d3ccc7568c6d7c96a8009da4e258194ffc/127230/6/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@379a562cd45478a7e41372d8b4198ecbd27b69bc/127230/6/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@0bcfb8d3ccc7568c6d7c96a8009da4e258194ffc/127230/6/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "98837148c88f5a1fd24abdeb3cede8ac",
@@ -100072,7 +100072,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-01",
-     "commit": "5ebb0e5fc5fabbcb9cdd213d7b332bdc21c532a8",
+     "commit": "6ba234296494105cec1be141ee0e0be213a70561",
      "pathMaster": "127230/7/master.m3u8",
      "totalByte": 771147026,
      "subtitle": {
@@ -100092,24 +100092,24 @@
      },
      "durasiAcuanDetik": 1500,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@5ebb0e5fc5fabbcb9cdd213d7b332bdc21c532a8/127230/7/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@5ebb0e5fc5fabbcb9cdd213d7b332bdc21c532a8/127230/7/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@5ebb0e5fc5fabbcb9cdd213d7b332bdc21c532a8/127230/7/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@5ebb0e5fc5fabbcb9cdd213d7b332bdc21c532a8/127230/7/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@6ba234296494105cec1be141ee0e0be213a70561/127230/7/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@6ba234296494105cec1be141ee0e0be213a70561/127230/7/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@6ba234296494105cec1be141ee0e0be213a70561/127230/7/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@6ba234296494105cec1be141ee0e0be213a70561/127230/7/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-01/127230/7/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/5ebb0e5fc5fabbcb9cdd213d7b332bdc21c532a8/127230/7/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/5ebb0e5fc5fabbcb9cdd213d7b332bdc21c532a8/127230/7/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/6ba234296494105cec1be141ee0e0be213a70561/127230/7/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/6ba234296494105cec1be141ee0e0be213a70561/127230/7/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@5ebb0e5fc5fabbcb9cdd213d7b332bdc21c532a8/127230/7/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@6ba234296494105cec1be141ee0e0be213a70561/127230/7/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@5ebb0e5fc5fabbcb9cdd213d7b332bdc21c532a8/127230/7/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@5ebb0e5fc5fabbcb9cdd213d7b332bdc21c532a8/127230/7/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@5ebb0e5fc5fabbcb9cdd213d7b332bdc21c532a8/127230/7/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@6ba234296494105cec1be141ee0e0be213a70561/127230/7/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@6ba234296494105cec1be141ee0e0be213a70561/127230/7/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@6ba234296494105cec1be141ee0e0be213a70561/127230/7/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@5ebb0e5fc5fabbcb9cdd213d7b332bdc21c532a8/127230/7/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@6ba234296494105cec1be141ee0e0be213a70561/127230/7/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "06fbba57e2eddc3468df2d472b235177",
@@ -108811,7 +108811,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-01",
-     "commit": "55cf3e546745fdab8e1ca9e1af5b2c60b3800e64",
+     "commit": "a8c1f6cb39034cbc98ebe9f756ff535da8f8bf8c",
      "pathMaster": "127230/8/master.m3u8",
      "totalByte": 733380765,
      "subtitle": {
@@ -108831,24 +108831,24 @@
      },
      "durasiAcuanDetik": 1500,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@55cf3e546745fdab8e1ca9e1af5b2c60b3800e64/127230/8/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@55cf3e546745fdab8e1ca9e1af5b2c60b3800e64/127230/8/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@55cf3e546745fdab8e1ca9e1af5b2c60b3800e64/127230/8/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@55cf3e546745fdab8e1ca9e1af5b2c60b3800e64/127230/8/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@a8c1f6cb39034cbc98ebe9f756ff535da8f8bf8c/127230/8/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@a8c1f6cb39034cbc98ebe9f756ff535da8f8bf8c/127230/8/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@a8c1f6cb39034cbc98ebe9f756ff535da8f8bf8c/127230/8/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@a8c1f6cb39034cbc98ebe9f756ff535da8f8bf8c/127230/8/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-01/127230/8/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/55cf3e546745fdab8e1ca9e1af5b2c60b3800e64/127230/8/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/55cf3e546745fdab8e1ca9e1af5b2c60b3800e64/127230/8/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/a8c1f6cb39034cbc98ebe9f756ff535da8f8bf8c/127230/8/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/a8c1f6cb39034cbc98ebe9f756ff535da8f8bf8c/127230/8/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@55cf3e546745fdab8e1ca9e1af5b2c60b3800e64/127230/8/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@a8c1f6cb39034cbc98ebe9f756ff535da8f8bf8c/127230/8/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@55cf3e546745fdab8e1ca9e1af5b2c60b3800e64/127230/8/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@55cf3e546745fdab8e1ca9e1af5b2c60b3800e64/127230/8/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@55cf3e546745fdab8e1ca9e1af5b2c60b3800e64/127230/8/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@a8c1f6cb39034cbc98ebe9f756ff535da8f8bf8c/127230/8/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@a8c1f6cb39034cbc98ebe9f756ff535da8f8bf8c/127230/8/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@a8c1f6cb39034cbc98ebe9f756ff535da8f8bf8c/127230/8/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@55cf3e546745fdab8e1ca9e1af5b2c60b3800e64/127230/8/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@a8c1f6cb39034cbc98ebe9f756ff535da8f8bf8c/127230/8/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "84d8aa8a77622a2dd0b59ed2f60e7a7c",
@@ -113223,7 +113223,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-01",
-     "commit": "fa7fac653a7be99bb889806a4d357a7cacfa89d5",
+     "commit": "39aac189540acc97cd12b9f1589cbff52760d9b7",
      "pathMaster": "127230/9/master.m3u8",
      "totalByte": 898122557,
      "subtitle": {
@@ -113243,24 +113243,24 @@
      },
      "durasiAcuanDetik": 1500,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@fa7fac653a7be99bb889806a4d357a7cacfa89d5/127230/9/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@fa7fac653a7be99bb889806a4d357a7cacfa89d5/127230/9/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@fa7fac653a7be99bb889806a4d357a7cacfa89d5/127230/9/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@fa7fac653a7be99bb889806a4d357a7cacfa89d5/127230/9/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@39aac189540acc97cd12b9f1589cbff52760d9b7/127230/9/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@39aac189540acc97cd12b9f1589cbff52760d9b7/127230/9/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@39aac189540acc97cd12b9f1589cbff52760d9b7/127230/9/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@39aac189540acc97cd12b9f1589cbff52760d9b7/127230/9/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-01/127230/9/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/fa7fac653a7be99bb889806a4d357a7cacfa89d5/127230/9/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/fa7fac653a7be99bb889806a4d357a7cacfa89d5/127230/9/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/39aac189540acc97cd12b9f1589cbff52760d9b7/127230/9/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/39aac189540acc97cd12b9f1589cbff52760d9b7/127230/9/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@fa7fac653a7be99bb889806a4d357a7cacfa89d5/127230/9/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@39aac189540acc97cd12b9f1589cbff52760d9b7/127230/9/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@fa7fac653a7be99bb889806a4d357a7cacfa89d5/127230/9/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@fa7fac653a7be99bb889806a4d357a7cacfa89d5/127230/9/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@fa7fac653a7be99bb889806a4d357a7cacfa89d5/127230/9/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@39aac189540acc97cd12b9f1589cbff52760d9b7/127230/9/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@39aac189540acc97cd12b9f1589cbff52760d9b7/127230/9/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@39aac189540acc97cd12b9f1589cbff52760d9b7/127230/9/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@fa7fac653a7be99bb889806a4d357a7cacfa89d5/127230/9/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@39aac189540acc97cd12b9f1589cbff52760d9b7/127230/9/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "a894917cbd6a3a27cc5dfcab819b46b8",
@@ -121994,7 +121994,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-01",
-     "commit": "72d96360b16faf1a12bfdd3a03016cbf8486c1d2",
+     "commit": "cdaca4ba126704480f44608c9279b37539095b6a",
      "pathMaster": "127230/10/master.m3u8",
      "totalByte": 897725247,
      "subtitle": {
@@ -122014,24 +122014,24 @@
      },
      "durasiAcuanDetik": 1500,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@72d96360b16faf1a12bfdd3a03016cbf8486c1d2/127230/10/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@72d96360b16faf1a12bfdd3a03016cbf8486c1d2/127230/10/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@72d96360b16faf1a12bfdd3a03016cbf8486c1d2/127230/10/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@72d96360b16faf1a12bfdd3a03016cbf8486c1d2/127230/10/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@cdaca4ba126704480f44608c9279b37539095b6a/127230/10/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@cdaca4ba126704480f44608c9279b37539095b6a/127230/10/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@cdaca4ba126704480f44608c9279b37539095b6a/127230/10/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@cdaca4ba126704480f44608c9279b37539095b6a/127230/10/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-01/127230/10/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/72d96360b16faf1a12bfdd3a03016cbf8486c1d2/127230/10/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/72d96360b16faf1a12bfdd3a03016cbf8486c1d2/127230/10/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/cdaca4ba126704480f44608c9279b37539095b6a/127230/10/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/cdaca4ba126704480f44608c9279b37539095b6a/127230/10/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@72d96360b16faf1a12bfdd3a03016cbf8486c1d2/127230/10/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@cdaca4ba126704480f44608c9279b37539095b6a/127230/10/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@72d96360b16faf1a12bfdd3a03016cbf8486c1d2/127230/10/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@72d96360b16faf1a12bfdd3a03016cbf8486c1d2/127230/10/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@72d96360b16faf1a12bfdd3a03016cbf8486c1d2/127230/10/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@cdaca4ba126704480f44608c9279b37539095b6a/127230/10/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@cdaca4ba126704480f44608c9279b37539095b6a/127230/10/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@cdaca4ba126704480f44608c9279b37539095b6a/127230/10/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@72d96360b16faf1a12bfdd3a03016cbf8486c1d2/127230/10/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@cdaca4ba126704480f44608c9279b37539095b6a/127230/10/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "02dd7bf2c68f6eb3db9880c993f6eb47",
@@ -131309,7 +131309,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-01",
-     "commit": "96cc0f9672fa035566a0da42f0ff15874731b607",
+     "commit": "c9c6e887e7bccb22c0e2392db41cbd1a54b9f7dd",
      "pathMaster": "127230/11/master.m3u8",
      "totalByte": 736931727,
      "subtitle": {
@@ -131329,24 +131329,24 @@
      },
      "durasiAcuanDetik": 1500,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@96cc0f9672fa035566a0da42f0ff15874731b607/127230/11/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@96cc0f9672fa035566a0da42f0ff15874731b607/127230/11/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@96cc0f9672fa035566a0da42f0ff15874731b607/127230/11/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@96cc0f9672fa035566a0da42f0ff15874731b607/127230/11/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@c9c6e887e7bccb22c0e2392db41cbd1a54b9f7dd/127230/11/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@c9c6e887e7bccb22c0e2392db41cbd1a54b9f7dd/127230/11/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@c9c6e887e7bccb22c0e2392db41cbd1a54b9f7dd/127230/11/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@c9c6e887e7bccb22c0e2392db41cbd1a54b9f7dd/127230/11/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-01/127230/11/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/96cc0f9672fa035566a0da42f0ff15874731b607/127230/11/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/96cc0f9672fa035566a0da42f0ff15874731b607/127230/11/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/c9c6e887e7bccb22c0e2392db41cbd1a54b9f7dd/127230/11/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/c9c6e887e7bccb22c0e2392db41cbd1a54b9f7dd/127230/11/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@96cc0f9672fa035566a0da42f0ff15874731b607/127230/11/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@c9c6e887e7bccb22c0e2392db41cbd1a54b9f7dd/127230/11/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@96cc0f9672fa035566a0da42f0ff15874731b607/127230/11/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@96cc0f9672fa035566a0da42f0ff15874731b607/127230/11/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@96cc0f9672fa035566a0da42f0ff15874731b607/127230/11/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@c9c6e887e7bccb22c0e2392db41cbd1a54b9f7dd/127230/11/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@c9c6e887e7bccb22c0e2392db41cbd1a54b9f7dd/127230/11/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@c9c6e887e7bccb22c0e2392db41cbd1a54b9f7dd/127230/11/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@96cc0f9672fa035566a0da42f0ff15874731b607/127230/11/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@c9c6e887e7bccb22c0e2392db41cbd1a54b9f7dd/127230/11/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "653278ff088dadbc30038ed3984f20f6",
@@ -140080,7 +140080,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-01",
-     "commit": "ede2d230f5e891c5665692648627a40a50d6495d",
+     "commit": "f484dc8d1584af5daf09ca46c72c206326bf3687",
      "pathMaster": "127230/12/master.m3u8",
      "totalByte": 796856412,
      "subtitle": {
@@ -140100,24 +140100,24 @@
      },
      "durasiAcuanDetik": 1500,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@ede2d230f5e891c5665692648627a40a50d6495d/127230/12/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@ede2d230f5e891c5665692648627a40a50d6495d/127230/12/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@ede2d230f5e891c5665692648627a40a50d6495d/127230/12/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@ede2d230f5e891c5665692648627a40a50d6495d/127230/12/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@f484dc8d1584af5daf09ca46c72c206326bf3687/127230/12/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@f484dc8d1584af5daf09ca46c72c206326bf3687/127230/12/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-01@f484dc8d1584af5daf09ca46c72c206326bf3687/127230/12/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-01@f484dc8d1584af5daf09ca46c72c206326bf3687/127230/12/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-01/127230/12/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/ede2d230f5e891c5665692648627a40a50d6495d/127230/12/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/ede2d230f5e891c5665692648627a40a50d6495d/127230/12/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-01/f484dc8d1584af5daf09ca46c72c206326bf3687/127230/12/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-01/f484dc8d1584af5daf09ca46c72c206326bf3687/127230/12/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@ede2d230f5e891c5665692648627a40a50d6495d/127230/12/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@f484dc8d1584af5daf09ca46c72c206326bf3687/127230/12/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@ede2d230f5e891c5665692648627a40a50d6495d/127230/12/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@ede2d230f5e891c5665692648627a40a50d6495d/127230/12/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@ede2d230f5e891c5665692648627a40a50d6495d/127230/12/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@f484dc8d1584af5daf09ca46c72c206326bf3687/127230/12/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@f484dc8d1584af5daf09ca46c72c206326bf3687/127230/12/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-01@f484dc8d1584af5daf09ca46c72c206326bf3687/127230/12/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@ede2d230f5e891c5665692648627a40a50d6495d/127230/12/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-01@f484dc8d1584af5daf09ca46c72c206326bf3687/127230/12/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "827ce31f9eb5a21bf0c0f05c377edebe",
@@ -149054,7 +149054,7 @@
    "slug": "bleach-thousand-year-blood-war-the-calamity",
    "judul": "BLEACH: Thousand-Year Blood War - The Calamity",
    "repo": "gd-02",
-   "commitTerakhir": "a2cf095976805afb28a192ae47d9e994f38c2b97",
+   "commitTerakhir": "a960851a62ce6b19b9995f1b6a8d679c87492ae0",
    "status": "PROSES",
    "totalByte": 1327068777,
    "episode": {
@@ -149070,7 +149070,7 @@
      "kelas": "utama",
      "status": "tersalin",
      "repo": "gd-02",
-     "commit": "a2cf095976805afb28a192ae47d9e994f38c2b97",
+     "commit": "a960851a62ce6b19b9995f1b6a8d679c87492ae0",
      "pathMaster": "185874/2/master.m3u8",
      "totalByte": 1327068777,
      "subtitle": {
@@ -149090,24 +149090,24 @@
      },
      "durasiAcuanDetik": 1440,
      "pintu": {
-      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@a2cf095976805afb28a192ae47d9e994f38c2b97/185874/2/master.m3u8",
-      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a2cf095976805afb28a192ae47d9e994f38c2b97/185874/2/master.m3u8",
-      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@a2cf095976805afb28a192ae47d9e994f38c2b97/185874/2/master.m3u8",
-      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@a2cf095976805afb28a192ae47d9e994f38c2b97/185874/2/master.m3u8",
+      "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@a960851a62ce6b19b9995f1b6a8d679c87492ae0/185874/2/master.m3u8",
+      "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a960851a62ce6b19b9995f1b6a8d679c87492ae0/185874/2/master.m3u8",
+      "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@a960851a62ce6b19b9995f1b6a8d679c87492ae0/185874/2/master.m3u8",
+      "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@a960851a62ce6b19b9995f1b6a8d679c87492ae0/185874/2/master.m3u8",
       "pages": "https://adiytharpansa.github.io/gd-02/185874/2/master.m3u8",
-      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/a2cf095976805afb28a192ae47d9e994f38c2b97/185874/2/master.m3u8",
-      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/a2cf095976805afb28a192ae47d9e994f38c2b97/185874/2/master.m3u8"
+      "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/a960851a62ce6b19b9995f1b6a8d679c87492ae0/185874/2/master.m3u8",
+      "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/a960851a62ce6b19b9995f1b6a8d679c87492ae0/185874/2/master.m3u8"
      },
      "unduhan": {
       "downloadable": true,
-      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a2cf095976805afb28a192ae47d9e994f38c2b97/185874/2/master.m3u8",
+      "master": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a960851a62ce6b19b9995f1b6a8d679c87492ae0/185874/2/master.m3u8",
       "tangga": {
-       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a2cf095976805afb28a192ae47d9e994f38c2b97/185874/2/q1080/q1080.m3u8",
-       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a2cf095976805afb28a192ae47d9e994f38c2b97/185874/2/q720/q720.m3u8",
-       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a2cf095976805afb28a192ae47d9e994f38c2b97/185874/2/q480/q480.m3u8"
+       "q1080": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a960851a62ce6b19b9995f1b6a8d679c87492ae0/185874/2/q1080/q1080.m3u8",
+       "q720": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a960851a62ce6b19b9995f1b6a8d679c87492ae0/185874/2/q720/q720.m3u8",
+       "q480": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@a960851a62ce6b19b9995f1b6a8d679c87492ae0/185874/2/q480/q480.m3u8"
       }
      },
-     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@a2cf095976805afb28a192ae47d9e994f38c2b97/185874/2/master.m3u8",
+     "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@a960851a62ce6b19b9995f1b6a8d679c87492ae0/185874/2/master.m3u8",
      "manifest": {
       "master.m3u8": {
        "md5": "0bbd82e19823a381744c20155718f57d",
