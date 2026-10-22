@@ -1,6 +1,6 @@
 {
  "versi": 1,
- "diperbarui": "2026-10-22T02:38:40.415Z",
+ "diperbarui": "2026-10-22T02:46:37.507Z",
  "repoAktif": "gd-02",
  "repo": {
   "gd-01": {
@@ -18,7 +18,8 @@
   "bleach-thousand-year-blood-war-the-calamity": 185874,
   "one-piece-fan-letter": 182469,
   "a-silent-voice": 20954,
-  "re-zero-starting-life-in-another-world-season-4": 189046
+  "re-zero-starting-life-in-another-world-season-4": 189046,
+  "86-eighty-six-part-2": 131586
  },
  "kejadian": [
   {
@@ -148880,6 +148881,86 @@
     }
    },
    "asetCommit": "2a29bba19214aaa8f99569a4fcae34e2bebbaeba"
+  },
+  "131586": {
+   "anilistId": 131586,
+   "slug": "86-eighty-six-part-2",
+   "judul": "86 EIGHTY-SIX Part 2",
+   "repo": "gd-02",
+   "commitTerakhir": null,
+   "status": "BELUM LENGKAP",
+   "totalByte": 0,
+   "episode": {},
+   "poster": {
+    "path": "131586/poster.png",
+    "repo": "gd-02",
+    "commit": "4806444899fcf643f6601cd69960c305f3fdc543",
+    "byte": 9899216,
+    "md5": "59ac5646e0bf1a089f3716cbadfae180",
+    "lebar": 2000,
+    "tinggi": 2828,
+    "sumber": "kitsu",
+    "pintu": {
+     "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@4806444899fcf643f6601cd69960c305f3fdc543/131586/poster.png",
+     "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@4806444899fcf643f6601cd69960c305f3fdc543/131586/poster.png",
+     "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@4806444899fcf643f6601cd69960c305f3fdc543/131586/poster.png",
+     "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@4806444899fcf643f6601cd69960c305f3fdc543/131586/poster.png",
+     "pages": "https://adiytharpansa.github.io/gd-02/131586/poster.png",
+     "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/4806444899fcf643f6601cd69960c305f3fdc543/131586/poster.png",
+     "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/4806444899fcf643f6601cd69960c305f3fdc543/131586/poster.png"
+    },
+    "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@4806444899fcf643f6601cd69960c305f3fdc543/131586/poster.png"
+   },
+   "poster_status": "ada",
+   "banner": {
+    "path": "131586/banner.png",
+    "repo": "gd-02",
+    "commit": "4806444899fcf643f6601cd69960c305f3fdc543",
+    "byte": 945755,
+    "md5": "e5f5362fc2ad38055ec4a3fe8d765a93",
+    "lebar": 1579,
+    "tinggi": 505,
+    "sumber": "kitsu",
+    "pintu": {
+     "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@4806444899fcf643f6601cd69960c305f3fdc543/131586/banner.png",
+     "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@4806444899fcf643f6601cd69960c305f3fdc543/131586/banner.png",
+     "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@4806444899fcf643f6601cd69960c305f3fdc543/131586/banner.png",
+     "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@4806444899fcf643f6601cd69960c305f3fdc543/131586/banner.png",
+     "pages": "https://adiytharpansa.github.io/gd-02/131586/banner.png",
+     "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/4806444899fcf643f6601cd69960c305f3fdc543/131586/banner.png",
+     "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/4806444899fcf643f6601cd69960c305f3fdc543/131586/banner.png"
+    },
+    "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@4806444899fcf643f6601cd69960c305f3fdc543/131586/banner.png"
+   },
+   "meta": {
+    "path": "131586/meta.json",
+    "repo": "gd-02",
+    "commit": "4806444899fcf643f6601cd69960c305f3fdc543",
+    "byte": 1428,
+    "md5": "1bf14f66d254b4a95f9947add5ade69e",
+    "pintu": {
+     "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@4806444899fcf643f6601cd69960c305f3fdc543/131586/meta.json",
+     "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@4806444899fcf643f6601cd69960c305f3fdc543/131586/meta.json",
+     "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@4806444899fcf643f6601cd69960c305f3fdc543/131586/meta.json",
+     "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@4806444899fcf643f6601cd69960c305f3fdc543/131586/meta.json",
+     "pages": "https://adiytharpansa.github.io/gd-02/131586/meta.json",
+     "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/4806444899fcf643f6601cd69960c305f3fdc543/131586/meta.json",
+     "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/4806444899fcf643f6601cd69960c305f3fdc543/131586/meta.json"
+    },
+    "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@4806444899fcf643f6601cd69960c305f3fdc543/131586/meta.json",
+    "ringkasan": {
+     "judulUtama": "86 EIGHTY-SIX Part 2",
+     "skor": 8.7,
+     "tahun": 2021,
+     "genre": [
+      "Action",
+      "Drama",
+      "Mecha",
+      "Sci-Fi"
+     ]
+    }
+   },
+   "asetCommit": "4806444899fcf643f6601cd69960c305f3fdc543"
   },
   "182469": {
    "anilistId": 182469,
