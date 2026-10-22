@@ -1,6 +1,6 @@
 {
  "versi": 1,
- "diperbarui": "2026-10-22T01:40:20.491Z",
+ "diperbarui": "2026-10-22T02:12:23.133Z",
  "repoAktif": "gd-02",
  "repo": {
   "gd-01": {
@@ -148880,8 +148880,8 @@
      "nomor": 1,
      "kelas": "utama",
      "status": "gagal",
-     "alasan": "HTTP 403 untuk https://my-anime-app.adiyth-arpansa.workers.dev/api/proxy?u=https%3A%2F%2Ffetch.nexabloom.",
-     "pada": "2026-10-21T18:28:14.423Z"
+     "alasan": "id gagal diproduksi: spawn /home/hatch/workspace/.tools/venv-fw/bin/python ENOENT",
+     "pada": "2026-10-22T02:12:23.087Z"
     }
    },
    "poster": {
