@@ -1,6 +1,6 @@
 {
  "versi": 1,
- "diperbarui": "2026-10-22T02:34:59.301Z",
+ "diperbarui": "2026-10-22T02:38:40.415Z",
  "repoAktif": "gd-02",
  "repo": {
   "gd-01": {
@@ -17,7 +17,8 @@
   "attack-on-titan-season-3-part-2": 104578,
   "bleach-thousand-year-blood-war-the-calamity": 185874,
   "one-piece-fan-letter": 182469,
-  "a-silent-voice": 20954
+  "a-silent-voice": 20954,
+  "re-zero-starting-life-in-another-world-season-4": 189046
  },
  "kejadian": [
   {
@@ -4506,9 +4507,9 @@
        "total": 34
       },
       "penuh": {
-       "berhasil": 759,
+       "berhasil": 678,
        "total": 1077,
-       "pada": "2026-10-21T18:34:32.691Z"
+       "pada": "2026-10-22T02:36:09.065Z"
       }
      },
      "warm_state": "inti",
@@ -13326,6 +13327,11 @@
       "inti": {
        "berhasil": 34,
        "total": 34
+      },
+      "penuh": {
+       "berhasil": 603,
+       "total": 1081,
+       "pada": "2026-10-22T02:35:59.230Z"
       }
      },
      "warm_state": "inti",
@@ -26575,9 +26581,9 @@
        "total": 34
       },
       "penuh": {
-       "berhasil": 771,
+       "berhasil": 662,
        "total": 1082,
-       "pada": "2026-10-21T18:34:40.729Z"
+       "pada": "2026-10-22T02:36:18.853Z"
       }
      },
      "warm_state": "inti",
@@ -30957,9 +30963,9 @@
        "total": 34
       },
       "penuh": {
-       "berhasil": 765,
+       "berhasil": 665,
        "total": 1074,
-       "pada": "2026-10-21T18:33:53.146Z"
+       "pada": "2026-10-22T02:35:18.021Z"
       }
      },
      "warm_state": "inti",
@@ -39613,9 +39619,9 @@
        "total": 34
       },
       "penuh": {
-       "berhasil": 746,
+       "berhasil": 634,
        "total": 1054,
-       "pada": "2026-10-21T18:33:34.445Z"
+       "pada": "2026-10-22T02:35:21.856Z"
       }
      },
      "warm_state": "inti",
@@ -48368,9 +48374,9 @@
        "total": 34
       },
       "penuh": {
-       "berhasil": 768,
+       "berhasil": 663,
        "total": 1079,
-       "pada": "2026-10-21T18:34:19.091Z"
+       "pada": "2026-10-22T02:35:31.785Z"
       }
      },
      "warm_state": "inti",
@@ -153699,6 +153705,174 @@
     }
    },
    "asetCommit": "11a7ad3ecc5505127f3043b215c65ad6221f6a93"
+  },
+  "189046": {
+   "anilistId": 189046,
+   "slug": "re-zero-starting-life-in-another-world-season-4",
+   "judul": "Re:ZERO -Starting Life in Another World- Season 4",
+   "repo": "gd-02",
+   "commitTerakhir": null,
+   "status": "BELUM LENGKAP",
+   "totalByte": 0,
+   "episode": {
+    "1": {
+     "nomor": 1,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "id gagal diproduksi: spawn /home/hatch/workspace/.tools/venv-fw/bin/python ENOENT",
+     "pada": "2026-10-22T02:38:15.186Z"
+    },
+    "2": {
+     "nomor": 2,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "id gagal diproduksi: spawn /home/hatch/workspace/.tools/venv-fw/bin/python ENOENT",
+     "pada": "2026-10-22T02:38:18.583Z"
+    },
+    "3": {
+     "nomor": 3,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "id gagal diproduksi: spawn /home/hatch/workspace/.tools/venv-fw/bin/python ENOENT",
+     "pada": "2026-10-22T02:38:20.528Z"
+    },
+    "4": {
+     "nomor": 4,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "id gagal diproduksi: spawn /home/hatch/workspace/.tools/venv-fw/bin/python ENOENT",
+     "pada": "2026-10-22T02:38:22.404Z"
+    },
+    "5": {
+     "nomor": 5,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "id gagal diproduksi: spawn /home/hatch/workspace/.tools/venv-fw/bin/python ENOENT",
+     "pada": "2026-10-22T02:38:23.752Z"
+    },
+    "6": {
+     "nomor": 6,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "id gagal diproduksi: spawn /home/hatch/workspace/.tools/venv-fw/bin/python ENOENT",
+     "pada": "2026-10-22T02:38:26.610Z"
+    },
+    "7": {
+     "nomor": 7,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "id gagal diproduksi: spawn /home/hatch/workspace/.tools/venv-fw/bin/python ENOENT",
+     "pada": "2026-10-22T02:38:28.030Z"
+    },
+    "8": {
+     "nomor": 8,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "id gagal diproduksi: spawn /home/hatch/workspace/.tools/venv-fw/bin/python ENOENT",
+     "pada": "2026-10-22T02:38:29.161Z"
+    },
+    "9": {
+     "nomor": 9,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "id gagal diproduksi: spawn /home/hatch/workspace/.tools/venv-fw/bin/python ENOENT",
+     "pada": "2026-10-22T02:38:31.147Z"
+    },
+    "10": {
+     "nomor": 10,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "id gagal diproduksi: spawn /home/hatch/workspace/.tools/venv-fw/bin/python ENOENT",
+     "pada": "2026-10-22T02:38:32.836Z"
+    },
+    "11": {
+     "nomor": 11,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "id gagal diproduksi: spawn /home/hatch/workspace/.tools/venv-fw/bin/python ENOENT",
+     "pada": "2026-10-22T02:38:38.407Z"
+    },
+    "12": {
+     "nomor": 12,
+     "kelas": "utama",
+     "status": "gagal",
+     "alasan": "id gagal diproduksi: spawn /home/hatch/workspace/.tools/venv-fw/bin/python ENOENT",
+     "pada": "2026-10-22T02:38:40.365Z"
+    }
+   },
+   "poster": {
+    "path": "189046/poster.jpg",
+    "repo": "gd-02",
+    "commit": "85fb4908ca95c178bb5ca76313b23065be05e3dd",
+    "byte": 87188,
+    "md5": "d5233583bd0dc12a3089d74e815f43bf",
+    "lebar": 460,
+    "tinggi": 610,
+    "sumber": "kitsu",
+    "pintu": {
+     "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/poster.jpg",
+     "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/poster.jpg",
+     "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/poster.jpg",
+     "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/poster.jpg",
+     "pages": "https://adiytharpansa.github.io/gd-02/189046/poster.jpg",
+     "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/poster.jpg",
+     "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/poster.jpg"
+    },
+    "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/poster.jpg"
+   },
+   "poster_status": "ada",
+   "banner": {
+    "path": "189046/banner.jpg",
+    "repo": "gd-02",
+    "commit": "85fb4908ca95c178bb5ca76313b23065be05e3dd",
+    "byte": 152064,
+    "md5": "0e4280d9b51c85bdf690e4046d8b0d66",
+    "lebar": 1420,
+    "tinggi": 388,
+    "sumber": "kitsu",
+    "pintu": {
+     "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/banner.jpg",
+     "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/banner.jpg",
+     "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/banner.jpg",
+     "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/banner.jpg",
+     "pages": "https://adiytharpansa.github.io/gd-02/189046/banner.jpg",
+     "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/banner.jpg",
+     "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/banner.jpg"
+    },
+    "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/banner.jpg"
+   },
+   "meta": {
+    "path": "189046/meta.json",
+    "repo": "gd-02",
+    "commit": "85fb4908ca95c178bb5ca76313b23065be05e3dd",
+    "byte": 1314,
+    "md5": "8982d186df713f051eafe6045b982e56",
+    "pintu": {
+     "cdn": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/meta.json",
+     "jsdelivr": "https://cdn.jsdelivr.net/gh/adiytharpansa/gd-02@85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/meta.json",
+     "fastly": "https://fastly.jsdelivr.net/gh/adiytharpansa/gd-02@85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/meta.json",
+     "gcore": "https://gcore.jsdelivr.net/gh/adiytharpansa/gd-02@85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/meta.json",
+     "pages": "https://adiytharpansa.github.io/gd-02/189046/meta.json",
+     "githack": "https://rawcdn.githack.com/adiytharpansa/gd-02/85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/meta.json",
+     "raw": "https://raw.githubusercontent.com/adiytharpansa/gd-02/85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/meta.json"
+    },
+    "cdnDoor": "https://onimeku-cdn.adiyth-arpansa.workers.dev/gd-02@85fb4908ca95c178bb5ca76313b23065be05e3dd/189046/meta.json",
+    "ringkasan": {
+     "judulUtama": "Re:ZERO -Starting Life in Another World- Season 4",
+     "skor": 8.8,
+     "tahun": 2026,
+     "genre": [
+      "Action",
+      "Adventure",
+      "Drama",
+      "Fantasy",
+      "Psychological",
+      "Romance",
+      "Thriller"
+     ]
+    }
+   },
+   "asetCommit": "85fb4908ca95c178bb5ca76313b23065be05e3dd"
   }
  },
  "kesehatanKredensial": {
