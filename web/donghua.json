@@ -1,5 +1,5 @@
 {
- "classified": 963,
+ "classified": 972,
  "countries": {
   "0-saiji-start-dash-monogatari": "JP",
   "0-years-old-child-starting-dash-story-season-2": "JP",
@@ -303,9 +303,11 @@
   "fate-strange-fake-whispers-of-dawn": "JP",
   "fermat-no-ryouri": "JP",
   "fire-force": "JP",
+  "fire-force-dub": "JP",
   "fire-force-season-2": "JP",
   "fire-force-season-3-dub": "JP",
   "fire-force-season-3-part-2": "JP",
+  "fire-force-season-3-part-2-dub": "JP",
   "firefly-wedding": "JP",
   "flaming-dodgeball-girl-danko": "JP",
   "flower-and-asura": "JP",
@@ -315,6 +317,7 @@
   "forget-that-night-your-majesty": "JP",
   "from-far-away": "JP",
   "from-old-country-bumpkin-to-master-swordsman": "JP",
+  "from-old-country-bumpkin-to-master-swordsman-dub": "JP",
   "from-old-country-bumpkin-to-master-swordsman-ii": "JP",
   "from-old-country-bumpkin-to-master-swordsman-season-2": "JP",
   "from-overshadowed-to-overpowered-second-reincarnation-of-a-talentless-sage": "JP",
@@ -358,6 +361,7 @@
   "grave-of-the-fireflies": "JP",
   "gridman-universe": "JP",
   "grow-up-show": "JP",
+  "grow-up-show-sunflower-circus": "JP",
   "guan": "CN",
   "guilty-gear-strive-dual-rulers": "JP",
   "gundam-vs-hello-kitty": "JP",
@@ -503,6 +507,7 @@
   "let-this-grieving-soul-retire-cour-2": "JP",
   "lets-go-karaoke": "JP",
   "leviathan": "JP",
+  "leviathan-dub": "JP",
   "liar-game": "JP",
   "ling-cage-season-2": "CN",
   "lingwu-continent": "CN",
@@ -527,6 +532,7 @@
   "magic-maker-how-to-make-magic-in-another-world": "JP",
   "magic-repo-man-dumped-by-my-party-i-ll-cash-in-with-a-cute-support-fairy-to-become-the-strongest": "JP",
   "magical-explorer": "JP",
+  "magical-explorer-dub": "JP",
   "magical-girl-lyrical-nanoha-exceeds-gun-blaze-vengeance": "JP",
   "magical-girl-raising-project": "JP",
   "magical-girl-raising-project-restart": "JP",
@@ -555,6 +561,7 @@
   "medalist-season-2-dub": "JP",
   "mf-ghost-season-2": "JP",
   "mf-ghost-season-3": "JP",
+  "mf-ghost-season-3-dub": "JP",
   "migawari-reijou-wo-sukutta-no-wa-reikoku-mujihi-na-koori-no-ouji-no-ai-deshita": "JP",
   "mission-yozakura-family": "JP",
   "mission-yozakura-family-season-2": "JP",
@@ -596,6 +603,7 @@
   "my-hero-academia-vigilantes-season-2": "JP",
   "my-hero-academia-vigilantes-season-2-dub": "JP",
   "my-home-hero": "JP",
+  "my-home-hero-dub": "JP",
   "my-melody-and-kuromi": "JP",
   "my-next-life-as-a-villainess-all-routes-lead-to-doom": "JP",
   "my-next-life-as-a-villainess-all-routes-lead-to-doom-movie": "JP",
@@ -781,6 +789,7 @@
   "star-blazers-space-battleship-yamato-3199": "JP",
   "star-detective-precure": "JP",
   "steel-ball-run-jojo-s-bizarre-adventure": "JP",
+  "steel-ball-run-jojo-s-bizarre-adventure-2nd-3rd-stage": "JP",
   "steel-ball-run-jojo-s-bizarre-adventure-2nd-stage-dub": "JP",
   "steel-ball-run-jojos-bizarre-adventure": "JP",
   "style-of-hiroshi-nohara-lunch": "JP",
@@ -1030,6 +1039,6 @@
   "world-of-immortals",
   "yao-chinese-folktales-2"
  ],
- "generatedAt": "2026-10-22T05:22:35.401452+00:00",
- "totalCatalog": 1164
+ "generatedAt": "2026-10-23T05:21:37.397007+00:00",
+ "totalCatalog": 1192
 }
