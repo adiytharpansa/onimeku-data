@@ -1,5 +1,5 @@
 {
- "classified": 972,
+ "classified": 976,
  "countries": {
   "0-saiji-start-dash-monogatari": "JP",
   "0-years-old-child-starting-dash-story-season-2": "JP",
@@ -543,6 +543,7 @@
   "mahou-shoujo-ikusei-keikaku-restart": "JP",
   "mairimashita-iruma-kun-movie": "JP",
   "makeine-too-many-losing-heroines": "JP",
+  "makina-sans-a-love-bot-dub": "JP",
   "mao": "JP",
   "marikas-love-meter-malfunction": "JP",
   "marriagetoxin": "JP",
@@ -640,6 +641,7 @@
   "oedo-fire-slayer-the-legend-of-phoenix": "JP",
   "oh-boy-was-i-wrong-about-her": "JP",
   "okitsura-fell-in-love-with-an-okinawan-girl-but-i-just-wish-i-know-what-shes-saying": "JP",
+  "on-the-edge-season-3": "JP",
   "one-piece": "JP",
   "one-piece-fan-letter": "JP",
   "one-piece-film-strong-world": "JP",
@@ -740,6 +742,7 @@
   "scooped-up-by-an-s-rank-adventurer": "JP",
   "secrets-of-the-silent-witch": "JP",
   "see-you-tomorrow-at-the-food-court": "JP",
+  "seirei-gensouki-spirit-chronicles-season-2-dub": "JP",
   "seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai": "JP",
   "sengoku-basara-end-of-judgement": "JP",
   "sengoku-basara-ni-ryuko-itadaki-no-chikai-atsuki-mirai-e-kakeru-tamashii": "JP",
@@ -918,6 +921,7 @@
   "tonikawa-over-the-moon-for-you-sns": "JP",
   "tonikawa-over-the-moon-for-you-uniform": "JP",
   "tougen-anki": "JP",
+  "tougen-anki-dub": "JP",
   "tougen-anki-nikko-kegon-falls-arc": "JP",
   "tower-of-god": "JP",
   "trigun": "JP",
@@ -1039,6 +1043,6 @@
   "world-of-immortals",
   "yao-chinese-folktales-2"
  ],
- "generatedAt": "2026-10-23T05:21:37.397007+00:00",
+ "generatedAt": "2026-10-24T05:03:41.847250+00:00",
  "totalCatalog": 1192
 }
